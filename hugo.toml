@@ -1,0 +1,60 @@
+baseURL = 'https://formingworlds.space/'
+languageCode = 'en'
+title = 'Forming Worlds'
+theme = ''
+
+# For GitHub Pages preview before custom domain
+# baseURL = 'https://formingworlds.github.io/formingworlds-website/'
+
+[params]
+  description = 'Forming Worlds Lab — Understanding the formation and early evolution of rocky planets'
+  institution = 'Kapteyn Astronomical Institute, University of Groningen'
+  email = 'tim.lichtenberg@rug.nl'
+  github = 'https://github.com/FormingWorlds'
+  bluesky = 'https://bsky.app/profile/timlichtenberg.bsky.social'
+  scixplorer = 'https://scixplorer.org'
+  proteus = 'https://proteus-framework.org'
+
+[params.formspree]
+  # Replace with actual Formspree form ID after setup
+  formId = 'xExample'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menus]
+  [[menus.main]]
+    name = 'Research'
+    url = '/research/'
+    weight = 10
+  [[menus.main]]
+    name = 'Team'
+    url = '/team/'
+    weight = 20
+  [[menus.main]]
+    name = 'Publications'
+    url = '/publications/'
+    weight = 30
+  [[menus.main]]
+    name = 'Join'
+    url = '/join/'
+    weight = 40
+  [[menus.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 50
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[build]
+  [build.buildStats]
+    enable = true

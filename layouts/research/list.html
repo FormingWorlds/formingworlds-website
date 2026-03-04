@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site">
+    <div class="text-center mb-14">
+      <h1 class="section-heading">Research</h1>
+      <p class="section-subheading mx-auto">{{ .Params.description }}</p>
+    </div>
+
+    <div class="prose-content max-w-3xl mx-auto">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

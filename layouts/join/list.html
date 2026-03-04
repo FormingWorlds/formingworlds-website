@@ -1,0 +1,64 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site">
+    <div class="max-w-4xl mx-auto">
+      <div class="text-center mb-14">
+        <h1 class="section-heading">Join Our Team</h1>
+        <p class="section-subheading mx-auto">{{ .Params.description }}</p>
+      </div>
+
+      {{ with .Content }}
+      <div class="prose-content mb-12">
+        {{ . }}
+      </div>
+      {{ end }}
+
+      <!-- Open positions -->
+      {{ $pages := .Pages }}
+      {{ $open := where $pages "Params.status" "open" }}
+      {{ $archived := where $pages "Params.status" "!=" "open" }}
+
+      {{ with $open }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-bold text-navy-900 mb-6">Open Positions</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <a href="{{ .RelPermalink }}" class="block card-padded hover:bg-slate-50 transition-colors border-l-4 border-accent-500">
+            <div class="flex justify-between items-start">
+              <div>
+                <h3 class="text-lg font-bold text-navy-900">{{ .Title }}</h3>
+                {{ with .Params.description }}
+                <p class="text-slate-600 mt-1 text-sm">{{ . }}</p>
+                {{ end }}
+              </div>
+              {{ with .Params.deadline }}
+              <span class="text-xs bg-accent-500 text-white px-2 py-1 rounded-full font-medium whitespace-nowrap ml-4">
+                Deadline: {{ . }}
+              </span>
+              {{ end }}
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{ with $archived }}
+      <div>
+        <h2 class="text-2xl font-bold text-navy-900 mb-6">Previous &amp; Archived Positions</h2>
+        <div class="space-y-4">
+          {{ range . }}
+          <a href="{{ .RelPermalink }}" class="block card-padded hover:bg-slate-50 transition-colors opacity-70">
+            <h3 class="text-lg font-bold text-navy-900">{{ .Title }}</h3>
+            {{ with .Params.description }}
+            <p class="text-slate-600 mt-1 text-sm">{{ . }}</p>
+            {{ end }}
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero min-h-[70vh] flex items-center"
+         style="background-image: url('{{ "img/illustrations/hero-bg.jpg" | relURL }}'); background-size: cover; background-position: center;">
+  <div class="hero-overlay"></div>
+  <div class="container-site relative z-10 py-20">
+    <h1 class="text-4xl md:text-6xl font-extrabold mb-6 max-w-3xl leading-tight">
+      Understanding the formation of rocky worlds
+    </h1>
+    <p class="text-xl md:text-2xl text-slate-200 max-w-2xl mb-8 leading-relaxed">
+      From magma oceans to habitable planets — we model the earliest stages
+      of planetary evolution using cutting-edge numerical simulations.
+    </p>
+    <div class="flex flex-wrap gap-4">
+      <a href="{{ "research/" | relURL }}" class="btn-primary">Our Research</a>
+      <a href="{{ "join/" | relURL }}" class="btn-outline">Join the Team</a>
+    </div>
+  </div>
+</section>
+
+<!-- Feature Cards -->
+<section class="py-20 bg-white">
+  <div class="container-site">
+    <div class="text-center mb-14">
+      <h2 class="section-heading">What We Do</h2>
+      <p class="section-subheading mx-auto">
+        We combine numerical modelling, theory, and data analysis to understand
+        how rocky planets form and evolve during their earliest stages.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {{ range .Site.Data.features }}
+      <div class="card-padded text-center">
+        <div class="text-4xl mb-4">{{ .icon }}</div>
+        <h3 class="text-xl font-bold text-navy-900 mb-3">{{ .title }}</h3>
+        <p class="text-slate-600 text-sm leading-relaxed">{{ .description }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- About Section -->
+<section class="py-20 bg-slate-50">
+  <div class="container-site">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <h2 class="section-heading">The Forming Worlds Lab</h2>
+        <p class="text-slate-600 leading-relaxed mb-4">
+          Led by Tim Lichtenberg at the Kapteyn Astronomical Institute, University of Groningen,
+          we study the coupled interior–atmosphere evolution of rocky planets during and after
+          their formation.
+        </p>
+        <p class="text-slate-600 leading-relaxed mb-6">
+          Our work bridges planetary science, geophysics, and astrophysics, using
+          open-source numerical frameworks like
+          <a href="{{ .Site.Params.proteus }}" class="text-sky-600 hover:text-sky-500">PROTEUS</a>
+          to simulate magma ocean solidification, volatile outgassing, and atmospheric escape.
+        </p>
+        <a href="{{ "team/" | relURL }}" class="btn-primary">Meet the Team</a>
+      </div>
+      <div>
+        <img src="{{ "img/illustrations/group-photo.jpg" | relURL }}" alt="Forming Worlds group"
+             class="rounded-xl shadow-lg">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROTEUS Framework -->
+<section class="py-20 bg-navy-900 text-white">
+  <div class="container-site text-center">
+    <h2 class="text-3xl md:text-4xl font-bold mb-4">PROTEUS Framework</h2>
+    <p class="text-slate-300 text-lg max-w-2xl mx-auto mb-8">
+      Our open-source modelling framework for simulating the coupled evolution
+      of planetary interiors and atmospheres.
+    </p>
+    <a href="{{ .Site.Params.proteus }}" target="_blank" rel="noopener" class="btn-primary">
+      Learn More
+    </a>
+  </div>
+</section>
+
+{{ end }}

@@ -1,0 +1,66 @@
+<footer class="footer">
+  <div class="container-site">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+
+      <!-- About -->
+      <div>
+        <h3 class="text-white font-bold text-lg mb-3">Forming Worlds</h3>
+        <p class="text-sm leading-relaxed">
+          Understanding the formation and early evolution of rocky planets,
+          from magma oceans to habitable worlds.
+        </p>
+        <p class="text-sm mt-3">
+          {{ .Site.Params.institution }}
+        </p>
+      </div>
+
+      <!-- Quick links -->
+      <div>
+        <h3 class="text-white font-bold text-lg mb-3">Links</h3>
+        <ul class="space-y-2 text-sm">
+          {{ range .Site.Menus.main }}
+          <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+          {{ end }}
+          <li><a href="{{ "code-of-conduct/" | relURL }}">Code of Conduct</a></li>
+          <li><a href="{{ "kapteyn-groningen/" | relURL }}">Kapteyn &amp; Groningen</a></li>
+        </ul>
+      </div>
+
+      <!-- Connect -->
+      <div>
+        <h3 class="text-white font-bold text-lg mb-3">Connect</h3>
+        <ul class="space-y-2 text-sm">
+          <li>
+            <a href="mailto:{{ .Site.Params.email }}" class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+              {{ .Site.Params.email }}
+            </a>
+          </li>
+          <li>
+            <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener" class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+              GitHub
+            </a>
+          </li>
+          <li>
+            <a href="{{ .Site.Params.bluesky }}" target="_blank" rel="noopener" class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.785 2.627 3.587 3.497 6.157 3.18-4.376.633-8.22 2.17-3.215 7.634C7.907 25.534 11.354 18.14 12 16.5c.646 1.64 3.616 8.61 8.434 4.561 5.005-5.464 1.162-7.001-3.215-7.634 2.57.317 5.372-.553 6.157-3.18.246-.828.624-5.79.624-6.479 0-.688-.139-1.86-.902-2.203-.659-.3-1.664-.62-4.3 1.24C16.046 4.747 13.087 8.686 12 10.8z"/></svg>
+              Bluesky
+            </a>
+          </li>
+          <li>
+            <a href="{{ .Site.Params.proteus }}" target="_blank" rel="noopener" class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"/></svg>
+              PROTEUS Framework
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="border-t border-navy-700 mt-10 pt-6 text-center text-xs text-slate-400">
+      &copy; {{ now.Year }} Forming Worlds Lab &middot; Kapteyn Astronomical Institute &middot; University of Groningen
+    </div>
+  </div>
+</footer>

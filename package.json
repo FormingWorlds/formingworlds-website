@@ -1,0 +1,9 @@
+{
+  "name": "formingworlds-website",
+  "private": true,
+  "description": "FormingWorlds group website built with Hugo and Tailwind CSS",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  }
+}

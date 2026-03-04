@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "🌋",
+    "title": "Magma Ocean Evolution",
+    "description": "We model the solidification of global magma oceans on rocky planets, tracking how heat, volatiles, and melting fronts interact over millions of years."
+  },
+  {
+    "icon": "🌍",
+    "title": "Atmosphere Formation",
+    "description": "We simulate the outgassing and chemical evolution of early atmospheres, from steam worlds to potentially habitable environments."
+  },
+  {
+    "icon": "💻",
+    "title": "Open-Source Tools",
+    "description": "Our PROTEUS framework and its modules (SPIDER, JANUS, CALLIOPE, MORS) are open-source, enabling reproducible planetary science."
+  }
+]

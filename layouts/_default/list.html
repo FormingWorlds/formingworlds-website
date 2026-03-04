@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site max-w-3xl">
+    <h1 class="section-heading mb-8">{{ .Title }}</h1>
+    {{ with .Content }}
+    <div class="prose-content mb-12">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    {{ $pages := .Pages }}
+    {{ if $pages }}
+    <div class="space-y-6">
+      {{ range $pages }}
+      <a href="{{ .RelPermalink }}" class="block card-padded hover:bg-slate-50 transition-colors">
+        <h2 class="text-xl font-bold text-navy-900">{{ .Title }}</h2>
+        {{ with .Params.description }}
+        <p class="text-slate-600 mt-2 text-sm">{{ . }}</p>
+        {{ end }}
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

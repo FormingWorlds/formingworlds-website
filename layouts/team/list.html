@@ -1,0 +1,82 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site">
+    <div class="text-center mb-14">
+      <h1 class="section-heading">Team</h1>
+      <p class="section-subheading mx-auto">{{ .Params.description }}</p>
+    </div>
+
+    {{ with .Content }}
+    <div class="prose-content max-w-3xl mx-auto mb-12">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    <!-- Group Lead -->
+    {{ $lead := where .Pages "Params.group" "lead" }}
+    {{ with $lead }}
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Group Lead</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-md mx-auto">
+        {{ range . }}
+        {{ partial "team-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Postdocs -->
+    {{ $postdocs := where .Pages "Params.group" "postdoc" }}
+    {{ with $postdocs }}
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Postdoctoral Researchers</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range . }}
+        {{ partial "team-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- PhD Students -->
+    {{ $phds := where .Pages "Params.group" "phd" }}
+    {{ with $phds }}
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">PhD Students</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range . }}
+        {{ partial "team-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Master/Bachelor Students -->
+    {{ $students := where .Pages "Params.group" "student" }}
+    {{ with $students }}
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Students</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range . }}
+        {{ partial "team-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- Alumni -->
+    {{ $alumni := where .Pages "Params.group" "alumni" }}
+    {{ with $alumni }}
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Alumni &amp; Collaborators</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{ range . }}
+        {{ partial "team-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

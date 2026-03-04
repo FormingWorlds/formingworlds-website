@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site max-w-3xl">
+    <h1 class="section-heading mb-4">Publications</h1>
+    <p class="section-subheading mb-10">{{ .Params.description }}</p>
+
+    <div class="prose-content">
+      {{ .Content }}
+    </div>
+  </div>
+</section>
+{{ end }}

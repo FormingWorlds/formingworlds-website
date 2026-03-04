@@ -1,0 +1,39 @@
+{{ define "main" }}
+<section class="py-16">
+  <div class="container-site max-w-3xl">
+    <h1 class="section-heading mb-4">Contact</h1>
+    <p class="section-subheading mb-10">{{ .Params.description }}</p>
+
+    {{ with .Content }}
+    <div class="prose-content mb-10">
+      {{ . }}
+    </div>
+    {{ end }}
+
+    <!-- Contact form via Formspree -->
+    <div class="card-padded">
+      <form action="https://formspree.io/f/{{ .Site.Params.formspree.formId }}" method="POST" class="space-y-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div>
+            <label for="name" class="form-label">Name</label>
+            <input type="text" id="name" name="name" required class="form-input">
+          </div>
+          <div>
+            <label for="email" class="form-label">Email</label>
+            <input type="email" id="email" name="_replyto" required class="form-input">
+          </div>
+        </div>
+        <div>
+          <label for="subject" class="form-label">Subject</label>
+          <input type="text" id="subject" name="subject" required class="form-input">
+        </div>
+        <div>
+          <label for="message" class="form-label">Message</label>
+          <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
+        </div>
+        <button type="submit" class="btn-primary">Send Message</button>
+      </form>
+    </div>
+  </div>
+</section>
+{{ end }}

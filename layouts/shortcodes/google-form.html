@@ -1,0 +1,13 @@
+<div class="my-8">
+  <iframe
+    src="{{ .Get "url" }}"
+    width="100%"
+    height="{{ .Get "height" | default "800" }}"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+    class="rounded-lg border border-slate-200"
+    loading="lazy">
+    Loading…
+  </iframe>
+</div>
