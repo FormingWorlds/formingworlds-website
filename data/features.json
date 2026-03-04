@@ -1,17 +1,17 @@
 [
   {
-    "icon": "",
-    "title": "",
-    "description": ""
+    "icon": "🪨",
+    "title": "Rocky Exoplanets",
+    "description": "What are the primary types of rocky planets? What kind of interiors and atmospheres do super-Earth planets develop?"
   },
   {
-    "icon": "",
-    "title": "",
-    "description": ""
+    "icon": "🌋",
+    "title": "Magma Oceans",
+    "description": "How do magma oceans interact with early atmospheres? What can lava exoplanets reveal about planetary evolution?"
   },
   {
-    "icon": "",
-    "title": "",
-    "description": ""
+    "icon": "🌍",
+    "title": "Origins of Life",
+    "description": "What were the conditions on the earliest Earth? How frequent are worlds amenable to prebiotic chemistry?"
   }
 ]

@@ -1,12 +1,15 @@
 ---
-title: "PreLIFE PhD Position"
-description: "PhD position within the PreLIFE project."
-status: "closed"
-weight: 80
+title: "PRELIFE PhD Position – Application"
+description: "PRELIFE PhD position application form"
+status: "open"
+weight: 7
 aliases:
   - /prelife-phd-position-2025-candidate-application-form/
-  - /prelife-phd-position-referee-letter-upload/
 ---
 
+## PRELIFE PhD Position – Candidate Application Form
 
-<!-- TODO: Replace with actual content from formingworlds.space -->
+Please see the [PRELIFE PhD Position 2025](/join/phdposition2025-hadeansurface/) page for full details about this position.
+
+<!-- TODO: Add Google Form embed URL when available -->
+<!-- {{< google-form url="FORM_URL_HERE" height="800" >}} -->

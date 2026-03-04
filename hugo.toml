@@ -7,9 +7,10 @@ theme = ''
 # baseURL = 'https://formingworlds.github.io/formingworlds-website/'
 
 [params]
-  description = ''
+  description = 'The Forming Worlds team investigates the evolution of terrestrial worlds to understand how the origins of planets and life are interconnected.'
   institution = 'Kapteyn Astronomical Institute, University of Groningen'
   email = 'tim.lichtenberg@rug.nl'
+  email2 = 'contact@formingworlds.space'
   github = 'https://github.com/FormingWorlds'
   bluesky = 'https://bsky.app/profile/timlichtenberg.bsky.social'
   scixplorer = 'https://scixplorer.org'

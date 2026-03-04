@@ -18,9 +18,10 @@
     {{ $groups := slice
       (dict "key" "lead"    "label" "Group Lead")
       (dict "key" "postdoc" "label" "Postdoctoral Researchers")
+      (dict "key" "staff"   "label" "Research Staff")
       (dict "key" "phd"     "label" "PhD Students")
       (dict "key" "student" "label" "Students")
-      (dict "key" "alumni"  "label" "Alumni & Collaborators")
+      (dict "key" "alumni"  "label" "Previous Members")
     }}
 
     {{ range $group := $groups }}

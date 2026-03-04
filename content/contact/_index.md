@@ -1,7 +1,15 @@
 ---
 title: "Contact"
-description: ""
+description: "Contact the Forming Worlds Lab"
 layout: "list"
 ---
 
-<!-- TODO: Replace with actual content from formingworlds.space/contact -->
+### Address
+
+Kapteyn Astronomical Institute, Landleven 12, 9747 AD Groningen, The Netherlands
+
+### Email
+
+[tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl)
+
+[contact@formingworlds.space](mailto:contact@formingworlds.space)
