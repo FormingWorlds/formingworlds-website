@@ -1,4 +1,4 @@
-<header class="bg-navy-900 sticky top-0 z-50 shadow-lg">
+<header class="absolute top-0 left-0 right-0 bg-transparent z-50">
   <nav class="container-site flex items-center justify-between h-16">
     <!-- Logo -->
     <a href="{{ "/" | relURL }}" class="flex items-center gap-3">
@@ -9,12 +9,43 @@
     <!-- Desktop nav -->
     <ul class="hidden md:flex items-center gap-8">
       {{ range .Site.Menus.main }}
+      {{ if eq .Name "Research" }}
+      <li class="relative group">
+        <a href="{{ .URL | relURL }}"
+           class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
+          {{ .Name }}
+        </a>
+        <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-2">
+          <li class="bg-navy-900/95 backdrop-blur-sm rounded-lg border border-navy-700 py-2 w-52">
+            <a href="{{ "/publications/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Publications</a>
+            <a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Code</a>
+          </li>
+        </ul>
+      </li>
+      {{ else if eq .Name "Join" }}
+      <li class="relative group">
+        <a href="{{ .URL | relURL }}"
+           class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
+          {{ .Name }}
+        </a>
+        <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-2">
+          <li class="bg-navy-900/95 backdrop-blur-sm rounded-lg border border-navy-700 py-2 w-52">
+            <a href="{{ "/code-of-conduct/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Code of Conduct</a>
+            <a href="{{ "/join/phd-positions/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">PhD Positions</a>
+            <a href="{{ "/join/postdoc-positions/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Postdoc Positions</a>
+            <a href="{{ "/join/student-projects/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">BSc &amp; MSc Projects</a>
+            <a href="{{ "/kapteyn-groningen/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Kapteyn &amp; Groningen</a>
+          </li>
+        </ul>
+      </li>
+      {{ else }}
       <li>
         <a href="{{ .URL | relURL }}"
            class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
           {{ .Name }}
         </a>
       </li>
+      {{ end }}
       {{ end }}
     </ul>
 
@@ -28,7 +59,7 @@
   </nav>
 
   <!-- Mobile menu -->
-  <div id="mobile-menu" class="hidden md:hidden bg-navy-800 border-t border-navy-700">
+  <div id="mobile-menu" class="hidden md:hidden bg-navy-900/95 border-t border-navy-700">
     <ul class="container-site py-4 space-y-3">
       {{ range .Site.Menus.main }}
       <li>
@@ -36,6 +67,20 @@
            class="block text-slate-200 hover:text-white py-2 text-sm font-medium tracking-wide uppercase">
           {{ .Name }}
         </a>
+        {{ if eq .Name "Research" }}
+        <ul class="pl-4 space-y-1 mt-1">
+          <li><a href="{{ "/publications/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">Publications</a></li>
+          <li><a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block text-slate-300 hover:text-white py-1.5 text-sm">Code</a></li>
+        </ul>
+        {{ else if eq .Name "Join" }}
+        <ul class="pl-4 space-y-1 mt-1">
+          <li><a href="{{ "/code-of-conduct/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">Code of Conduct</a></li>
+          <li><a href="{{ "/join/phd-positions/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">PhD Positions</a></li>
+          <li><a href="{{ "/join/postdoc-positions/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">Postdoc Positions</a></li>
+          <li><a href="{{ "/join/student-projects/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">BSc &amp; MSc Projects</a></li>
+          <li><a href="{{ "/kapteyn-groningen/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">Kapteyn &amp; Groningen</a></li>
+        </ul>
+        {{ end }}
       </li>
       {{ end }}
     </ul>

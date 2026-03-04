@@ -1,6 +1,7 @@
 ---
 title: "PhD Positions"
 description: "PhD positions in the Forming Worlds Lab"
+banner_image: "/img/illustrations/groningen-skyline.avif"
 status: "open"
 weight: 10
 aliases:

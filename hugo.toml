@@ -15,6 +15,7 @@ theme = ''
   bluesky = 'https://bsky.app/profile/timlichtenberg.bsky.social'
   scixplorer = 'https://scixplorer.org'
   proteus = 'https://proteus-framework.org'
+  discord = 'https://discord.gg/formingworlds'
 
 [params.formspree]
   # Replace with actual Formspree form ID after setup

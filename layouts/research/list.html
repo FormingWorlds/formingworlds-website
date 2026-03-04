@@ -1,23 +1,18 @@
 {{ define "main" }}
-<section class="py-16">
+<section class="pt-24 pb-16">
   <div class="container-site">
-    <div class="text-center mb-14">
-      <h1 class="section-heading">Research</h1>
-      {{ with .Params.description }}
-      <p class="section-subheading mx-auto">{{ . }}</p>
-      {{ end }}
+    <div class="mb-6">
+      <h1 class="section-heading text-4xl md:text-5xl">Research Goals</h1>
     </div>
 
-    <div class="prose-content max-w-4xl mx-auto">
+    <div class="flex items-center gap-4 mb-14">
+      <a href="/publications/" class="inline-block bg-sky-600 hover:bg-sky-500 text-white font-medium px-5 py-2.5 rounded-lg text-sm transition-colors">→ Publications</a>
+      <a href="{{ .Site.Params.github }}" target="_blank" rel="noopener" class="inline-block bg-sky-600 hover:bg-sky-500 text-white font-medium px-5 py-2.5 rounded-lg text-sm transition-colors">→ Code</a>
+    </div>
+
+    <div class="prose-content max-w-5xl">
       {{ .Content }}
     </div>
-
-    {{/* Research topic images available at /img/research/research_*.avif:
-         core, disks, early_earth, exoplanets, formation,
-         impacts, sol, star, surface, volatiles
-         Use them in the markdown above, e.g.:
-         ![Volatile outgassing](/img/research/research_volatiles.avif)
-    */}}
   </div>
 </section>
 {{ end }}

@@ -1,41 +1,41 @@
 {{ define "main" }}
-<article class="py-16">
+<article class="pt-24 pb-16">
   <div class="container-site">
     <div class="max-w-4xl mx-auto">
       <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
         <!-- Sidebar -->
         <div class="md:col-span-1">
           {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="rounded-xl shadow-md w-full">
+          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="rounded-xl w-full">
           {{ end }}
           <div class="mt-6 space-y-3">
-            <h1 class="text-2xl font-bold text-navy-900">{{ .Title }}</h1>
+            <h1 class="text-2xl font-bold text-white">{{ .Title }}</h1>
             {{ with .Params.role }}<p class="text-accent-500 font-medium">{{ . }}</p>{{ end }}
-            {{ with .Params.institution }}<p class="text-slate-500 text-sm">{{ . }}</p>{{ end }}
+            {{ with .Params.institution }}<p class="text-slate-400 text-sm">{{ . }}</p>{{ end }}
           </div>
 
           <!-- Links -->
           <div class="mt-6 space-y-2">
             {{ with .Params.email }}
-            <a href="mailto:{{ . }}" class="flex items-center gap-2 text-sm text-slate-600 hover:text-sky-600">
+            <a href="mailto:{{ . }}" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
               {{ . }}
             </a>
             {{ end }}
             {{ with .Params.website }}
-            <a href="{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-600 hover:text-sky-600">
+            <a href="{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
               Website
             </a>
             {{ end }}
             {{ with .Params.github }}
-            <a href="https://github.com/{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-600 hover:text-sky-600">
+            <a href="https://github.com/{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
               <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
               {{ . }}
             </a>
             {{ end }}
             {{ with .Params.orcid }}
-            <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-600 hover:text-sky-600">
+            <a href="https://orcid.org/{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
               <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 01-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-1.878-1.191-3.722-3.919-3.722h-2.4z"/></svg>
               ORCID
             </a>
@@ -46,10 +46,10 @@
           {{ $subpages := .Pages }}
           {{ with $subpages }}
           <div class="mt-6">
-            <h3 class="text-sm font-bold text-navy-900 uppercase tracking-wide mb-2">More</h3>
+            <h3 class="text-sm font-bold text-white uppercase tracking-wide mb-2">More</h3>
             <ul class="space-y-1">
               {{ range . }}
-              <li><a href="{{ .RelPermalink }}" class="text-sm text-sky-600 hover:text-sky-500">{{ .Title }}</a></li>
+              <li><a href="{{ .RelPermalink }}" class="text-sm text-sky-400 hover:text-sky-300">{{ .Title }}</a></li>
               {{ end }}
             </ul>
           </div>
@@ -60,8 +60,8 @@
         <div class="md:col-span-2">
           {{ with .Params.topics }}
           <div class="mb-6">
-            <h2 class="text-sm font-bold text-navy-900 uppercase tracking-wide mb-2">Research Topics</h2>
-            <p class="text-slate-600">{{ . }}</p>
+            <h2 class="text-sm font-bold text-white uppercase tracking-wide mb-2">Research Topics</h2>
+            <p class="text-slate-400">{{ . }}</p>
           </div>
           {{ end }}
 

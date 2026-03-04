@@ -39,7 +39,7 @@
 /* ─── Base styles ─── */
 
 body {
-  @apply bg-slate-50 text-slate-800 font-sans antialiased;
+  @apply bg-navy-950 text-slate-200 font-sans antialiased;
 }
 
 h1, h2, h3, h4 {
@@ -64,19 +64,19 @@ h1, h2, h3, h4 {
 }
 
 .card {
-  @apply bg-white rounded-xl shadow-md overflow-hidden
-         hover:shadow-lg transition-shadow duration-200;
+  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
+         hover:border-navy-600 transition-colors duration-200;
 }
 
 .card-padded {
-  @apply bg-white rounded-xl shadow-md overflow-hidden
-         hover:shadow-lg transition-shadow duration-200 p-6;
+  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
+         hover:border-navy-600 transition-colors duration-200 p-6;
 }
 
 /* Team member cards */
 .team-card {
-  @apply bg-white rounded-xl shadow-md overflow-hidden
-         hover:shadow-lg transition-shadow duration-200 text-center;
+  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
+         hover:border-navy-600 transition-colors duration-200;
 }
 
 .team-card img {
@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 }
 
 .team-card h3 {
-  @apply text-lg font-bold text-navy-900;
+  @apply text-lg font-bold text-white;
 }
 
 .team-card .role {
@@ -96,16 +96,16 @@ h1, h2, h3, h4 {
 }
 
 .team-card .topics {
-  @apply text-sm text-slate-500 mt-2;
+  @apply text-sm text-slate-400 mt-2;
 }
 
 /* Section styling */
 .section-heading {
-  @apply text-3xl md:text-4xl font-bold text-navy-900 mb-4;
+  @apply text-3xl md:text-4xl font-bold text-white mb-4;
 }
 
 .section-subheading {
-  @apply text-lg text-slate-600 max-w-2xl;
+  @apply text-lg text-slate-400 max-w-2xl;
 }
 
 /* Navigation active state */
@@ -119,15 +119,19 @@ h1, h2, h3, h4 {
 
 /* Prose content */
 .prose-content {
-  @apply text-slate-700 leading-relaxed;
+  @apply text-slate-300 leading-relaxed;
 }
 
 .prose-content h2 {
-  @apply text-2xl font-bold text-navy-900 mt-10 mb-4;
+  @apply text-2xl font-bold text-white mt-10 mb-4;
 }
 
 .prose-content h3 {
-  @apply text-xl font-bold text-navy-800 mt-8 mb-3;
+  @apply text-xl font-bold text-slate-100 mt-8 mb-3;
+}
+
+.prose-content h4 {
+  @apply text-lg font-bold text-slate-200 mt-6 mb-2;
 }
 
 .prose-content p {
@@ -143,15 +147,24 @@ h1, h2, h3, h4 {
 }
 
 .prose-content a {
-  @apply text-sky-600 hover:text-sky-500 underline;
+  @apply text-sky-400 hover:text-sky-300 underline;
 }
 
 .prose-content blockquote {
-  @apply border-l-4 border-accent-500 pl-4 italic text-slate-600 my-4;
+  @apply border-l-4 border-accent-500 pl-4 italic text-slate-400 my-4;
 }
 
 .prose-content img {
-  @apply rounded-lg shadow-md my-6;
+  @apply rounded-lg my-6;
+}
+
+/* Research page: make figure images larger */
+.prose-content figure {
+  @apply my-6;
+}
+
+.prose-content figure img {
+  @apply w-full rounded-lg;
 }
 
 .prose-content table {
@@ -159,11 +172,15 @@ h1, h2, h3, h4 {
 }
 
 .prose-content th {
-  @apply bg-navy-900 text-white text-left px-4 py-2 text-sm font-semibold;
+  @apply bg-navy-800 text-white text-left px-4 py-2 text-sm font-semibold;
 }
 
 .prose-content td {
-  @apply border-b border-slate-200 px-4 py-2 text-sm;
+  @apply border-b border-navy-700 px-4 py-2 text-sm text-slate-300;
+}
+
+.prose-content hr {
+  @apply border-navy-700 my-8;
 }
 
 /* Hero section */
@@ -177,20 +194,20 @@ h1, h2, h3, h4 {
 
 /* Footer */
 .footer {
-  @apply bg-navy-900 text-slate-300 py-12;
+  @apply bg-navy-900 text-slate-400 py-10 border-t border-navy-800;
 }
 
 .footer a {
-  @apply text-slate-300 hover:text-white transition-colors;
+  @apply text-slate-400 hover:text-white transition-colors;
 }
 
 /* Form styling */
 .form-input {
-  @apply w-full px-4 py-3 border border-slate-300 rounded-lg
+  @apply w-full px-4 py-3 border border-navy-700 rounded-lg
          focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-transparent
-         bg-white text-slate-800;
+         bg-navy-800 text-slate-200 placeholder-slate-500;
 }
 
 .form-label {
-  @apply block text-sm font-medium text-slate-700 mb-1;
+  @apply block text-sm font-medium text-slate-300 mb-1;
 }
