@@ -1,0 +1,28 @@
+{{/* Team card rendered from data/team.json entries */}}
+{{ $hasPage := .page | default false }}
+{{ if $hasPage }}
+<a href="{{ printf "/team/%s/" .slug | relURL }}" class="team-card block">
+{{ else }}
+<div class="team-card">
+{{ end }}
+
+  {{ with .image }}
+  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy">
+  {{ else }}
+  <div class="w-full aspect-square bg-slate-200 flex items-center justify-center">
+    <svg class="w-20 h-20 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"/>
+    </svg>
+  </div>
+  {{ end }}
+  <div class="team-card-body">
+    <h3>{{ .name }}</h3>
+    {{ with .role }}<p class="role">{{ . }}</p>{{ end }}
+    {{ with .topics }}<p class="topics">{{ . }}</p>{{ end }}
+  </div>
+
+{{ if $hasPage }}
+</a>
+{{ else }}
+</div>
+{{ end }}

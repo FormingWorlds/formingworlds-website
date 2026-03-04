@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Tim Lichtenberg",
+    "slug": "tim-lichtenberg",
+    "role": "",
+    "group": "lead",
+    "image": "/img/faces/tim-lichtenberg.avif",
+    "topics": "",
+    "page": true
+  },
+  {
+    "name": "Harrison Nicholls",
+    "slug": "harrison-nicholls",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/harrison-nicholls.avif",
+    "topics": ""
+  },
+  {
+    "name": "Laurent Soucasse",
+    "slug": "laurent-soucasse",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/laurent-soucasse.avif",
+    "topics": ""
+  },
+  {
+    "name": "Hanno Spreeuw",
+    "slug": "hanno-spreeuw",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/hanno-spreeuw.avif",
+    "topics": ""
+  },
+  {
+    "name": "Bruna Fena",
+    "slug": "bruna-fena",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/bruna-fena.avif",
+    "topics": ""
+  },
+  {
+    "name": "Mariana Villamil",
+    "slug": "mariana-villamil",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/mariana-villamil.avif",
+    "topics": ""
+  },
+  {
+    "name": "Lorenzo Cesario",
+    "slug": "lorenzo-cesario",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/lorenzo-cesario.avif",
+    "topics": ""
+  },
+  {
+    "name": "Lucas Priolet",
+    "slug": "lucas-priolet",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/lucas-priolet.avif",
+    "topics": ""
+  },
+  {
+    "name": "Emma Postolec",
+    "slug": "emma-postolec",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/emma-postolec.avif",
+    "topics": ""
+  },
+  {
+    "name": "Ema Jungová",
+    "slug": "ema-jungova",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/ema-jungova.avif",
+    "topics": ""
+  },
+  {
+    "name": "Emeline Decocq",
+    "slug": "emeline-decocq",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/emeline-decocq.avif",
+    "topics": ""
+  },
+  {
+    "name": "Imre Kisvardai",
+    "slug": "imre-kisvardai",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/imre-kisvardai.avif",
+    "topics": ""
+  },
+  {
+    "name": "Ioannis Panagiotou",
+    "slug": "ioannis-panagiotou",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/ioannis-panagiotou.avif",
+    "topics": ""
+  },
+  {
+    "name": "Marijn van Dijk",
+    "slug": "marijn-van-dijk",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/marijn-van-dijk.avif",
+    "topics": ""
+  },
+  {
+    "name": "Mara Attia",
+    "slug": "mara-attia",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/mara-attia.avif",
+    "topics": ""
+  },
+  {
+    "name": "Karen Stuitje",
+    "slug": "karen-stuitje",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/karen-stuitje.avif",
+    "topics": ""
+  },
+  {
+    "name": "Noah Borgmann",
+    "slug": "noah-borgmann",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/noah-borgmann.avif",
+    "topics": ""
+  },
+  {
+    "name": "Anvel de Sainte-Marie d'Agneaux",
+    "slug": "anvel-de-sainte-marie",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/anvel-de-sainte-marie.avif",
+    "topics": ""
+  },
+  {
+    "name": "Stef Smeets",
+    "slug": "stef-smeets",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/stef-smeets.avif",
+    "topics": ""
+  },
+  {
+    "name": "Björn Koops",
+    "slug": "bjorn-koops",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/bjorn-koops.avif",
+    "topics": ""
+  },
+  {
+    "name": "Iris Boer",
+    "slug": "iris-boer",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/iris-boer.avif",
+    "topics": ""
+  },
+  {
+    "name": "Jessica Helmerhorst",
+    "slug": "jessica-helmerhorst",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/jessica-helmerhorst.avif",
+    "topics": ""
+  },
+  {
+    "name": "Boyd van der Plaat",
+    "slug": "boyd-van-der-plaat",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/boyd-van-der-plaat.avif",
+    "topics": ""
+  },
+  {
+    "name": "Beat Hubmann",
+    "slug": "beat-hubmann",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/beat-hubmann.avif",
+    "topics": ""
+  },
+  {
+    "name": "Tadahiro Kimura",
+    "slug": "tadahiro-kimura",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/tadahiro-kimura.avif",
+    "topics": ""
+  },
+  {
+    "name": "Lotte Bartels",
+    "slug": "lotte-bartels",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/lotte-bartels.avif",
+    "topics": ""
+  },
+  {
+    "name": "Marijn Smorenburg",
+    "slug": "marijn-smorenburg",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/marijn-smorenburg.avif",
+    "topics": ""
+  },
+  {
+    "name": "Rob Spaargaren",
+    "slug": "rob-spaargaren",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/rob-spaargaren.avif",
+    "topics": ""
+  },
+  {
+    "name": "Patrick Bos",
+    "slug": "patrick-bos",
+    "role": "",
+    "group": "",
+    "image": "/img/faces/patrick-bos.avif",
+    "topics": ""
+  }
+]

@@ -12,66 +12,39 @@
     </div>
     {{ end }}
 
-    <!-- Group Lead -->
-    {{ $lead := where .Pages "Params.group" "lead" }}
-    {{ with $lead }}
-    <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Group Lead</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 max-w-md mx-auto">
-        {{ range . }}
-        {{ partial "team-card.html" . }}
-        {{ end }}
+    {{/* Render team from data/team.json, grouped by role */}}
+    {{ $team := .Site.Data.team }}
+
+    {{ $groups := slice
+      (dict "key" "lead"    "label" "Group Lead")
+      (dict "key" "postdoc" "label" "Postdoctoral Researchers")
+      (dict "key" "phd"     "label" "PhD Students")
+      (dict "key" "student" "label" "Students")
+      (dict "key" "alumni"  "label" "Alumni & Collaborators")
+    }}
+
+    {{ range $group := $groups }}
+      {{ $members := where $team "group" $group.key }}
+      {{ with $members }}
+      <div class="mb-16">
+        <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">{{ $group.label }}</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8{{ if eq (len $members) 1 }} max-w-xs mx-auto{{ end }}">
+          {{ range . }}
+          {{ partial "team-card-data.html" . }}
+          {{ end }}
+        </div>
       </div>
-    </div>
+      {{ end }}
     {{ end }}
 
-    <!-- Postdocs -->
-    {{ $postdocs := where .Pages "Params.group" "postdoc" }}
-    {{ with $postdocs }}
+    {{/* Members without a group assigned yet */}}
+    {{ $ungrouped := where $team "group" "" }}
+    {{ with $ungrouped }}
     <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Postdoctoral Researchers</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Team Members</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
         {{ range . }}
-        {{ partial "team-card.html" . }}
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-
-    <!-- PhD Students -->
-    {{ $phds := where .Pages "Params.group" "phd" }}
-    {{ with $phds }}
-    <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">PhD Students</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {{ range . }}
-        {{ partial "team-card.html" . }}
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-
-    <!-- Master/Bachelor Students -->
-    {{ $students := where .Pages "Params.group" "student" }}
-    {{ with $students }}
-    <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Students</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {{ range . }}
-        {{ partial "team-card.html" . }}
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
-
-    <!-- Alumni -->
-    {{ $alumni := where .Pages "Params.group" "alumni" }}
-    {{ with $alumni }}
-    <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Alumni &amp; Collaborators</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-        {{ range . }}
-        {{ partial "team-card.html" . }}
+        {{ partial "team-card-data.html" . }}
         {{ end }}
       </div>
     </div>

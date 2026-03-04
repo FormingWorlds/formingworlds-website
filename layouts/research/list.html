@@ -3,12 +3,21 @@
   <div class="container-site">
     <div class="text-center mb-14">
       <h1 class="section-heading">Research</h1>
-      <p class="section-subheading mx-auto">{{ .Params.description }}</p>
+      {{ with .Params.description }}
+      <p class="section-subheading mx-auto">{{ . }}</p>
+      {{ end }}
     </div>
 
-    <div class="prose-content max-w-3xl mx-auto">
+    <div class="prose-content max-w-4xl mx-auto">
       {{ .Content }}
     </div>
+
+    {{/* Research topic images available at /img/research/research_*.avif:
+         core, disks, early_earth, exoplanets, formation,
+         impacts, sol, star, surface, volatiles
+         Use them in the markdown above, e.g.:
+         ![Volatile outgassing](/img/research/research_volatiles.avif)
+    */}}
   </div>
 </section>
 {{ end }}

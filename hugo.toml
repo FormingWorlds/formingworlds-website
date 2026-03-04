@@ -7,7 +7,7 @@ theme = ''
 # baseURL = 'https://formingworlds.github.io/formingworlds-website/'
 
 [params]
-  description = 'Forming Worlds Lab — Understanding the formation and early evolution of rocky planets'
+  description = ''
   institution = 'Kapteyn Astronomical Institute, University of Groningen'
   email = 'tim.lichtenberg@rug.nl'
   github = 'https://github.com/FormingWorlds'
