@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 role: ""
 group: ""  # lead, postdoc, phd, student, alumni
 institution: "Kapteyn Astronomical Institute, University of Groningen"
-image: "/img/faces/{{ .Name }}.jpg"
+image: "/img/faces/{{ .Name }}.avif"
 topics: ""
 email: ""
 website: ""

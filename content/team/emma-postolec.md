@@ -3,7 +3,7 @@ title: "Emma Postolec"
 role: "PhD Student"
 group: "phd"
 institution: "Kapteyn Astronomical Institute, University of Groningen"
-image: "/img/faces/emma-postolec.jpg"
+image: "/img/faces/emma-postolec.avif"
 topics: "Exoplanet atmospheric evolution, magma ocean era, observability of rocky planet atmospheres"
 github: "EmmaPostolec"
 weight: 20
