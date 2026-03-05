@@ -23,20 +23,33 @@
     </div>
     {{ end }}
 
-    {{/* Group photo */}}
-    <div class="max-w-4xl mx-auto my-16 text-center">
+  </div>
+</section>
+
+{{/* Group photo — full-width dark band */}}
+<section class="bg-navy-900 py-12 my-4">
+  <div class="container-site">
+    <div class="max-w-5xl mx-auto text-center">
       <img src="/img/illustrations/group-photo.avif" alt="Forming Worlds group" class="rounded-xl w-full">
       <p class="text-slate-400 italic text-sm mt-4">Rocky Worlds 4 Conference Groningen, Jan 2026</p>
     </div>
+  </div>
+</section>
 
-    {{/* Previous members */}}
+<section class="pb-16">
+  <div class="container-site">
+
+    {{/* Previous members — simple text grid to match Wix */}}
     {{ $alumni := where $team "group" "alumni" }}
     {{ with $alumni }}
     <div class="mb-16">
       <h2 class="text-3xl font-bold text-white mb-8">Previous Members</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-x-8 gap-y-6">
         {{ range . }}
-        {{ partial "team-card-data.html" . }}
+        <div>
+          <p class="text-white font-medium text-sm">{{ .name }}</p>
+          {{ with .role }}<p class="text-slate-400 text-xs mt-0.5">{{ . }}</p>{{ end }}
+        </div>
         {{ end }}
       </div>
     </div>

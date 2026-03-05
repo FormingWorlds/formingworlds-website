@@ -4,7 +4,7 @@
 
 @theme {
   /* Color palette — dark navy base, warm accent */
-  --color-navy-950: #0a0e1a;
+  --color-navy-950: #060609;
   --color-navy-900: #0f1629;
   --color-navy-800: #1a2340;
   --color-navy-700: #243054;
@@ -75,8 +75,8 @@ h1, h2, h3, h4 {
 
 /* Team member cards */
 .team-card {
-  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
-         hover:border-navy-600 transition-colors duration-200;
+  @apply bg-transparent rounded-xl overflow-hidden
+         transition-colors duration-200;
 }
 
 .team-card img {

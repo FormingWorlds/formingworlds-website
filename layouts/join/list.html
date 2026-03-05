@@ -47,51 +47,15 @@
       </a>
     </div>
 
-    <!-- Open positions list below cards -->
-    {{ $pages := .Pages }}
-    {{ $open := where $pages "Params.status" "open" }}
-    {{ $archived := where $pages "Params.status" "!=" "open" }}
-
-    {{ with $open }}
-    <div class="max-w-4xl mx-auto mb-12">
-      <h2 class="text-2xl font-bold text-white mb-6">Open Positions</h2>
-      <div class="space-y-4">
-        {{ range . }}
-        <a href="{{ .RelPermalink }}" class="block card-padded border-l-4 border-accent-500">
-          <div class="flex justify-between items-start">
-            <div>
-              <h3 class="text-lg font-bold text-white">{{ .Title }}</h3>
-              {{ with .Params.description }}
-              <p class="text-slate-400 mt-1 text-sm">{{ . }}</p>
-              {{ end }}
-            </div>
-            {{ with .Params.deadline }}
-            <span class="text-xs bg-accent-500 text-white px-2 py-1 rounded-full font-medium whitespace-nowrap ml-4">
-              Deadline: {{ . }}
-            </span>
-            {{ end }}
-          </div>
-        </a>
-        {{ end }}
+    <!-- Groningen Impressions -->
+    <div class="mt-8 mb-8">
+      <h2 class="text-3xl font-bold text-white mb-8 text-center">Groningen Impressions</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <img src="{{ "img/illustrations/groningen-skyline.avif" | relURL }}" alt="Groningen skyline" class="w-full h-64 object-cover rounded-xl">
+        <img src="{{ "img/illustrations/kapteyn-building.avif" | relURL }}" alt="Kapteyn building" class="w-full h-64 object-cover rounded-xl">
+        <img src="{{ "img/illustrations/hero-bg.avif" | relURL }}" alt="Groningen" class="w-full h-64 object-cover rounded-xl">
       </div>
     </div>
-    {{ end }}
-
-    {{ with $archived }}
-    <div class="max-w-4xl mx-auto">
-      <h2 class="text-2xl font-bold text-white mb-6">Previous & Archived Positions</h2>
-      <div class="space-y-4">
-        {{ range . }}
-        <a href="{{ .RelPermalink }}" class="block card-padded opacity-70">
-          <h3 class="text-lg font-bold text-white">{{ .Title }}</h3>
-          {{ with .Params.description }}
-          <p class="text-slate-400 mt-1 text-sm">{{ . }}</p>
-          {{ end }}
-        </a>
-        {{ end }}
-      </div>
-    </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}
