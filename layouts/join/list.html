@@ -11,49 +11,49 @@
     </div>
     {{ end }}
 
-    <!-- Image cards -->
+    <!-- Image cards — image above, title below (matching Wix) -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-16">
       <!-- PhD Positions -->
-      <a href="{{ "join/phd-positions/" | relURL }}" class="group relative block h-72 rounded-xl overflow-hidden">
-        <div class="absolute inset-0 bg-cover bg-center transition-transform duration-300 group-hover:scale-105" style="background-image: url('{{ "img/illustrations/kapteyn-building.avif" | relURL }}')"></div>
-        <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/20 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5">
-          <h3 class="text-white text-xl font-bold">PhD Positions</h3>
+      <a href="{{ "join/phd-positions/" | relURL }}" class="group block">
+        <div class="h-56 rounded-xl overflow-hidden mb-3">
+          <img src="{{ "img/groningen/groningen_skyline.avif" | relURL }}" alt="Groningen skyline" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105">
         </div>
+        <h3 class="text-white text-lg font-bold">PhD Positions</h3>
       </a>
       <!-- Postdoc Positions -->
-      <a href="{{ "join/postdoc-positions/" | relURL }}" class="group relative block h-72 rounded-xl overflow-hidden">
-        <div class="absolute inset-0 bg-cover bg-center transition-transform duration-300 group-hover:scale-105" style="background-image: url('{{ "img/illustrations/hero-bg.avif" | relURL }}')"></div>
-        <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/20 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5">
-          <h3 class="text-white text-xl font-bold">Postdoc Positions</h3>
+      <a href="{{ "join/postdoc-positions/" | relURL }}" class="group block">
+        <div class="h-56 rounded-xl overflow-hidden mb-3">
+          <img src="{{ "img/groningen/groningen_market.avif" | relURL }}" alt="Groningen market" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105">
         </div>
+        <h3 class="text-white text-lg font-bold">Postdoc Positions</h3>
       </a>
       <!-- BSc & MSc Projects -->
-      <a href="{{ "join/student-projects/" | relURL }}" class="group relative block h-72 rounded-xl overflow-hidden">
-        <div class="absolute inset-0 bg-cover bg-center transition-transform duration-300 group-hover:scale-105" style="background-image: url('{{ "img/illustrations/groningen-skyline.avif" | relURL }}')"></div>
-        <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/20 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5">
-          <h3 class="text-white text-xl font-bold">BSc & MSc Projects</h3>
+      <a href="{{ "join/student-projects/" | relURL }}" class="group block">
+        <div class="h-56 rounded-xl overflow-hidden mb-3">
+          <img src="{{ "img/groningen/groningen_martinitowerpeak.avif" | relURL }}" alt="Martinitower" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105">
         </div>
+        <h3 class="text-white text-lg font-bold">BSc & MSc Projects</h3>
       </a>
       <!-- Kapteyn & Groningen -->
-      <a href="{{ "kapteyn-groningen/" | relURL }}" class="group relative block h-72 rounded-xl overflow-hidden">
-        <div class="absolute inset-0 bg-cover bg-center transition-transform duration-300 group-hover:scale-105" style="background-image: url('{{ "img/illustrations/group-photo.avif" | relURL }}')"></div>
-        <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/20 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5">
-          <h3 class="text-white text-xl font-bold">Kapteyn & Groningen</h3>
+      <a href="{{ "kapteyn-groningen/" | relURL }}" class="group block">
+        <div class="h-56 rounded-xl overflow-hidden mb-3">
+          <img src="{{ "img/groningen/groningen_skyline2.avif" | relURL }}" alt="Groningen panorama" class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105">
         </div>
+        <h3 class="text-white text-lg font-bold">Kapteyn & Groningen</h3>
       </a>
     </div>
 
-    <!-- Groningen Impressions -->
+    <!-- Groningen Impressions — asymmetric layout matching Wix -->
     <div class="mt-8 mb-8">
       <h2 class="text-3xl font-bold text-white mb-8 text-center">Groningen Impressions</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-        <img src="{{ "img/illustrations/groningen-skyline.avif" | relURL }}" alt="Groningen skyline" class="w-full h-64 object-cover rounded-xl">
-        <img src="{{ "img/illustrations/kapteyn-building.avif" | relURL }}" alt="Kapteyn building" class="w-full h-64 object-cover rounded-xl">
-        <img src="{{ "img/illustrations/hero-bg.avif" | relURL }}" alt="Groningen" class="w-full h-64 object-cover rounded-xl">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <!-- Large image on left -->
+        <img src="{{ "img/groningen/groningen_zentrum.avif" | relURL }}" alt="Groningen city center" class="w-full h-full min-h-[320px] object-cover rounded-xl">
+        <!-- Two stacked images on right -->
+        <div class="grid grid-rows-2 gap-4">
+          <img src="{{ "img/groningen/groningen_street.avif" | relURL }}" alt="Groningen street" class="w-full h-full object-cover rounded-xl">
+          <img src="{{ "img/groningen/groningen_stadhuis.avif" | relURL }}" alt="Groningen Stadhuis" class="w-full h-full object-cover rounded-xl">
+        </div>
       </div>
     </div>
   </div>

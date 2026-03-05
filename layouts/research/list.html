@@ -74,9 +74,13 @@
       {{ with .Params.collaborations }}
       <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 max-w-4xl mx-auto items-center">
         {{ range . }}
+        {{ $collab := . }}
         <a href="{{ .url }}" target="_blank" rel="noopener" class="flex items-center justify-center h-20 px-4 opacity-80 hover:opacity-100 transition-opacity" title="{{ .name }}">
-          <!-- Placeholder: replace with actual logos -->
-          <span class="text-slate-300 text-sm font-medium text-center">{{ .name }}</span>
+          {{ with .logo }}
+          <img src="{{ . }}" alt="{{ $collab.name }}" class="max-h-16 max-w-full object-contain">
+          {{ else }}
+          <span class="text-slate-300 text-sm font-medium text-center">{{ $collab.name }}</span>
+          {{ end }}
         </a>
         {{ end }}
       </div>
