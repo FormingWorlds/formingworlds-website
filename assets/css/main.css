@@ -29,8 +29,8 @@
   --color-slate-800: #1e293b;
 
   /* Typography */
-  --font-sans: 'Barlow', 'Helvetica Neue', Arial, sans-serif;
-  --font-heading: 'Barlow', 'Helvetica Neue', Arial, sans-serif;
+  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-heading: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   /* Spacing */
   --container-max: 1200px;
@@ -110,7 +110,7 @@ h1, h2, h3, h4 {
 
 /* Navigation active state */
 .nav-link {
-  @apply text-slate-200 hover:text-white transition-colors duration-200 text-sm font-medium tracking-wide;
+  @apply text-slate-200 hover:text-white transition-colors duration-200 text-base font-medium tracking-wide;
 }
 
 .nav-link-active {
