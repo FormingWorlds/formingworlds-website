@@ -32,5 +32,5 @@ collaborations:
   - name: "Ariel"
     url: "https://arielmission.space"
     logo: "/img/logos/ESA_Ariel.png"
-image_credits: "Image credits (from top to bottom): ESO/M. Kornmesser, Gemini Observatory/AURA/L. Cook, M. A. Garlick/space-art.co.uk/U. Warwick/U. Cambridge, SwRI/S. Marchi, Don Dixon/cosmographica.com, IPGP/A. Pitrou, Goran D, NASA/JPL-Caltech, ALMA (ESO/NAOJ/NRAO)/M. Kornmesser (ESO), ESA/Hubble/NASA/Aloisi/Ford/J. Schmidt"
+image_credits: "Image credits (from top to bottom): Gemini Observatory/AURA/L. Cook, ESO/M. Kornmesser, Don Dixon/cosmographica.com, M. A. Garlick/space-art.co.uk/U. Warwick/U. Cambridge, SwRI/S. Marchi, IPGP/A. Pitrou, Goran D, avertedimagination.com/A. Friedman, ALMA (ESO/NAOJ/NRAO)/M. Kornmesser (ESO), ESA/Hubble/NASA/Aloisi/Ford/J. Schmidt"
 ---

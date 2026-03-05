@@ -10,9 +10,97 @@
     "links": {
       "email": "tim.lichtenberg@rug.nl",
       "github": "timlichtenberg",
+      "linkedin": "tim-lichtenberg",
       "website": "https://timlichtenberg.com",
       "bluesky": "timlichtenberg.bsky.social",
       "orcid": "0000-0002-3286-7683"
+    }
+  },
+  {
+    "name": "Mariana Sastre",
+    "slug": "mariana-sastre",
+    "role": "Kapteyn PhD Student",
+    "group": "phd",
+    "image": "/img/faces/mariana-villamil.avif",
+    "topics": "Exoplanet interior evolution",
+    "links": {
+      "email": "villamilsastre@astro.rug.nl",
+      "github": "planetmariana",
+      "linkedin": "mariana-sastre"
+    }
+  },
+  {
+    "name": "Emma Postolec",
+    "slug": "emma-postolec",
+    "role": "Kapteyn PhD Student",
+    "group": "phd",
+    "image": "/img/faces/emma-postolec.avif",
+    "topics": "Exoplanet atmospheric evolution",
+    "links": {
+      "email": "postolec@astro.rug.nl",
+      "github": "EmmaPostolec"
+    }
+  },
+  {
+    "name": "Lorenzo Cesario",
+    "slug": "lorenzo-cesario",
+    "role": "Kapteyn MSc Student",
+    "group": "student",
+    "image": "/img/faces/lorenzo-cesario.avif",
+    "topics": "Lava exoplanet observations",
+    "links": {
+      "email": "l.c.cesario@student.rug.nl",
+      "github": "lorlo9999",
+      "linkedin": "lorenzo-cesario"
+    }
+  },
+  {
+    "name": "Tadahiro Kimura",
+    "slug": "tadahiro-kimura",
+    "role": "JSPS Postdoctoral Fellow",
+    "group": "postdoc",
+    "image": "/img/faces/tadahiro-kimura.avif",
+    "topics": "Sub-Neptune formation",
+    "links": {
+      "email": "tadahiro.kimura@nao.ac.jp"
+    }
+  },
+  {
+    "name": "Bruna Fena",
+    "slug": "bruna-fena",
+    "role": "Exchange MSc Student",
+    "group": "student",
+    "image": "/img/faces/bruna-fena.avif",
+    "topics": "Hadean Earth climate",
+    "links": {
+      "email": "fena@astro.rug.nl",
+      "github": "brunafena",
+      "linkedin": "bruna-fena"
+    }
+  },
+  {
+    "name": "Mara Attia",
+    "slug": "mara-attia",
+    "role": "SNSF Postdoctoral Fellow",
+    "group": "postdoc",
+    "image": "/img/faces/mara-attia.avif",
+    "topics": "Sub-Neptune evolution",
+    "links": {
+      "email": "attia@astro.rug.nl",
+      "github": "maraattia",
+      "bluesky": "marattia.bsky.social"
+    }
+  },
+  {
+    "name": "Ioannis Panagiotou",
+    "slug": "ioannis-panagiotou",
+    "role": "Kapteyn MSc Student",
+    "group": "student",
+    "image": "/img/faces/ioannis-panagiotou.avif",
+    "topics": "Super-Earth climate",
+    "links": {
+      "email": "i.panagiotou@student.rug.nl",
+      "github": "ipanagiotou02"
     }
   },
   {
@@ -22,7 +110,11 @@
     "group": "phd",
     "image": "/img/faces/imre-kisvardai.avif",
     "topics": "Exoplanet interior evolution",
-    "links": {}
+    "links": {
+      "email": "kisvardai@astro.rug.nl",
+      "github": "IKisvardai",
+      "linkedin": "imre-kisvardai"
+    }
   },
   {
     "name": "Emeline Decocq",
@@ -31,88 +123,11 @@
     "group": "phd",
     "image": "/img/faces/emeline-decocq.avif",
     "topics": "Hadean Earth outgassing",
-    "links": {}
-  },
-  {
-    "name": "Patrick Bos",
-    "slug": "patrick-bos",
-    "role": "Senior Research Software Engineer",
-    "group": "staff",
-    "image": "/img/faces/patrick-bos.avif",
-    "topics": "PROTEUS framework",
-    "links": {}
-  },
-  {
-    "name": "Bruna Fena",
-    "slug": "bruna-fena",
-    "role": "Exchange MSc Student",
-    "group": "student",
-    "image": "/img/faces/bruna-fena.avif",
-    "topics": "Hadean Earth climate",
-    "links": {}
-  },
-  {
-    "name": "Mariana Sastre",
-    "slug": "mariana-sastre",
-    "role": "Kapteyn PhD Student",
-    "group": "phd",
-    "image": "/img/faces/mariana-villamil.avif",
-    "topics": "Exoplanet interior evolution",
-    "links": {}
-  },
-  {
-    "name": "Emma Postolec",
-    "slug": "emma-postolec",
-    "role": "Kapteyn PhD Student",
-    "group": "phd",
-    "image": "/img/faces/emma-postolec.avif",
-    "topics": "Exoplanet atmospheric evolution",
-    "links": {}
-  },
-  {
-    "name": "Lorenzo Cesario",
-    "slug": "lorenzo-cesario",
-    "role": "Kapteyn MSc Student",
-    "group": "student",
-    "image": "/img/faces/lorenzo-cesario.avif",
-    "topics": "Lava exoplanet observations",
-    "links": {}
-  },
-  {
-    "name": "Tadahiro Kimura",
-    "slug": "tadahiro-kimura",
-    "role": "JSPS Postdoctoral Fellow",
-    "group": "postdoc",
-    "image": "/img/faces/tadahiro-kimura.avif",
-    "topics": "Sub-Neptune formation",
-    "links": {}
-  },
-  {
-    "name": "Ioannis Panagiotou",
-    "slug": "ioannis-panagiotou",
-    "role": "Kapteyn MSc Student",
-    "group": "student",
-    "image": "/img/faces/ioannis-panagiotou.avif",
-    "topics": "Super-Earth climate",
-    "links": {}
-  },
-  {
-    "name": "Mara Attia",
-    "slug": "mara-attia",
-    "role": "SNSF Postdoctoral Fellow",
-    "group": "postdoc",
-    "image": "/img/faces/mara-attia.avif",
-    "topics": "Sub-Neptune evolution",
-    "links": {}
-  },
-  {
-    "name": "Marijn van Dijk",
-    "slug": "marijn-van-dijk",
-    "role": "Kapteyn MSc Student",
-    "group": "student",
-    "image": "/img/faces/marijn-van-dijk.avif",
-    "topics": "Hadean Earth tides",
-    "links": {}
+    "links": {
+      "email": "decocq@astro.rug.nl",
+      "github": "Emeline0110",
+      "linkedin": "emeline-decocq"
+    }
   },
   {
     "name": "Karen Stuitje",
@@ -121,7 +136,23 @@
     "group": "student",
     "image": "/img/faces/karen-stuitje.avif",
     "topics": "PROTEUS framework",
-    "links": {}
+    "links": {
+      "email": "e.k.e.stuitje@student.rug.nl",
+      "github": "stuitje",
+      "linkedin": "karen-stuitje"
+    }
+  },
+  {
+    "name": "Marijn van Dijk",
+    "slug": "marijn-van-dijk",
+    "role": "Kapteyn MSc Student",
+    "group": "student",
+    "image": "/img/faces/marijn-van-dijk.avif",
+    "topics": "Hadean Earth tides",
+    "links": {
+      "email": "m.r.van.dijk.3@student.rug.nl",
+      "github": "MarijnJ0"
+    }
   },
   {
     "name": "Ema Jungová",
@@ -130,7 +161,23 @@
     "group": "student",
     "image": "/img/faces/ema-jungova.avif",
     "topics": "Sub-Neptune oceans",
-    "links": {}
+    "links": {
+      "email": "e.jungova@student.rug.nl",
+      "github": "ema-jungova"
+    }
+  },
+  {
+    "name": "Patrick Bos",
+    "slug": "patrick-bos",
+    "role": "Senior Research Software Engineer",
+    "group": "staff",
+    "image": "/img/faces/patrick-bos.avif",
+    "topics": "PROTEUS framework",
+    "links": {
+      "email": "pbos@astro.rug.nl",
+      "github": "egpbos",
+      "linkedin": "egpbos"
+    }
   },
   {
     "name": "Rob Spaargaren",
@@ -139,15 +186,6 @@
     "group": "alumni",
     "image": "/img/faces/rob-spaargaren.avif",
     "topics": "Exoplanet petrology",
-    "links": {}
-  },
-  {
-    "name": "Anvel de Sainte Marie d'Agneaux",
-    "slug": "anvel-de-sainte-marie",
-    "role": "Kapteyn BSc Student 2025",
-    "group": "alumni",
-    "image": "/img/faces/anvel-de-sainte-marie.avif",
-    "topics": "Exoplanet ocean formation",
     "links": {}
   },
   {
@@ -172,21 +210,12 @@
     "links": {}
   },
   {
-    "name": "Stef Smeets",
-    "slug": "stef-smeets",
+    "name": "Laurent Soucasse",
+    "slug": "laurent-soucasse",
     "role": "Research Software Engineer",
     "group": "alumni",
-    "image": "/img/faces/stef-smeets.avif",
+    "image": "/img/faces/laurent-soucasse.avif",
     "topics": "PROTEUS framework",
-    "links": {}
-  },
-  {
-    "name": "Iris Boer",
-    "slug": "iris-boer",
-    "role": "Kapteyn BSc Student 2024",
-    "group": "alumni",
-    "image": "/img/faces/iris-boer.avif",
-    "topics": "Runaway greenhouse",
     "links": {}
   },
   {
@@ -208,39 +237,30 @@
     "links": {}
   },
   {
-    "name": "Beat Hubmann",
-    "slug": "beat-hubmann",
-    "role": "Kapteyn PhD Student 2023",
+    "name": "Anvel de Sainte Marie d'Agneaux",
+    "slug": "anvel-de-sainte-marie",
+    "role": "Kapteyn BSc Student 2025",
     "group": "alumni",
-    "image": "/img/faces/beat-hubmann.avif",
-    "topics": "Planetesimal evolution",
+    "image": "/img/faces/anvel-de-sainte-marie.avif",
+    "topics": "Exoplanet ocean formation",
     "links": {}
   },
   {
-    "name": "Lucas Priolet",
-    "slug": "lucas-priolet",
-    "role": "Kapteyn BSc Student 2023",
+    "name": "Stef Smeets",
+    "slug": "stef-smeets",
+    "role": "Research Software Engineer",
     "group": "alumni",
-    "image": "/img/faces/lucas-priolet.avif",
-    "topics": "Exoplanet surfaces",
+    "image": "/img/faces/stef-smeets.avif",
+    "topics": "PROTEUS framework",
     "links": {}
   },
   {
-    "name": "Marijn Smorenburg",
-    "slug": "marijn-smorenburg",
-    "role": "Kapteyn BSc Student 2023",
+    "name": "Iris Boer",
+    "slug": "iris-boer",
+    "role": "Kapteyn BSc Student 2024",
     "group": "alumni",
-    "image": "/img/faces/marijn-smorenburg.avif",
-    "topics": "Exoplanet outgassing",
-    "links": {}
-  },
-  {
-    "name": "Boyd van der Plaat",
-    "slug": "boyd-van-der-plaat",
-    "role": "Kapteyn BSc Student 2023",
-    "group": "alumni",
-    "image": "/img/faces/boyd-van-der-plaat.avif",
-    "topics": "Steam atmospheres",
+    "image": "/img/faces/iris-boer.avif",
+    "topics": "Runaway greenhouse",
     "links": {}
   },
   {
@@ -271,21 +291,39 @@
     "links": {}
   },
   {
-    "name": "Laurent Soucasse",
-    "slug": "laurent-soucasse",
-    "role": "Research Software Engineer",
+    "name": "Beat Hubmann",
+    "slug": "beat-hubmann",
+    "role": "Kapteyn PhD Student 2023",
     "group": "alumni",
-    "image": "/img/faces/laurent-soucasse.avif",
-    "topics": "PROTEUS framework",
+    "image": "/img/faces/beat-hubmann.avif",
+    "topics": "Planetesimal evolution",
     "links": {}
   },
   {
-    "name": "Noah Borgmann",
-    "slug": "noah-borgmann",
-    "role": "",
+    "name": "Boyd van der Plaat",
+    "slug": "boyd-van-der-plaat",
+    "role": "Kapteyn BSc Student 2023",
     "group": "alumni",
-    "image": "/img/faces/noah-borgmann.avif",
-    "topics": "",
+    "image": "/img/faces/boyd-van-der-plaat.avif",
+    "topics": "Steam atmospheres",
+    "links": {}
+  },
+  {
+    "name": "Lucas Priolet",
+    "slug": "lucas-priolet",
+    "role": "Kapteyn BSc Student 2023",
+    "group": "alumni",
+    "image": "/img/faces/lucas-priolet.avif",
+    "topics": "Exoplanet surfaces",
+    "links": {}
+  },
+  {
+    "name": "Marijn Smorenburg",
+    "slug": "marijn-smorenburg",
+    "role": "Kapteyn BSc Student 2023",
+    "group": "alumni",
+    "image": "/img/faces/marijn-smorenburg.avif",
+    "topics": "Exoplanet outgassing",
     "links": {}
   }
 ]
