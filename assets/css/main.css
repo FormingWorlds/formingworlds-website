@@ -29,8 +29,8 @@
   --color-slate-800: #1e293b;
 
   /* Typography */
-  --font-sans: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  --font-heading: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --font-sans: 'Barlow', 'Helvetica Neue', Arial, sans-serif;
+  --font-heading: 'Barlow', 'Helvetica Neue', Arial, sans-serif;
 
   /* Spacing */
   --container-max: 1200px;
