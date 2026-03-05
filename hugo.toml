@@ -28,6 +28,10 @@ theme = ''
 
 [menus]
   [[menus.main]]
+    name = 'Home'
+    url = '/'
+    weight = 5
+  [[menus.main]]
     name = 'Research'
     url = '/research/'
     weight = 10
@@ -35,10 +39,6 @@ theme = ''
     name = 'Team'
     url = '/team/'
     weight = 20
-  [[menus.main]]
-    name = 'Publications'
-    url = '/publications/'
-    weight = 30
   [[menus.main]]
     name = 'Join'
     url = '/join/'
