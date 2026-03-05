@@ -1,78 +1,85 @@
 {{ define "main" }}
 
-<!-- Hero Section -->
-<section class="hero min-h-[70vh] flex items-center"
-         style="background-image: url('{{ "img/illustrations/hero-bg.avif" | relURL }}'); background-size: cover; background-position: center;">
-  <div class="hero-overlay"></div>
-  <div class="container-site relative z-10 py-20">
-    {{ with .Params.hero_headline }}
-    <h1 class="text-4xl md:text-6xl font-extrabold mb-6 max-w-3xl leading-tight">
-      {{ . }}
-    </h1>
-    {{ end }}
-    {{ with .Params.hero_text }}
-    <p class="text-xl md:text-2xl text-slate-200 max-w-2xl mb-8 leading-relaxed">
-      {{ . }}
-    </p>
-    {{ end }}
-    <div class="flex flex-wrap gap-4">
-      <a href="{{ "research/" | relURL }}" class="btn-primary">Our Research</a>
-      <a href="{{ "join/" | relURL }}" class="btn-outline">Join the Team</a>
+<!-- Full-viewport slideshow -->
+<section id="slideshow" class="relative w-full h-screen overflow-hidden">
+
+  <!-- Slides -->
+  {{ range $i, $slide := .Site.Data.slides }}
+  <div class="slide absolute inset-0 transition-opacity duration-1000 ease-in-out {{ if eq $i 0 }}opacity-100 z-10{{ else }}opacity-0 z-0{{ end }}"
+       style="background-image: url('{{ $slide.image }}'); background-size: cover; background-position: center;">
+    <!-- Dark gradient overlay -->
+    <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/30 to-transparent"></div>
+    <!-- Question text -->
+    <div class="absolute inset-0 flex items-end justify-center pb-32 px-8">
+      <p class="font-serif italic text-3xl md:text-5xl lg:text-6xl text-white text-center max-w-5xl leading-tight">
+        {{ $slide.question }}
+      </p>
     </div>
   </div>
+  {{ end }}
+
+  <!-- Left arrow -->
+  <button onclick="prevSlide()" aria-label="Previous slide"
+          class="absolute left-6 md:left-10 top-1/2 -translate-y-1/2 z-20 text-white/60 hover:text-white text-4xl md:text-5xl transition-colors cursor-pointer select-none">
+    ‹
+  </button>
+
+  <!-- Right arrow -->
+  <button onclick="nextSlide()" aria-label="Next slide"
+          class="absolute right-6 md:right-10 top-1/2 -translate-y-1/2 z-20 text-white/60 hover:text-white text-4xl md:text-5xl transition-colors cursor-pointer select-none">
+    ›
+  </button>
+
 </section>
 
-<!-- Feature Cards -->
-{{ with .Site.Data.features }}
-<section class="py-20 bg-white">
-  <div class="container-site">
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      {{ range . }}
-      <div class="card-padded text-center">
-        <div class="text-4xl mb-4">{{ .icon }}</div>
-        <h3 class="text-xl font-bold text-navy-900 mb-3">{{ .title }}</h3>
-        <p class="text-slate-600 text-sm leading-relaxed">{{ .description }}</p>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
+<script>
+(function() {
+  const slides = document.querySelectorAll('.slide');
+  const slideshow = document.getElementById('slideshow');
+  let current = 0;
+  let interval = null;
 
-<!-- About Section -->
-<section class="py-20 bg-slate-50">
-  <div class="container-site">
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-      <div>
-        {{ with .Params.about_heading }}
-        <h2 class="section-heading">{{ . }}</h2>
-        {{ end }}
-        {{ with .Params.about_text }}
-        <div class="text-slate-600 leading-relaxed mb-6">
-          {{ . | markdownify }}
-        </div>
-        {{ end }}
-        <a href="{{ "team/" | relURL }}" class="btn-primary">Meet the Team</a>
-      </div>
-      <div>
-        <img src="{{ "img/illustrations/group-photo.avif" | relURL }}" alt="Forming Worlds group"
-             class="rounded-xl shadow-lg">
-      </div>
-    </div>
-  </div>
-</section>
+  function goToSlide(n) {
+    slides[current].classList.remove('opacity-100', 'z-10');
+    slides[current].classList.add('opacity-0', 'z-0');
 
-<!-- PROTEUS Framework -->
-<section class="py-20 bg-navy-900 text-white">
-  <div class="container-site text-center">
-    <h2 class="text-3xl md:text-4xl font-bold mb-4">PROTEUS Framework</h2>
-    <p class="text-slate-300 text-lg max-w-2xl mx-auto mb-8">
-      <!-- TODO: Replace with actual PROTEUS description from the site -->
-    </p>
-    <a href="{{ .Site.Params.proteus }}" target="_blank" rel="noopener" class="btn-primary">
-      Learn More
-    </a>
-  </div>
-</section>
+    current = (n + slides.length) % slides.length;
+
+    slides[current].classList.remove('opacity-0', 'z-0');
+    slides[current].classList.add('opacity-100', 'z-10');
+  }
+
+  function nextSlide() {
+    goToSlide(current + 1);
+  }
+
+  function prevSlide() {
+    goToSlide(current - 1);
+  }
+
+  function startAutoAdvance() {
+    interval = setInterval(nextSlide, 6000);
+  }
+
+  function stopAutoAdvance() {
+    clearInterval(interval);
+  }
+
+  startAutoAdvance();
+
+  slideshow.addEventListener('mouseenter', stopAutoAdvance);
+  slideshow.addEventListener('mouseleave', startAutoAdvance);
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowLeft') prevSlide();
+    if (e.key === 'ArrowRight') nextSlide();
+  });
+
+  // Expose to global scope for inline onclick handlers
+  window.goToSlide = goToSlide;
+  window.nextSlide = nextSlide;
+  window.prevSlide = prevSlide;
+})();
+</script>
 
 {{ end }}

@@ -6,7 +6,14 @@
     "group": "lead",
     "image": "/img/faces/tim-lichtenberg.avif",
     "topics": "Rocky planets and exoplanets",
-    "page": true
+    "page": true,
+    "links": {
+      "email": "tim.lichtenberg@rug.nl",
+      "github": "timlichtenberg",
+      "website": "https://timlichtenberg.com",
+      "bluesky": "timlichtenberg.bsky.social",
+      "orcid": "0000-0002-3286-7683"
+    }
   },
   {
     "name": "Imre Kisvárdai",
@@ -14,7 +21,8 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/imre-kisvardai.avif",
-    "topics": "Exoplanet interior evolution"
+    "topics": "Exoplanet interior evolution",
+    "links": {}
   },
   {
     "name": "Emeline Decocq",
@@ -22,7 +30,8 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/emeline-decocq.avif",
-    "topics": "Hadean Earth outgassing"
+    "topics": "Hadean Earth outgassing",
+    "links": {}
   },
   {
     "name": "Patrick Bos",
@@ -30,7 +39,8 @@
     "role": "Senior Research Software Engineer",
     "group": "staff",
     "image": "/img/faces/patrick-bos.avif",
-    "topics": "PROTEUS framework"
+    "topics": "PROTEUS framework",
+    "links": {}
   },
   {
     "name": "Bruna Fena",
@@ -38,7 +48,8 @@
     "role": "Exchange MSc Student",
     "group": "student",
     "image": "/img/faces/bruna-fena.avif",
-    "topics": "Hadean Earth climate"
+    "topics": "Hadean Earth climate",
+    "links": {}
   },
   {
     "name": "Mariana Sastre",
@@ -46,7 +57,8 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/mariana-villamil.avif",
-    "topics": "Exoplanet interior evolution"
+    "topics": "Exoplanet interior evolution",
+    "links": {}
   },
   {
     "name": "Emma Postolec",
@@ -54,7 +66,8 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/emma-postolec.avif",
-    "topics": "Exoplanet atmospheric evolution"
+    "topics": "Exoplanet atmospheric evolution",
+    "links": {}
   },
   {
     "name": "Lorenzo Cesario",
@@ -62,7 +75,8 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/lorenzo-cesario.avif",
-    "topics": "Lava exoplanet observations"
+    "topics": "Lava exoplanet observations",
+    "links": {}
   },
   {
     "name": "Tadahiro Kimura",
@@ -70,7 +84,8 @@
     "role": "JSPS Postdoctoral Fellow",
     "group": "postdoc",
     "image": "/img/faces/tadahiro-kimura.avif",
-    "topics": "Sub-Neptune formation"
+    "topics": "Sub-Neptune formation",
+    "links": {}
   },
   {
     "name": "Ioannis Panagiotou",
@@ -78,7 +93,8 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/ioannis-panagiotou.avif",
-    "topics": "Super-Earth climate"
+    "topics": "Super-Earth climate",
+    "links": {}
   },
   {
     "name": "Mara Attia",
@@ -86,7 +102,8 @@
     "role": "SNSF Postdoctoral Fellow",
     "group": "postdoc",
     "image": "/img/faces/mara-attia.avif",
-    "topics": "Sub-Neptune evolution"
+    "topics": "Sub-Neptune evolution",
+    "links": {}
   },
   {
     "name": "Marijn van Dijk",
@@ -94,7 +111,8 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/marijn-van-dijk.avif",
-    "topics": "Hadean Earth tides"
+    "topics": "Hadean Earth tides",
+    "links": {}
   },
   {
     "name": "Karen Stuitje",
@@ -102,7 +120,8 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/karen-stuitje.avif",
-    "topics": "PROTEUS framework"
+    "topics": "PROTEUS framework",
+    "links": {}
   },
   {
     "name": "Ema Jungová",
@@ -110,7 +129,8 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/ema-jungova.avif",
-    "topics": "Sub-Neptune oceans"
+    "topics": "Sub-Neptune oceans",
+    "links": {}
   },
   {
     "name": "Rob Spaargaren",
@@ -118,7 +138,8 @@
     "role": "SNSF Postdoctoral Fellow",
     "group": "alumni",
     "image": "/img/faces/rob-spaargaren.avif",
-    "topics": "Exoplanet petrology"
+    "topics": "Exoplanet petrology",
+    "links": {}
   },
   {
     "name": "Anvel de Sainte Marie d'Agneaux",
@@ -126,7 +147,8 @@
     "role": "Kapteyn BSc Student 2025",
     "group": "alumni",
     "image": "/img/faces/anvel-de-sainte-marie.avif",
-    "topics": "Exoplanet ocean formation"
+    "topics": "Exoplanet ocean formation",
+    "links": {}
   },
   {
     "name": "Harrison Nicholls",
@@ -134,7 +156,11 @@
     "role": "Oxford DPhil Student",
     "group": "alumni",
     "image": "/img/faces/harrison-nicholls.avif",
-    "topics": "Exoplanet climate evolution"
+    "topics": "Exoplanet climate evolution",
+    "links": {
+      "github": "nichollsh",
+      "website": "https://nichollsh.github.io/"
+    }
   },
   {
     "name": "Hanno Spreeuw",
@@ -142,7 +168,8 @@
     "role": "Research Software Engineer",
     "group": "alumni",
     "image": "/img/faces/hanno-spreeuw.avif",
-    "topics": "PROTEUS framework"
+    "topics": "PROTEUS framework",
+    "links": {}
   },
   {
     "name": "Stef Smeets",
@@ -150,7 +177,8 @@
     "role": "Research Software Engineer",
     "group": "alumni",
     "image": "/img/faces/stef-smeets.avif",
-    "topics": "PROTEUS framework"
+    "topics": "PROTEUS framework",
+    "links": {}
   },
   {
     "name": "Iris Boer",
@@ -158,7 +186,8 @@
     "role": "Kapteyn BSc Student 2024",
     "group": "alumni",
     "image": "/img/faces/iris-boer.avif",
-    "topics": "Runaway greenhouse"
+    "topics": "Runaway greenhouse",
+    "links": {}
   },
   {
     "name": "Jorick Lania",
@@ -166,7 +195,8 @@
     "role": "Kapteyn MSc Student 2025",
     "group": "alumni",
     "image": "",
-    "topics": "Sub-Neptune geochemistry"
+    "topics": "Sub-Neptune geochemistry",
+    "links": {}
   },
   {
     "name": "Flavia Pascal",
@@ -174,7 +204,8 @@
     "role": "Kapteyn BSc Student 2025",
     "group": "alumni",
     "image": "",
-    "topics": "Super-Earth interior structure"
+    "topics": "Super-Earth interior structure",
+    "links": {}
   },
   {
     "name": "Beat Hubmann",
@@ -182,7 +213,8 @@
     "role": "Kapteyn PhD Student 2023",
     "group": "alumni",
     "image": "/img/faces/beat-hubmann.avif",
-    "topics": "Planetesimal evolution"
+    "topics": "Planetesimal evolution",
+    "links": {}
   },
   {
     "name": "Lucas Priolet",
@@ -190,7 +222,8 @@
     "role": "Kapteyn BSc Student 2023",
     "group": "alumni",
     "image": "/img/faces/lucas-priolet.avif",
-    "topics": "Exoplanet surfaces"
+    "topics": "Exoplanet surfaces",
+    "links": {}
   },
   {
     "name": "Marijn Smorenburg",
@@ -198,7 +231,8 @@
     "role": "Kapteyn BSc Student 2023",
     "group": "alumni",
     "image": "/img/faces/marijn-smorenburg.avif",
-    "topics": "Exoplanet outgassing"
+    "topics": "Exoplanet outgassing",
+    "links": {}
   },
   {
     "name": "Boyd van der Plaat",
@@ -206,7 +240,8 @@
     "role": "Kapteyn BSc Student 2023",
     "group": "alumni",
     "image": "/img/faces/boyd-van-der-plaat.avif",
-    "topics": "Steam atmospheres"
+    "topics": "Steam atmospheres",
+    "links": {}
   },
   {
     "name": "Björn Koops",
@@ -214,7 +249,8 @@
     "role": "Kapteyn BSc Student 2024",
     "group": "alumni",
     "image": "/img/faces/bjorn-koops.avif",
-    "topics": "Rock vapour atmospheres"
+    "topics": "Rock vapour atmospheres",
+    "links": {}
   },
   {
     "name": "Jessica Helmerhorst",
@@ -222,7 +258,8 @@
     "role": "Kapteyn BSc Student 2024",
     "group": "alumni",
     "image": "/img/faces/jessica-helmerhorst.avif",
-    "topics": "Super-Earth structure"
+    "topics": "Super-Earth structure",
+    "links": {}
   },
   {
     "name": "Lotte Bartels",
@@ -230,7 +267,8 @@
     "role": "Kapteyn MSc Student 2024",
     "group": "alumni",
     "image": "/img/faces/lotte-bartels.avif",
-    "topics": "Exoplanet geodynamics"
+    "topics": "Exoplanet geodynamics",
+    "links": {}
   },
   {
     "name": "Laurent Soucasse",
@@ -238,7 +276,8 @@
     "role": "Research Software Engineer",
     "group": "alumni",
     "image": "/img/faces/laurent-soucasse.avif",
-    "topics": "PROTEUS framework"
+    "topics": "PROTEUS framework",
+    "links": {}
   },
   {
     "name": "Noah Borgmann",
@@ -246,6 +285,7 @@
     "role": "",
     "group": "alumni",
     "image": "/img/faces/noah-borgmann.avif",
-    "topics": ""
+    "topics": "",
+    "links": {}
   }
 ]

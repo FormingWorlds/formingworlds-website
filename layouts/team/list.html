@@ -1,48 +1,39 @@
 {{ define "main" }}
-<section class="py-16">
+<section class="pt-24 pb-16">
   <div class="container-site">
-    <div class="text-center mb-14">
-      <h1 class="section-heading">Team</h1>
-      <p class="section-subheading mx-auto">{{ .Params.description }}</p>
-    </div>
-
-    {{ with .Content }}
-    <div class="prose-content max-w-3xl mx-auto mb-12">
-      {{ . }}
-    </div>
-    {{ end }}
-
-    {{/* Render team from data/team.json, grouped by role */}}
-    {{ $team := .Site.Data.team }}
-
-    {{ $groups := slice
-      (dict "key" "lead"    "label" "Group Lead")
-      (dict "key" "postdoc" "label" "Postdoctoral Researchers")
-      (dict "key" "staff"   "label" "Research Staff")
-      (dict "key" "phd"     "label" "PhD Students")
-      (dict "key" "student" "label" "Students")
-      (dict "key" "alumni"  "label" "Previous Members")
-    }}
-
-    {{ range $group := $groups }}
-      {{ $members := where $team "group" $group.key }}
-      {{ with $members }}
-      <div class="mb-16">
-        <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">{{ $group.label }}</h2>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8{{ if eq (len $members) 1 }} max-w-xs mx-auto{{ end }}">
-          {{ range . }}
-          {{ partial "team-card-data.html" . }}
-          {{ end }}
-        </div>
+    <div class="mb-10">
+      <h1 class="section-heading text-4xl md:text-5xl">Our Team</h1>
+      {{ with .Content }}
+      <div class="prose-content max-w-3xl mt-4">
+        {{ . }}
       </div>
       {{ end }}
+    </div>
+
+    {{/* Render team from data/team.json — current members as flat grid, then group photo, then alumni */}}
+    {{ $team := .Site.Data.team }}
+
+    {{/* Current members: everyone except alumni */}}
+    {{ $current := where $team "group" "!=" "alumni" }}
+    {{ with $current }}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 mb-16">
+      {{ range . }}
+      {{ partial "team-card-data.html" . }}
+      {{ end }}
+    </div>
     {{ end }}
 
-    {{/* Members without a group assigned yet */}}
-    {{ $ungrouped := where $team "group" "" }}
-    {{ with $ungrouped }}
+    {{/* Group photo */}}
+    <div class="max-w-4xl mx-auto my-16 text-center">
+      <img src="/img/illustrations/group-photo.avif" alt="Forming Worlds group" class="rounded-xl w-full">
+      <p class="text-slate-400 italic text-sm mt-4">Rocky Worlds 4 Conference Groningen, Jan 2026</p>
+    </div>
+
+    {{/* Previous members */}}
+    {{ $alumni := where $team "group" "alumni" }}
+    {{ with $alumni }}
     <div class="mb-16">
-      <h2 class="text-2xl font-bold text-navy-900 mb-6 text-center">Team Members</h2>
+      <h2 class="text-3xl font-bold text-white mb-8">Previous Members</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
         {{ range . }}
         {{ partial "team-card-data.html" . }}

@@ -1,11 +1,72 @@
 {{ define "main" }}
-<section class="py-16">
-  <div class="container-site max-w-3xl">
+<section class="pt-24 pb-16">
+  <div class="container-site">
     <h1 class="section-heading mb-4">Publications</h1>
     <p class="section-subheading mb-10">{{ .Params.description }}</p>
 
-    <div class="prose-content">
-      {{ .Content }}
+    <!-- Mobile nav bar -->
+    <div class="md:hidden flex overflow-x-auto gap-2 pb-4 mb-6">
+      <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-3286-7683" target="_blank" rel="noopener"
+         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">ADS</a>
+      <a href="{{ .Site.Params.scixplorer }}" target="_blank" rel="noopener"
+         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">SoX</a>
+      <a href="https://arxiv.org/search/?searchtype=author&query=Lichtenberg" target="_blank" rel="noopener"
+         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">arXiv</a>
+      <a href="https://scholar.google.com/citations?user=OShOBcwAAAAJ" target="_blank" rel="noopener"
+         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Google Scholar</a>
+      <a href="#research-articles"
+         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Research</a>
+      <a href="#reviews"
+         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Reviews</a>
+      <a href="#perspectives--white-papers"
+         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Perspectives</a>
+      <a href="#numerical-methods--instrumentation"
+         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Instrumentation</a>
+      <a href="#theses"
+         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Theses</a>
+    </div>
+
+    <!-- Two-column layout -->
+    <div class="md:flex md:gap-10">
+      <!-- Sidebar (desktop only) -->
+      <aside class="hidden md:block sticky top-20 w-64 flex-shrink-0 self-start">
+        <div class="bg-navy-800 rounded-xl p-6">
+          <!-- Automated Lists -->
+          <h3 class="text-xs uppercase tracking-wide text-slate-400 mb-3">Automated Lists</h3>
+          <div class="space-y-2">
+            <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-3286-7683" target="_blank" rel="noopener"
+               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">ADS</a>
+            <a href="{{ .Site.Params.scixplorer }}" target="_blank" rel="noopener"
+               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">SoX</a>
+            <a href="https://arxiv.org/search/?searchtype=author&query=Lichtenberg" target="_blank" rel="noopener"
+               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">arXiv</a>
+            <a href="https://scholar.google.com/citations?user=OShOBcwAAAAJ" target="_blank" rel="noopener"
+               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Google Scholar</a>
+          </div>
+
+          <!-- Publication Types -->
+          <h3 class="text-xs uppercase tracking-wide text-slate-400 mt-6 mb-3">Publication Types</h3>
+          <div class="space-y-2">
+            <a href="#research-articles"
+               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Research Articles</a>
+            <a href="#reviews"
+               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Reviews</a>
+            <a href="#perspectives--white-papers"
+               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Perspectives</a>
+            <a href="#numerical-methods--instrumentation"
+               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Instrumentation</a>
+            <a href="#theses"
+               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Theses</a>
+          </div>
+
+          <p class="text-xs text-slate-500 italic mt-6">Lab members in white text</p>
+        </div>
+      </aside>
+
+      <!-- Content -->
+      <div class="flex-1 min-w-0 prose-content">
+        {{ .Content }}
+      </div>
     </div>
   </div>
 </section>

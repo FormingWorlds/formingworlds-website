@@ -1,6 +1,7 @@
 ---
 title: "BSc & MSc Projects"
 description: "Student project opportunities in the Forming Worlds Lab"
+banner_image: "/img/illustrations/kapteyn-building.avif"
 status: "open"
 weight: 30
 aliases:

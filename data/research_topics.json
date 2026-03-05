@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Evolution of Terrestrial Worlds",
+    "image": "/img/research/research_exoplanets.avif",
+    "alt": "Rocky exoplanets orbiting a distant star",
+    "text": "In retrospect, the exoplanet revolution will be regarded as similarly important as the Keplerian revolution. For the first time in human history we have direct evidence for planetary objects revolving stars other than the Sun. So far, we just got a glimpse of the unimaginable diversity out there. The next decades will bring a multitude of new detection missions that will truly revolutionize our understanding. New kinds of theoretical models that robustly explain and predict these new observations are a key element in helping us to make sense of what we find.\n\nWe develop and apply theoretical and numerical tools in order to expand our understanding of the solar system planets to the vastly unexplored realm of the exoplanet population and – vice versa – learn from the extrasolar planet population to better constrain our view of early planetary evolution. What are the primary types of rocky planets? What kind of interiors and atmospheres do super-Earth planets develop? Are the different types of exoplanets a continuum, or do certain physical effects sub-divide them into distinct archetypes and classes?"
+  },
+  {
+    "title": "Rocky Exoplanets",
+    "image": "/img/research/research_formation.avif",
+    "alt": "Rocky planet formation",
+    "text": "The only life-harbouring place in the galaxy we know about is our own home planet: Earth. How do you build such a world? Are we special or rather the cosmic norm? Already comparisons within the solar system show us that there are a number of characteristics that set Earth apart from its solar system siblings, be it the active carbon-silicate cycle, a clement and liquid water surface, an exceptionally large moon, and many more. Some of these characteristics are rooted in formation, and therefore we must unravel the poorly understood process that make such a world possible in order to understand what else is out there.\n\nDoing this will require fundamental advances on multiple levels and across scientific disciplines. Therefore, our team actively initiates collaboration and engages with like-minded researchers from astronomy, geophysics, geochemistry, atmospheric sciences, prebiotic chemistry, computer science and beyond."
+  },
+  {
+    "title": "Hadean Earth Climate",
+    "image": "/img/research/research_early_earth.avif",
+    "alt": "Early Earth volcanic landscape",
+    "text": "Life on Earth emerged during the first billion years after the formation of the solar system. How, why? A recent thread of evidence from laboratory experiments suggests that the first prebiotic reactions may have started in surface water pools or streams that were subject to repeated wet and dry cycles, limited levels of UV flux from the young Sun, and had access to a supply of crucial feedstock molecules to kickstart prebiotic synthesis.\n\nOur research is concerned with the physical and chemical processes that affect this kind of prebiotic climate: how do the earliest atmospheres of rocky planets form, and what distinguishes dead worlds from those that are amenable or support an origin of life? To investigate this question, we connect insights from extrasolar planets and the early solar system to create predictive theories for the climate state on Hadean-like worlds."
+  },
+  {
+    "title": "Volatile Delivery",
+    "image": "/img/research/research_impacts.avif",
+    "alt": "Volatile delivery during planetary accretion",
+    "text": "The boundary conditions for atmosphere formation are set by the availability of major volatile compounds. The bulk of volatiles is delivered during formation and, therefore, whether a planet ends up as a gas or ice giant, ocean world, or desiccated desert planet is mainly controlled via the rate and form of volatile delivery during accretion.\n\nOur work on volatile delivery concerns the nature and chemistry of the precursor material of rocky planets: When and how many volatiles are delivered to the bulk of the rocky body? What are efficient methods to lose them and do they partition into the core, mantle, or atmosphere of nascent planets? Ultimately, we seek to understand which chemical and geological characteristics these processes define for a rocky planet."
+  },
+  {
+    "title": "Magma Oceans",
+    "image": "/img/research/research_surface.avif",
+    "alt": "Magma ocean surface environment",
+    "text": "The early surface environment of Earth resulted from the most violent planetary event you can envision: the direct collision with a protoplanet, melting and evaporating the majority of mantle and resetting the clock on its internal geochemical evolution. The cooling of the resulting magma ocean and its internal dynamics crucially determined the mode and pace of core formation, and the build-up of the earliest atmosphere on Earth. Similar environments are prevalent on hot super-Earth and sub-Neptune exoplanets with permanent lava oceans, which provide a novel window into the interactions of magma oceans and their outgassing atmospheres.\n\nWith numerical and theoretical models we aim to better understand the interaction of such magma oceans on terrestrial bodies and the resulting consequences for their structure and long-term evolution. In astronomical terms, the 'afterglow' from such a cataclysmic event in young extrasolar systems may be directly detectable with near-future ground- and space-based telescopes, revealing a treasure trove of insights into the chemistry and interaction between surface magma oceans and their blanketing atmospheres."
+  },
+  {
+    "title": "Origin of the Solar System",
+    "image": "/img/research/research_sol.avif",
+    "alt": "The solar system",
+    "text": "For the foreseeable time the solar system will remain one of the main sources of information about the detailed chemical and physical processes that shape rocky planetary bodies. Even though just(?) one incarnation within an uncountable myriad of planets, Earth and its unique history are right under our feet and directly accessible to observations and experiments. However, in the grand view of things it is the special features of the Sun, Earth and other solar system objects that may bring us closer to an understanding of the true nature of the exoplanet census.\n\nWhich processes most strongly determined the current structure of the solar system? What does a planetary system, and rocky planet, need in order to sustain conditions suitable for prebiotic chemistry? By constraining the evolution and history of the solar system in the physical and geochemical parameter space our group tries to single out the processes that we want to look out for in order to distinguish one planetary system from another and to find the ones that may resemble ours."
+  },
+  {
+    "title": "Chemical Differentiation",
+    "image": "/img/research/research_core.avif",
+    "alt": "Planetary chemical differentiation",
+    "text": "Specific paths to the origin of life set distinct requirements for the early planetary surface, mantle and atmosphere that define a phase space of possible planetary evolution sequences: continents or volcanic arcs (or more broadly: elevation above mean ocean levels) with a sufficient supply of nutrients for sub-aerial prebiotic synthesis, or ocean floor magmatism for deep sea vent hypotheses.\n\nAs a result of melting in forming terrestrial bodies, such as planetesimals and planets, their chemical structure is segregated into core, mantle, crust, and atmosphere. The main channels of core formation and their timescales strongly influence the chemical composition of the earliest atmospheres and the properties of the resulting silicate mantles. Using new types of fluid dynamical models, which simultaneously treat different chemical phases within the solid, liquid, and volatile components of the aggregate, we investigate how the dynamics of the silicates shape the core formation process, and thus the evolution of the interconnected core-mantle-atmosphere system."
+  },
+  {
+    "title": "Planet Formation",
+    "image": "/img/research/research_disks.avif",
+    "alt": "Protoplanetary disk",
+    "text": "Newly formed worlds emerge from a cloud of stellar debris circling the forming protostar. The evolution of this planet-forming disk, its interaction with the protostar, the fluid dynamics of the gas, the interaction of the dust particles with themselves and the accreting protoplanets determine what kind of planetary system forms, what structure and bulk chemical composition the fully-fledged planets start out with.\n\nMotivated through our primary interest in the growth and evolution of terrestrial planets we investigate the timescales and nature of growth during the disk phase. What were the primary carriers of atmospheric volatiles? Is the majority of mass delivered via pebbles or planetesimals? What are the possible and interconnected source reservoirs in a disk that shape the birth conditions of an accreting planet?"
+  },
+  {
+    "title": "Star Formation",
+    "image": "/img/research/research_star.avif",
+    "alt": "Star-forming region",
+    "text": "The Sun did not form in isolation. Rather, it was born together within many, perhaps thousands, of stellar siblings. All of these emerged from a giant molecular cloud core, and all of them interacted intensely with each other right after their birth: the aggressive UV environment and outflows from massive stars in young star-forming environments create hostile environments for their smaller siblings. But perhaps they also provided just the right conditions for systems such our solar system by truncating the disk, shutting off the mass flow from its outer part, or delivering crucial isotopes that in turn altered the structure of terrestrial planets.\n\nWe aim to constrain and measure these processes in order to gain insights into the statistics and potential influences of planetary systems during their birth. These environmental constraints need to be taken into account to lead to a holistic understanding of what shapes the birth and life cycle of rocky worlds."
+  }
+]

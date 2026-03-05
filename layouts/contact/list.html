@@ -1,38 +1,80 @@
 {{ define "main" }}
-<section class="py-16">
-  <div class="container-site max-w-3xl">
-    <h1 class="section-heading mb-4">Contact</h1>
-    <p class="section-subheading mb-10">{{ .Params.description }}</p>
+<section class="pt-24 pb-16">
+  <div class="container-site">
+    <h1 class="section-heading text-4xl md:text-5xl mb-12 text-center">Contact</h1>
 
-    {{ with .Content }}
-    <div class="prose-content mb-10">
-      {{ . }}
-    </div>
-    {{ end }}
-
-    <!-- Contact form via Formspree -->
-    <div class="card-padded">
-      <form action="https://formspree.io/f/{{ .Site.Params.formspree.formId }}" method="POST" class="space-y-6">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12">
+      <!-- Left column: info -->
+      <div class="space-y-8">
+        <!-- Address -->
+        <div class="flex items-start gap-4">
+          <svg class="w-6 h-6 text-slate-400 mt-1 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
           <div>
-            <label for="name" class="form-label">Name</label>
-            <input type="text" id="name" name="name" required class="form-input">
+            <h3 class="text-white font-semibold mb-1">Address</h3>
+            <p class="text-slate-300 text-sm leading-relaxed">
+              Kapteyn Astronomical Institute,<br>
+              Landleven 12, 9747 AD<br>
+              Groningen, The Netherlands
+            </p>
+          </div>
+        </div>
+
+        <!-- Email -->
+        <div class="flex items-start gap-4">
+          <svg class="w-6 h-6 text-slate-400 mt-1 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
+          </svg>
+          <div>
+            <h3 class="text-white font-semibold mb-1">Email</h3>
+            <p class="text-sm">
+              <a href="mailto:{{ .Site.Params.email }}" class="text-sky-400 hover:text-sky-300">{{ .Site.Params.email }}</a><br>
+              <a href="mailto:{{ .Site.Params.email2 }}" class="text-sky-400 hover:text-sky-300">{{ .Site.Params.email2 }}</a>
+            </p>
+          </div>
+        </div>
+
+        <!-- UG Logo -->
+        <div class="mt-4">
+          <img src="{{ "img/brand/rug-white.avif" | relURL }}" alt="University of Groningen" class="h-20 opacity-80">
+        </div>
+      </div>
+
+      <!-- Right column: form -->
+      <div>
+        <form action="https://formspree.io/f/{{ .Site.Params.formspree.formId }}" method="POST" class="space-y-5">
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label for="first-name" class="form-label">First Name</label>
+              <input type="text" id="first-name" name="first_name" class="form-input">
+            </div>
+            <div>
+              <label for="last-name" class="form-label">Last Name</label>
+              <input type="text" id="last-name" name="last_name" class="form-input">
+            </div>
           </div>
           <div>
-            <label for="email" class="form-label">Email</label>
+            <label for="email" class="form-label">Email *</label>
             <input type="email" id="email" name="_replyto" required class="form-input">
           </div>
-        </div>
-        <div>
-          <label for="subject" class="form-label">Subject</label>
-          <input type="text" id="subject" name="subject" required class="form-input">
-        </div>
-        <div>
-          <label for="message" class="form-label">Message</label>
-          <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
-        </div>
-        <button type="submit" class="btn-primary">Send Message</button>
-      </form>
+          <div>
+            <label for="message" class="form-label">Message</label>
+            <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
+          </div>
+          <button type="submit" class="bg-sky-600 hover:bg-sky-500 text-white font-medium px-8 py-3 rounded-lg transition-colors w-full text-center">Send</button>
+        </form>
+      </div>
+    </div>
+
+    <!-- Google Maps embed -->
+    <div class="max-w-5xl mx-auto mt-12">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2390.2!2d6.5386!3d53.2402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c9cd1685f8d4d9%3A0x9a5b0b5e2b3c4e0a!2sKapteyn%20Astronomical%20Institute%2C%20University%20of%20Groningen!5e0!3m2!1sen!2snl!4v1709571234567!5m2!1sen!2snl"
+        width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        class="rounded-xl"></iframe>
     </div>
   </div>
 </section>
