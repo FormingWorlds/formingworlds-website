@@ -11,24 +11,38 @@
     <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/30 to-transparent"></div>
     <!-- Question text -->
     <div class="absolute inset-0 flex items-center justify-center px-8">
-      <p class="text-4xl md:text-6xl lg:text-7xl text-white text-center max-w-5xl leading-tight drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]">
+      <p class="text-3xl md:text-5xl lg:text-6xl text-white text-center max-w-4xl leading-tight font-bold drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]" style="font-family: var(--font-heading);">
         {{ $slide.question }}
       </p>
     </div>
+    <!-- Image credit -->
+    {{ with $slide.credit }}
+    <div class="absolute bottom-4 left-6 z-20">
+      <p class="text-xs text-white/50">{{ . }}</p>
+    </div>
+    {{ end }}
   </div>
   {{ end }}
 
   <!-- Left arrow -->
   <button onclick="prevSlide()" aria-label="Previous slide"
-          class="absolute left-6 md:left-10 top-1/2 -translate-y-1/2 z-20 text-white/60 hover:text-white text-4xl md:text-5xl transition-colors cursor-pointer select-none">
+          class="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 text-white/40 hover:text-white text-3xl md:text-4xl transition-colors cursor-pointer select-none">
     ‹
   </button>
 
   <!-- Right arrow -->
   <button onclick="nextSlide()" aria-label="Next slide"
-          class="absolute right-6 md:right-10 top-1/2 -translate-y-1/2 z-20 text-white/60 hover:text-white text-4xl md:text-5xl transition-colors cursor-pointer select-none">
+          class="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 text-white/40 hover:text-white text-3xl md:text-4xl transition-colors cursor-pointer select-none">
     ›
   </button>
+
+  <!-- Slide indicator dots -->
+  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 flex items-center gap-2.5">
+    {{ range $i, $slide := .Site.Data.slides }}
+    <button onclick="goToSlide({{ $i }})" aria-label="Go to slide {{ add $i 1 }}"
+            class="slide-dot w-2.5 h-2.5 rounded-full transition-all duration-300 cursor-pointer {{ if eq $i 0 }}bg-white{{ else }}bg-white/40 hover:bg-white/70{{ end }}"></button>
+    {{ end }}
+  </div>
 
 </section>
 
@@ -39,6 +53,20 @@
   let current = 0;
   let interval = null;
 
+  const dots = document.querySelectorAll('.slide-dot');
+
+  function updateDots() {
+    dots.forEach((dot, i) => {
+      if (i === current) {
+        dot.classList.add('bg-white');
+        dot.classList.remove('bg-white/40', 'hover:bg-white/70');
+      } else {
+        dot.classList.remove('bg-white');
+        dot.classList.add('bg-white/40', 'hover:bg-white/70');
+      }
+    });
+  }
+
   function goToSlide(n) {
     slides[current].classList.remove('opacity-100', 'z-10');
     slides[current].classList.add('opacity-0', 'z-0');
@@ -47,6 +75,7 @@
 
     slides[current].classList.remove('opacity-0', 'z-0');
     slides[current].classList.add('opacity-100', 'z-10');
+    updateDots();
   }
 
   function nextSlide() {

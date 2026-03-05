@@ -11,7 +11,7 @@
       {{ if eq .Name "Research" }}
       <li class="relative group">
         <a href="{{ .URL | relURL }}"
-           class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
+           class="nav-link{{ if or (eq $.RelPermalink (.URL | relURL)) (and (ne .URL "/") (hasPrefix $.RelPermalink (.URL | relURL))) }} nav-link-active{{ end }}">
           {{ .Name }}
         </a>
         <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-2">
@@ -24,7 +24,7 @@
       {{ else if eq .Name "Join" }}
       <li class="relative group">
         <a href="{{ .URL | relURL }}"
-           class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
+           class="nav-link{{ if or (eq $.RelPermalink (.URL | relURL)) (and (ne .URL "/") (hasPrefix $.RelPermalink (.URL | relURL))) }} nav-link-active{{ end }}">
           {{ .Name }}
         </a>
         <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-2">
@@ -40,7 +40,7 @@
       {{ else }}
       <li>
         <a href="{{ .URL | relURL }}"
-           class="nav-link{{ if $.IsMenuCurrent "main" . }} nav-link-active{{ end }}">
+           class="nav-link{{ if or (eq $.RelPermalink (.URL | relURL)) (and (ne .URL "/") (hasPrefix $.RelPermalink (.URL | relURL))) }} nav-link-active{{ end }}">
           {{ .Name }}
         </a>
       </li>

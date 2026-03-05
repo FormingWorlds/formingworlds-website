@@ -13,7 +13,10 @@
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ "img/brand/favicon.png" | relURL }}">
 
-<!-- System font stack — no external font loading needed -->
+<!-- Jost font — geometric sans-serif matching Wix's Futura headings -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap" rel="stylesheet">
 
 <!-- Tailwind CSS processed by Hugo Pipes -->
 {{ with resources.Get "css/main.css" | css.TailwindCSS }}

@@ -30,7 +30,7 @@
 
   /* Typography */
   --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --font-heading: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-heading: 'Jost', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   /* Spacing */
   --container-max: 1200px;
@@ -114,7 +114,7 @@ h1, h2, h3, h4 {
 }
 
 .nav-link-active {
-  @apply text-white border-b-2 border-accent-500;
+  @apply text-sky-400;
 }
 
 /* Prose content */

@@ -1,9 +1,9 @@
 [
-  {"image": "/img/research/research_two_face_planet.avif", "question": "How do planetary atmospheres form?"},
-  {"image": "/img/research/research_lava_exoplanet.avif", "question": "What does the inside of super-Earths look like?"},
-  {"image": "/img/research/research_solar_system_accretion.avif", "question": "How do young planets grow?"},
-  {"image": "/img/research/research_impacts_small.avif", "question": "What kind of world was the earliest Earth?"},
-  {"image": "/img/research/research_exoplanet_atmospheres.avif", "question": "How diverse are exoplanet climates?"},
-  {"image": "/img/research/research_many_worlds.avif", "question": "How frequent are worlds like our own?"},
-  {"image": "/img/research/research_early_earth.avif", "question": "Which environments enable abiogenesis?"}
+  {"image": "/img/research/research_two_face_planet.avif", "question": "How do planetary atmospheres form?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_lava_exoplanet.avif", "question": "What does the inside of super-Earths look like?", "credit": "ESO / M. Kornmesser"},
+  {"image": "/img/research/research_solar_system_accretion.avif", "question": "How do young planets grow?", "credit": "SwRI / S. Marchi"},
+  {"image": "/img/research/research_impacts_small.avif", "question": "What kind of world was the earliest Earth?", "credit": "M. A. Garlick / space-art.co.uk / U. Warwick"},
+  {"image": "/img/research/research_exoplanet_atmospheres.avif", "question": "How diverse are exoplanet climates?", "credit": "ESO / M. Kornmesser"},
+  {"image": "/img/research/research_many_worlds.avif", "question": "How frequent are worlds like our own?", "credit": "ESA / Hubble / NASA"},
+  {"image": "/img/research/research_early_earth.avif", "question": "Which environments enable abiogenesis?", "credit": "Don Dixon / cosmographica.com"}
 ]
