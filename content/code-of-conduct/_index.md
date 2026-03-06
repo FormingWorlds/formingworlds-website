@@ -10,3 +10,6 @@ The Forming Worlds Lab is highly diverse in culture and gender. We are dedicated
 All research group members are expected to adhere to this Code of Conduct during all academia- and group-related activities. Violations of the code of conduct may result in verbal and written warnings, and repeated or gross violations may result in removal from the research group.
 
 If you experience or witness harassment, or have any other concerns, please contact Tim Lichtenberg immediately. For concerns involving dr. Lichtenberg or requiring escalation, contact the [Office for Diversity and Inclusion](https://www.rug.nl/about-ug/policy-and-strategy/diversity-and-inclusion/), the [Confidential Advisor](https://www.rug.nl/about-ug/organization/rules-and-regulations/general/confidential-advisor), or your HR advisor at the University of Groningen.
+
+{{< figure src="/img/illustrations/xkcd_free_speech.png" alt="xkcd: Free Speech" class="max-w-md mx-auto my-10" >}}
+<p class="text-center text-slate-500 text-xs -mt-6"><a href="https://xkcd.com/1357/">xkcd #1357</a> by Randall Munroe · <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></p>
