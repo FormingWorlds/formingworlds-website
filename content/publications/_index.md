@@ -7,39 +7,39 @@ description: "Publications from the Forming Worlds Lab"
 
 ### Preprints
 
-Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2512.05816)
+Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2512.05816)
 
-**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, H Nicholls, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2511.16142)
+**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2511.16142)
 
-van Dijk MR, H Nicholls, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://arxiv.org/abs/2511.00952) [pdf](https://arxiv.org/pdf/2511.00952)
+van Dijk MR, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://arxiv.org/abs/2511.00952) [pdf](https://arxiv.org/pdf/2511.00952)
 
-Nicholls H, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) [pdf](https://arxiv.org/pdf/2507.02656)
+**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) [pdf](https://arxiv.org/pdf/2507.02656)
 
 ### Published & Accepted
 
 **Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://ui.adsabs.harvard.edu/abs/2026arXiv260302423K/abstract) *The Astrophysical Journal* (2026). [pdf](https://arxiv.org/pdf/2603.02423)
 
-Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, H Nicholls, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://ui.adsabs.harvard.edu/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
+Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://ui.adsabs.harvard.edu/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
 
 Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* (2025). [pdf](https://arxiv.org/pdf/2510.07367)
 
 Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://ui.adsabs.harvard.edu/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* (2025). [pdf](https://arxiv.org/pdf/2509.17231)
 
-Nicholls H, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating and prolonged magma oceans in the L 98-59 system.](https://ui.adsabs.harvard.edu/abs/2025arXiv250503604N/abstract) *Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://arxiv.org/pdf/2505.03604)
+**Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating and prolonged magma oceans in the L 98-59 system.](https://ui.adsabs.harvard.edu/abs/2025arXiv250503604N/abstract) *Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://arxiv.org/pdf/2505.03604)
 
 Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al. [A Terminology and Quantitative Framework for Assessing the Habitability of Solar System and Extraterrestrial Worlds.](https://ui.adsabs.harvard.edu/abs/2025arXiv250522808A/abstract) *The Planetary Science Journal* 6, 165 (2025). [pdf](https://arxiv.org/pdf/2505.22808)
 
-Boer ID, H Nicholls, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://arxiv.org/pdf/2505.11149)
+Boer ID, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://ui.adsabs.harvard.edu/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://arxiv.org/pdf/2505.11149)
 
 Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet. [Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life.](https://ui.adsabs.harvard.edu/abs/2025arXiv250404261S) *The Astrophysical Journal* 987, 24 (2025). [pdf](https://arxiv.org/pdf/2504.04261)
 
 Farhat M, P Auclair-Desrotour, G Boué, **T Lichtenberg**, J Laskar. [Tides on Lava Worlds: Application to Close-in Exoplanets and the Early Earth-Moon System.](https://ui.adsabs.harvard.edu/abs/2025ApJ...979..133F/abstract) *The Astrophysical Journal* 979, 133 (2025). [pdf](https://arxiv.org/pdf/2412.07285)
 
-Hammond M, CM Guimond, **T Lichtenberg**, H Nicholls, et al. [Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves.](https://ui.adsabs.harvard.edu/abs/2025ApJ...978L..40H/abstract) *The Astrophysical Journal Letters* 978, L40 (2025). [pdf](https://arxiv.org/pdf/2409.04386)
+Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al. [Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves.](https://ui.adsabs.harvard.edu/abs/2025ApJ...978L..40H/abstract) *The Astrophysical Journal Letters* 978, L40 (2025). [pdf](https://arxiv.org/pdf/2409.04386)
 
-Nicholls H, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres of lava worlds.](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025). [pdf](https://arxiv.org/pdf/2412.11987)
+**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres of lava worlds.](https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025). [pdf](https://arxiv.org/pdf/2412.11987)
 
-Nicholls H, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://ui.adsabs.harvard.edu/abs/2024JGRE..12908576N/abstract) *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://arxiv.org/pdf/2411.19137)
+**Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://ui.adsabs.harvard.edu/abs/2024JGRE..12908576N/abstract) *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://arxiv.org/pdf/2411.19137)
 
 **Cesario L**, **T Lichtenberg** et al. [Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets in the galactic neighborhood.](https://ui.adsabs.harvard.edu/abs/2024arXiv241013457C) *Astronomy & Astrophysics* 692, A172 (2024). [pdf](https://arxiv.org/pdf/2410.13457)
 
@@ -49,7 +49,7 @@ Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley, RT Pierrehumbert, 
 
 Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya. [Devolatilization of extrasolar planetesimals by 60Fe and 26Al heating.](https://ui.adsabs.harvard.edu/abs/2024arXiv240206476E/abstract) *Monthly Notices of the Royal Astronomical Society* 528, 6619-6630 (2024). [pdf](https://arxiv.org/pdf/2402.06476.pdf)
 
-Shorttle O, S Jordan, H Nicholls, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune K2-18b.](https://ui.adsabs.harvard.edu/abs/2024ApJ...962L...8S) *The Astrophysical Journal Letters* 962, L8 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf)
+Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune K2-18b.](https://ui.adsabs.harvard.edu/abs/2024ApJ...962L...8S) *The Astrophysical Journal Letters* 962, L8 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf)
 
 Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman. [Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics.](https://ui.adsabs.harvard.edu/abs/2023arXiv230904518S/abstract) *The Planetary Science Journal* 5, 3 (2024). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf), [video](https://youtu.be/acgKcdTTv9c)
 
@@ -153,7 +153,7 @@ Khullar G et al. (incl. TL). [Astrobites as a Community-led Model for Education,
 
 ## Numerical Methods & Instrumentation
 
-Nicholls H, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
+**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
 
 Rauer et al. (incl. TL). [The PLATO mission.](https://ui.adsabs.harvard.edu/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 3, 26 (2025). [pdf](https://arxiv.org/pdf/2406.05447)
 
@@ -163,7 +163,7 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. TL). 
 
 ## Theses
 
-Harrison Nicholls, *What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*. DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised.
+**Harrison Nicholls**, *What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*. DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised.
 
 **Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
 
@@ -193,11 +193,11 @@ Harrison Nicholls, *What happened to rocky planets? An atmosphere-interior persp
 
 **Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).
 
-Madeleine R. Müller, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).
+**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).
 
 **Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://bit.ly/LichtenbergTim_PhDThesis) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)
 
-Irene Bonati, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).
+**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).
 
 **Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen, Germany (2014). [pdf](https://ndownloader.figshare.com/files/2198993)
 
