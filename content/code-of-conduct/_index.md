@@ -11,7 +11,7 @@ All research group members are expected to adhere to this Code of Conduct during
 
 If you experience or witness harassment, or have any other concerns, please contact Tim Lichtenberg immediately. For concerns involving dr. Lichtenberg or requiring escalation, contact the [Office for Diversity and Inclusion](https://www.rug.nl/about-ug/policy-and-strategy/diversity-and-inclusion/), the [Confidential Advisor](https://www.rug.nl/about-ug/organization/rules-and-regulations/general/confidential-advisor), or your HR advisor at the University of Groningen.
 
-<div class="text-center my-10">
+<div class="text-center mt-16 mb-10">
   <img src="/img/illustrations/xkcd_time_travel.png" alt="xkcd: Time Travel Thesis" style="max-width: 450px; margin: 0 auto;">
   <p class="text-slate-500 text-xs mt-2"><a href="https://xkcd.com/1617/">xkcd #1617</a> by Randall Munroe · <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></p>
 </div>
