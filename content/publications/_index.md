@@ -195,7 +195,7 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. TL). 
 
 **Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).
 
-**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://bit.ly/LichtenbergTim_PhDThesis) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)
+**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)
 
 **Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).
 
