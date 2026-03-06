@@ -17,8 +17,7 @@ title = 'Forming Worlds'
   discord = 'https://discord.gg/formingworlds'
 
 [params.formspree]
-  # Replace with actual Formspree form ID after setup
-  formId = 'xExample'
+  formId = 'mqeykdbb'
 
 [markup]
   [markup.goldmark]
