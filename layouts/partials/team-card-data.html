@@ -4,8 +4,10 @@
 
   {{ with .image }}
   {{ $pos := $.imagePosition | default "center 30%" }}
-  {{ if $hasPage }}
-  <a href="{{ printf "/team/%s/" $.slug | relURL }}">
+  {{ $imageLink := "" }}
+  {{ if $hasPage }}{{ $imageLink = printf "/team/%s/" $.slug | relURL }}{{ else if $.links.website }}{{ $imageLink = $.links.website }}{{ end }}
+  {{ if $imageLink }}
+  <a href="{{ $imageLink }}"{{ if not $hasPage }} target="_blank" rel="noopener"{{ end }}>
     <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
   </a>
   {{ else }}
@@ -19,7 +21,7 @@
   </div>
   {{ end }}
   <div class="team-card-body text-left">
-    <h3>{{ .name }}{{ if $hasPage }} <a href="{{ printf "/team/%s/" .slug | relURL }}" class="text-sky-400 text-sm font-normal">[more]</a>{{ end }}</h3>
+    <h3>{{ .name }}</h3>
     {{ with .role }}<p class="role">{{ . }}</p>{{ end }}
     {{ with .topics }}<p class="topics">{{ . }}</p>{{ end }}
 
