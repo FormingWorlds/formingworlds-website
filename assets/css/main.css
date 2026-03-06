@@ -99,6 +99,26 @@ h1, h2, h3, h4 {
   @apply text-sm text-slate-400 mt-2;
 }
 
+/* Alumni compact cards */
+.alumni-grid .team-card .team-card-body {
+  @apply p-3;
+}
+.alumni-grid .team-card h3 {
+  @apply text-sm font-bold;
+}
+.alumni-grid .team-card .role {
+  @apply text-xs mt-0.5;
+}
+.alumni-grid .team-card .topics {
+  @apply text-xs mt-1;
+}
+.alumni-grid .team-card .flex.items-center {
+  @apply gap-1.5 mt-2;
+}
+.alumni-grid .team-card .flex.items-center svg {
+  @apply w-3 h-3;
+}
+
 /* Section styling */
 .section-heading {
   @apply text-3xl md:text-4xl font-bold text-white mb-4;
