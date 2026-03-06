@@ -34,12 +34,8 @@
       <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 m-auto max-w-full max-h-full transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
       {{ end }}
       <!-- Navigation arrows -->
-      <button id="slide-prev" style="z-index:50;" class="absolute left-3 top-1/2 -translate-y-1/2 w-12 h-12 flex items-center justify-center rounded-full bg-black/50 text-white hover:bg-black/70 transition-colors cursor-pointer" aria-label="Previous photo">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
-      </button>
-      <button id="slide-next" style="z-index:50;" class="absolute right-3 top-1/2 -translate-y-1/2 w-12 h-12 flex items-center justify-center rounded-full bg-black/50 text-white hover:bg-black/70 transition-colors cursor-pointer" aria-label="Next photo">
-        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
-      </button>
+      <button id="slide-prev" aria-label="Previous photo" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8249;</button>
+      <button id="slide-next" aria-label="Next photo" style="position:absolute;right:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8250;</button>
     </div>
     <p class="text-slate-400 text-sm mt-3 italic text-center" id="group-caption">
       {{ with index .Site.Data.group_photos 0 }}{{ .caption }}{{ end }}
