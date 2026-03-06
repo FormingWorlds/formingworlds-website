@@ -29,7 +29,7 @@
 {{/* Group photo slideshow — full-width, auto-cycling */}}
 <section class="py-12">
   <div class="container-site">
-    <div class="relative w-full overflow-hidden rounded-xl" style="aspect-ratio: 16/9;" id="group-slideshow">
+    <div class="relative max-w-3xl mx-auto overflow-hidden rounded-xl" style="aspect-ratio: 16/9;" id="group-slideshow">
       {{ range $i, $slide := .Site.Data.group_photos }}
       <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
       {{ end }}
