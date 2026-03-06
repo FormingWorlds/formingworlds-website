@@ -26,14 +26,33 @@
   </div>
 </section>
 
-{{/* Group photo — single centered image with caption, matching Wix */}}
+{{/* Group photo slideshow — full-width, auto-cycling */}}
 <section class="py-12">
   <div class="container-site">
-    <div class="max-w-2xl mx-auto text-center">
-      <img src="/img/illustrations/group-photo.avif" alt="Forming Worlds Lab group photo" class="w-full">
-      <p class="text-slate-400 text-sm mt-3 italic">Rocky Worlds 4 Conference Groningen, Jan 2026</p>
+    <div class="relative w-full overflow-hidden rounded-xl" style="aspect-ratio: 16/9;" id="group-slideshow">
+      {{ range $i, $slide := .Site.Data.group_photos }}
+      <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
+      {{ end }}
     </div>
+    <p class="text-slate-400 text-sm mt-3 italic text-center" id="group-caption">
+      {{ with index .Site.Data.group_photos 0 }}{{ .caption }}{{ end }}
+    </p>
   </div>
+  <script>
+    (function() {
+      const slides = document.querySelectorAll('#group-slideshow img[data-slide]');
+      const caption = document.getElementById('group-caption');
+      const captions = [{{ range .Site.Data.group_photos }}"{{ .caption }}",{{ end }}];
+      let current = 0;
+      if (slides.length < 2) return;
+      setInterval(function() {
+        slides[current].classList.replace('opacity-100', 'opacity-0');
+        current = (current + 1) % slides.length;
+        slides[current].classList.replace('opacity-0', 'opacity-100');
+        caption.textContent = captions[current];
+      }, 5000);
+    })();
+  </script>
 </section>
 
 <section class="pt-20 pb-16">
