@@ -46,6 +46,11 @@
         <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
       </a>
       {{ end }}
+      {{ with .x }}
+      <a href="https://x.com/{{ . }}" class="text-slate-400 hover:text-sky-400" title="X" target="_blank" rel="noopener">
+        <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </a>
+      {{ end }}
       {{ with .bluesky }}
       <a href="https://bsky.app/profile/{{ . }}" class="text-slate-400 hover:text-sky-400" title="Bluesky" target="_blank" rel="noopener">
         <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.785 2.627 3.6 3.476 6.158 3.212-4.293.636-8.073 2.192-4.943 7.647C4.672 25.318 8.55 19.9 12 19.9s7.328 5.418 10.161 1.206c3.13-5.455-.65-7.011-4.943-7.647 2.558.264 5.373-.585 6.158-3.212.246-.828.624-5.789.624-6.478 0-.69-.139-1.861-.902-2.204-.659-.3-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8z"/></svg>
