@@ -206,13 +206,9 @@ h1, h2, h3, h4 {
   @apply border-navy-600 my-10;
 }
 
-/* Profile page sidebar — sticky on desktop */
-@media (min-width: 768px) {
-  .profile-sidebar {
-    position: sticky;
-    top: 8rem;
-    align-self: start;
-  }
+/* Profile page sidebar — stay at top, no sticky */
+.profile-sidebar {
+  align-self: start;
 }
 
 /* Hero section */
