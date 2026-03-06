@@ -1,9 +1,10 @@
 ---
 title: "Presentations – Tim Lichtenberg"
 description: "Presentations by Tim Lichtenberg"
+role: "★ Invited & Keynote"
 ---
 
-★ Invited & Keynote
+<div class="presentations-list">
 
 ## Conferences & Workshops
 
@@ -350,3 +351,5 @@ Gordon Research Conference – Origins of Solar Systems, South Hadley, US, 07/20
 PlanetS General Assembly 2015, Anzere, CH, 01/2015, [slides](https://dx.doi.org/10.6084/m9.figshare.1549754)
 
 Planet Formation and Evolution 2014, Kiel, DE, 09/2014, [slides](https://dx.doi.org/10.6084/m9.figshare.1549752)
+
+</div>
