@@ -31,7 +31,7 @@
   <div class="container-site">
     <div class="relative max-w-3xl mx-auto overflow-hidden rounded-xl bg-black" style="aspect-ratio: 16/9;" id="group-slideshow">
       {{ range $i, $slide := .Site.Data.group_photos }}
-      <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 w-full h-full object-contain transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
+      <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 m-auto max-w-full max-h-full transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
       {{ end }}
     </div>
     <p class="text-slate-400 text-sm mt-3 italic text-center" id="group-caption">
