@@ -26,4 +26,4 @@ The city is famous for its cycling culture: over 60% of trips in the centre are 
 
 For international researchers, Groningen is practical and welcoming. English is widely spoken, the cost of living is moderate by Dutch and European standards, and the city is well connected by train to Amsterdam, the rest of the Netherlands, and neighbouring Germany. The University of Groningen provides relocation support, visa assistance, and help with housing for international staff and PhD candidates.
 
-You can find more information on [VisitGroningen](https://www.visitgroningen.nl) and [GroningenLife!](https://groningenlife.nl).
+You can find more information on [VisitGroningen](https://www.visitgroningen.nl), [GroningenLife!](https://groningenlife.nl), and the [University of Groningen welcome page for international staff](https://www.rug.nl/about-ug/work-with-us/new-staff/?lang=en).
