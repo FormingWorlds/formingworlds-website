@@ -21,9 +21,9 @@ van Dijk MR, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions o
 
 Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
 
-Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* (2025). [pdf](https://arxiv.org/pdf/2510.07367)
+Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* 995, 95 (2025). [pdf](https://arxiv.org/pdf/2510.07367)
 
-Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://scixplorer.org/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* (2025). [pdf](https://arxiv.org/pdf/2509.17231)
+Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://scixplorer.org/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* 995, L39 (2025). [pdf](https://arxiv.org/pdf/2509.17231)
 
 **Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating and prolonged magma oceans in the L 98-59 system.](https://scixplorer.org/abs/2025arXiv250503604N/abstract) *Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://arxiv.org/pdf/2505.03604)
 
@@ -133,7 +133,7 @@ Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of
 
 Menti F et al. (incl. **TL**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://arxiv.org/pdf/2410.23892)
 
-TRAPPIST-1 JWST Community Initiative (incl. **TL**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy Perspective* (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
+TRAPPIST-1 JWST Community Initiative (incl. **TL**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy* 8, 810–818 (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
 
 Meadows V et al. (incl. **TL**). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://scixplorer.org/abs/2022arXiv221014293M/abstract) Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
 
@@ -145,7 +145,7 @@ Quanz SP et al. (incl. **TL**). [Atmospheric characterization of terrestrial exo
 
 Line M et al. (incl. **TL**). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets.](https://scixplorer.org/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://scixplorer.org/link_gateway/2019BAAS...51c.271L/PUB_PDF)
 
-Lyra W et al. (incl. **TL**). [Planet formation — The case for large efforts on the computational side.](https://scixplorer.org/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
+Lyra W et al. (incl. **TL**). [Planet formation — The case for large efforts on the computational side.](https://scixplorer.org/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 129 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
 
 Khullar G et al. (incl. **TL**). [Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics.](https://scixplorer.org/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7, 230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
 
@@ -155,7 +155,7 @@ Khullar G et al. (incl. **TL**). [Astrobites as a Community-led Model for Educat
 
 **Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
 
-Rauer et al. (incl. **TL**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 3, 26 (2025). [pdf](https://arxiv.org/pdf/2406.05447)
+Rauer et al. (incl. **TL**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 26 (2025). [pdf](https://arxiv.org/pdf/2406.05447)
 
 Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **TL**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
 
