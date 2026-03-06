@@ -21,9 +21,11 @@ Example project themes include:
 - Modelling magma ocean crystallisation and volatile outgassing on rocky exoplanets
 - Simulating early atmospheric evolution of Earth-like planets
 - Coupling interior and atmosphere models to predict observable signatures
-- Data analysis of exoplanet spectra from JWST
-- Machine learning approaches to classify exoplanet climates
-- Comparing Solar System constraints with exoplanet population models
+- Rock-vapour atmospheres and surface conditions on lava worlds
+- Redox chemistry and greenhouse limits on terrestrial exoplanets
+- Ocean formation timescales and water delivery to rocky planets
+
+For examples of completed student projects, see the [theses section](/publications/#theses) on our publications page.
 
 ### External Students
 
