@@ -64,10 +64,18 @@
       </aside>
 
       <!-- Content -->
-      <div class="flex-1 min-w-0 prose-content">
+      <div class="flex-1 min-w-0 prose-content" id="pub-content">
         {{ .Content }}
       </div>
     </div>
   </div>
 </section>
+<script>
+  document.querySelectorAll('#pub-content a[href]').forEach(function(a) {
+    if (!a.getAttribute('href').startsWith('#')) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+</script>
 {{ end }}
