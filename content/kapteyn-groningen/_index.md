@@ -6,7 +6,7 @@ banner_image: "/img/groningen/groningen_kapteyn_building.avif"
 
 ## The Kapteyn Astronomical Institute
 
-The [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) is one of the leading astronomy departments in Europe and the second-largest in the Netherlands. With around 15 faculty members, 50 PhD students, and a strong cohort of postdocs, it covers a wide range of research areas, from cosmology and galaxy evolution to star and planet formation, high-energy astrophysics, and advanced instrumentation. The institute is part of the [Netherlands Research School for Astronomy (NOVA)](https://nova-astronomy.nl), which connects the astronomical institutes of Amsterdam, Groningen, Leiden, and Nijmegen into a national research network.
+The [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) is one of the leading astronomy departments in Europe. With around 15 faculty members, 50 PhD students, and a strong cohort of postdocs, it covers a wide range of research areas, from cosmology and galaxy evolution to star and planet formation, high-energy astrophysics, and advanced instrumentation. The institute is part of the [Netherlands Research School for Astronomy (NOVA)](https://nova-astronomy.nl), which connects the astronomical institutes of Amsterdam, Groningen, Leiden, and Nijmegen into a national research network.
 
 ### A growing hub for exoplanet science
 
