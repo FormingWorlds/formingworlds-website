@@ -1,9 +1,7 @@
 ---
-title: "Presentations"
+title: "Presentations – Tim Lichtenberg"
 description: "Presentations by Tim Lichtenberg"
 ---
-
-# Presentations – Tim Lichtenberg
 
 ★ Invited & Keynote
 
