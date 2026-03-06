@@ -31,7 +31,7 @@
   <div class="container-site">
     <div class="relative max-w-3xl mx-auto overflow-hidden rounded-xl bg-black" style="aspect-ratio: 16/9;" id="group-slideshow">
       {{ range $i, $slide := .Site.Data.group_photos }}
-      <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 m-auto max-w-full max-h-full transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
+      <img src="{{ .image }}" alt="{{ .caption }}" class="absolute inset-0 w-full h-full object-contain transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
       {{ end }}
       <!-- Navigation arrows -->
       <button id="slide-prev" aria-label="Previous photo" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8249;</button>
