@@ -170,7 +170,7 @@ h1, h2, h3, h4 {
 }
 
 .prose-content a {
-  @apply text-sky-400 hover:text-sky-300 underline;
+  @apply text-sky-400 hover:text-sky-300;
 }
 
 .prose-content blockquote {
