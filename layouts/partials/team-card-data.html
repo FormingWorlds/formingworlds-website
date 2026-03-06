@@ -22,8 +22,8 @@
     {{ with .role }}<p class="role">{{ . }}</p>{{ end }}
     {{ with .topics }}<p class="topics">{{ . }}</p>{{ end }}
 
-    {{/* Social icons */}}
-    {{ with .links }}
+    {{/* Social icons (hidden when hideLinks is set) */}}
+    {{ if not (.hideLinks | default false) }}{{ with .links }}
     <div class="flex items-center gap-2.5 mt-3">
       {{ with .email }}
       <a href="mailto:{{ . }}" class="text-slate-400 hover:text-sky-400" title="Email">
@@ -61,7 +61,7 @@
       </a>
       {{ end }}
     </div>
-    {{ end }}
+    {{ end }}{{ end }}
   </div>
 
 </div>
