@@ -100,6 +100,9 @@ h1, h2, h3, h4 {
 }
 
 /* Alumni compact cards */
+.alumni-grid .team-card img {
+  filter: grayscale(1);
+}
 .alumni-grid .team-card .team-card-body {
   @apply p-3;
 }
