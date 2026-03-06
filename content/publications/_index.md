@@ -73,9 +73,9 @@ Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terres
 
 Curry A, A Bonsor, **T Lichtenberg**, O Shorttle. [Prevalence of short-lived radioactive isotopes across exoplanetary systems inferred from polluted white dwarfs.](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..395C/abstract) *Monthly Notices of the Royal Astronomical Society* 515, 395–406 (2022). [pdf](https://arxiv.org/pdf/2206.09675.pdf)
 
-Dannert F et al. (incl. TL). [Large Interferometer For Exoplanets (LIFE): II.](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..22D/abstract) *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://arxiv.org/pdf/2203.00471.pdf)
+Dannert F et al. (incl. **TL**). [Large Interferometer For Exoplanets (LIFE): II.](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..22D/abstract) *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://arxiv.org/pdf/2203.00471.pdf)
 
-Quanz SP et al. (incl. TL). [Large Interferometer For Exoplanets (LIFE): I.](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..21Q/abstract) *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://arxiv.org/pdf/2101.07500.pdf), [video](https://youtu.be/7JO4iDrnNMI), [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)
+Quanz SP et al. (incl. **TL**). [Large Interferometer For Exoplanets (LIFE): I.](https://ui.adsabs.harvard.edu/abs/2022A%26A...664A..21Q/abstract) *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://arxiv.org/pdf/2101.07500.pdf), [video](https://youtu.be/7JO4iDrnNMI), [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)
 
 Jin Z, M Bose, **T Lichtenberg**, GD Mulders. [New evidence for wet accretion of inner solar system planetesimals from meteorites Chelyabinsk and Benenitra.](https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..244J/abstract) *The Planetary Science Journal* 2, 244 (2021). [pdf](https://arxiv.org/pdf/2111.13804.pdf)
 
@@ -131,23 +131,23 @@ Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of
 
 ## Perspectives & White Papers
 
-Menti F et al. (incl. TL). [Database of Candidate Targets for the LIFE Mission.](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://arxiv.org/pdf/2410.23892)
+Menti F et al. (incl. **TL**). [Database of Candidate Targets for the LIFE Mission.](https://ui.adsabs.harvard.edu/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://arxiv.org/pdf/2410.23892)
 
-TRAPPIST-1 JWST Community Initiative (incl. TL). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..810T/abstract) *Nature Astronomy Perspective* (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
+TRAPPIST-1 JWST Community Initiative (incl. **TL**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..810T/abstract) *Nature Astronomy Perspective* (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
 
-Meadows V et al. (incl. TL). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://ui.adsabs.harvard.edu/abs/2022arXiv221014293M/abstract) Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
+Meadows V et al. (incl. **TL**). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://ui.adsabs.harvard.edu/abs/2022arXiv221014293M/abstract) Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
 
-Helled R et al. (incl. TL). [Ariel Planetary Interiors White Paper.](https://ui.adsabs.harvard.edu/abs/2022ExA....53..323H/abstract) *Experimental Astronomy* 53, 323-356 (2022). [pdf](https://arxiv.org/pdf/2103.08481)
+Helled R et al. (incl. **TL**). [Ariel Planetary Interiors White Paper.](https://ui.adsabs.harvard.edu/abs/2022ExA....53..323H/abstract) *Experimental Astronomy* 53, 323-356 (2022). [pdf](https://arxiv.org/pdf/2103.08481)
 
-Tinetti G et al. (incl. TL). [Ariel: Enabling planetary science across light-years.](https://ui.adsabs.harvard.edu/abs/2021arXiv210404824T/abstract) ESA Ariel Definition Study Report (2021). [pdf](https://arxiv.org/pdf/2104.04824)
+Tinetti G et al. (incl. **TL**). [Ariel: Enabling planetary science across light-years.](https://ui.adsabs.harvard.edu/abs/2021arXiv210404824T/abstract) ESA Ariel Definition Study Report (2021). [pdf](https://arxiv.org/pdf/2104.04824)
 
-Quanz SP et al. (incl. TL). [Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability & diversity.](https://ui.adsabs.harvard.edu/abs/2022ExA....54.1197Q/abstract) ESA Voyage 2050 White Paper (2019). [pdf](https://arxiv.org/pdf/1908.01316)
+Quanz SP et al. (incl. **TL**). [Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability & diversity.](https://ui.adsabs.harvard.edu/abs/2022ExA....54.1197Q/abstract) ESA Voyage 2050 White Paper (2019). [pdf](https://arxiv.org/pdf/1908.01316)
 
-Line M et al. (incl. TL). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51c.271L/PUB_PDF)
+Line M et al. (incl. **TL**). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://ui.adsabs.harvard.edu/link_gateway/2019BAAS...51c.271L/PUB_PDF)
 
-Lyra W et al. (incl. TL). [Planet formation — The case for large efforts on the computational side.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
+Lyra W et al. (incl. **TL**). [Planet formation — The case for large efforts on the computational side.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
 
-Khullar G et al. (incl. TL). [Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7, 230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
+Khullar G et al. (incl. **TL**). [Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics.](https://ui.adsabs.harvard.edu/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7, 230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
 
 ---
 
@@ -155,9 +155,9 @@ Khullar G et al. (incl. TL). [Astrobites as a Community-led Model for Education,
 
 **Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
 
-Rauer et al. (incl. TL). [The PLATO mission.](https://ui.adsabs.harvard.edu/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 3, 26 (2025). [pdf](https://arxiv.org/pdf/2406.05447)
+Rauer et al. (incl. **TL**). [The PLATO mission.](https://ui.adsabs.harvard.edu/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 3, 26 (2025). [pdf](https://arxiv.org/pdf/2406.05447)
 
-Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. TL). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://ui.adsabs.harvard.edu/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
+Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **TL**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://ui.adsabs.harvard.edu/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
 
 ---
 
