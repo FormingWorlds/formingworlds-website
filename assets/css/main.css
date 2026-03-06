@@ -76,11 +76,11 @@ h1, h2, h3, h4 {
 /* Team member cards */
 .team-card {
   @apply bg-transparent rounded-xl overflow-hidden
-         transition-colors duration-200;
+         transition-colors duration-200 max-w-[240px] mx-auto;
 }
 
 .team-card img {
-  @apply w-full aspect-square object-cover;
+  @apply w-full aspect-[4/5] object-cover;
 }
 
 .team-card .team-card-body {

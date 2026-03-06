@@ -1,7 +1,6 @@
 baseURL = 'https://formingworlds.space/'
 languageCode = 'en'
 title = 'Forming Worlds'
-theme = ''
 
 # For GitHub Pages preview before custom domain
 # baseURL = 'https://formingworlds.github.io/formingworlds-website/'

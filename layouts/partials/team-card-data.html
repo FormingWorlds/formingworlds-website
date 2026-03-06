@@ -3,12 +3,13 @@
 <div class="team-card">
 
   {{ with .image }}
+  {{ $pos := $.imagePosition | default "center 30%" }}
   {{ if $hasPage }}
   <a href="{{ printf "/team/%s/" $.slug | relURL }}">
-    <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy">
+    <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
   </a>
   {{ else }}
-  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy">
+  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
   {{ end }}
   {{ else }}
   <div class="w-full aspect-square bg-navy-700 flex items-center justify-center">

@@ -5,6 +5,7 @@
     "role": "Group Leader",
     "group": "lead",
     "image": "/img/faces/tim-lichtenberg.avif",
+    "imagePosition": "center 20%",
     "topics": "Rocky planets and exoplanets",
     "page": true,
     "links": {
@@ -22,6 +23,7 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/mariana-villamil.avif",
+    "imagePosition": "center 25%",
     "topics": "Exoplanet interior evolution",
     "links": {
       "email": "villamilsastre@astro.rug.nl",
@@ -35,6 +37,7 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/emma-postolec.avif",
+    "imagePosition": "center 15%",
     "topics": "Exoplanet atmospheric evolution",
     "links": {
       "email": "postolec@astro.rug.nl",
@@ -47,6 +50,7 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/lorenzo-cesario.avif",
+    "imagePosition": "center 25%",
     "topics": "Lava exoplanet observations",
     "links": {
       "email": "l.c.cesario@student.rug.nl",
@@ -60,6 +64,7 @@
     "role": "JSPS Postdoctoral Fellow",
     "group": "postdoc",
     "image": "/img/faces/tadahiro-kimura.avif",
+    "imagePosition": "center 20%",
     "topics": "Sub-Neptune formation",
     "links": {
       "email": "tadahiro.kimura@nao.ac.jp"
@@ -71,6 +76,7 @@
     "role": "Exchange MSc Student",
     "group": "student",
     "image": "/img/faces/bruna-fena.avif",
+    "imagePosition": "center 25%",
     "topics": "Hadean Earth climate",
     "links": {
       "email": "fena@astro.rug.nl",
@@ -84,6 +90,7 @@
     "role": "SNSF Postdoctoral Fellow",
     "group": "postdoc",
     "image": "/img/faces/mara-attia.avif",
+    "imagePosition": "center 25%",
     "topics": "Sub-Neptune evolution",
     "links": {
       "email": "attia@astro.rug.nl",
@@ -97,6 +104,7 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/ioannis-panagiotou.avif",
+    "imagePosition": "center 25%",
     "topics": "Super-Earth climate",
     "links": {
       "email": "i.panagiotou@student.rug.nl",
@@ -109,6 +117,7 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/imre-kisvardai.avif",
+    "imagePosition": "center 20%",
     "topics": "Exoplanet interior evolution",
     "links": {
       "email": "kisvardai@astro.rug.nl",
@@ -122,6 +131,7 @@
     "role": "Kapteyn PhD Student",
     "group": "phd",
     "image": "/img/faces/emeline-decocq.avif",
+    "imagePosition": "center 25%",
     "topics": "Hadean Earth outgassing",
     "links": {
       "email": "decocq@astro.rug.nl",
@@ -135,6 +145,7 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/karen-stuitje.avif",
+    "imagePosition": "center 25%",
     "topics": "PROTEUS framework",
     "links": {
       "email": "e.k.e.stuitje@student.rug.nl",
@@ -148,6 +159,7 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/marijn-van-dijk.avif",
+    "imagePosition": "center 25%",
     "topics": "Hadean Earth tides",
     "links": {
       "email": "m.r.van.dijk.3@student.rug.nl",
@@ -160,6 +172,7 @@
     "role": "Kapteyn MSc Student",
     "group": "student",
     "image": "/img/faces/ema-jungova.avif",
+    "imagePosition": "center 25%",
     "topics": "Sub-Neptune oceans",
     "links": {
       "email": "e.jungova@student.rug.nl",
@@ -172,6 +185,7 @@
     "role": "Senior Research Software Engineer",
     "group": "staff",
     "image": "/img/faces/patrick-bos.avif",
+    "imagePosition": "center 20%",
     "topics": "PROTEUS framework",
     "links": {
       "email": "pbos@astro.rug.nl",
