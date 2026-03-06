@@ -85,13 +85,13 @@ Dorn C, **T Lichtenberg**. [Hidden water in magma ocean exoplanets.](https://sci
 
 Graham RJ, **T Lichtenberg**, R Boukrouche, RT Pierrehumbert. [A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres.](https://scixplorer.org/abs/2021PSJ.....2..207G/abstract) *The Planetary Science Journal* 2, 207 (2021). [pdf](https://arxiv.org/pdf/2108.12902), [video](https://bit.ly/3ztVhfF)
 
-Boukrouche R, **T Lichtenberg**, RT Pierrehumbert. [Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets.](https://scixplorer.org/abs/2021ApJ...919..130B/abstract) *The Astrophysical Journal* 919, 130 (2021). [pdf](https://arxiv.org/pdf/2107.14150.pdf), [video](https://exoplanet-talks.org/talk/379)
+Boukrouche R, **T Lichtenberg**, RT Pierrehumbert. [Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets.](https://scixplorer.org/abs/2021ApJ...919..130B/abstract) *The Astrophysical Journal* 919, 130 (2021). [pdf](https://arxiv.org/pdf/2107.14150.pdf)
 
 **Lichtenberg T**. [Redox hysteresis of super-Earth exoplanets from magma ocean circulation.](https://scixplorer.org/abs/2021ApJ...914L...4L/abstract) *The Astrophysical Journal Letters* 914, L4 (2021). [pdf](https://arxiv.org/pdf/2105.11208.pdf), [video](http://bit.ly/Lichtenberg21ApJLvideo), [blog](https://bit.ly/Lichtenberg21blog)
 
 **Lichtenberg T**, S Krijt. [System-level fractionation of carbon from disk and planetesimal processing.](https://scixplorer.org/abs/2021ApJ...913L..20L/abstract) *The Astrophysical Journal Letters* 913, L20 (2021). [pdf](https://arxiv.org/pdf/2105.06159.pdf), [video](https://bit.ly/LichtenbergKrijt21video), [blog](https://bit.ly/LichtenbergKrijt21blog)
 
-Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tectonics on super-Earth LHS 3844b.](https://scixplorer.org/abs/2021ApJ...908L..48M/abstract) *The Astrophysical Journal Letters* 908, L48 (2021). [pdf](https://arxiv.org/pdf/2103.02374.pdf), [video](http://exoplanet-talks.org/talk/263), [blog](http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/)
+Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tectonics on super-Earth LHS 3844b.](https://scixplorer.org/abs/2021ApJ...908L..48M/abstract) *The Astrophysical Journal Letters* 908, L48 (2021). [pdf](https://arxiv.org/pdf/2103.02374.pdf), [blog](http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/)
 
 **Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert. [Vertically resolved magma ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers.](https://scixplorer.org/abs/2021JGRE..12606711L) *Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021). [pdf](https://arxiv.org/pdf/2101.10991.pdf), [video](http://bit.ly/MO21_video), [blog](http://bit.ly/MO21_blog)
 
