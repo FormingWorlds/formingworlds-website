@@ -17,6 +17,10 @@ Nicholls H, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pie
 
 ### Published & Accepted
 
+**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://ui.adsabs.harvard.edu/abs/2026arXiv260302423K/abstract) *The Astrophysical Journal* (2026). [pdf](https://arxiv.org/pdf/2603.02423)
+
+Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, H Nicholls, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://ui.adsabs.harvard.edu/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
+
 Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* (2025). [pdf](https://arxiv.org/pdf/2510.07367)
 
 Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://ui.adsabs.harvard.edu/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* (2025). [pdf](https://arxiv.org/pdf/2509.17231)
