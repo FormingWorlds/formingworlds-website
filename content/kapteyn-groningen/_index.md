@@ -17,5 +17,3 @@ The Kapteyn Institute has a strong connection with the Netherlands Institute for
 Groningen is a historic university town in the northern Netherlands with a population of approximately 230,000 people, of which almost 25% are students. This makes Groningen the city in the Netherlands with the highest student population density, the youngest city in the country, and one of the youngest in Europe.
 
 Groningen offers very high quality of life, surrounded by beautiful nature, and is a lively city with a remarkably diverse cultural scene. You can find more information on [VisitGroningen](https://www.visitgroningen.nl) and [GroningenLife!](https://groningenlife.nl).
-
-{{< figure src="/img/groningen/groningen_martinitower.avif" alt="Groningen skyline" class="rounded-xl shadow-lg my-8" >}}
