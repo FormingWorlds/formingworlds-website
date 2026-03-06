@@ -10,8 +10,6 @@ The Kapteyn Astronomical Institute is part of the Netherlands Research School fo
 
 The Kapteyn Institute has a strong connection with the Netherlands Institute for Radio Astronomy (ASTRON) in Dwingeloo, a European centre of radio astronomy research. Staff and PhD students at the Kapteyn Institute frequently collaborate with SRON and ASTRON scientists and engineers. There are also strong interdisciplinary connections with other institutes in the Faculty of Science and Engineering at the University Groningen, and across the Netherlands, with researchers organised in the Dutch Origins Center, the Dutch Astrochemistry Network, the Netherlands Platform for Planetary Science, and the Dutch Planetary and Exoplanetary Science Programme.
 
-{{< figure src="/img/groningen/groningen_kapteyn_building.avif" alt="Kapteyn Astronomical Institute" class="rounded-xl shadow-lg my-8" >}}
-
 ## The City of Groningen
 
 Groningen is a historic university town in the northern Netherlands with a population of approximately 230,000 people, of which almost 25% are students. This makes Groningen the city in the Netherlands with the highest student population density, the youngest city in the country, and one of the youngest in Europe.
