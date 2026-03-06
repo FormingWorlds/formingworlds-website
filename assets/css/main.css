@@ -203,7 +203,16 @@ h1, h2, h3, h4 {
 }
 
 .prose-content hr {
-  @apply border-navy-700 my-8;
+  @apply border-navy-600 my-10;
+}
+
+/* Profile page sidebar — sticky on desktop */
+@media (min-width: 768px) {
+  .profile-sidebar {
+    position: sticky;
+    top: 8rem;
+    align-self: start;
+  }
 }
 
 /* Hero section */

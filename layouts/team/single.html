@@ -1,10 +1,10 @@
 {{ define "main" }}
 <article style="padding-top: 10rem; padding-bottom: 4rem;">
   <div class="container-site">
-    <div class="max-w-4xl mx-auto">
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+    <div class="max-w-5xl mx-auto">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
         <!-- Sidebar -->
-        <div class="md:col-span-1">
+        <div class="md:col-span-1 profile-sidebar">
           {{ with .Params.image }}
           <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="rounded-xl w-full">
           {{ end }}
