@@ -8,8 +8,6 @@ aliases:
   - /postdoc-positions/
 ---
 
-## Postdoc Positions
-
 When postdoc positions are available in the group, they will be advertised on this website and the [AAS jobs website](https://jobregister.aas.org). Below, some other potential funding opportunities are listed. However, we are in principle always looking for motivated and ambitious researchers. Therefore, if you are interested in joining the Forming Worlds Lab, please do reach out.
 
 ### Funding Opportunities for Postdoc Positions

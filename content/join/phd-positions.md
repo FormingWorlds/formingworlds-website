@@ -8,8 +8,6 @@ aliases:
   - /phd-positions/
 ---
 
-## PhD Positions
-
 Do you want to join the Forming Worlds Lab? When specific positions are available, you will find them advertised on this website, and typically on the [AAS jobs register](https://jobregister.aas.org). Generally, PhD positions are open irregularly, depending on the current funding situation. If you are interested in whether an opening will become available in the upcoming months, we encourage you to get in touch. On the following website, you will find some information on the group, the Kapteyn Institute, the abilities we look for typically, and options for finding funding for PhD positions outside of advertised positions.
 
 ### Funding Opportunities for PhD Positions

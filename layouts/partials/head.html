@@ -8,7 +8,8 @@
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ end }}
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "img/research/research_two_face_planet.avif" | absURL }}">{{ end }}
+<meta name="twitter:card" content="summary_large_image">
 
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ "img/brand/favicon.png" | relURL }}">

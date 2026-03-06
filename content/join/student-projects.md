@@ -8,8 +8,6 @@ aliases:
   - /student-projects/
 ---
 
-## BSc & MSc Projects
-
 Undergraduate and graduate research project opportunities in the Forming Worlds Lab
 
 ### Undergraduate Students at RUG & Kapteyn
@@ -17,6 +15,15 @@ Undergraduate and graduate research project opportunities in the Forming Worlds 
 The Forming Worlds Lab offers BSc and MSc research and thesis projects for Kapteyn and RUG students in the fields of planetary and exoplanetary sciences. For the general research themes, please take a look at [our research page](/research/).
 
 Specific thesis topics for Kapteyn Astronomy students are often outlined in the [Kapteyn intranet](https://www.astro.rug.nl/intranet/onderwijs/index.php). However, other projects are available on a rolling basis. Interdisciplinary projects for physics, chemistry, or computational science majors are possible. Please get in touch if you are interested in doing a research project in our group.
+
+Example project themes include:
+
+- Modelling magma ocean crystallisation and volatile outgassing on rocky exoplanets
+- Simulating early atmospheric evolution of Earth-like planets
+- Coupling interior and atmosphere models to predict observable signatures
+- Data analysis of exoplanet spectra from JWST
+- Machine learning approaches to classify exoplanet climates
+- Comparing Solar System constraints with exoplanet population models
 
 ### External Students
 
