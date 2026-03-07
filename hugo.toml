@@ -6,6 +6,7 @@ title = 'Forming Worlds'
 # baseURL = 'https://formingworlds.github.io/formingworlds-website/'
 
 [params]
+  googleAnalytics = 'G-SZP8X4X04B'
   description = 'The Forming Worlds team investigates the evolution of terrestrial worlds to understand how the origins of planets and life are interconnected.'
   institution = 'Kapteyn Astronomical Institute, University of Groningen'
   email = 'tim.lichtenberg@rug.nl'
