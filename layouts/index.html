@@ -55,14 +55,25 @@
   let current = 0;
   let interval = null;
 
-  // Load deferred slide background images
-  slides.forEach(function(slide) {
+  // Load a deferred slide's background image on demand
+  function loadSlideBg(slide) {
     var bg = slide.getAttribute('data-bg');
     if (bg) {
       slide.style.backgroundImage = "url('" + bg + "')";
       slide.removeAttribute('data-bg');
     }
-  });
+  }
+
+  // Preload the next slide's image so it's ready before the transition
+  function preloadAdjacent() {
+    var next = (current + 1) % slides.length;
+    var prev = (current - 1 + slides.length) % slides.length;
+    loadSlideBg(slides[next]);
+    loadSlideBg(slides[prev]);
+  }
+
+  // Load the second slide after page load so it's ready for the first transition
+  window.addEventListener('load', preloadAdjacent);
 
   const dots = document.querySelectorAll('.slide-dot');
 
@@ -83,10 +94,12 @@
     slides[current].classList.add('opacity-0', 'z-0');
 
     current = (n + slides.length) % slides.length;
+    loadSlideBg(slides[current]);
 
     slides[current].classList.remove('opacity-0', 'z-0');
     slides[current].classList.add('opacity-100', 'z-10');
     updateDots();
+    preloadAdjacent();
   }
 
   function nextSlide() {
