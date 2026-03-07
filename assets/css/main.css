@@ -88,6 +88,15 @@ h1, h2, h3, h4 {
   transform: scale(1.05);
 }
 
+/* Research topic image hover zoom */
+.research-topic-img img {
+  transition: transform 0.35s ease;
+}
+
+.research-topic-img:hover img {
+  transform: scale(1.05);
+}
+
 .team-card .team-card-body {
   @apply p-5;
 }
