@@ -81,6 +81,11 @@ h1, h2, h3, h4 {
 
 .team-card img {
   @apply w-full aspect-[4/5] object-cover;
+  transition: transform 0.35s ease;
+}
+
+.team-card:hover img {
+  transform: scale(1.05);
 }
 
 .team-card .team-card-body {
