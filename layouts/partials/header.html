@@ -18,6 +18,7 @@
           <li class="bg-navy-900/95 backdrop-blur-sm rounded-lg border border-navy-700 py-2 w-52">
             <a href="{{ "/publications/" | relURL }}" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Publications</a>
             <a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">Code</a>
+            <a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-slate-200 hover:text-white hover:bg-navy-800">PROTEUS Framework</a>
           </li>
         </ul>
       </li>
@@ -70,6 +71,7 @@
         <ul class="pl-4 space-y-1 mt-1">
           <li><a href="{{ "/publications/" | relURL }}" class="block text-slate-300 hover:text-white py-1.5 text-sm">Publications</a></li>
           <li><a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block text-slate-300 hover:text-white py-1.5 text-sm">Code</a></li>
+          <li><a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block text-slate-300 hover:text-white py-1.5 text-sm">PROTEUS Framework</a></li>
         </ul>
         {{ else if eq .Name "Join" }}
         <ul class="pl-4 space-y-1 mt-1">
