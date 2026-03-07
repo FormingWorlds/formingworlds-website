@@ -12,18 +12,6 @@
     "text": "In retrospect, the exoplanet revolution will be regarded as similarly important as the Keplerian revolution. For the first time in human history we have direct evidence for planetary objects revolving stars other than the Sun. So far, we just got a glimpse of the unimaginable diversity out there. The next decades will bring a multitude of new detection missions that will truly revolutionize our understanding. New kinds of theoretical models that robustly explain and predict these new observations are a key element in helping us to make sense of what we find.\n\nWe develop and apply theoretical and numerical tools in order to expand our understanding of the solar system planets to the vastly unexplored realm of the exoplanet population and – vice versa – learn from the extrasolar planet population to better constrain our view of early planetary evolution. What are the primary types of rocky planets? What kind of interiors and atmospheres do super-Earth planets develop? Are the different types of exoplanets a continuum, or do certain physical effects sub-divide them into distinct archetypes and classes?"
   },
   {
-    "title": "Hadean Earth climate",
-    "image": "/img/research/research_early_earth.avif",
-    "alt": "Early Earth volcanic landscape",
-    "text": "Life on Earth emerged during the first billion years after the formation of the solar system. How, why? A recent thread of evidence from laboratory experiments suggests that the first prebiotic reactions may have started in surface water pools or streams that were subject to repeated wet and dry cycles, limited levels of UV flux from the young Sun, and had access to a supply of crucial feedstock molecules to kickstart prebiotic synthesis.\n\nOur research is concerned with the physical and chemical processes that affect this kind of prebiotic climate: how do the earliest atmospheres of rocky planets form, and what distinguishes dead worlds from those that are amenable or support an origin of life? To investigate this question, we connect insights from extrasolar planets and the early solar system to create predictive theories for the climate state on Hadean-like worlds."
-  },
-  {
-    "title": "Volatile Delivery",
-    "image": "/img/research/research_volatile_delivery.avif",
-    "alt": "Volatile delivery during planetary accretion",
-    "text": "The boundary conditions for atmosphere formation are set by the availability of major volatile compounds. The bulk of volatiles is delivered during formation and, therefore, whether a planet ends up as a gas or ice giant, ocean world, or desiccated desert planet is mainly controlled via the rate and form of volatile delivery during accretion.\n\nOur work on volatile delivery concerns the nature and chemistry of the precursor material of rocky planets: When and how many volatiles are delivered to the bulk of the rocky body? What are efficient methods to lose them and do they partition into the core, mantle, or atmosphere of nascent planets? Ultimately, we seek to understand which chemical and geological characteristics these processes define for a rocky planet."
-  },
-  {
     "title": "PROTEUS Framework",
     "image": "/img/research/research_proteus.avif",
     "alt": "Magma ocean planet with cutaway showing interior structure and atmosphere",
@@ -34,6 +22,18 @@
     "image": "/img/research/research_exoplanet_surveys.avif",
     "alt": "Extremely Large Telescope firing laser guide stars into the night sky",
     "text": "The next generation of space missions and ground-based observatories will transform our understanding of exoplanet populations and their atmospheres. Our group is actively involved in the scientific preparation and exploitation of data from JWST, PLATO, Ariel, ELT, and LIFE, connecting theoretical predictions from interior-atmosphere models to observational strategies and spectral retrievals.\n\nJWST is already revealing the atmospheric compositions of rocky exoplanets in unprecedented detail. PLATO will deliver precise masses, radii, and ages for transiting planets around bright stars. Ariel will conduct the first large-scale survey of exoplanet atmospheres. The ELT will push ground-based spectroscopy to rocky planets in habitable zones. And LIFE aims to directly image temperate terrestrial worlds in the mid-infrared. Together, these facilities will test our theoretical predictions and reshape our understanding of what makes a world habitable."
+  },
+  {
+    "title": "Hadean Earth climate",
+    "image": "/img/research/research_early_earth.avif",
+    "alt": "Early Earth volcanic landscape",
+    "text": "Life on Earth emerged during the first billion years after the formation of the solar system. How, why? A recent thread of evidence from laboratory experiments suggests that the first prebiotic reactions may have started in surface water pools or streams that were subject to repeated wet and dry cycles, limited levels of UV flux from the young Sun, and had access to a supply of crucial feedstock molecules to kickstart prebiotic synthesis.\n\nOur research is concerned with the physical and chemical processes that affect this kind of prebiotic climate: how do the earliest atmospheres of rocky planets form, and what distinguishes dead worlds from those that are amenable or support an origin of life? To investigate this question, we connect insights from extrasolar planets and the early solar system to create predictive theories for the climate state on Hadean-like worlds."
+  },
+  {
+    "title": "Volatile Delivery",
+    "image": "/img/research/research_volatile_delivery.avif",
+    "alt": "Volatile delivery during planetary accretion",
+    "text": "The boundary conditions for atmosphere formation are set by the availability of major volatile compounds. The bulk of volatiles is delivered during formation and, therefore, whether a planet ends up as a gas or ice giant, ocean world, or desiccated desert planet is mainly controlled via the rate and form of volatile delivery during accretion.\n\nOur work on volatile delivery concerns the nature and chemistry of the precursor material of rocky planets: When and how many volatiles are delivered to the bulk of the rocky body? What are efficient methods to lose them and do they partition into the core, mantle, or atmosphere of nascent planets? Ultimately, we seek to understand which chemical and geological characteristics these processes define for a rocky planet."
   },
   {
     "title": "Early Surface Environments",
