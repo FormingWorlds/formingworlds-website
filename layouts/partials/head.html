@@ -3,6 +3,10 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
+<!-- Security headers (best effort on GitHub Pages, which has no server-side header control) -->
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -14,10 +18,17 @@
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ "img/brand/favicon.png" | relURL }}">
 
-<!-- Jost font — geometric sans-serif matching Wix's Futura headings -->
+<!-- Preload first slideshow image for faster LCP (homepage only) -->
+{{ if .IsHome }}{{ with index .Site.Data.slides 0 }}
+<link rel="preload" as="image" href="{{ .image }}" type="image/avif">
+{{ end }}{{ end }}
+
+<!-- Jost font — non-blocking load with preload + swap -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap" rel="stylesheet"></noscript>
 
 <!-- Tailwind CSS processed by Hugo Pipes -->
 {{ with resources.Get "css/main.css" | css.TailwindCSS }}

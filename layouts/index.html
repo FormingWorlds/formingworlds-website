@@ -3,10 +3,12 @@
 <!-- Full-viewport slideshow -->
 <section id="slideshow" class="relative w-full h-screen overflow-hidden">
 
-  <!-- Slides -->
+  <!-- Slides: only the first slide loads its background image eagerly (LCP). The rest are loaded by JS. -->
   {{ range $i, $slide := .Site.Data.slides }}
   <div class="slide absolute inset-0 transition-opacity duration-1000 ease-in-out {{ if eq $i 0 }}opacity-100 z-10{{ else }}opacity-0 z-0{{ end }}"
-       style="background-image: url('{{ $slide.image }}'); background-size: cover; background-position: center;">
+       {{ if eq $i 0 }}style="background-image: url('{{ $slide.image }}'); background-size: cover; background-position: center;"
+       {{ else }}data-bg="{{ $slide.image }}" style="background-size: cover; background-position: center;"
+       {{ end }}>
     <!-- Dark gradient overlay -->
     <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/30 to-transparent"></div>
     <!-- Question text -->
@@ -52,6 +54,15 @@
   const slideshow = document.getElementById('slideshow');
   let current = 0;
   let interval = null;
+
+  // Load deferred slide background images
+  slides.forEach(function(slide) {
+    var bg = slide.getAttribute('data-bg');
+    if (bg) {
+      slide.style.backgroundImage = "url('" + bg + "')";
+      slide.removeAttribute('data-bg');
+    }
+  });
 
   const dots = document.querySelectorAll('.slide-dot');
 
