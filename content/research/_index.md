@@ -1,6 +1,8 @@
 ---
 title: "Research"
-description: "Research goals and themes of the Forming Worlds Lab"
+description: "Research themes of the Forming Worlds Lab: magma oceans, rocky exoplanets, volatile delivery, early Earth climate, planet formation, and the PROTEUS simulation framework."
+sitemap:
+  priority: 0.8
 intro: |
   The scientific goals of the Forming Worlds Lab are driven by the revolutionary advances in exoplanet detection over the last decades, which have widened and enriched planetary science and changed how we view the Solar System in the context of cosmic diversity.
 

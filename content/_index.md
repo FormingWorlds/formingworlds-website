@@ -1,6 +1,8 @@
 ---
 title: "Forming Worlds"
-description: "The Forming Worlds team investigates the evolution of terrestrial worlds to understand how the origins of planets and life are interconnected."
+description: "The Forming Worlds Lab at the Kapteyn Astronomical Institute investigates how rocky planets form, evolve, and become habitable. Research group of Tim Lichtenberg at the University of Groningen."
+sitemap:
+  priority: 1.0
 
 # Hero section
 hero_headline: "Understanding the formation and evolution of terrestrial worlds"
