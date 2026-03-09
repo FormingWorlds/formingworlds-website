@@ -11,5 +11,26 @@
   </main>
 
   {{ partial "footer.html" . }}
+<script>
+(function(){
+  function show(img){img.classList.add('loaded')}
+  function watch(img){
+    if(img.hasAttribute('data-slide'))return;
+    if(img.complete&&img.naturalWidth>0){show(img);return}
+    if(!img.src||img.src===location.href){show(img);return}
+    img.addEventListener('load',function(){show(img)},{once:true});
+    img.addEventListener('error',function(){show(img)},{once:true});
+  }
+  document.querySelectorAll('img').forEach(watch);
+  new MutationObserver(function(ml){ml.forEach(function(m){
+    if(m.type==='attributes'&&m.attributeName==='src'&&m.target.tagName==='IMG'){
+      m.target.classList.remove('loaded');watch(m.target);return}
+    m.addedNodes.forEach(function(n){
+      if(n.tagName==='IMG')watch(n);
+      else if(n.querySelectorAll)n.querySelectorAll('img').forEach(watch);
+    });
+  })}).observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['src']});
+})();
+</script>
 </body>
 </html>

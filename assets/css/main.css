@@ -48,7 +48,22 @@ h1, h2, h3, h4 {
 }
 
 img {
-  background-color: var(--color-navy-950);
+  background-color: #060609;
+  transition: opacity 0.2s ease;
+}
+
+/* Hide images until decoded to prevent white flash in Firefox */
+img:not([data-slide]):not(.loaded) {
+  opacity: 0;
+}
+
+/* Team card image containers — dark bg visible while images load */
+.team-card {
+  background-color: #060609;
+}
+
+#group-slideshow {
+  background-color: #000;
 }
 
 /* ─── Component classes ─── */
@@ -85,7 +100,7 @@ img {
 
 .team-card img {
   @apply w-full aspect-[4/5] object-cover;
-  transition: transform 0.35s ease;
+  transition: transform 0.35s ease, opacity 0.2s ease;
 }
 
 .team-card a:hover img {
@@ -94,7 +109,7 @@ img {
 
 /* Research topic image hover zoom */
 .research-topic-img img {
-  transition: transform 0.35s ease;
+  transition: transform 0.35s ease, opacity 0.2s ease;
 }
 
 .research-topic-img:hover img {
