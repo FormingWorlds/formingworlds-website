@@ -77,7 +77,7 @@
         {{ $collab := . }}
         <a href="{{ .url }}" target="_blank" rel="noopener" class="flex items-center justify-center h-20 px-4 opacity-80 hover:opacity-100 transition-opacity" title="{{ .name }}">
           {{ with .logo }}
-          <img src="{{ . }}" alt="{{ $collab.name }}" class="max-h-16 max-w-full object-contain">
+          <img src="{{ . }}" alt="{{ $collab.name }}" class="max-h-16 max-w-full object-contain" style="mix-blend-mode:lighten">
           {{ else }}
           <span class="text-slate-300 text-sm font-medium text-center">{{ $collab.name }}</span>
           {{ end }}

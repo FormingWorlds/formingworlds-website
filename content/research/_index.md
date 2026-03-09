@@ -13,7 +13,7 @@ collaborations_text: "The research of the Forming Worlds team is embedded within
 collaborations:
   - name: "Alien Earths"
     url: "https://alienearths.space"
-    logo: "/img/logos/AE_Logo_Light.png"
+    logo: "/img/logos/AE_Logo_White.png"
   - name: "AEThER"
     url: "https://planets.carnegiescience.edu"
     logo: "/img/logos/AEThER_Logo_Full.png"

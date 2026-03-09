@@ -7,21 +7,56 @@
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
 
-<!-- Open Graph -->
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
+
+<!-- Open Graph (use JPG for broad platform support; AVIF not supported by most social previews) -->
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 {{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "img/brand/og-default.jpg" | absURL }}">{{ end }}
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="{{ .Site.Title }}">
 <meta name="twitter:card" content="summary_large_image">
 
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ "img/brand/favicon.png" | relURL }}">
 
+<!-- RSS autodiscovery -->
+{{ with .OutputFormats.Get "rss" -}}
+<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+{{- end }}
+
 <!-- Preload first slideshow image for faster LCP (homepage only) -->
 {{ if .IsHome }}{{ with index .Site.Data.slides 0 }}
 <link rel="preload" as="image" href="{{ .image }}" type="image/webp">
 {{ end }}{{ end }}
+
+<!-- Structured data: Organization (homepage only) -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ResearchOrganization",
+  "name": "Forming Worlds Lab",
+  "url": "https://formingworlds.space",
+  "logo": "{{ "img/brand/logo-white.svg" | absURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "parentOrganization": {
+    "@type": "EducationalOrganization",
+    "name": "Kapteyn Astronomical Institute, University of Groningen",
+    "url": "https://www.rug.nl/research/kapteyn/"
+  },
+  "sameAs": [
+    "{{ .Site.Params.github }}",
+    "{{ .Site.Params.bluesky }}",
+    "{{ .Site.Params.discord }}"
+  ]
+}
+</script>
+{{ end }}
 
 <!-- Jost font — non-blocking load with preload + swap -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
