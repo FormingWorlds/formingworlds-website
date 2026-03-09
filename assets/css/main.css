@@ -47,6 +47,10 @@ h1, h2, h3, h4 {
   @apply font-bold tracking-tight;
 }
 
+img {
+  background-color: var(--color-navy-950);
+}
+
 /* ─── Component classes ─── */
 
 .container-site {
