@@ -1,7 +1,7 @@
 ---
 title: "Kapteyn & Groningen"
 description: "The Kapteyn Astronomical Institute and the city of Groningen: research environment, exoplanet groups, student life, and photo gallery."
-banner_image: "/img/groningen/groningen_kapteyn_building.avif"
+banner_image: "/img/groningen/groningen_kapteyn_building.webp"
 ---
 
 ## The Kapteyn Astronomical Institute

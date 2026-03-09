@@ -1,7 +1,7 @@
 ---
 title: "Postdoc Positions"
 description: "Postdoc positions in the Forming Worlds Lab"
-banner_image: "/img/groningen/groningen_forum.avif"
+banner_image: "/img/groningen/groningen_forum.webp"
 status: "open"
 weight: 20
 aliases:

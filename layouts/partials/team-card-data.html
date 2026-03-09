@@ -6,19 +6,12 @@
   {{ $pos := $.imagePosition | default "center 30%" }}
   {{ $imageLink := "" }}
   {{ if $hasPage }}{{ $imageLink = printf "/team/%s/" $.slug | relURL }}{{ else if $.links.website }}{{ $imageLink = $.links.website }}{{ end }}
-  {{ $webpSrc := replace . ".avif" ".webp" }}
   {{ if $imageLink }}
   <a href="{{ $imageLink }}"{{ if not $hasPage }} target="_blank" rel="noopener"{{ end }}>
-    <picture>
-      <source srcset="{{ . | relURL }}" type="image/avif">
-      <img src="{{ $webpSrc | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
-    </picture>
+    <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
   </a>
   {{ else }}
-  <picture>
-    <source srcset="{{ . | relURL }}" type="image/avif">
-    <img src="{{ $webpSrc | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
-  </picture>
+  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
   {{ end }}
   {{ else }}
   <div class="w-full aspect-square bg-navy-700 flex items-center justify-center">

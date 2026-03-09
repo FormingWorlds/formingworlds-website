@@ -1,73 +1,73 @@
 [
   {
     "title": "Evolution of Terrestrial Worlds",
-    "image": "/img/research/research_terrestrial_worlds.avif",
+    "image": "/img/research/research_terrestrial_worlds.webp",
     "alt": "Super-Earth exoplanet with clouds orbiting a red dwarf star",
     "text": "The only life-harbouring place in the galaxy we know of is our own home planet. How do you build such a world? Are we special or the cosmic norm? Comparisons within the solar system already show that Earth stands apart from its siblings in several ways: an active carbon-silicate cycle, stable liquid water oceans, an exceptionally large moon, and more. Some of these characteristics trace back to formation, and unravelling the processes that made Earth possible is key to understanding what else is out there.\n\nThis requires advances across multiple scientific disciplines. Our team actively collaborates with researchers from astronomy, geophysics, geochemistry, atmospheric science, prebiotic chemistry, and computer science."
   },
   {
     "title": "Rocky Exoplanets",
-    "image": "/img/research/research_rocky_exoplanet.avif",
+    "image": "/img/research/research_rocky_exoplanet.webp",
     "alt": "Rocky exoplanets orbiting a distant star",
     "text": "The discovery of planets orbiting other stars has fundamentally expanded the scope of planetary science. So far, we have only glimpsed the diversity out there. The coming decades will bring new detection and characterisation missions that will reshape our understanding, and new theoretical models are essential to make sense of what we find.\n\nWe develop and apply numerical tools to extend our understanding of solar system planets to the exoplanet population, and vice versa. What are the primary types of rocky planets? What interiors and atmospheres do super-Earths develop? Are different exoplanet types a continuum, or do physical thresholds divide them into distinct classes?"
   },
   {
     "title": "PROTEUS Framework",
-    "image": "/img/research/research_proteus.avif",
+    "image": "/img/research/research_proteus.webp",
     "alt": "Magma ocean planet with cutaway showing interior structure and atmosphere",
     "text": "To investigate the coupled evolution of planetary interiors and atmospheres from first principles, our group develops [PROTEUS](https://proteus-framework.org): an open-source framework for simulating the thermochemical evolution of rocky planets from their magma ocean stage to long-term habitability. PROTEUS couples models for interior convection, melt-solid dynamics, atmospheric radiative transfer, volatile outgassing, and escape into a self-consistent simulation of planetary evolution.\n\nPROTEUS enables us to connect the formation conditions of terrestrial planets to their observable properties: atmospheric composition, surface temperature, and spectral signatures detectable by current and next-generation telescopes. The framework is modular and extensible, designed to be used by the wider community for parameter studies, mission support, and hypothesis testing across the diversity of rocky exoplanets."
   },
   {
     "title": "Exoplanet Surveys",
-    "image": "/img/research/research_exoplanet_surveys.avif",
+    "image": "/img/research/research_exoplanet_surveys.webp",
     "alt": "Extremely Large Telescope firing laser guide stars into the night sky",
     "text": "The next generation of space missions and ground-based observatories will transform our understanding of exoplanet populations and their atmospheres. Our group is actively involved in the scientific preparation and exploitation of data from JWST, PLATO, Ariel, ELT, and LIFE, connecting theoretical predictions from interior-atmosphere models to observational strategies and spectral retrievals.\n\nJWST is already revealing the atmospheric compositions of rocky exoplanets in unprecedented detail. PLATO will deliver precise masses, radii, and ages for transiting planets around bright stars. Ariel will conduct the first large-scale survey of exoplanet atmospheres. The ELT will push ground-based spectroscopy to rocky planets in habitable zones. And LIFE aims to directly image temperate terrestrial worlds in the mid-infrared. Together, these facilities will test our theoretical predictions and reshape our understanding of what makes a world habitable."
   },
   {
     "title": "Hadean Earth Climate",
-    "image": "/img/research/research_early_earth.avif",
+    "image": "/img/research/research_early_earth.webp",
     "alt": "Early Earth volcanic landscape",
     "text": "Life on Earth emerged during the first billion years after the formation of the solar system. Recent laboratory experiments suggest that the first prebiotic reactions may have started in surface water pools subject to repeated wet-dry cycles, moderate UV flux from the young Sun, and a supply of key feedstock molecules.\n\nOur research addresses the physical and chemical processes that shaped this prebiotic climate: how did the earliest atmospheres of rocky planets form, and what distinguishes dead worlds from those amenable to an origin of life? We connect insights from exoplanet observations and early solar system constraints to build predictive theories for the climate state on Hadean-like worlds."
   },
   {
     "title": "Volatile Delivery",
-    "image": "/img/research/research_volatile_delivery.avif",
+    "image": "/img/research/research_volatile_delivery.webp",
     "alt": "Volatile delivery during planetary accretion",
     "text": "The boundary conditions for atmosphere formation are set by the availability of major volatile compounds. The bulk of volatiles is delivered during formation and, therefore, whether a planet ends up as a gas or ice giant, ocean world, or desiccated desert planet is mainly controlled via the rate and form of volatile delivery during accretion.\n\nOur work on volatile delivery concerns the nature and chemistry of the precursor material of rocky planets: When and how many volatiles are delivered to the bulk of the rocky body? What are the main loss channels, and do volatiles partition into the core, mantle, or atmosphere of nascent planets? Ultimately, we seek to understand which chemical and geological characteristics these processes define for a rocky planet."
   },
   {
     "title": "Early Surface Environments",
-    "image": "/img/research/research_Hadean_surface.avif",
+    "image": "/img/research/research_Hadean_surface.webp",
     "alt": "Early planetary surface environment",
     "text": "Different origin-of-life hypotheses place distinct requirements on the early planetary surface, mantle, and atmosphere. Sub-aerial prebiotic synthesis requires continents or volcanic arcs with elevation above sea level and a sufficient nutrient supply. Deep-sea vent hypotheses require ocean floor magmatism. These requirements define a phase space of possible planetary evolution sequences.\n\nWe compare these constraints against geodynamical models to better understand the conditions of early Earth and early Mars, and to identify which exoplanets may harbour similar conditions for abiogenesis."
   },
   {
     "title": "Magma Oceans",
-    "image": "/img/research/research_large_magmaocean.avif",
+    "image": "/img/research/research_large_magmaocean.webp",
     "alt": "Magma ocean surface environment",
     "text": "Earth's early surface was shaped by a giant impact with another protoplanet that melted and partially vaporised the mantle, resetting its geochemical evolution. The cooling of the resulting magma ocean and its internal dynamics determined the pace of core formation and the build-up of the earliest atmosphere. Similar environments persist on hot super-Earth and sub-Neptune exoplanets with permanent lava oceans, offering a window into the interactions between magma oceans and their outgassing atmospheres.\n\nWith numerical and theoretical models we investigate magma ocean dynamics on terrestrial bodies and the consequences for their structure and long-term evolution. The thermal afterglow of such events in young extrasolar systems may be directly detectable with current and near-future telescopes, revealing the chemistry and coupling between surface magma oceans and their blanketing atmospheres."
   },
   {
     "title": "Chemical Differentiation",
-    "image": "/img/research/research_core_formation.avif",
+    "image": "/img/research/research_core_formation.webp",
     "alt": "Planetary chemical differentiation",
     "text": "As a result of melting in forming terrestrial bodies, such as planetesimals and planets, their chemical structure is segregated into core, mantle, crust, and atmosphere. The main channels of core formation and their timescales strongly influence the chemical composition of the earliest atmospheres and the properties of the resulting silicate mantles.\n\nUsing new types of fluid dynamical models, which simultaneously treat different chemical phases within the solid, liquid, and volatile components of the aggregate, we investigate how the dynamics of the silicates shape the core formation process, and thus the evolution of the interconnected core-mantle-atmosphere system."
   },
   {
     "title": "Origin of the Solar System",
-    "image": "/img/research/research_sol.avif",
+    "image": "/img/research/research_sol.webp",
     "alt": "The solar system",
     "text": "The solar system will remain one of our primary sources of information about the physical and chemical processes that shape rocky planets. Earth and its history are directly accessible to observation and experiment. At the same time, the unique features of the Sun, Earth, and other solar system bodies may help us interpret the broader exoplanet census.\n\nWhich processes most strongly determined the current architecture of the solar system? What does a planetary system need to sustain conditions for prebiotic chemistry? By constraining solar system evolution in the physical and geochemical parameter space, we aim to identify the processes that distinguish one planetary system from another and to find the ones that may resemble our own."
   },
   {
     "title": "Planet Formation",
-    "image": "/img/research/research_protoplanetary_disk.avif",
+    "image": "/img/research/research_protoplanetary_disk.webp",
     "alt": "Protoplanetary disk",
     "text": "Newly formed worlds emerge from a cloud of stellar debris circling the forming protostar. The evolution of this planet-forming disk, its interaction with the protostar, the fluid dynamics of the gas, the interaction of the dust particles with themselves and the accreting protoplanets determine what kind of planetary system forms, what structure and bulk chemical composition the resulting planets begin their evolution with.\n\nMotivated through our primary interest in the growth and evolution of terrestrial planets we investigate the timescales and nature of growth during the disk phase. What were the primary carriers of atmospheric volatiles? Is the majority of mass delivered via pebbles or planetesimals? What are the possible and interconnected source reservoirs in a disk that shape the birth conditions of an accreting planet?"
   },
   {
     "title": "Star Formation",
-    "image": "/img/research/research_star_formation.avif",
+    "image": "/img/research/research_star_formation.webp",
     "alt": "Star-forming region",
     "text": "The Sun formed alongside many, perhaps thousands, of stellar siblings within a giant molecular cloud. These stars interacted intensely after birth: UV radiation and outflows from massive neighbours can truncate protoplanetary disks, shut off mass flow from outer disk regions, or deliver short-lived isotopes that alter the thermal structure of forming terrestrial planets.\n\nWe constrain and quantify these processes to understand the statistics and environmental influences on planetary systems during their birth. These birth environment constraints are essential for a complete picture of what shapes the life cycle of rocky worlds."
   }

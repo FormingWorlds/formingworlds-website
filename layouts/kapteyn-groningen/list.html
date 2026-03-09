@@ -2,10 +2,7 @@
 {{ if .Params.banner_image }}
 <!-- Hero banner -->
 <div class="relative h-[50vh] min-h-[300px]">
-  <picture class="absolute inset-0">
-    <source srcset="{{ .Params.banner_image | relURL }}" type="image/avif">
-    <img src="{{ replace .Params.banner_image ".avif" ".webp" | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover object-center">
-  </picture>
+  <img src="{{ .Params.banner_image | relURL }}" alt="{{ .Title }}" class="absolute inset-0 w-full h-full object-cover object-center">
   <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/40 to-transparent"></div>
   <div class="absolute bottom-0 left-0 right-0 container-site pb-10">
     <h1 class="text-4xl md:text-5xl font-bold text-white">{{ .Title }}</h1>
@@ -34,11 +31,7 @@
       <div class="cursor-pointer group" onclick="openLightbox({{ $i }})">
         <div class="overflow-hidden rounded-xl relative">
           {{ $thumb := replace $img.image "gallery/" "gallery/thumb/" }}
-          {{ $thumbWebp := replace $thumb ".avif" ".webp" }}
-          <picture>
-            <source srcset="{{ $thumb | relURL }}" type="image/avif">
-            <img src="{{ $thumbWebp | relURL }}" alt="{{ $img.title }}" loading="lazy" class="w-full block transition-transform duration-300 group-hover:scale-105">
-          </picture>
+          <img src="{{ $thumb | relURL }}" alt="{{ $img.title }}" loading="lazy" class="w-full block transition-transform duration-300 group-hover:scale-105">
           <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
             <span class="text-white text-sm font-semibold drop-shadow-lg">{{ $img.title }}</span>
           </div>
@@ -90,9 +83,7 @@
     function updateLightbox() {
       const item = gallery[currentIndex];
       const img = document.getElementById('lightbox-img');
-      var src = '{{ "" | relURL }}' + item.image;
-      if (!window.__avifOk) src = src.replace('.avif', '.webp');
-      img.src = src;
+      img.src = '{{ "" | relURL }}' + item.image;
       img.alt = item.title;
       document.getElementById('lightbox-title').textContent = item.title;
       document.getElementById('lightbox-desc').textContent = item.description;

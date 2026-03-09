@@ -1,9 +1,9 @@
 [
-  {"image": "/img/research/research_two_face_planet.avif", "question": "How do planetary atmospheres form?", "credit": "Mark Garlick / markgarlick.com"},
-  {"image": "/img/research/research_lava_exoplanet.avif", "question": "What does the inside of super-Earths look like?", "credit": "Mark Garlick / markgarlick.com"},
-  {"image": "/img/research/research_solar_system_accretion.avif", "question": "How do young planets grow?", "credit": "Mark Garlick / markgarlick.com"},
-  {"image": "/img/research/research_impacts_small.avif", "question": "What kind of world was the earliest Earth?", "credit": "Mark Garlick / markgarlick.com"},
-  {"image": "/img/research/research_exoplanet_atmospheres.avif", "question": "How diverse are exoplanet climates?", "credit": "Mark Garlick / markgarlick.com"},
-  {"image": "/img/research/research_many_worlds.avif", "question": "How frequent are worlds like our own?", "credit": "ESO / M. Kornmesser"},
-  {"image": "/img/research/research_early_earth.avif", "question": "Which environments enable abiogenesis?", "credit": "Don Dixon"}
+  {"image": "/img/research/research_two_face_planet.webp", "question": "How do planetary atmospheres form?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_lava_exoplanet.webp", "question": "What does the inside of super-Earths look like?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_solar_system_accretion.webp", "question": "How do young planets grow?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_impacts_small.webp", "question": "What kind of world was the earliest Earth?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_exoplanet_atmospheres.webp", "question": "How diverse are exoplanet climates?", "credit": "Mark Garlick / markgarlick.com"},
+  {"image": "/img/research/research_many_worlds.webp", "question": "How frequent are worlds like our own?", "credit": "ESO / M. Kornmesser"},
+  {"image": "/img/research/research_early_earth.webp", "question": "Which environments enable abiogenesis?", "credit": "Don Dixon"}
 ]

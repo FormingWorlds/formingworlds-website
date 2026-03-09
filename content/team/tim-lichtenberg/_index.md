@@ -3,7 +3,7 @@ title: "Tim Lichtenberg"
 layout: single
 role: "Assistant Professor"
 institution: "Kapteyn Astronomical Institute, University of Groningen"
-image: "/img/faces/tim-lichtenberg.avif"
+image: "/img/faces/tim-lichtenberg.webp"
 email: "tim.lichtenberg@rug.nl"
 github: "timlichtenberg"
 linkedin: "tim-lichtenberg"

@@ -5,10 +5,9 @@
 
   <!-- Slides: only the first slide loads its background image eagerly (LCP). The rest are loaded by JS. -->
   {{ range $i, $slide := .Site.Data.slides }}
-  {{ $webpImage := replace $slide.image ".avif" ".webp" }}
   <div class="slide absolute inset-0 transition-opacity duration-1000 ease-in-out {{ if eq $i 0 }}opacity-100 z-10{{ else }}opacity-0 z-0{{ end }}"
-       {{ if eq $i 0 }}data-bg="{{ $slide.image }}" data-bg-fallback="{{ $webpImage }}" style="background-size: cover; background-position: center;"
-       {{ else }}data-bg="{{ $slide.image }}" data-bg-fallback="{{ $webpImage }}" style="background-size: cover; background-position: center;"
+       {{ if eq $i 0 }}style="background-image: url('{{ $slide.image }}'); background-size: cover; background-position: center;"
+       {{ else }}data-bg="{{ $slide.image }}" style="background-size: cover; background-position: center;"
        {{ end }}>
     <!-- Dark gradient overlay -->
     <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/30 to-transparent"></div>
@@ -56,20 +55,9 @@
   let current = 0;
   let interval = null;
 
-  // Pick AVIF or WebP background URL based on browser support
-  function getSlideBg(slide) {
-    var bg = slide.getAttribute('data-bg');
-    if (!bg) return null;
-    if (window.__avifOk === false) {
-      var fallback = slide.getAttribute('data-bg-fallback');
-      if (fallback) return fallback;
-    }
-    return bg;
-  }
-
   // Load a deferred slide's background image on demand
   function loadSlideBg(slide) {
-    var bg = getSlideBg(slide);
+    var bg = slide.getAttribute('data-bg');
     if (bg) {
       slide.style.backgroundImage = "url('" + bg + "')";
       slide.removeAttribute('data-bg');
@@ -84,26 +72,8 @@
     loadSlideBg(slides[prev]);
   }
 
-  // Load the first slide and preload adjacent once AVIF detection completes
-  function initSlides() {
-    loadSlideBg(slides[0]);
-    preloadAdjacent();
-  }
-
-  // Wait for AVIF detection (set in head.html) before loading any background images
-  if (typeof window.__avifOk !== 'undefined') {
-    initSlides();
-  } else {
-    // Detection still pending — poll briefly
-    var checkCount = 0;
-    var checkTimer = setInterval(function() {
-      checkCount++;
-      if (typeof window.__avifOk !== 'undefined' || checkCount > 20) {
-        clearInterval(checkTimer);
-        initSlides();
-      }
-    }, 50);
-  }
+  // Load the second slide after page load so it's ready for the first transition
+  window.addEventListener('load', preloadAdjacent);
 
   const dots = document.querySelectorAll('.slide-dot');
 
