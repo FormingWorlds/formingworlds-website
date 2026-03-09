@@ -75,7 +75,7 @@
       <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 max-w-4xl mx-auto items-center">
         {{ range . }}
         {{ $collab := . }}
-        <a href="{{ .url }}" target="_blank" rel="noopener" class="flex items-center justify-center h-20 px-4 opacity-80 hover:opacity-100 transition-opacity" title="{{ .name }}">
+        <a href="{{ .url }}" target="_blank" rel="noopener" class="flex items-center justify-center h-20 px-4 hover:scale-105 transition-transform" title="{{ .name }}">
           {{ with .logo }}
           <img src="{{ . }}" alt="{{ $collab.name }}" class="max-h-16 max-w-full object-contain" style="mix-blend-mode:lighten">
           {{ else }}
