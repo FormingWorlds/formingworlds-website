@@ -6,7 +6,10 @@
         <!-- Sidebar -->
         <div class="md:col-span-1 profile-sidebar">
           {{ with .Params.image }}
-          <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="rounded-xl w-full">
+          <picture>
+            <source srcset="{{ . | relURL }}" type="image/avif">
+            <img src="{{ replace . ".avif" ".webp" | relURL }}" alt="{{ $.Title }}" class="rounded-xl w-full">
+          </picture>
           {{ end }}
           <div class="mt-6 space-y-3">
             <h1 class="text-2xl font-bold text-white">{{ .Title }}</h1>

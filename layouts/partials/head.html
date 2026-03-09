@@ -12,11 +12,16 @@
 <meta property="og:description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "img/research/research_two_face_planet.avif" | absURL }}">{{ end }}
+{{ with .Params.image }}<meta property="og:image" content="{{ . | absURL }}">{{ else }}<meta property="og:image" content="{{ "img/brand/og-default.jpg" | absURL }}">{{ end }}
 <meta name="twitter:card" content="summary_large_image">
 
 <!-- Favicon -->
 <link rel="icon" type="image/png" href="{{ "img/brand/favicon.png" | relURL }}">
+
+<!-- AVIF support detection — sets window.__avifOk for JS that needs format fallback -->
+<script>
+(function(){var i=new Image();i.onload=function(){window.__avifOk=i.width>0};i.onerror=function(){window.__avifOk=false};i.src='data:image/avif;base64,AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUEAAADybWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAGxpYmF2aWYAAAAADnBpdG0AAAAAAAEAAAAeaWxvYwAAAABEAAABAAEAAAABAAABGgAAABcAAAAoaWluZgAAAAAAAQAAABppbmZlAgAAAAABAABhdjAxQ29sb3IAAAAAamlwcnAAAABLaXBjbwAAABRpc3BlAAAAAAAAAAEAAAABAAAADGF2MUOBAAAAAAAAFWlzbWECAAAAAAAAAAAAAAAAAAAARWlwbWEAAAAAAAAAAQABAgECAAAAHW1kYXQSAAoHGAAQDA4gAAAABAAAAAAAAQ=='})();
+</script>
 
 <!-- Preload first slideshow image for faster LCP (homepage only) -->
 {{ if .IsHome }}{{ with index .Site.Data.slides 0 }}
