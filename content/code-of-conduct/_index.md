@@ -13,5 +13,5 @@ If you experience or witness harassment, or have any other concerns, please cont
 
 <div style="text-align: center; margin-top: 5rem; margin-bottom: 2.5rem;">
   <img src="/img/illustrations/xkcd_time_travel.png" alt="xkcd: Time Travel Thesis" style="max-width: 450px; margin: 0 auto; opacity: 0.7;">
-  <p class="text-slate-500 text-xs mt-2"><a href="https://xkcd.com/1716/">xkcd #1716</a> by Randall Munroe · <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></p>
+  <p class="text-slate-500 text-xs mt-2"><a href="https://xkcd.com/1716/" target="_blank" rel="noopener noreferrer">xkcd #1716</a> by Randall Munroe · <a href="https://creativecommons.org/licenses/by-nc/2.5/">CC BY-NC 2.5</a></p>
 </div>
