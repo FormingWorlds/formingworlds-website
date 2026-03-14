@@ -10,9 +10,8 @@ linkedin: "tim-lichtenberg"
 bluesky: "timlichtenberg.bsky.social"
 orcid: "0000-0002-3286-7683"
 google_scholar: "xNqLUtwAAAAJ"
-ads_url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Lichtenberg%2C%20Tim%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
+ads_url: "https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A"
 arxiv_url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Lichtenberg%2C+Tom&terms-1-field=author&classification-physics=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2015&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first"
-cv_short: "https://drive.google.com/open?id=1bxPlCvyGL_LotBJPO9peNhFxJbcNM0_G&usp=drive_fs"
 cv_full: "/docs/tim-lichtenberg-cv.pdf"
 ---
 
@@ -70,7 +69,7 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 ### Courses
 
 - [Planetary Systems](https://ocasys.rug.nl/current/catalog/course/WBAS002-05), BSc course, Kapteyn Institute, University of Groningen, main lecturer, 2025
-- [Exoplanets](https://ocasys.rug.nl/current/catalog/course/WMAS026-05), MSc course, Kapteyn Institute, University of Groningen, main lecturer, 2024, 2025
+- [Exoplanets](https://ocasys.rug.nl/current/catalog/course/WMAS026-05), MSc course, Kapteyn Institute, University of Groningen, main lecturer, 2024, 2025, 2026
 - Hands-on Numerical Astrophysics School for Planet Formation Sciences, summer school, German Science Foundation priority research programme 1992 "Exoplanet Diversity", Rauenberg, lecturer, 08/2023
 - Star and Planet Formation, MSc course, Kapteyn Astronomical Institute, University of Groningen, co-lecturer, 2023, 2025
 - Life and Information, BSc seminar, Faculty of Science and Engineering, University of Groningen, guest lecturer, 11/2022
@@ -89,28 +88,28 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 - MSc thesis "Observability of super-Earth atmospheres with Ariel", Lorenzo Cesario, Kapteyn Institute, 2025–
 - MSc thesis "Ocean formation on sub-Neptune exoplanets", Ema Jungová, Kapteyn Institute, 2025–
 - MSc thesis "Photochemistry on hot rocky exoplanets", Ioannis Panagiotou, Kapteyn Institute, 2025–
-- BSc thesis "[Tidal evolution of the Hadean Earth](https://fse.studenttheses.ub.rug.nl/35822/)", Marijn van Dijk, Kapteyn Institute, 2025
-- BSc thesis "[Timescales of exoplanet ocean formation](https://fse.studenttheses.ub.rug.nl/36090/)", Anvel de Sainte Marie d'Agneaux, Kapteyn Institute, main supervisor, 2025
-- BSc thesis "[Interior structure of partially molten super-Earths](https://fse.studenttheses.ub.rug.nl/36226/)", Flavia Pascal, Kapteyn Institute, main supervisor, 2025
-- BSc thesis "[Finding secondary atmospheres with JWST](https://fse.studenttheses.ub.rug.nl/36163/)", Karen Stuitje, RUG Physics department, main supervisor, 2025
+- BSc thesis "Tidal evolution of the Hadean Earth", Marijn van Dijk, Kapteyn Institute, 2025
+- BSc thesis "Timescales of exoplanet ocean formation", Anvel de Sainte Marie d'Agneaux, Kapteyn Institute, main supervisor, 2025
+- BSc thesis "Interior structure of partially molten super-Earths", Flavia Pascal, Kapteyn Institute, main supervisor, 2025
+- BSc thesis "Finding secondary atmospheres with JWST", Karen Stuitje, RUG Physics department, main supervisor, 2025
 - Internship "Surface UV flux of prebiotic atmospheres at varying redox state", Bruna Fena (FU Berlin MSc student), Kapteyn Astronomical Institute, main supervisor, 2025
 - MSc thesis "Probing planetary oxygenation with LIFE", Sanne Borgmann, Kapteyn Astronomical Institute, main supervisor, 2025–
 - BSc Honours College research project "Exoplanet interior structure modelling", Flavia Pascal, Kapteyn Astronomical Institute, main supervisor, 2024-25
-- MSc thesis "[Outgassing and geochemistry of sub-Neptune exoplanets](https://fse.studenttheses.ub.rug.nl/36759/)", Jorick Lania, Kapteyn Astronomical Institute, main supervisor, 2024–
-- BSc thesis "[Compositional degeneracies of underdense super-Earths](https://fse.studenttheses.ub.rug.nl/33496/)", Jessica Helmerhorst, Kapteyn Astronomical Institute, main supervisor, 2024
-- BSc thesis "[Redox tracers in rock vapour atmospheres of lava exoplanets](https://fse.studenttheses.ub.rug.nl/33299/)", Björn Koops, Kapteyn Astronomical Institute, main supervisor, 2024
-- BSc thesis "[Redox-variant runaway greenhouse limits](https://fse.studenttheses.ub.rug.nl/33069/)", Iris Boer, Kapteyn Astronomical Institute, main supervisor, 2024
+- MSc thesis "Outgassing and geochemistry of sub-Neptune exoplanets", Jorick Lania, Kapteyn Astronomical Institute, main supervisor, 2024–
+- BSc thesis "Compositional degeneracies of underdense super-Earths", Jessica Helmerhorst, Kapteyn Astronomical Institute, main supervisor, 2024
+- BSc thesis "Redox tracers in rock vapour atmospheres of lava exoplanets", Björn Koops, Kapteyn Astronomical Institute, main supervisor, 2024
+- BSc thesis "Redox-variant runaway greenhouse limits", Iris Boer, Kapteyn Astronomical Institute, main supervisor, 2024
 - BSc Honours College research project "Characterizing exoplanet surface composition with LIFE", Flavia Pascal, Kapteyn Astronomical Institute, main supervisor, 2023
-- MSc thesis project "[Magma oceanography of sub-Earth GJ 367 b](https://fse.studenttheses.ub.rug.nl/32863/)", Lotte Bartels, Kapteyn Astronomical Institute, main supervisor, 2023
+- MSc thesis project "Magma oceanography of sub-Earth GJ 367 b", Lotte Bartels, Kapteyn Astronomical Institute, main supervisor, 2023
 - Undergraduate research project "Finding terrestrial protoplanets in the galactic neighbourhood", Lorenzo Cesario, Kapteyn Astronomical Institute, main supervisor, 2023
 - PhD thesis "Evolution of rocky exoplanet atmospheres", Emma Postolec, Kapteyn Astronomical Institute, main supervisor, 2023–
 - PhD thesis "Evolution of rocky exoplanet interiors", Mariana V. Sastre, Kapteyn Astronomical Institute, main supervisor, 2023–
-- DPhil research project "Reduced atmospheric chemistry on rocky exoplanets", Harrison Nicholls, Oxford Atmospheric Physics, co-supervisor, 2023–
+- DPhil thesis "What happened to rocky planets?", Harrison Nicholls, Oxford Atmospheric Physics, co-supervisor, 2023–2026
 - PhD research project "Fluid flow in aqueous planetesimals", Beat Hubmann, Kapteyn Astronomical Institute, main supervisor, 2023–2024
-- BSc thesis "[Distinguishing surface features on atmosphere-less exoplanets](https://fse.studenttheses.ub.rug.nl/30895/)", Lucas Priolet, Kapteyn Astronomical Institute, main supervisor, 2023
-- BSc thesis "[The prevalence of steam in magma ocean atmospheres](https://fse.studenttheses.ub.rug.nl/30769/)", Boyd van der Plaat, Kapteyn Astronomical Institute, main supervisor, 2023
-- BSc thesis "[Detecting cooling protoplanets with direct imaging](https://fse.studenttheses.ub.rug.nl/30441/)", Lorenzo Cesario, Kapteyn Astronomical Institute, main supervisor, 2023
-- BSc thesis "[Spectral signatures of volcanic exoplanet atmospheres](https://fse.studenttheses.ub.rug.nl/30777/)", Marijn Smorenburg, Kapteyn Astronomical Institute, main supervisor, 2023
+- BSc thesis "Distinguishing surface features on atmosphere-less exoplanets", Lucas Priolet, Kapteyn Astronomical Institute, main supervisor, 2023
+- BSc thesis "The prevalence of steam in magma ocean atmospheres", Boyd van der Plaat, Kapteyn Astronomical Institute, main supervisor, 2023
+- BSc thesis "Detecting cooling protoplanets with direct imaging", Lorenzo Cesario, Kapteyn Astronomical Institute, main supervisor, 2023
+- BSc thesis "Spectral signatures of volcanic exoplanet atmospheres", Marijn Smorenburg, Kapteyn Astronomical Institute, main supervisor, 2023
 - MSc thesis "Planetesimal hydrology", Beat Hubmann, ETH Zurich Earth Sciences, co-supervisor, 2022
 - BSc semester project "Investigating the surface composition of airless, terrestrial exoplanets with LIFE", Gustav Pap, ETH Zurich Particle Physics & Astrophysics, co-supervisor, 2021
 - DPhil projects "Climate of condensable-rich exoplanet atmospheres", Robert J. Graham, Oxford Atmospheric Physics, co-supervisor, 2020–22
