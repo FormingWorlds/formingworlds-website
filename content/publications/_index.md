@@ -169,31 +169,31 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca) DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)
 
-**Jorick Lania**, [*Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*.](https://fse.studenttheses.ub.rug.nl/36759/) M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
+**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
 
-**Karen Stuitje**, [*The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*.](https://fse.studenttheses.ub.rug.nl/36163/) B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
+**Karen Stuitje**, *The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*. B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
 
-**Flavia C. Pascal**, [*Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*.](https://fse.studenttheses.ub.rug.nl/36226/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
+**Flavia C. Pascal**, *Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
 
-**Marijn R. van Dijk**, [*Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life's Building Blocks*.](https://fse.studenttheses.ub.rug.nl/35822/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
+**Marijn R. van Dijk**, *Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life's Building Blocks*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
 
-**Marguerite (Anvel) de Sainte Marie d'Agneaux**, [*Timescale of ocean formation and their composition on Earth-like exoplanets*.](https://fse.studenttheses.ub.rug.nl/36090/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
+**Marguerite (Anvel) de Sainte Marie d'Agneaux**, *Timescale of ocean formation and their composition on Earth-like exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
 
-**Björn Koops**, [*Rock-vapour species in lava exoplanet atmospheres*.](https://fse.studenttheses.ub.rug.nl/33299/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
+**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
-**Iris Boer**, [*Redox dependency of the runaway greenhouse limit*.](https://fse.studenttheses.ub.rug.nl/33069/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
+**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
-**Jessica Helmerhorst**, [*The under-dense region between super-Earths and sub-Neptunes*.](https://fse.studenttheses.ub.rug.nl/33496/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
+**Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
-**Lotte Bartels**, [*Magma oceanography of GJ 367 b*.](https://fse.studenttheses.ub.rug.nl/32863/) M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).
+**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).
 
-**Marijn Smorenburg**, [*Volcanic climate change on hot terrestrial exoplanets*.](https://fse.studenttheses.ub.rug.nl/30777/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
+**Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
-**Lucas Priolet**, [*Distinguishing surface features on rocky exoplanets*.](https://fse.studenttheses.ub.rug.nl/30895/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
+**Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
-**Lorenzo Cesario**, [*Detecting Cooling Protoplanets with Next-Generation Surveys*.](https://fse.studenttheses.ub.rug.nl/30441/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
+**Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
-**Boyd van der Plaat**, [*The prevalence of steam atmospheres on hot rocky exoplanets*.](https://fse.studenttheses.ub.rug.nl/30769/) B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
+**Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
 **Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).
 
