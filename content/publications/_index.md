@@ -133,6 +133,8 @@ Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of
 
 ## Perspectives & White Papers
 
+Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025). [pdf](https://arxiv.org/pdf/2509.16798)
+
 Menti F et al. (incl. **TL**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf)
 
 TRAPPIST-1 JWST Community Initiative (incl. **TL**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy* 8, 810–818 (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
