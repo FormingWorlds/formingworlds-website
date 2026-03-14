@@ -93,7 +93,7 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 - BSc thesis "Interior structure of partially molten super-Earths", Flavia Pascal, Kapteyn Institute, main supervisor, 2025
 - BSc thesis "Finding secondary atmospheres with JWST", Karen Stuitje, RUG Physics department, main supervisor, 2025
 - Internship "Surface UV flux of prebiotic atmospheres at varying redox state", Bruna Fena (FU Berlin MSc student), Kapteyn Astronomical Institute, main supervisor, 2025
-- MSc thesis "Probing planetary oxygenation with LIFE", Sanne Borgmann, Kapteyn Astronomical Institute, main supervisor, 2025–
+- MSc thesis "Probing abiotic planetary oxygenation with LIFE", Sanne Borgmann, Kapteyn Astronomical Institute, main supervisor, 2025–
 - BSc Honours College research project "Exoplanet interior structure modelling", Flavia Pascal, Kapteyn Astronomical Institute, main supervisor, 2024-25
 - MSc thesis "Outgassing and geochemistry of sub-Neptune exoplanets", Jorick Lania, Kapteyn Astronomical Institute, main supervisor, 2024–
 - BSc thesis "Compositional degeneracies of underdense super-Earths", Jessica Helmerhorst, Kapteyn Astronomical Institute, main supervisor, 2024
@@ -185,6 +185,7 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 
 ### Academic Associations
 
+- [Royal Netherlands Astronomical Society](https://www.kna-rnas.nl/home), 2024–
 - [European Association of Geochemistry](https://www.eag.org/), 2021–
 - [International Astronomical Union](https://www.iau.org/), 2021–
 - [American Geophysical Union](https://www.agu.org/), 2020–
@@ -245,6 +246,7 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 - Media interview for article ['What is a presumed sign of life doing on a dead comet?'](https://www.science.org/content/article/what-presumed-sign-life-doing-dead-comet), Science News, 04/2024
 - [Biographical interview](https://www.weltderphysik.de/thema/im-portraet/tim-lichtenberg-exoplaneten-sind-keine-zweite-chance/) with news outlet "Welt der Physik", part of thematic "Year of Science 2023" of the German Ministry for Science and Education, 04/2023
 - Media interview for article ['Planeet en ster groeien samen op'](https://www.newscientist.nl/nieuws/planeet-en-ster-groeien-samen-op/) (Planet and star grow together), New Scientist Netherlands, 12/2022
+- Press coverage for Bonsor+2023 Nature Astronomy, featured in [ScienceDaily](https://www.sciencedaily.com/releases/2022/11/221114111022.htm) and others, 11/2022
 - Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Lynnae Quick - The Role of Cryovolcanism in Creating Habitable Niches on Ocean Worlds](https://www.youtube.com/watch?v=giwo7JUmeH8), 10/2021
 - Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Frances Westall - Biosignatures and the Search for Extraterrestrial Life](https://www.youtube.com/channel/UCyCyGFLfUZhaly2WsXJIXAQ), 10/2021
 - Press release and media communication for [Lichtenberg et al. 2021a](https://science.sciencemag.org/content/371/6527/365) ([Altmetric](https://science.altmetric.com/details/98609464)), [featured in 36 news outlets](https://nature.altmetric.com/details/55300340), 01/2021
@@ -256,6 +258,7 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 - Figures and media for german popular science article "Exotische Welten" by Dominik Schleicher in "Sterne und Weltraum", 08/2015
 - Astrobites reddit "Ask-Me-Anything", 06/2015
 - Visit of primary school in Zürich Seefeld with Q&A, 06/2015
+- 3D rendering video for Bovino et al. (2014), [ApJL 790, L35](https://doi.org/10.1088/2041-8205/790/2/L35), featured on phys.org, INAF, HPC Wire, 07/2014
 - Public talk "Ferne Welten im Computer: Planetenentstehung durch Gravitationsinstabilitäten" (German), Institute for Astrophysics, University of Göttingen, 03/2014
 
 ### Blog & Video Posts
