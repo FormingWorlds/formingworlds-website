@@ -13,7 +13,7 @@ google_scholar: "xNqLUtwAAAAJ"
 ads_url: "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22Lichtenberg%2C%20Tim%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
 arxiv_url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Lichtenberg%2C+Tom&terms-1-field=author&classification-physics=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2015&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first"
 cv_short: "https://drive.google.com/open?id=1bxPlCvyGL_LotBJPO9peNhFxJbcNM0_G&usp=drive_fs"
-cv_full: "https://drive.google.com/open?id=1nr1UbzFmNh_tecirCwCtTCVDFPcn0ZpI&usp=drive_fs"
+cv_full: "/docs/tim-lichtenberg-cv.pdf"
 ---
 
 ## Dr. Tim Lichtenberg (he/him)
