@@ -27,4 +27,4 @@ If you are interested in applying to such an opening for a postdoc position in o
 
 ### Employment Conditions
 
-Regular postdoc positions at Kapteyn are paid according to the Collective Labour Agreement (CAO) for Dutch Universities ([salary tables](https://www.rug.nl/about-ug/work-with-us)). Employment conditions at the University of Groningen, including benefits and holiday allowances, are outlined at: [https://www.rug.nl/about-ug/work-with-us](https://www.rug.nl/about-ug/work-with-us).
+Regular postdoc positions at Kapteyn are paid according to the Collective Labour Agreement (CAO) for Dutch Universities ([salary tables](https://www.rug.nl/about-ug/work-with-us/new-staff/conditions-of-employment?lang=en)). Employment conditions at the University of Groningen, including benefits and holiday allowances, are outlined at: [https://www.rug.nl/about-ug/work-with-us/new-staff/conditions-of-employment](https://www.rug.nl/about-ug/work-with-us/new-staff/conditions-of-employment?lang=en).
