@@ -9,7 +9,7 @@ sitemap:
 
 ### Preprints
 
-Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2512.05816)
+Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
 
 **Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://arxiv.org/abs/2511.16142) [pdf](https://arxiv.org/pdf/2511.16142)
 
