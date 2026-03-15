@@ -16,12 +16,12 @@ In some cases, national and international institutions or grant agencies, the Un
 
 For example, the following websites can help in finding funding opportunities that may apply to you when from outside the Netherlands:
 
-- Austria: [Austrian Science Fund Erwin Schrödinger Program](https://www.fwf.ac.at)
-- Germany: [Walter Benjamin Programme](https://www.dfg.de), [Postdoctoral Researchers International Mobility Experience](https://www.dfg.de), [Leopoldina Postdoc Scholarship](https://www.leopoldina.org), [Feodor Lynen-Forschungsstipendium](https://www.humboldt-foundation.de)
-- Japan: [Japan Society for the Promotion of Science Overseas Research Fellowships](https://www.jsps.go.jp)
-- Switzerland: [Swiss National Science Foundation Postdoc.Mobility Fellowships](https://www.snf.ch)
+- Austria: [Austrian Science Fund Erwin Schrödinger Program](https://www.fwf.ac.at/en/funding/portfolio/careers/erwin-schroedinger)
+- Germany: [Walter Benjamin Programme](https://www.dfg.de/en/research-funding/funding-opportunities/programmes/individual/walter-benjamin), [Postdoctoral Researchers International Mobility Experience](https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/prime/), [Feodor Lynen-Forschungsstipendium](https://www.humboldt-foundation.de/bewerben/foerderprogramme/feodor-lynen-forschungsstipendium)
+- Japan: [Japan Society for the Promotion of Science Overseas Research Fellowships](https://www.jsps.go.jp/english/e-ab/)
+- Switzerland: [Swiss National Science Foundation Postdoc.Mobility Fellowships](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility)
 
-Within the Netherlands, the national science foundation (NWO) supports independent postdoctoral projects through the [NWO Veni Fellowship](https://www.nwo.nl). The European Commission supports postdoctoral projects through the [Marie Skłodowska-Curie Actions](https://ec.europa.eu/research/mariecurieactions/). Both opportunities are open to researchers of any nationality. Deadlines for these two funding schemes are typically in mid- to late summer.
+Within the Netherlands, the national science foundation (NWO) supports independent postdoctoral projects through the [NWO Veni Fellowship](https://www.nwo.nl/en/researchprogrammes/nwo-talent-programme). The European Commission supports postdoctoral projects through the [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships). Both opportunities are open to researchers of any nationality. Deadlines for these two funding schemes are typically in mid- to late summer.
 
 If you are interested in applying to such an opening for a postdoc position in our group, please get in touch as soon as possible, at minimum 3–4 months ahead of any upcoming application deadline. This is important to obtain the required administrative support for these grant applications.
 
