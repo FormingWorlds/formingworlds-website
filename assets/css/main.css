@@ -107,6 +107,21 @@ img:not([data-slide]):not(.loaded) {
   transform: scale(1.05);
 }
 
+/* Join page & gallery card image hover — gentler than team cards since images are larger */
+.card-img-hover img {
+  transition: transform 0.5s ease, opacity 0.2s ease;
+}
+.card-img-hover:hover img {
+  transform: scale(1.03);
+}
+.card-img-hover .gallery-overlay {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.card-img-hover:hover .gallery-overlay {
+  opacity: 1;
+}
+
 /* Research topic image hover zoom */
 .research-topic-img img {
   transition: transform 0.35s ease, opacity 0.2s ease;
