@@ -31,7 +31,7 @@
       <div class="cursor-pointer group" onclick="openLightbox({{ $i }})">
         <div class="overflow-hidden rounded-xl relative">
           {{ $thumb := replace $img.image "gallery/" "gallery/thumb/" }}
-          <img src="{{ $thumb | relURL }}" alt="{{ $img.title }}" loading="lazy" class="w-full block transition-transform duration-300 group-hover:scale-105">
+          <img src="{{ $thumb | relURL }}" alt="{{ $img.title }}" loading="lazy" class="w-full block group-hover:scale-105" style="transition: transform 0.35s ease;">
           <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end p-4">
             <span class="text-white text-sm font-semibold drop-shadow-lg">{{ $img.title }}</span>
           </div>
