@@ -15,9 +15,9 @@ Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky
 
 van Dijk MR, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://arxiv.org/abs/2511.00952) [pdf](https://arxiv.org/pdf/2511.00952)
 
-**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) [pdf](https://arxiv.org/pdf/2507.02656)
-
 ### Published & Accepted
+
+**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://doi.org/10.1038/s41550-026-02815-8) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)
 
 **Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026arXiv260302423K/abstract) *The Astrophysical Journal* (2026). [pdf](https://arxiv.org/pdf/2603.02423)
 
