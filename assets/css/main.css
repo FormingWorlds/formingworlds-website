@@ -99,7 +99,9 @@ img:not([data-slide]):not(.loaded) {
 }
 
 .team-card img {
-  @apply w-full aspect-[4/5] object-cover;
+  width: 100%;
+  aspect-ratio: 4/5;
+  object-fit: cover;
   transition: transform 0.35s ease, opacity 0.2s ease;
 }
 
