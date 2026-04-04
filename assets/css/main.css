@@ -152,6 +152,8 @@ img:not([data-slide]):not(.loaded) {
 /* Alumni compact cards */
 .alumni-grid .team-card {
   width: 100%;
+  max-width: none;
+  margin-inline: 0;
 }
 .alumni-grid .team-card img {
   filter: sepia(0.3) saturate(0.8);
