@@ -8,10 +8,10 @@
   {{ if $hasPage }}{{ $imageLink = printf "/team/%s/" $.slug | relURL }}{{ else if $.links.website }}{{ $imageLink = $.links.website }}{{ end }}
   {{ if $imageLink }}
   <a href="{{ $imageLink }}"{{ if not $hasPage }} target="_blank" rel="noopener"{{ end }}>
-    <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
+    <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="width:100%; aspect-ratio:4/5; object-fit:cover; object-position: {{ $pos }};">
   </a>
   {{ else }}
-  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="object-position: {{ $pos }};">
+  <img src="{{ . | relURL }}" alt="{{ $.name }}" loading="lazy" style="width:100%; aspect-ratio:4/5; object-fit:cover; object-position: {{ $pos }};">
   {{ end }}
   {{ else }}
   <div class="w-full aspect-square bg-navy-700 flex items-center justify-center">
