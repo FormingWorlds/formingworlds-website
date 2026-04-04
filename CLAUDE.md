@@ -54,7 +54,7 @@ Dark navy theme defined in `assets/css/main.css` `@theme` block:
 
 Team members, slides, and features are stored in `data/*.json`, not in markdown front matter. Layouts iterate with `{{ range .Site.Data.team }}`. Adding a team member means editing `data/team.json` and adding a photo to `static/img/faces/`.
 
-Team member groups: `lead`, `postdoc`, `phd`, `student`, `staff`, `alumni`. Current members are all non-alumni. Alumni render as compact cards (5-column grid, no social icons) via the `hideLinks` flag passed to the `team-card-data.html` partial.
+Team member groups: `lead`, `postdoc`, `phd`, `student`, `staff`, `alumni`. Current members are all non-alumni. Alumni render as compact cards (5-column grid, no social icons) via the `hideLinks` flag passed to the `team-card-data.html` partial. New members are always appended at the end of the current members list (before alumni), strictly in chronological join order. Do not sort by role or group.
 
 ### Images
 
