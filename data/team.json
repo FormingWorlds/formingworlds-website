@@ -64,19 +64,6 @@
     }
   },
   {
-    "name": "Tadahiro Kimura",
-    "slug": "tadahiro-kimura",
-    "role": "JSPS Postdoctoral Fellow",
-    "group": "postdoc",
-    "image": "/img/faces/tadahiro-kimura.webp",
-    "imagePosition": "center 20%",
-    "topics": "Sub-Neptune formation",
-    "links": {
-      "email": "tadahiro.kimura@nao.ac.jp",
-      "orcid": "0000-0001-8477-2523"
-    }
-  },
-  {
     "name": "Bruna Fena",
     "slug": "bruna-fena",
     "role": "Exchange MSc Student",
@@ -221,6 +208,15 @@
       "email": "m.l.ovesen@student.rug.nl",
       "linkedin": "malina-ovesen-721458249"
     }
+  },
+  {
+    "name": "Tadahiro Kimura",
+    "slug": "tadahiro-kimura",
+    "role": "JSPS Postdoctoral Fellow",
+    "group": "alumni",
+    "image": "/img/faces/tadahiro-kimura.webp",
+    "topics": "Sub-Neptune formation",
+    "links": {}
   },
   {
     "name": "Rob Spaargaren",
