@@ -193,19 +193,6 @@
     }
   },
   {
-    "name": "Malina Ovesen",
-    "slug": "malina-ovesen",
-    "role": "Kapteyn BSc Student",
-    "group": "student",
-    "image": "/img/faces/malina-ovesen.webp",
-    "imagePosition": "center 25%",
-    "topics": "",
-    "links": {
-      "email": "m.l.ovesen@student.rug.nl",
-      "linkedin": "malina-ovesen-721458249"
-    }
-  },
-  {
     "name": "Patrick Bos",
     "slug": "patrick-bos",
     "role": "Senior Research Software Engineer",
@@ -220,6 +207,19 @@
       "linkedin": "egpbos",
       "bluesky": "egpbos.bsky.social",
       "orcid": "0000-0002-6033-960X"
+    }
+  },
+  {
+    "name": "Malina Ovesen",
+    "slug": "malina-ovesen",
+    "role": "Kapteyn BSc Student",
+    "group": "student",
+    "image": "/img/faces/malina-ovesen.webp",
+    "imagePosition": "center 25%",
+    "topics": "",
+    "links": {
+      "email": "m.l.ovesen@student.rug.nl",
+      "linkedin": "malina-ovesen-721458249"
     }
   },
   {
