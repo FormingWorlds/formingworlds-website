@@ -99,6 +99,7 @@ img:not([data-slide]):not(.loaded) {
   overflow: hidden;
   transition-property: color, background-color, border-color;
   transition-duration: 200ms;
+  width: 100%;
   max-width: 240px;
   margin-inline: auto;
 }
