@@ -31,7 +31,7 @@ Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pie
 
 Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al. [A Terminology and Quantitative Framework for Assessing the Habitability of Solar System and Extraterrestrial Worlds.](https://scixplorer.org/abs/2025arXiv250522808A/abstract) *The Planetary Science Journal* 6, 165 (2025). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf)
 
-Boer ID, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://scixplorer.org/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf)
+**Boer ID**, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://scixplorer.org/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf)
 
 Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet. [Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life.](https://scixplorer.org/abs/2025arXiv250404261S) *The Astrophysical Journal* 987, 24 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf)
 
