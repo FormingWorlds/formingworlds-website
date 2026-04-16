@@ -210,6 +210,20 @@
     }
   },
   {
+    "name": "Ioana Balint",
+    "slug": "ioana-balint",
+    "role": "Kapteyn BSc Student",
+    "group": "student",
+    "image": "/img/faces/ioana-balint.webp",
+    "imagePosition": "center 25%",
+    "topics": "Atmospheric escape",
+    "links": {
+      "email": "balintioananaroxana@gmail.com",
+      "github": "ioana07x",
+      "linkedin": "ioana-roxana-balint-7bb793334"
+    }
+  },
+  {
     "name": "Tadahiro Kimura",
     "slug": "tadahiro-kimura",
     "role": "JSPS Postdoctoral Fellow",
