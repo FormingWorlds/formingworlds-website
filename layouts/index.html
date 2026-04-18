@@ -51,9 +51,7 @@
 <script>
 (function() {
   const slides = document.querySelectorAll('.slide');
-  const slideshow = document.getElementById('slideshow');
   let current = 0;
-  let interval = null;
 
   // Load a deferred slide's background image on demand
   function loadSlideBg(slide) {
@@ -110,18 +108,7 @@
     goToSlide(current - 1);
   }
 
-  function startAutoAdvance() {
-    interval = setInterval(nextSlide, 5000);
-  }
-
-  function stopAutoAdvance() {
-    clearInterval(interval);
-  }
-
-  startAutoAdvance();
-
-  slideshow.addEventListener('mouseenter', stopAutoAdvance);
-  slideshow.addEventListener('mouseleave', startAutoAdvance);
+  setInterval(nextSlide, 5000);
 
   document.addEventListener('keydown', function(e) {
     if (e.key === 'ArrowLeft') prevSlide();
