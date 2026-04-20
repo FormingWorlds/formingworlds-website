@@ -9,6 +9,8 @@ sitemap:
 
 ### Preprints
 
+**Nicholls H**, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)
+
 Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
 
 ### Published & Accepted
