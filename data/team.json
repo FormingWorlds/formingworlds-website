@@ -224,6 +224,19 @@
     }
   },
   {
+    "name": "Renske Beuker",
+    "slug": "renske-beuker",
+    "role": "Kapteyn BSc Student",
+    "group": "student",
+    "image": "/img/faces/renske-beuker.webp",
+    "imagePosition": "center 25%",
+    "topics": "Atmospheric escape",
+    "links": {
+      "email": "r.w.f.beuker@student.rug.nl",
+      "github": "renskewfb"
+    }
+  },
+  {
     "name": "Tadahiro Kimura",
     "slug": "tadahiro-kimura",
     "role": "JSPS Postdoctoral Fellow",
