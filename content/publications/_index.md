@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Peer-reviewed publications and preprints from the Forming Worlds Lab on rocky planet evolution, magma oceans, exoplanet atmospheres, and early Earth habitability."
+description: "Peer-reviewed publications, preprints, and theses from the Forming Worlds Lab."
 sitemap:
   priority: 0.8
 ---
