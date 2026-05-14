@@ -1,0 +1,14 @@
+name = "fw-shortlinks"
+main = "src/index.js"
+compatibility_date = "2024-11-06"
+
+# Workers Custom Domain. Cloudflare auto-creates the DNS record and manages TLS.
+routes = [
+  { pattern = "go.formingworlds.space", custom_domain = true }
+]
+
+# KV namespace holding slug -> destination URL mappings.
+# To re-create from scratch: wrangler kv namespace create LINKS
+[[kv_namespaces]]
+binding = "LINKS"
+id = "c72549669e824027a45762e9462f2262"

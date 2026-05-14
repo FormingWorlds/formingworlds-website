@@ -94,3 +94,9 @@ Hugo may grab alternative ports if 1313 is busy — check with `lsof -i :1313`.
 - Config is CSS-first via `@theme` blocks in `assets/css/main.css` — no `tailwind.config.js`.
 - `@apply` cannot reference custom classes defined in the same CSS file. Component classes must inline Tailwind utilities directly.
 - Hugo's native `css.TailwindCSS` pipe handles everything — no PostCSS config needed.
+
+## URL shortener
+
+`https://go.formingworlds.space/<slug>` 302-redirects to a target URL stored in a Cloudflare KV namespace. Implementation lives in `workers/shortlinks/`; see `workers/shortlinks/README.md` for the slug add/update/delete workflow and the Cloudflare API token location.
+
+DNS and TLS are handled by Cloudflare (zone is on `kareem.ns.cloudflare.com` / `nena.ns.cloudflare.com`). The Worker code is independent of the Hugo build — Hugo deploys via GitHub Pages, the Worker deploys via `wrangler`.

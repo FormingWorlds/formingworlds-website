@@ -1,0 +1,14 @@
+{
+  "name": "fw-shortlinks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudflare Worker that 302-redirects go.formingworlds.space/<slug> to a destination URL stored in KV.",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3"
+  }
+}
