@@ -19,13 +19,13 @@ Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky
 
 **Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://scixplorer.org/abs/2025arXiv251116142L/abstract) *The Planetary Science Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2511.16142)
 
-**van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2025arXiv251100952V/abstract) *The Planetary Science Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2511.00952)
+**van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)
 
 Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2604.07461)
 
 **Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)
 
-**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026arXiv260302423K/abstract) *The Astrophysical Journal* (2026). [pdf](https://arxiv.org/pdf/2603.02423)
+**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026ApJ..1000..220K/abstract) *The Astrophysical Journal* 1000, 220 (2026). [pdf](https://arxiv.org/pdf/2603.02423)
 
 Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
 
@@ -127,7 +127,7 @@ Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun's nata
 
 ## Reviews
 
-**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3660 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)
+**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)
 
 **Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L) *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)
 
@@ -140,6 +140,8 @@ Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of
 ## Perspectives & White Papers
 
 Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025). [pdf](https://arxiv.org/pdf/2509.16798)
+
+Rauer et al. (incl. **T Lichtenberg**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 26 (2025). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf)
 
 Menti F et al. (incl. **T Lichtenberg**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf)
 
@@ -164,8 +166,6 @@ Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model
 ## Numerical Methods & Instrumentation
 
 **Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
-
-Rauer et al. (incl. **T Lichtenberg**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 26 (2025). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf)
 
 Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
 
