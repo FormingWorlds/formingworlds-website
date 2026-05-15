@@ -64,6 +64,12 @@
               NASA ADS
             </a>
             {{ end }}
+            {{ with .Params.scix_url }}
+            <a href="{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+              SciX
+            </a>
+            {{ end }}
             {{ with .Params.arxiv_url }}
             <a href="{{ . }}" target="_blank" rel="noopener" class="flex items-center gap-2 text-sm text-slate-400 hover:text-sky-400">
               <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"/></svg>

@@ -11,6 +11,7 @@ bluesky: "timlichtenberg.bsky.social"
 orcid: "0000-0002-3286-7683"
 google_scholar: "xNqLUtwAAAAJ"
 ads_url: "https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A"
+scix_url: "https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A"
 arxiv_url: "https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=Lichtenberg%2C+Tom&terms-1-field=author&classification-physics=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2015&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first"
 cv_full: "/docs/tim-lichtenberg-cv.pdf"
 ---
