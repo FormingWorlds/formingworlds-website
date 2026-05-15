@@ -11,13 +11,13 @@ sitemap:
 
 **Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)
 
-**Nicholls H**, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)
+Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)
 
-Calder R, O Shorttle, **H Nicholls**, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
+Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
 
 ### Published & Accepted
 
-**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://scixplorer.org/abs/2025arXiv251116142L/abstract) *The Planetary Science Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2511.16142)
+**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)
 
 **van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)
 
