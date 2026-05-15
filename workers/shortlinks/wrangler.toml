@@ -2,9 +2,11 @@ name = "fw-shortlinks"
 main = "src/index.js"
 compatibility_date = "2024-11-06"
 
-# Workers Custom Domain. Cloudflare auto-creates the DNS record and manages TLS.
+# Workers Custom Domains. Cloudflare auto-creates the DNS record and manages TLS.
 routes = [
-  { pattern = "go.formingworlds.space", custom_domain = true }
+  { pattern = "go.formingworlds.space", custom_domain = true },
+  { pattern = "timlichtenberg.net", custom_domain = true },
+  { pattern = "www.timlichtenberg.net", custom_domain = true }
 ]
 
 # KV namespace holding slug -> destination URL mappings.
