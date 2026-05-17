@@ -10,5 +10,5 @@ hero_text: "How do the origins of planets and life interconnect? We investigate 
 
 # About section
 about_heading: "Forming Worlds Lab"
-about_text: "The Forming Worlds Lab is part of the Kapteyn Astronomical Institute at the Faculty of Science and Engineering of the University of Groningen in the Netherlands. We are working to create a multidisciplinary, team-spirited, and diverse research environment, investigating the coupled interactions between planetary interiors and atmospheres that drive the evolution of rocky planets."
+about_text: "We are working to create a multidisciplinary, team-spirited, and diverse research environment, investigating the coupled interactions between planetary interiors and atmospheres that drive the evolution of rocky planets and exoplanets."
 ---
