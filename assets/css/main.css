@@ -133,7 +133,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 /* ─── Nav links (transparent over hero) ───────────────────── */
 .nav-link {
   color: rgba(255, 255, 255, 0.85);
-  font-size: 0.875rem;
+  font-size: 1.0625rem;
   font-weight: 500;
   letter-spacing: 0.005em;
   border-bottom: 1px solid transparent;

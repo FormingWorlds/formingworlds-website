@@ -4,10 +4,13 @@
 */}}
 {{ $isHome := .IsHome }}
 <header class="{{ if $isHome }}absolute{{ else }}relative{{ end }} top-0 left-0 right-0 z-50 {{ if not $isHome }}bg-ink-980 border-b border-ink-800{{ end }}">
-  <nav class="container-site flex items-center justify-between" style="height: 80px;">
-    <!-- Logo -->
+  <nav class="container-site flex items-center justify-between" style="height: 100px;">
+    <!-- Logo (inline SVG so transparency survives the image compositing pipeline) -->
     <a href="{{ "/" | relURL }}" class="flex items-center" aria-label="Forming Worlds home">
-      <img src="{{ "img/brand/logo-white.svg" | relURL }}" alt="Forming Worlds Lab" style="height: 36px; width: auto;">
+      {{ with resources.Get "img/brand/logo-white.svg" }}
+      {{ $svg := .Content | replaceRE `<svg ([^>]*)width="[^"]*"` `<svg $1width="100%"` | replaceRE `height="[^"]*"` `height="100%"` }}
+      <div style="height: 78px; width: auto;" aria-hidden="true">{{ $svg | safeHTML }}</div>
+      {{ end }}
     </a>
 
     <!-- Desktop nav -->
