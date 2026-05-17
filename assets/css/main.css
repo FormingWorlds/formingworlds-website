@@ -238,6 +238,18 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .alumni-grid .team-card .topics { @apply text-xs mt-0.5; }
 .alumni-grid .team-card .flex.items-center { display: none; }
 
+/* Features grid — three-column row on md+ viewports.
+   Inline-defined because Hugo's Tailwind v4 pipe does not reliably emit
+   md:grid-cols-3 utilities that appear only in layout templates. */
+.features-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.75rem;
+}
+@media (min-width: 768px) {
+  .features-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
 /* Hover zoom for image cards */
 .card-img-hover img { transition: transform .5s ease, opacity .2s ease; }
 .card-img-hover:hover img { transform: scale(1.03); }

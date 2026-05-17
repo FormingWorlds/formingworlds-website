@@ -127,7 +127,7 @@
       <p class="text-ink-300 text-xl leading-relaxed">
         {{ .Params.about_text | default "We investigate how rocky planets form, evolve, and develop the conditions for life." }}
       </p>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-7 mt-10">
+      <div class="features-grid mt-10">
         {{ range .Site.Data.features }}
         <div class="pt-4 border-t border-ink-800">
           <h3 class="text-ink-100 text-base font-medium">{{ .title }}</h3>
