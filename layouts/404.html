@@ -1,9 +1,20 @@
 {{ define "main" }}
-<section class="flex items-center justify-center" style="min-height: 80vh; padding-top: 8rem;">
-  <div class="text-center px-6">
-    <h1 class="font-bold text-white" style="font-family: var(--font-heading); font-size: 8rem; margin-bottom: 1rem;">404</h1>
-    <p style="font-size: 1.25rem; color: #cbd5e1; margin-bottom: 2rem;">This page doesn't exist, but habitable worlds might.</p>
-    <a href="/" class="btn-primary">Back to Home</a>
+<section class="flex items-center justify-center relative overflow-hidden" style="min-height: 80vh; padding-top: 9rem;">
+  <div class="text-center px-6 relative z-10">
+    <h1 class="text-ink-100" style="font-family: var(--font-display); font-size: clamp(5rem, 12vw, 10rem); line-height: 1.0; letter-spacing: -0.04em; font-weight: 500;">
+      Lost in <span style="color: var(--color-signal-300);">orbit.</span>
+    </h1>
+    <p class="text-ink-300 text-lg mt-6 max-w-xl mx-auto leading-relaxed">
+      The page you were looking for has drifted somewhere we can't reach. Try one of the entry points below.
+    </p>
+    <div class="flex flex-wrap items-center justify-center gap-3 mt-9">
+      <a href="{{ "/" | relURL }}" class="btn-primary">Home</a>
+      <a href="{{ "/research/" | relURL }}" class="btn-ghost">Research</a>
+      <a href="{{ "/publications/" | relURL }}" class="btn-ghost">Publications</a>
+    </div>
   </div>
+
+  <!-- Soft signal halo behind text -->
+  <div class="absolute inset-0 pointer-events-none" style="background: radial-gradient(60% 50% at 50% 45%, color-mix(in oklch, var(--color-signal-500), transparent 82%), transparent 70%);"></div>
 </section>
 {{ end }}

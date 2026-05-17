@@ -1,48 +1,96 @@
 {{ define "main" }}
-<section style="padding-top: 10rem; padding-bottom: 4rem;">
+
+<!-- ── HEADER ────────────────────────────────────────────────────── -->
+<section style="padding-top: 9rem; padding-bottom: 3.5rem; border-bottom: 1px solid var(--color-ink-800);">
   <div class="container-site">
-    <div class="text-center mb-14">
-      <h1 class="section-heading text-4xl md:text-5xl">Join the Lab</h1>
-    </div>
+    <h1 class="section-heading">Join the lab.</h1>
 
     {{ with .Content }}
-    <div class="prose-content max-w-3xl mx-auto mb-12">
+    <div class="prose-content mt-6 max-w-3xl">
       {{ . }}
     </div>
     {{ end }}
-
-    <!-- Image cards — image above, title below (matching Wix) -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-16 max-w-4xl mx-auto">
-      <!-- PhD Positions -->
-      <a href="{{ "join/phd-positions/" | relURL }}" class="block card-img-hover">
-        <div class="h-56 rounded-xl overflow-hidden mb-3">
-          <img src="{{ "img/groningen/groningen_skyline.webp" | relURL }}" alt="Groningen skyline" class="w-full h-full object-cover">
-        </div>
-        <h3 class="text-white text-lg font-bold">PhD Positions</h3>
-      </a>
-      <!-- Postdoc Positions -->
-      <a href="{{ "join/postdoc-positions/" | relURL }}" class="block card-img-hover">
-        <div class="h-56 rounded-xl overflow-hidden mb-3">
-          <img src="{{ "img/groningen/groningen_forum.webp" | relURL }}" alt="Forum Groningen" class="w-full h-full object-cover">
-        </div>
-        <h3 class="text-white text-lg font-bold">Postdoc Positions</h3>
-      </a>
-      <!-- BSc & MSc Projects -->
-      <a href="{{ "join/student-projects/" | relURL }}" class="block card-img-hover">
-        <div class="h-56 rounded-xl overflow-hidden mb-3">
-          <img src="{{ "img/groningen/groningen_martinitowerpeak.webp" | relURL }}" alt="Martinitower" class="w-full h-full object-cover">
-        </div>
-        <h3 class="text-white text-lg font-bold">BSc & MSc Projects</h3>
-      </a>
-      <!-- Kapteyn & Groningen -->
-      <a href="{{ "kapteyn-groningen/" | relURL }}" class="block card-img-hover">
-        <div class="h-56 rounded-xl overflow-hidden mb-3">
-          <img src="{{ "img/groningen/groningen_martinitower.webp" | relURL }}" alt="Groningen Martinitower" class="w-full h-full object-cover">
-        </div>
-        <h3 class="text-white text-lg font-bold">Kapteyn & Groningen</h3>
-      </a>
-    </div>
-
   </div>
 </section>
+
+<!-- ── POSITION CARDS ───────────────────────────────────────────── -->
+<section style="padding: 4rem 0 3rem;">
+  <div class="container-site">
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+
+      <a href="{{ "join/phd-positions/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 16/10; background: #000;">
+        <img src="{{ "img/groningen/groningen_skyline.webp" | relURL }}" alt="PhD Positions" class="absolute inset-0 w-full h-full object-cover">
+        <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.1) 50%, rgba(8,10,18,.85));"></div>
+        <div class="absolute left-5 right-5 bottom-5">
+          <h3 class="text-white" style="font-family: var(--font-display); font-size: 1.625rem; letter-spacing: -0.015em; font-weight: 500;">PhD positions</h3>
+          <p class="text-white/75 text-sm mt-1.5">4-year fully-funded research positions</p>
+        </div>
+      </a>
+
+      <a href="{{ "join/postdoc-positions/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 16/10; background: #000;">
+        <img src="{{ "img/groningen/groningen_forum.webp" | relURL }}" alt="Postdoc Positions" class="absolute inset-0 w-full h-full object-cover">
+        <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.1) 50%, rgba(8,10,18,.85));"></div>
+        <div class="absolute left-5 right-5 bottom-5">
+          <h3 class="text-white" style="font-family: var(--font-display); font-size: 1.625rem; letter-spacing: -0.015em; font-weight: 500;">Postdoctoral positions</h3>
+          <p class="text-white/75 text-sm mt-1.5">2–3 year research fellowships</p>
+        </div>
+      </a>
+
+      <a href="{{ "join/student-projects/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 16/10; background: #000;">
+        <img src="{{ "img/groningen/groningen_martinitowerpeak.webp" | relURL }}" alt="BSc and MSc Projects" class="absolute inset-0 w-full h-full object-cover">
+        <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.1) 50%, rgba(8,10,18,.85));"></div>
+        <div class="absolute left-5 right-5 bottom-5">
+          <h3 class="text-white" style="font-family: var(--font-display); font-size: 1.625rem; letter-spacing: -0.015em; font-weight: 500;">BSc &amp; MSc projects</h3>
+          <p class="text-white/75 text-sm mt-1.5">Rolling intake for Groningen students</p>
+        </div>
+      </a>
+
+      <a href="{{ "kapteyn-groningen/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 16/10; background: #000;">
+        <img src="{{ "img/groningen/groningen_martinitower.webp" | relURL }}" alt="Kapteyn and Groningen" class="absolute inset-0 w-full h-full object-cover">
+        <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.1) 50%, rgba(8,10,18,.85));"></div>
+        <div class="absolute left-5 right-5 bottom-5">
+          <h3 class="text-white" style="font-family: var(--font-display); font-size: 1.625rem; letter-spacing: -0.015em; font-weight: 500;">Kapteyn &amp; Groningen</h3>
+          <p class="text-white/75 text-sm mt-1.5">About life in the city &amp; institute</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── WHAT WE LOOK FOR / HOW TO APPLY ──────────────────────────── -->
+<section style="padding: 3rem 0 5rem;">
+  <div class="container-site grid md:grid-cols-2 gap-16">
+    <div>
+      <h2 style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: -0.015em; color: var(--color-ink-100); font-weight: 500;">What we look for</h2>
+      <ul class="mt-5 text-ink-300 leading-relaxed space-y-3" style="font-size: 0.9375rem;">
+        <li>Curiosity about rocky-planet evolution — from interiors to atmospheres to observations.</li>
+        <li>Comfort building numerical models and writing scientific code (Python, Fortran, JAX, Julia).</li>
+        <li>Care for the craft: clean repositories, reproducible figures, and shared data products.</li>
+        <li>A collaborative streak — we are a team and we co-author across PhD/postdoc lines.</li>
+      </ul>
+    </div>
+    <div>
+      <h2 style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: -0.015em; color: var(--color-ink-100); font-weight: 500;">How to apply</h2>
+      <ol class="mt-5 space-y-4">
+        <li class="grid grid-cols-[24px_1fr] gap-4 pb-4 border-b border-ink-800">
+          <span class="text-signal-300 text-base">1.</span>
+          <div><div class="text-ink-100 font-medium">Read</div><div class="text-ink-400 text-sm mt-1 leading-relaxed">Skim the relevant position page and the linked recent paper.</div></div>
+        </li>
+        <li class="grid grid-cols-[24px_1fr] gap-4 pb-4 border-b border-ink-800">
+          <span class="text-signal-300 text-base">2.</span>
+          <div><div class="text-ink-100 font-medium">Email Tim</div><div class="text-ink-400 text-sm mt-1 leading-relaxed">A short note (≤ 200 words), a CV, and links to your code.</div></div>
+        </li>
+        <li class="grid grid-cols-[24px_1fr] gap-4 pb-4 border-b border-ink-800">
+          <span class="text-signal-300 text-base">3.</span>
+          <div><div class="text-ink-100 font-medium">Conversation</div><div class="text-ink-400 text-sm mt-1 leading-relaxed">We'll book a 30-minute call to talk about fit and questions.</div></div>
+        </li>
+        <li class="grid grid-cols-[24px_1fr] gap-4">
+          <span class="text-signal-300 text-base">4.</span>
+          <div><div class="text-ink-100 font-medium">Formal application</div><div class="text-ink-400 text-sm mt-1 leading-relaxed">Submit through the official RUG portal if both are interested.</div></div>
+        </li>
+      </ol>
+    </div>
+  </div>
+</section>
+
 {{ end }}

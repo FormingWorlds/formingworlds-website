@@ -1,335 +1,334 @@
 @import "tailwindcss";
 
-/* ─── FormingWorlds Design System ─── */
+/* ────────────────────────────────────────────────────────────────
+   Forming Worlds Lab — Field Station theme
+   Tailwind v4 CSS-first config. Tokens here become utility classes
+   automatically (e.g. --color-signal-500 → bg-signal-500, text-signal-500).
+   ─────────────────────────────────────────────────────────────── */
 
 @theme {
-  /* Color palette — dark navy base, warm accent */
-  --color-navy-950: #060609;
-  --color-navy-900: #0f1629;
-  --color-navy-800: #1a2340;
-  --color-navy-700: #243054;
-  --color-navy-600: #2e3d68;
+  /* ── INK · cool neutral ramp (blue bias) ────────────────────── */
+  --color-ink-0:   #ffffff;
+  --color-ink-50:  oklch(0.972 0.005 240);
+  --color-ink-100: oklch(0.928 0.008 240);
+  --color-ink-200: oklch(0.860 0.010 240);
+  --color-ink-300: oklch(0.760 0.012 240);
+  --color-ink-400: oklch(0.660 0.014 240);
+  --color-ink-500: oklch(0.555 0.016 240);
+  --color-ink-600: oklch(0.430 0.018 240);
+  --color-ink-700: oklch(0.320 0.020 240);
+  --color-ink-800: oklch(0.220 0.022 240);
+  --color-ink-850: oklch(0.170 0.022 240);
+  --color-ink-900: oklch(0.135 0.018 240);
+  --color-ink-950: oklch(0.090 0.012 240);
+  --color-ink-980: oklch(0.055 0.010 240);
 
-  --color-accent-500: #e8913a;
-  --color-accent-400: #f0a45a;
-  --color-accent-600: #d17c2a;
+  /* ── SIGNAL · brand blue · seeded by the logo #0072A1 ───────── */
+  --color-signal-300: oklch(0.80 0.090 233);
+  --color-signal-400: oklch(0.70 0.110 233);
+  --color-signal-500: #0072A1;
+  --color-signal-600: oklch(0.44 0.115 233);
+  --color-signal-700: oklch(0.34 0.095 233);
 
-  --color-sky-400: #5ba3d9;
-  --color-sky-500: #3d8ec9;
-  --color-sky-600: #2a7ab5;
+  /* ── MAGMA · warm accent (planet-formation cue) ─────────────── */
+  --color-magma-300: oklch(0.84 0.090 55);
+  --color-magma-400: oklch(0.75 0.135 50);
+  --color-magma-500: oklch(0.66 0.160 45);
+  --color-magma-600: oklch(0.55 0.150 40);
+  --color-magma-700: oklch(0.42 0.120 35);
 
-  --color-slate-50: #f8fafc;
-  --color-slate-100: #f1f5f9;
-  --color-slate-200: #e2e8f0;
-  --color-slate-300: #cbd5e1;
-  --color-slate-400: #94a3b8;
-  --color-slate-500: #64748b;
-  --color-slate-600: #475569;
-  --color-slate-700: #334155;
-  --color-slate-800: #1e293b;
+  /* ── Backward-compatibility aliases ─────────────────────────────
+     The existing layouts use navy-*, sky-*, accent-* classes.
+     We alias those token names so any straggler utility classes
+     keep producing sensible results. Prefer the new ink-*, signal-*,
+     magma-* names in new work. */
+  --color-navy-950: oklch(0.090 0.012 240);
+  --color-navy-900: oklch(0.135 0.018 240);
+  --color-navy-800: oklch(0.220 0.022 240);
+  --color-navy-700: oklch(0.320 0.020 240);
+  --color-navy-600: oklch(0.430 0.018 240);
 
-  /* Typography */
-  --font-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --font-heading: 'Jost', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --color-sky-300: oklch(0.80 0.090 233);
+  --color-sky-400: oklch(0.70 0.110 233);
+  --color-sky-500: #0072A1;
+  --color-sky-600: oklch(0.44 0.115 233);
 
-  /* Spacing */
-  --container-max: 1200px;
+  --color-accent-300: oklch(0.84 0.090 55);
+  --color-accent-400: oklch(0.75 0.135 50);
+  --color-accent-500: oklch(0.66 0.160 45);
+  --color-accent-600: oklch(0.55 0.150 40);
+
+  /* ── Typography ────────────────────────────────────────────── */
+  --font-sans:    'Geist', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono:    'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+  --font-heading: 'Geist', 'Inter', system-ui, sans-serif;
+  --font-display: 'Geist', 'Inter', system-ui, sans-serif;
+
+  /* ── Layout ────────────────────────────────────────────────── */
+  --container-max: 1280px;
 }
 
-/* ─── Base styles ─── */
+/* ─── Base ─────────────────────────────────────────────────── */
 
 body {
-  @apply bg-navy-950 text-slate-200 font-sans antialiased;
+  @apply text-ink-100 antialiased;
+  background-color: var(--color-ink-950);
+  font-family: var(--font-sans);
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-heading);
-  @apply font-bold tracking-tight;
+  letter-spacing: -0.02em;
+  font-weight: 500;
 }
 
 img {
-  background-color: #060609;
+  background-color: var(--color-ink-980);
   transition: opacity 0.2s ease;
 }
 
 /* Hide images until decoded to prevent white flash in Firefox */
-img:not([data-slide]):not(.loaded) {
-  opacity: 0;
-}
+img:not([data-slide]):not(.loaded) { opacity: 0; }
 
-/* Team card image containers — dark bg visible while images load */
-.team-card {
-  background-color: #060609;
-}
-
-#group-slideshow {
-  background-color: #000;
-}
-
-/* ─── Component classes ─── */
-
+/* ─── Layout container ────────────────────────────────────── */
 .container-site {
   @apply max-w-[var(--container-max)] mx-auto px-6;
 }
 
+/* ─── Buttons ─────────────────────────────────────────────── */
+/* Tailwind v4: @apply cannot reference custom classes from the same file,
+   so the shared button utilities are inlined into each variant. */
 .btn-primary {
-  @apply inline-block bg-accent-500 text-white font-semibold px-6 py-3 rounded-lg
-         hover:bg-accent-600 transition-colors duration-200;
+  @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide
+         transition-colors duration-150 whitespace-nowrap rounded-sm
+         bg-signal-500 text-white hover:bg-signal-400;
+}
+.btn-warm {
+  @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide
+         transition-colors duration-150 whitespace-nowrap rounded-sm
+         bg-magma-500 text-white hover:bg-magma-400;
+}
+.btn-ghost {
+  @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide
+         transition-colors duration-150 whitespace-nowrap rounded-sm
+         border border-ink-700 text-ink-100 hover:border-ink-100;
+}
+.btn-lg { @apply px-6 py-3 text-base; }
+.btn-sm { @apply px-3 py-1.5 text-xs; }
+
+/* ─── Links ───────────────────────────────────────────────── */
+.fw-link {
+  color: var(--color-signal-300);
+  border-bottom: 1px solid color-mix(in oklch, currentColor, transparent 60%);
+  transition: color .15s, border-color .15s;
+}
+.fw-link:hover {
+  color: var(--color-signal-300);
+  border-bottom-color: currentColor;
 }
 
-.btn-outline {
-  @apply inline-block border-2 border-white text-white font-semibold px-6 py-3 rounded-lg
-         hover:bg-white hover:text-navy-900 transition-colors duration-200;
+/* ─── Nav links (transparent over hero) ───────────────────── */
+.nav-link {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.005em;
+  border-bottom: 1px solid transparent;
+  padding-bottom: 4px;
+  transition: color .15s, border-color .15s;
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
+}
+.nav-link:hover { color: #ffffff; }
+.nav-link-active {
+  color: var(--color-signal-300);
+  border-bottom-color: var(--color-magma-500);
 }
 
+/* ─── Section heading ─────────────────────────────────────── */
+.section-heading {
+  @apply text-ink-100;
+  font-family: var(--font-display);
+  font-size: clamp(2.5rem, 4vw + 1rem, 5.5rem);
+  line-height: 1.0;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+
+.section-subheading {
+  @apply text-ink-300;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  max-width: 56rem;
+}
+
+.section-kicker {
+  @apply text-magma-400;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+/* ─── Form inputs ─────────────────────────────────────────── */
+.form-input, .form-field {
+  @apply w-full px-4 py-3 bg-transparent border border-ink-700 rounded-sm
+         text-ink-100 placeholder:text-ink-500
+         focus:outline-none focus:border-signal-400;
+  transition: border-color .15s, background .15s;
+}
+.form-input:focus, .form-field:focus {
+  background: color-mix(in oklch, var(--color-signal-500), transparent 92%);
+}
+.form-label {
+  @apply block text-sm text-ink-400 mb-1.5;
+}
+
+/* ─── Card (research, team, etc.) ─────────────────────────── */
 .card {
-  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
-         hover:border-navy-600 transition-colors duration-200;
+  @apply bg-transparent overflow-hidden;
+}
+.card-bordered {
+  @apply bg-transparent border border-ink-800 overflow-hidden;
 }
 
-.card-padded {
-  @apply bg-navy-800 rounded-xl border border-navy-700 overflow-hidden
-         hover:border-navy-600 transition-colors duration-200 p-6;
-}
-
-/* Team member cards */
+/* ─── Team cards ──────────────────────────────────────────── */
 .team-card {
   background-color: transparent;
-  border-radius: var(--radius-xl);
   overflow: hidden;
-  transition-property: color, background-color, border-color;
-  transition-duration: 200ms;
   width: 100%;
-  max-width: 240px;
+  max-width: 280px;
   margin-inline: auto;
 }
-
 .team-card img {
   transition: transform 0.35s ease, opacity 0.2s ease;
 }
-
 .team-card a:hover img {
-  transform: scale(1.05);
-}
-
-/* Join page & gallery card image hover — gentler than team cards since images are larger */
-.card-img-hover img {
-  transition: transform 0.5s ease, opacity 0.2s ease;
-}
-.card-img-hover:hover img {
   transform: scale(1.03);
 }
-.card-img-hover .gallery-overlay {
-  opacity: 0;
-  transition: opacity 0.5s ease;
-}
-.card-img-hover:hover .gallery-overlay {
-  opacity: 1;
-}
-
-/* Research topic image hover zoom */
-.research-topic-img img {
-  transition: transform 0.35s ease, opacity 0.2s ease;
-}
-
-.research-topic-img:hover img {
-  transform: scale(1.05);
-}
-
 .team-card .team-card-body {
-  @apply p-5;
+  @apply pt-3.5 text-left;
 }
-
 .team-card h3 {
-  @apply text-lg font-bold text-white;
+  @apply text-base text-ink-100 font-medium;
 }
-
 .team-card .role {
-  @apply text-sm text-accent-500 font-medium mt-1;
+  @apply text-sm text-signal-300 mt-1;
 }
-
 .team-card .topics {
-  @apply text-sm text-slate-400 mt-2;
+  @apply text-sm text-ink-400 mt-1;
 }
 
-/* Alumni compact cards */
+/* Alumni grid — compact */
 .alumni-grid .team-card {
   width: 100%;
   max-width: none;
   margin-inline: 0;
 }
 .alumni-grid .team-card img {
-  filter: sepia(0.3) saturate(0.8);
+  filter: grayscale(0.4) brightness(0.85);
 }
 .alumni-grid .team-card .team-card-body {
-  @apply p-3;
+  @apply pt-2.5;
 }
-.alumni-grid .team-card h3 {
-  @apply text-sm font-bold;
-}
-.alumni-grid .team-card .role {
-  @apply text-xs mt-0.5;
-}
-.alumni-grid .team-card .topics {
-  @apply text-xs mt-1;
-}
-.alumni-grid .team-card .flex.items-center {
-  @apply gap-1.5 mt-2;
-}
-.alumni-grid .team-card .flex.items-center svg {
-  @apply w-3 h-3;
-}
+.alumni-grid .team-card h3 { @apply text-sm; }
+.alumni-grid .team-card .role { @apply text-xs mt-0.5 text-ink-400; }
+.alumni-grid .team-card .topics { @apply text-xs mt-0.5; }
+.alumni-grid .team-card .flex.items-center { display: none; }
 
-/* Section styling */
-.section-heading {
-  @apply text-3xl md:text-4xl font-bold text-white mb-4;
-}
+/* Hover zoom for image cards */
+.card-img-hover img { transition: transform .5s ease, opacity .2s ease; }
+.card-img-hover:hover img { transform: scale(1.03); }
+.card-img-hover .gallery-overlay { opacity: 0; transition: opacity .4s ease; }
+.card-img-hover:hover .gallery-overlay { opacity: 1; }
 
-.section-subheading {
-  @apply text-lg text-slate-400 max-w-2xl;
-}
+.research-topic-img img { transition: transform .35s ease, opacity .2s ease; }
+.research-topic-img:hover img { transform: scale(1.05); }
 
-/* Navigation active state */
-.nav-link {
-  @apply text-slate-200 hover:text-white transition-colors duration-200 text-base font-medium tracking-wide;
-}
-
-.nav-link-active {
-  @apply text-sky-400;
-}
-
-/* Prose content */
+/* ─── Prose (markdown content) ────────────────────────────── */
 .prose-content {
-  @apply text-slate-300 leading-relaxed;
+  color: var(--color-ink-200);
+  line-height: 1.65;
+  font-size: 1rem;
 }
-
 .prose-content h2 {
-  @apply text-2xl font-bold text-white mt-10 mb-4;
+  @apply text-ink-100 mt-12 mb-4;
+  font-size: 1.625rem;
+  letter-spacing: -0.015em;
+  font-weight: 500;
 }
-
 .prose-content h3 {
-  @apply text-xl font-bold text-slate-100 mt-8 mb-3;
+  @apply text-ink-100 mt-10 mb-3;
+  font-size: 1.25rem;
+  letter-spacing: -0.01em;
+  font-weight: 500;
 }
-
 .prose-content h4 {
-  @apply text-lg font-bold text-slate-200 mt-6 mb-2;
+  @apply text-ink-100 mt-8 mb-2;
+  font-size: 1.0625rem;
+  font-weight: 500;
 }
-
-.prose-content p {
-  @apply mb-4;
-}
-
-.prose-content ul {
-  @apply list-disc pl-6 mb-4 space-y-1;
-}
-
-.prose-content ol {
-  @apply list-decimal pl-6 mb-4 space-y-1;
-}
-
-.prose-content a {
-  @apply text-sky-400 hover:text-sky-300;
-}
-
+.prose-content p     { @apply mb-4; }
+.prose-content ul    { @apply list-disc pl-6 mb-4 space-y-1; }
+.prose-content ol    { @apply list-decimal pl-6 mb-4 space-y-1; }
+.prose-content a     { color: var(--color-signal-300); border-bottom: 1px solid color-mix(in oklch, currentColor, transparent 60%); }
+.prose-content a:hover { border-bottom-color: currentColor; }
+.prose-content strong { @apply text-ink-100; font-weight: 500; }
 .prose-content blockquote {
-  @apply border-l-4 border-accent-500 pl-4 italic text-slate-400 my-4;
+  @apply pl-4 italic text-ink-400 my-6;
+  border-left: 2px solid var(--color-magma-500);
 }
-
-.prose-content img {
-  @apply rounded-lg my-6;
-}
-
-/* Research page: make figure images larger */
-.prose-content figure {
-  @apply my-6;
-}
-
-.prose-content figure img {
-  @apply w-full rounded-lg;
-}
-
-.prose-content table {
-  @apply w-full border-collapse my-6;
-}
-
+.prose-content img { @apply my-8 w-full; }
+.prose-content figure { @apply my-8; }
+.prose-content figure img { @apply w-full; }
+.prose-content table { @apply w-full border-collapse my-6; }
 .prose-content th {
-  @apply bg-navy-800 text-white text-left px-4 py-2 text-sm font-semibold;
+  @apply text-ink-100 text-left px-4 py-2 text-sm font-medium;
+  border-bottom: 1px solid var(--color-ink-700);
 }
-
 .prose-content td {
-  @apply border-b border-navy-700 px-4 py-2 text-sm text-slate-300;
+  @apply px-4 py-2 text-sm text-ink-300;
+  border-bottom: 1px solid var(--color-ink-800);
 }
+.prose-content hr { @apply my-10; border-color: var(--color-ink-800); }
 
-.prose-content hr {
-  @apply border-navy-600 my-10;
-}
+/* Publications page: compact entry list */
+.presentations-list p { margin-bottom: 0.5rem; font-size: 0.9375rem; line-height: 1.55; }
+.presentations-list h2 { font-size: 1.25rem; margin-top: 2.5rem; margin-bottom: 1rem; }
+.presentations-list h2:first-child { margin-top: 0; }
+.presentations-list hr { margin-top: 2rem; margin-bottom: 0; }
 
 /* Profile page sidebar — stay at top, no sticky */
-.profile-sidebar {
-  align-self: start;
+.profile-sidebar { align-self: start; }
+
+/* ─── Hero overlay gradients ──────────────────────────────── */
+.hero-gradient-bottom {
+  background: linear-gradient(180deg, rgba(8,10,18,.4) 0%, rgba(8,10,18,.05) 35%, rgba(8,10,18,.85));
+}
+.hero-gradient-left {
+  background: linear-gradient(90deg, rgba(8,10,18,.6), transparent 45%);
 }
 
-/* Presentations page: compact entry list */
-.presentations-list p {
-  margin-bottom: 0.375rem;
-  font-size: 0.9375rem;
-  line-height: 1.5;
-}
-.presentations-list h2 {
-  font-size: 1.25rem;
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  color: var(--color-slate-100);
-}
-.presentations-list h2:first-child {
-  margin-top: 0;
-}
-.presentations-list hr {
-  margin-top: 2rem;
-  margin-bottom: 0;
-}
-
-/* Hero section */
-.hero {
-  @apply relative bg-navy-900 text-white overflow-hidden;
-}
-
-.hero-overlay {
-  @apply absolute inset-0 bg-gradient-to-br from-navy-950/80 to-navy-800/60;
-}
-
-/* Footer */
+/* ─── Footer ──────────────────────────────────────────────── */
 .footer {
-  @apply bg-navy-900 text-slate-400 py-10 border-t border-navy-800;
+  background: var(--color-ink-980);
+  color: var(--color-ink-400);
+  padding: 4rem 0 2rem;
+  border-top: 1px solid var(--color-ink-800);
 }
-
 .footer a {
-  @apply text-slate-400 hover:text-white transition-colors;
+  color: var(--color-ink-400);
+  transition: color .15s ease;
 }
+.footer a:hover { color: var(--color-ink-100); }
 
-/* Form styling */
-.form-input {
-  @apply w-full px-4 py-3 border border-navy-700 rounded-lg
-         focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-transparent
-         bg-navy-800 text-slate-200 placeholder-slate-500;
-}
+/* ─── Image gallery — masonry columns ─────────────────────── */
+.gallery-masonry { column-count: 1; column-gap: 1rem; }
+@media (min-width: 640px) { .gallery-masonry { column-count: 2; } }
+@media (min-width: 1024px) { .gallery-masonry { column-count: 3; } }
+.gallery-masonry > * { break-inside: avoid; margin-bottom: 1rem; }
 
-.form-label {
-  @apply block text-sm font-medium text-slate-300 mb-1;
-}
-
-/* Image gallery — masonry columns */
-.gallery-masonry {
-  column-count: 1;
-  column-gap: 1rem;
-}
-@media (min-width: 640px) {
-  .gallery-masonry { column-count: 2; }
-}
-@media (min-width: 1024px) {
-  .gallery-masonry { column-count: 3; }
-}
-.gallery-masonry > * {
-  break-inside: avoid;
-  margin-bottom: 1rem;
-}
+/* ─── Slideshow background ────────────────────────────────── */
+#group-slideshow { background-color: #000; }
