@@ -119,9 +119,10 @@
         {{ .Params.about_heading | default "Forming Worlds Lab." }}
       </h2>
       <p class="text-ink-400 mt-5 text-sm">Kapteyn Astronomical Institute · University of Groningen</p>
-      <a href="{{ "/join/" | relURL }}" class="fw-link inline-block mt-5 text-sm" style="border-bottom: none; color: var(--color-signal-300);">
-        Open positions →
-      </a>
+      <div class="flex flex-wrap items-center gap-3 mt-6">
+        <a href="{{ "/research/" | relURL }}" class="btn-primary">Our research</a>
+        <a href="{{ "/team/" | relURL }}" class="btn-ghost">Meet the team</a>
+      </div>
     </div>
     <div>
       <p class="text-ink-300 text-xl leading-relaxed">
@@ -134,10 +135,6 @@
           <p class="text-ink-400 text-sm mt-2 leading-relaxed">{{ .description }}</p>
         </div>
         {{ end }}
-      </div>
-      <div class="flex flex-wrap items-center gap-3 mt-10">
-        <a href="{{ "/research/" | relURL }}" class="btn-primary">Our research</a>
-        <a href="{{ "/team/" | relURL }}" class="btn-ghost">Meet the team</a>
       </div>
     </div>
   </div>
