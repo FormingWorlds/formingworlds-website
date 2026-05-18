@@ -165,7 +165,7 @@ Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model
 
 ## Numerical Methods & Instrumentation
 
-**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
+**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://scixplorer.org/abs/2025JOSS...10.7726N/abstract) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
 
 Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
 
