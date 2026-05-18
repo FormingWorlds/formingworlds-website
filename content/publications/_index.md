@@ -127,7 +127,7 @@ Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun's nata
 
 ## Reviews
 
-**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)
+**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://arxiv.org/pdf/2510.08844)
 
 **Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L) *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)
 
