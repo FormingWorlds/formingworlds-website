@@ -125,23 +125,17 @@ Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tect
 
 Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz. [Direct imaging of molten protoplanets in nearby young stellar associations.](https://scixplorer.org/abs/2019A%26A...621A.125B/abstract) *Astronomy & Astrophysics* 621, A125 (2019). [pdf](https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf), [blog](http://bit.ly/Bonati18)
 
-<p class="year-divider">2018</p>
+<p class="year-divider">≤2018</p>
 
 Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler. [Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling.](https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract) *Earth and Planetary Science Letters* 482, 490-500 (2018). [pdf](https://arxiv.org/pdf/1802.10421.pdf)
 
 **Lichtenberg T**, GJ Golabek, CP Dullemond, M Schönbächler, TV Gerya, MR Meyer. [Impact splash chondrule formation during planetesimal recycling.](https://scixplorer.org/abs/2018Icar..302...27L) *Icarus* 302, 27–43 (2018). [pdf](https://arxiv.org/pdf/1711.02103.pdf), [blog](http://goo.gl/5bDqGC)
 
-<p class="year-divider">2017</p>
-
 Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun's natal star-forming region?](https://scixplorer.org/abs/2017MNRAS.472L..75P) *Monthly Notices of the Royal Astronomical Society: Letters* 472, L75–L79 (2017). [pdf](https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf)
-
-<p class="year-divider">2016</p>
 
 **Lichtenberg T**, RJ Parker, MR Meyer. [Isotopic enrichment of forming planetary systems from supernova pollution.](https://scixplorer.org/abs/2016MNRAS.462.3979L) *Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf), [video](http://bit.ly/supernova_pollution), [blog](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/)
 
 **Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer. [The effects of short-lived radionuclides and porosity on the early thermo-mechanical evolution of planetesimals.](https://scixplorer.org/abs/2016Icar..274..350L) *Icarus* 274, 350–365 (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution), [blog](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/)
-
-<p class="year-divider">2015</p>
 
 **Lichtenberg T** & DRG Schleicher. [Modeling gravitational instabilities in self-gravitating protoplanetary disks with adaptive mesh refinement techniques.](https://scixplorer.org/abs/2015A%26A...579A..32L/abstract) *Astronomy & Astrophysics* 579, A32 (2015). [pdf](https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf), [video](http://bit.ly/gi_disk)
 
@@ -231,19 +225,13 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
-<p class="year-divider">2022</p>
+<p class="year-divider">≤2022</p>
 
 **Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).
 
-<p class="year-divider">2019</p>
-
 **Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).
 
-<p class="year-divider">2018</p>
-
 **Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)
-
-<p class="year-divider">&lt;2018</p>
 
 **Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).
 
