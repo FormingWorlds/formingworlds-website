@@ -26,6 +26,9 @@
             Landleven 12, 9747 AD<br>
             Groningen, The Netherlands
           </p>
+          <p class="mt-3 text-sm">
+            <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="text-signal-300 hover:text-signal-400">How to get to Kapteyn →</a>
+          </p>
         </div>
 
         <div>
@@ -53,51 +56,10 @@
       </div>
     </div>
 
-    <!-- Right: form -->
-    <div class="border border-ink-800 p-8 md:p-10">
-      <h2 style="font-family: var(--font-display); font-size: 1.375rem; letter-spacing: -0.015em; color: var(--color-ink-100); font-weight: 500;">Send a message</h2>
-      <form action="https://formspree.io/f/{{ .Site.Params.formspree.formId }}" method="POST" class="mt-7 space-y-5">
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          <div>
-            <label for="first-name" class="form-label">First name</label>
-            <input type="text" id="first-name" name="first_name" class="form-input">
-          </div>
-          <div>
-            <label for="last-name" class="form-label">Last name</label>
-            <input type="text" id="last-name" name="last_name" class="form-input">
-          </div>
-        </div>
-        <div>
-          <label for="email" class="form-label">Email <span class="text-magma-500">*</span></label>
-          <input type="email" id="email" name="_replyto" required class="form-input">
-        </div>
-        <div>
-          <label for="subject" class="form-label">Subject</label>
-          <select id="subject" name="subject" class="form-input">
-            <option value="General inquiry">General inquiry</option>
-            <option value="PhD position">PhD position</option>
-            <option value="Postdoc position">Postdoc position</option>
-            <option value="Student project">Student project</option>
-            <option value="Collaboration">Collaboration</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
-        <div>
-          <label for="message" class="form-label">Message</label>
-          <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
-        </div>
-        <button type="submit" class="btn-primary w-full justify-center">Send →</button>
-      </form>
-    </div>
-  </div>
-</section>
-
-<!-- ── GETTING TO KAPTEYN CTA ───────────────────────────────────── -->
-<section style="padding: 0 0 5rem;">
-  <div class="container-site">
-    <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 21/6; background: #000;">
+    <!-- Right: Getting to Kapteyn CTA (vertical) -->
+    <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="background: #000; min-height: 400px;">
       <img src="{{ "img/groningen/zernike_feringa.webp" | relURL }}" alt="Zernike Campus, Feringa Building" class="absolute inset-0 w-full h-full object-cover">
-      <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.2) 40%, rgba(8,10,18,.85));"></div>
+      <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.2) 40%, rgba(8,10,18,.9));"></div>
       <div class="absolute left-6 right-6 bottom-6">
         <h2 class="text-white" style="font-family: var(--font-display); font-size: clamp(1.5rem, 1.6vw + 1rem, 2.25rem); letter-spacing: -0.015em; font-weight: 500;">How to get to Kapteyn →</h2>
         <p class="text-white/75 text-sm mt-1.5">Directions, transport options, and finding the entrance on Zernike Campus</p>
