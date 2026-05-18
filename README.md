@@ -125,7 +125,7 @@ If you change the custom domain in GitHub Pages settings, re-trigger a deploy: t
 
 `https://go.formingworlds.space/<slug>` 302-redirects to a target URL stored in Cloudflare KV. The same Worker also serves `timlichtenberg.net/<slug>` (slugs prefixed `tl:` in KV, fall through to `/team/tim-lichtenberg/`).
 
-Implementation lives in `workers/shortlinks/`; see `workers/shortlinks/README.md` for the add/update/delete workflow and where the Cloudflare API token is stored. The Worker deploys via `wrangler` and is independent of the Hugo build.
+Implementation lives in `workers/shortlinks/`; see `workers/shortlinks/README.md` for the add/update/delete workflow. The Worker deploys via `wrangler` and is independent of the Hugo build.
 
 ## Repo conventions
 
