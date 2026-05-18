@@ -78,8 +78,8 @@
   {
     "title": "Star Formation",
     "image": "/img/research/research_star_formation.webp",
-    "alt": "Star-forming region",
+    "alt": "JWST near-infrared view of the Serpens Nebula showing young protostars, jets and dust filaments",
     "text": "The Sun formed alongside many, perhaps thousands, of stellar siblings within a giant molecular cloud. These stars interacted intensely after birth: UV radiation and outflows from massive neighbours can truncate protoplanetary disks, shut off mass flow from outer disk regions, or deliver short-lived isotopes that alter the thermal structure of forming terrestrial planets.\n\nWe constrain and quantify these processes to understand the statistics and environmental influences on planetary systems during their birth. These birth environment constraints are essential for a complete picture of what shapes the life cycle of rocky worlds.",
-    "credit": "ESA/Hubble/NASA/Aloisi/Ford/J. Schmidt"
+    "credit": "NASA, ESA, CSA, STScI / K. Pontoppidan, J. Green"
   }
 ]
