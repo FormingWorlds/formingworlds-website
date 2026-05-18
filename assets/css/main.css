@@ -228,7 +228,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   margin-inline: 0;
 }
 .alumni-grid .team-card img {
-  filter: grayscale(0.4) brightness(0.85);
+  filter: sepia(0.3) saturate(0.8);
 }
 .alumni-grid .team-card .team-card-body {
   @apply pt-2.5;
