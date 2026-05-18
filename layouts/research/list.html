@@ -40,7 +40,7 @@
         <img src="{{ $topic.image }}" alt="{{ $topic.alt }}" class="absolute inset-0 w-full h-full object-cover"{{ if gt $i 1 }} loading="lazy"{{ end }}>
         {{ with $topic.credit }}
         <div class="absolute bottom-3 right-3 z-10">
-          <p class="text-xs" style="color: rgba(255, 255, 255, 0.50);">{{ . }}</p>
+          <p class="text-xs" style="color: rgba(255, 255, 255, 0.20);">{{ . }}</p>
         </div>
         {{ end }}
       </div>
@@ -50,7 +50,7 @@
         <img src="{{ $topic.image }}" alt="{{ $topic.alt }}" class="absolute inset-0 w-full h-full object-cover"{{ if gt $i 1 }} loading="lazy"{{ end }}>
         {{ with $topic.credit }}
         <div class="absolute z-10" style="bottom: 0.75rem; left: 0.75rem;">
-          <p class="text-xs" style="color: rgba(255, 255, 255, 0.50);">{{ . }}</p>
+          <p class="text-xs" style="color: rgba(255, 255, 255, 0.20);">{{ . }}</p>
         </div>
         {{ end }}
       </div>
