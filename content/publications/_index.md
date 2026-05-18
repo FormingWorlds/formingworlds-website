@@ -195,7 +195,11 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 ## PhD, MSc & BSc Theses {#theses}
 
+<p class="year-divider">2026</p>
+
 **Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca) DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)
+
+<p class="year-divider">2025</p>
 
 **Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
 
@@ -207,6 +211,8 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Marguerite (Anvel) de Sainte Marie d'Agneaux**, *Timescale of ocean formation and their composition on Earth-like exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
 
+<p class="year-divider">2024</p>
+
 **Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
 **Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
@@ -214,6 +220,8 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 **Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
 **Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).
+
+<p class="year-divider">2023</p>
 
 **Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
@@ -223,11 +231,19 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
+<p class="year-divider">2022</p>
+
 **Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).
+
+<p class="year-divider">2019</p>
 
 **Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).
 
+<p class="year-divider">2018</p>
+
 **Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)
+
+<p class="year-divider">&lt;2018</p>
 
 **Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).
 
