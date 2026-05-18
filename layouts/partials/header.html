@@ -4,7 +4,7 @@
 */}}
 {{ $isHome := .IsHome }}
 <header class="{{ if $isHome }}absolute{{ else }}relative{{ end }} top-0 left-0 right-0 z-50 {{ if not $isHome }}bg-ink-980 border-b border-ink-800{{ end }}">
-  <nav class="container-site flex items-center justify-between" style="height: 100px; padding-top: 20px;">
+  <nav class="container-site flex items-center justify-between" style="height: 120px; padding-top: 20px;">
     <!-- Logo (inline SVG so transparency survives the image compositing pipeline) -->
     <a href="{{ "/" | relURL }}" class="flex items-center" aria-label="Forming Worlds home">
       {{ with resources.Get "img/brand/logo-white.svg" }}
