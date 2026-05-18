@@ -121,13 +121,13 @@
       <p class="text-ink-400 mt-5 text-sm">Kapteyn Astronomical Institute · University of Groningen</p>
       <div class="flex flex-wrap items-center gap-3 mt-6">
         <a href="{{ "/research/" | relURL }}" class="btn-primary">Our research</a>
-        <a href="{{ "/team/" | relURL }}" class="btn-ghost">Meet the team</a>
         <a href="{{ "/publications/" | relURL }}" class="btn-ghost">Publications</a>
+        <a href="{{ "/team/" | relURL }}" class="btn-ghost">Meet the team</a>
       </div>
     </div>
     <div>
       <p class="text-ink-300 text-xl leading-relaxed">
-        {{ .Params.about_text | default "We investigate how rocky planets form, evolve, and develop the conditions for life." }}
+        {{ .Params.about_text | default "We investigate how rocky planets form, evolve, and develop the conditions for life." | safeHTML }}
       </p>
     </div>
   </div>
