@@ -13,3 +13,11 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+.playwright-mcp/
+
+# Stray root-level images (verification screenshots, source dumps)
+/*.png
+/*.jpg
+/*.jpeg
+/*.avif
+/*.webp

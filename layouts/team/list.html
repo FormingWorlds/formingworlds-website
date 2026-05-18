@@ -1,90 +1,91 @@
 {{ define "main" }}
-<section style="padding-top: 10rem; padding-bottom: 4rem;">
+
+<!-- ── HEADER ────────────────────────────────────────────────────── -->
+<section style="padding-top: 6rem; padding-bottom: 4rem; border-bottom: 1px solid var(--color-ink-800);">
   <div class="container-site">
-    <div class="mb-10">
-      <h1 class="section-heading text-4xl md:text-5xl">Our Team</h1>
-      {{ with .Content }}
-      <div class="prose-content max-w-3xl mt-4">
-        {{ . }}
-      </div>
-      {{ end }}
+    <h1 class="section-heading">Our team.</h1>
+
+    {{ with .Content }}
+    <div class="prose-content mt-6" style="max-width: calc(var(--container-max) * 2 / 3);">
+      {{ . }}
     </div>
+    {{ end }}
+  </div>
+</section>
 
-    {{/* Render team from data/team.json — current members as flat grid, then group photo, then alumni */}}
+<!-- ── ROSTER GRID ──────────────────────────────────────────────── -->
+<section style="padding: 4rem 0 5rem;">
+  <div class="container-site">
     {{ $team := .Site.Data.team }}
-
-    {{/* Current members: everyone except alumni */}}
     {{ $current := where $team "group" "!=" "alumni" }}
     {{ with $current }}
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-8">
       {{ range . }}
       {{ partial "team-card-data.html" . }}
       {{ end }}
     </div>
     {{ end }}
-
   </div>
 </section>
 
-{{/* Group photo slideshow — full-width, auto-cycling */}}
-<section class="py-12">
+<!-- ── GROUP PHOTO ──────────────────────────────────────────────── -->
+<section style="background: var(--color-ink-980); border-top: 1px solid var(--color-ink-800); padding: 5rem 0;">
   <div class="container-site">
-    <div class="relative max-w-3xl mx-auto overflow-hidden rounded-xl bg-black" style="aspect-ratio: 16/9;" id="group-slideshow">
+    <h2 class="section-heading mb-8" style="font-size: clamp(1.75rem, 2vw + 1rem, 2.5rem);">The lab in person.</h2>
+
+    <div class="relative max-w-4xl mx-auto overflow-hidden" style="aspect-ratio: 16/9; background: #000;" id="group-slideshow">
       {{ range $i, $slide := .Site.Data.group_photos }}
-      <img src="{{ .image }}" alt="{{ .caption }}" decoding="async" class="absolute inset-0 w-full h-full object-contain transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}" data-slide="{{ $i }}">
+      <img src="{{ .image }}" alt="{{ .caption }}" decoding="async"
+           {{ if eq $i 0 }}fetchpriority="high"{{ else }}loading="lazy" fetchpriority="low"{{ end }}
+           class="absolute inset-0 w-full h-full object-contain transition-opacity duration-1000 {{ if eq $i 0 }}opacity-100{{ else }}opacity-0{{ end }}"
+           data-slide="{{ $i }}">
       {{ end }}
-      <!-- Navigation arrows -->
-      <button id="slide-prev" aria-label="Previous photo" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8249;</button>
-      <button id="slide-next" aria-label="Next photo" style="position:absolute;right:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;border-radius:50%;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8250;</button>
+      <button id="slide-prev" aria-label="Previous photo" style="position:absolute;left:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8249;</button>
+      <button id="slide-next" aria-label="Next photo" style="position:absolute;right:12px;top:50%;transform:translateY(-50%);z-index:50;width:44px;height:44px;background:rgba(0,0,0,0.5);color:white;font-size:24px;line-height:1;border:none;cursor:pointer;display:flex;align-items:center;justify-content:center;">&#8250;</button>
     </div>
-    <p class="text-slate-400 text-sm mt-3 italic text-center" id="group-caption">
+    <p class="text-ink-400 text-sm mt-4 italic text-center max-w-4xl mx-auto" id="group-caption">
       {{ with index .Site.Data.group_photos 0 }}{{ .caption }}{{ end }}
     </p>
   </div>
+
   <script>
-    (function() {
-      const slides = document.querySelectorAll('#group-slideshow img[data-slide]');
-      const caption = document.getElementById('group-caption');
-      const captions = [{{ range .Site.Data.group_photos }}"{{ .caption }}",{{ end }}];
-      let current = 0;
-      if (slides.length < 2) return;
+  (function() {
+    const slides = document.querySelectorAll('#group-slideshow img[data-slide]');
+    const caption = document.getElementById('group-caption');
+    const captions = [{{ range .Site.Data.group_photos }}"{{ .caption }}",{{ end }}];
+    let current = 0;
+    if (slides.length < 2) return;
 
-      function goTo(next) {
-        slides[current].classList.replace('opacity-100', 'opacity-0');
-        current = (next + slides.length) % slides.length;
-        slides[current].classList.replace('opacity-0', 'opacity-100');
-        caption.textContent = captions[current];
-        resetTimer();
-      }
+    function goTo(next) {
+      slides[current].classList.replace('opacity-100', 'opacity-0');
+      current = (next + slides.length) % slides.length;
+      slides[current].classList.replace('opacity-0', 'opacity-100');
+      caption.textContent = captions[current];
+      resetTimer();
+    }
+    let timer = setInterval(function() { goTo(current + 1); }, 5000);
+    function resetTimer() { clearInterval(timer); timer = setInterval(function() { goTo(current + 1); }, 5000); }
 
-      let timer = setInterval(function() { goTo(current + 1); }, 5000);
-      function resetTimer() {
-        clearInterval(timer);
-        timer = setInterval(function() { goTo(current + 1); }, 5000);
-      }
-
-      document.getElementById('slide-prev').addEventListener('click', function() { goTo(current - 1); });
-      document.getElementById('slide-next').addEventListener('click', function() { goTo(current + 1); });
-    })();
+    document.getElementById('slide-prev').addEventListener('click', function() { goTo(current - 1); });
+    document.getElementById('slide-next').addEventListener('click', function() { goTo(current + 1); });
+  })();
   </script>
 </section>
 
-<section class="pt-20 pb-16">
+<!-- ── ALUMNI ───────────────────────────────────────────────────── -->
+{{ $team := .Site.Data.team }}
+{{ $alumni := where $team "group" "alumni" }}
+{{ with $alumni }}
+<section style="padding: 5rem 0; border-top: 1px solid var(--color-ink-800);">
   <div class="container-site">
-
-    {{/* Previous members — compact card grid with images, no social icons */}}
-    {{ $alumni := where $team "group" "alumni" }}
-    {{ with $alumni }}
-    <div class="mb-16">
-      <h2 class="text-3xl font-bold text-white mb-8">Previous Members</h2>
-      <div class="alumni-grid grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-        {{ range . }}
-        {{ partial "team-card-data.html" (merge . (dict "hideLinks" true)) }}
-        {{ end }}
-      </div>
+    <h2 class="section-heading mb-10" style="font-size: clamp(1.75rem, 2vw + 1rem, 2.5rem);">Previous members.</h2>
+    <div class="alumni-grid grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-5">
+      {{ range . }}
+      {{ partial "team-card-data.html" (merge . (dict "hideLinks" true)) }}
+      {{ end }}
     </div>
-    {{ end }}
-
   </div>
 </section>
+{{ end }}
+
 {{ end }}

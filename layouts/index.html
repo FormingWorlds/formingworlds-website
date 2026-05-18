@@ -1,26 +1,28 @@
 {{ define "main" }}
 
-<!-- Full-viewport slideshow -->
-<section id="slideshow" class="relative w-full h-screen overflow-hidden">
+<!-- ───────────────────────── HERO · full-viewport slideshow ──────────── -->
+<section id="slideshow" class="relative w-full overflow-hidden" style="height: 100vh;">
 
-  <!-- Slides: only the first slide loads its background image eagerly (LCP). The rest are loaded by JS. -->
   {{ range $i, $slide := .Site.Data.slides }}
   <div class="slide absolute inset-0 transition-opacity duration-1000 ease-in-out {{ if eq $i 0 }}opacity-100 z-10{{ else }}opacity-0 z-0{{ end }}"
        {{ if eq $i 0 }}style="background-image: url('{{ $slide.image }}'); background-size: cover; background-position: center;"
        {{ else }}data-bg="{{ $slide.image }}" style="background-size: cover; background-position: center;"
        {{ end }}>
-    <!-- Dark gradient overlay -->
-    <div class="absolute inset-0 bg-gradient-to-t from-navy-950/90 via-navy-950/30 to-transparent"></div>
-    <!-- Question text -->
-    <div class="absolute inset-0 flex items-center justify-center px-8">
-      <p class="text-3xl md:text-5xl lg:text-6xl text-white text-center max-w-4xl leading-tight font-bold drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]" style="font-family: var(--font-heading);">
+    <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.55) 0%, rgba(8,10,18,.15) 35%, rgba(8,10,18,.85) 100%);"></div>
+    <div class="absolute inset-0" style="background: linear-gradient(90deg, rgba(8,10,18,.4), transparent 45%);"></div>
+
+    <!-- Just the question -->
+    <div class="absolute inset-0 flex items-center px-8 md:px-16 lg:px-20">
+      <p class="text-white"
+         style="font-family: var(--font-display); font-size: clamp(2.5rem, 6vw + .5rem, 6.5rem); line-height: 1.02; letter-spacing: -0.03em; max-width: 1100px; font-weight: 500;">
         {{ $slide.question }}
       </p>
     </div>
+
     <!-- Image credit -->
     {{ with $slide.credit }}
-    <div class="absolute bottom-4 left-6 z-20">
-      <p class="text-xs text-white/20">{{ . }}</p>
+    <div class="absolute bottom-6 right-6 z-20">
+      <p class="text-xs" style="color: rgba(255, 255, 255, 0.10);">{{ . }}</p>
     </div>
     {{ end }}
   </div>
@@ -28,21 +30,22 @@
 
   <!-- Left arrow -->
   <button onclick="prevSlide()" aria-label="Previous slide"
-          class="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 text-white/40 hover:text-white text-3xl md:text-4xl transition-colors cursor-pointer select-none">
+          class="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 text-white/35 hover:text-white text-4xl transition-colors cursor-pointer select-none">
     ‹
   </button>
 
   <!-- Right arrow -->
   <button onclick="nextSlide()" aria-label="Next slide"
-          class="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 text-white/40 hover:text-white text-3xl md:text-4xl transition-colors cursor-pointer select-none">
+          class="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 text-white/35 hover:text-white text-4xl transition-colors cursor-pointer select-none">
     ›
   </button>
 
-  <!-- Slide indicator dots -->
-  <div class="absolute bottom-8 left-1/2 -translate-x-1/2 z-20 flex items-center gap-2.5">
+  <!-- Slide indicator: progress bars (Field Station) -->
+  <div class="absolute bottom-8 left-8 md:left-16 z-20 flex items-center gap-2">
     {{ range $i, $slide := .Site.Data.slides }}
     <button onclick="goToSlide({{ $i }})" aria-label="Go to slide {{ add $i 1 }}"
-            class="slide-dot w-2.5 h-2.5 rounded-full transition-all duration-300 cursor-pointer {{ if eq $i 0 }}bg-white{{ else }}bg-white/40 hover:bg-white/70{{ end }}"></button>
+            class="slide-dot transition-all duration-300 cursor-pointer"
+            style="height: 2px; width: {{ if eq $i 0 }}40px{{ else }}22px{{ end }}; background: {{ if eq $i 0 }}var(--color-magma-500){{ else }}rgba(255,255,255,.25){{ end }};"></button>
     {{ end }}
   </div>
 
@@ -53,7 +56,6 @@
   const slides = document.querySelectorAll('.slide');
   let current = 0;
 
-  // Load a deferred slide's background image on demand
   function loadSlideBg(slide) {
     var bg = slide.getAttribute('data-bg');
     if (bg) {
@@ -62,7 +64,6 @@
     }
   }
 
-  // Preload the next slide's image so it's ready before the transition
   function preloadAdjacent() {
     var next = (current + 1) % slides.length;
     var prev = (current - 1 + slides.length) % slides.length;
@@ -70,20 +71,14 @@
     loadSlideBg(slides[prev]);
   }
 
-  // Load the second slide after page load so it's ready for the first transition
   window.addEventListener('load', preloadAdjacent);
 
   const dots = document.querySelectorAll('.slide-dot');
 
   function updateDots() {
     dots.forEach((dot, i) => {
-      if (i === current) {
-        dot.classList.add('bg-white');
-        dot.classList.remove('bg-white/40', 'hover:bg-white/70');
-      } else {
-        dot.classList.remove('bg-white');
-        dot.classList.add('bg-white/40', 'hover:bg-white/70');
-      }
+      dot.style.width = (i === current) ? '40px' : '22px';
+      dot.style.background = (i === current) ? 'var(--color-magma-500)' : 'rgba(255,255,255,.25)';
     });
   }
 
@@ -100,13 +95,8 @@
     preloadAdjacent();
   }
 
-  function nextSlide() {
-    goToSlide(current + 1);
-  }
-
-  function prevSlide() {
-    goToSlide(current - 1);
-  }
+  function nextSlide() { goToSlide(current + 1); }
+  function prevSlide() { goToSlide(current - 1); }
 
   setInterval(nextSlide, 5000);
 
@@ -115,32 +105,30 @@
     if (e.key === 'ArrowRight') nextSlide();
   });
 
-  // Expose to global scope for inline onclick handlers
   window.goToSlide = goToSlide;
   window.nextSlide = nextSlide;
   window.prevSlide = prevSlide;
 })();
 </script>
 
-<!-- About section below slideshow -->
-<section style="padding-top: 6rem; padding-bottom: 6rem;">
-  <div class="container-site text-center max-w-4xl">
-    <h2 class="text-3xl md:text-4xl font-bold text-white mb-6" style="font-family: var(--font-heading);">Forming Worlds Lab</h2>
-    <p class="text-lg text-slate-300 leading-relaxed mb-10">
-      We investigate how rocky planets form, evolve, and develop the conditions for life. Our research connects planetary interiors, atmospheres, and climates across cosmic time, combining numerical modelling with observational constraints from the Solar System and exoplanets.
-    </p>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
-      {{ range .Site.Data.features }}
-      <div class="p-6">
-        <div class="text-4xl mb-4">{{ .icon }}</div>
-        <h3 class="text-white font-bold text-lg mb-2" style="font-family: var(--font-heading);">{{ .title }}</h3>
-        <p class="text-slate-400 text-sm">{{ .description }}</p>
+<!-- ───────────────────────── ABOUT ───────────────────────────────────── -->
+<section style="padding-top: 6rem; padding-bottom: 5rem; border-top: 1px solid var(--color-ink-800);">
+  <div class="container-site grid md:grid-cols-[1fr_1.4fr] gap-20">
+    <div>
+      <h2 class="section-heading" style="font-size: clamp(2.25rem, 3vw + 1rem, 4rem);">
+        {{ .Params.about_heading | default "Forming Worlds Lab." }}
+      </h2>
+      <p class="text-ink-400 mt-5 text-sm">Kapteyn Astronomical Institute · University of Groningen</p>
+      <div class="flex flex-wrap items-center gap-3 mt-6">
+        <a href="{{ "/research/" | relURL }}" class="btn-primary">Our research</a>
+        <a href="{{ "/publications/" | relURL }}" class="btn-ghost">Publications</a>
+        <a href="{{ "/team/" | relURL }}" class="btn-ghost">Meet the team</a>
       </div>
-      {{ end }}
     </div>
-    <div class="flex items-center justify-center gap-4">
-      <a href="/research/" class="btn-primary">Our Research</a>
-      <a href="/join/" class="btn-outline">Join the Lab</a>
+    <div>
+      <p class="text-ink-300 text-xl leading-relaxed">
+        {{ .Params.about_text | default "We investigate how rocky planets form, evolve, and develop the conditions for life." | safeHTML }}
+      </p>
     </div>
   </div>
 </section>

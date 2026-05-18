@@ -38,15 +38,37 @@ hugo.toml            Site config, menus, params
 
 ## Design system
 
-Dark navy theme defined in `assets/css/main.css` `@theme` block:
+Authoritative reference: the comment block at the top of `assets/css/main.css`. Summary of the current Field Station design language:
 
-- **Background**: `bg-navy-950` (#060609, near-black)
-- **Cards**: `bg-transparent` for team cards; `bg-navy-800 border-navy-700` for general cards
-- **Text**: `text-slate-200` body, `text-white` headings
-- **Links**: `text-sky-400 hover:text-sky-300` in prose
-- **Buttons**: `bg-sky-600 hover:bg-sky-500` or `bg-accent-500 hover:bg-accent-600`
-- **Heading font**: Jost (Google Fonts, free Futura alternative) via `--font-heading`
-- **Body font**: Helvetica Neue via `--font-sans`
+**Palette** (three-token system, defined in `@theme`):
+- **Ink** — cool neutral ramp, ink-50 (near-white) through ink-980 (near-black). Page background is ink-950; body text ink-100/200; muted body ink-300/400; section borders ink-700/800.
+- **Signal** — brand blue, seeded by the logo (#0072A1 at signal-500). Used for links (signal-300, hover signal-400) and primary CTAs (.btn-primary fills signal-500/400).
+- **Magma** — warm planet-formation accent. Used for important callouts and the .btn-warm CTA variant. Patterns: full callout box (background + left border + magma-300 text, see join/single.html deadline alert) or left-border sidenote (border + magma-300 text only).
+
+**Typography**:
+- Display/heading font: Geist (via Google Fonts).
+- Section headings use **sentence-case ending in a period**: "Our team.", "Publications.", "Research.". The period is the design's tic; never drop it.
+- Small section labels (sidebar h3s, year dividers): `text-xs uppercase tracking-wider text-ink-400`.
+- Long-form text via `.prose-content` (line-height 1.65, ink-200, signal-300 links, h2/h3/h4 spacing built in).
+
+**Component primitives** (all defined in `assets/css/main.css`):
+`.container-site`, `.btn-primary` / `.btn-ghost` / `.btn-warm` (+ `.btn-sm` / `.btn-lg`), `.team-card`, `.alumni-grid`, `.prose-content`, `.year-divider`, `.gallery-masonry`.
+
+**Layout primitives**:
+- Container max-width: `var(--container-max)` = 1280px.
+- Navbar: 120px tall, items vertically centered, no internal padding (height does the spacing).
+- Hero section padding-top: **6rem** across all top-level pages (matches the navbar bump).
+- Hero intro paragraphs widen to **2/3 container** via `style="max-width: calc(var(--container-max) * 2 / 3)"` (~853px at the widest viewport).
+- Section vertical padding: typically `padding: 4rem 0 5rem`.
+
+**Design anti-patterns to avoid**:
+- New color/font tokens outside the ink / signal / magma vocabulary. Extend if absolutely necessary; otherwise reuse.
+- Raw hex codes in component CSS. Always reference `var(--color-*)` so `@theme` stays the single source of truth.
+- Arbitrary-value Tailwind utilities in layouts (`gap-3`, `py-32`, `grid-cols-[24px_1fr]`, etc.). Hugo's TW4 pipe doesn't reliably emit them; use inline `style=""` or define a class in `main.css`.
+- Em-dashes / en-dashes in user-facing copy. Use commas, semicolons, colons, or parentheses.
+- Orphan data files (data/*.json without a layout that consumes them).
+
+Background context: `navy-*` / `sky-*` / `accent-*` tokens from the original Wix port still exist as aliases in `@theme` and are mapped to the current ink/signal/magma values. Don't author new work against those names.
 
 ## Key conventions
 

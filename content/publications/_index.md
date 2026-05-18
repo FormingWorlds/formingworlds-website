@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: "Peer-reviewed publications, preprints, and theses from the Forming Worlds Lab."
+description: "Peer-reviewed publications, preprints, reviews, and theses from the Forming Worlds Lab."
 sitemap:
   priority: 0.8
 ---
@@ -13,21 +13,25 @@ sitemap:
 
 Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)
 
-Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
-
 ### Published & Accepted
 
-**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)
+<p class="year-divider">2026</p>
+
+Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) *Monthly Notices of the Royal Astronomical Society*, in press (2026). [pdf](https://arxiv.org/pdf/2512.05816)
+
+**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://scixplorer.org/abs/2025arXiv251116142L/abstract) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)
 
 **van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)
 
-Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2604.07461)
+Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal* 1003, 85 (2026). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b75/pdf)
 
 **Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)
 
 **Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026ApJ..1000..220K/abstract) *The Astrophysical Journal* 1000, 220 (2026). [pdf](https://arxiv.org/pdf/2603.02423)
 
 Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
+
+<p class="year-divider">2025</p>
 
 Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* 995, 95 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf)
 
@@ -47,6 +51,8 @@ Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al. [Reliable Detec
 
 **Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres of lava worlds.](https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf)
 
+<p class="year-divider">2024</p>
+
 **Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://scixplorer.org/abs/2024JGRE..12908576N/abstract) *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576)
 
 **Cesario L**, **T Lichtenberg** et al. [Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets in the galactic neighborhood.](https://scixplorer.org/abs/2024arXiv241013457C) *Astronomy & Astrophysics* 692, A172 (2024). [pdf](https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf)
@@ -61,6 +67,8 @@ Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishi
 
 Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman. [Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics.](https://scixplorer.org/abs/2023arXiv230904518S/abstract) *The Planetary Science Journal* 5, 3 (2024). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf), [video](https://youtu.be/acgKcdTTv9c)
 
+<p class="year-divider">2023</p>
+
 Patel M, CKM Polius, M Ridsdill-Smith, **T Lichtenberg**, R Parker. [Photoevaporation versus enrichment in the cradle of the Sun.](https://scixplorer.org/abs/2023MNRAS.tmp.2344P) *Monthly Notices of the Royal Astronomical Society* 525, 2399–2410 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf)
 
 Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley. [Interior dynamics of super-Earth 55 Cancri e.](https://scixplorer.org/abs/2023arXiv230800592M) *Astronomy & Astrophysics* 678, A29 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf)
@@ -74,6 +82,8 @@ Janson M, J Patel, SC Ringqvist, C Lu, I Rebollido, **T Lichtenberg**, A Brandek
 Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel. [Leaky dust traps: How fragmentation impacts dust filtering by planets.](https://scixplorer.org/abs/2023A%26A...670L...5S/abstract) *Astronomy & Astrophysics Letters* 670, L5 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf)
 
 Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan. [Rapid formation of exoplanetesimals revealed by white dwarfs.](https://scixplorer.org/abs/2023NatAs...7...39B) *Nature Astronomy* 7, 39–48 (2023). [pdf](https://arxiv.org/pdf/2211.07244.pdf), [article](https://rdcu.be/cZCv4)
+
+<p class="year-divider">≤2022</p>
 
 Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract) *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4), [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456)
 
@@ -127,7 +137,7 @@ Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun's nata
 
 ## Reviews
 
-**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)
+**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://arxiv.org/pdf/2510.08844)
 
 **Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L) *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)
 
@@ -165,15 +175,19 @@ Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model
 
 ## Numerical Methods & Instrumentation
 
-**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
+**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://scixplorer.org/abs/2025JOSS...10.7726N/abstract) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)
 
 Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).
 
 ---
 
-## Theses
+## PhD, MSc & BSc Theses {#theses}
+
+<p class="year-divider">2026</p>
 
 **Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca) DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)
+
+<p class="year-divider">2025</p>
 
 **Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).
 
@@ -185,6 +199,8 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Marguerite (Anvel) de Sainte Marie d'Agneaux**, *Timescale of ocean formation and their composition on Earth-like exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).
 
+<p class="year-divider">2024</p>
+
 **Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
 
 **Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).
@@ -193,6 +209,8 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 
 **Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).
 
+<p class="year-divider">2023</p>
+
 **Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
 **Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
@@ -200,6 +218,8 @@ Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T L
 **Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
 
 **Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).
+
+<p class="year-divider">≤2022</p>
 
 **Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).
 

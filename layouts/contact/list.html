@@ -1,158 +1,71 @@
 {{ define "main" }}
-<section style="padding-top: 10rem; padding-bottom: 4rem;">
-  <div class="container-site">
-    <h1 class="section-heading text-4xl md:text-5xl mb-12 text-center">Contact</h1>
 
-    <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-12">
-      <!-- Left column: info -->
-      <div class="space-y-8">
-        <!-- Address -->
-        <div class="flex items-start gap-4">
-          <svg class="w-6 h-6 text-slate-400 mt-1 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-          </svg>
-          <div>
-            <h3 class="text-white font-semibold mb-1">Address</h3>
-            <p class="text-slate-300 text-sm leading-relaxed">
-              Kapteyn Astronomical Institute,<br>
-              Landleven 12, 9747 AD<br>
-              Groningen, The Netherlands
-            </p>
-          </div>
+<!-- ── HEADER ────────────────────────────────────────────────────── -->
+<section style="padding-top: 6rem; padding-bottom: 4rem; border-bottom: 1px solid var(--color-ink-800);">
+  <div class="container-site">
+    <h1 class="section-heading">Get in touch.</h1>
+    <p class="text-ink-300 mt-6 max-w-3xl leading-relaxed text-lg">
+      We welcome correspondence about research, collaborations, talks, prospective applications, and outreach.
+    </p>
+  </div>
+</section>
+
+<!-- ── INFO + FORM ──────────────────────────────────────────────── -->
+<section style="padding: 4rem 0;">
+  <div class="container-site grid md:grid-cols-2 gap-16">
+
+    <!-- Left: info -->
+    <div>
+      <h2 style="font-family: var(--font-display); font-size: 1.5rem; letter-spacing: -0.015em; color: var(--color-ink-100); font-weight: 500;">Kapteyn Astronomical Institute</h2>
+
+      <div class="mt-9 space-y-7">
+        <div>
+          <h3 class="text-ink-400 text-xs uppercase tracking-wider mb-2">Address</h3>
+          <p class="text-ink-200 leading-relaxed">
+            Kapteyn Astronomical Institute<br>
+            Landleven 12, 9747 AD<br>
+            Groningen, The Netherlands
+          </p>
+          <p class="mt-3 text-sm">
+            <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="text-signal-300 hover:text-signal-400">How to get to Kapteyn →</a>
+          </p>
         </div>
 
-        <!-- Email -->
-        <div class="flex items-start gap-4">
-          <svg class="w-6 h-6 text-slate-400 mt-1 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
-          </svg>
-          <div>
-            <h3 class="text-white font-semibold mb-1">Email</h3>
-            <p class="text-sm">
-              <a href="mailto:{{ .Site.Params.email }}" class="text-sky-400 hover:text-sky-300">{{ .Site.Params.email }}</a><br>
-              <a href="mailto:{{ .Site.Params.email2 }}" class="text-sky-400 hover:text-sky-300">{{ .Site.Params.email2 }}</a>
-            </p>
-          </div>
+        <div>
+          <h3 class="text-ink-400 text-xs uppercase tracking-wider mb-2">Email</h3>
+          <p class="leading-relaxed">
+            <a href="mailto:{{ .Site.Params.email }}" class="text-signal-300 hover:text-signal-400">{{ .Site.Params.email }}</a><br>
+            <a href="mailto:{{ .Site.Params.email2 }}" class="text-signal-300 hover:text-signal-400">{{ .Site.Params.email2 }}</a>
+          </p>
+        </div>
+
+        <div>
+          <h3 class="text-ink-400 text-xs uppercase tracking-wider mb-2">Connect</h3>
+          <ul class="space-y-2 text-sm">
+            <li><a href="{{ .Site.Params.github }}" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">GitHub ↗</a></li>
+            <li><a href="{{ .Site.Params.bluesky }}" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">Bluesky ↗</a></li>
+            <li><a href="https://www.youtube.com/@FormingWorldsLab" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">YouTube ↗</a></li>
+            <li><a href="https://www.linkedin.com/in/tim-lichtenberg" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">LinkedIn ↗</a></li>
+          </ul>
         </div>
 
         <!-- UG Logo -->
-        <div class="mt-4">
-          <img src="{{ "img/brand/rug-white.webp" | relURL }}" alt="University of Groningen" class="h-20 opacity-80">
+        <div class="pt-2">
+          <img src="{{ "img/brand/rug-white.webp" | relURL }}" alt="University of Groningen" class="opacity-70" style="height: 5rem;">
         </div>
-      </div>
-
-      <!-- Right column: form -->
-      <div>
-        <form action="https://formspree.io/f/{{ .Site.Params.formspree.formId }}" method="POST" class="space-y-5">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div>
-              <label for="first-name" class="form-label">First Name</label>
-              <input type="text" id="first-name" name="first_name" class="form-input">
-            </div>
-            <div>
-              <label for="last-name" class="form-label">Last Name</label>
-              <input type="text" id="last-name" name="last_name" class="form-input">
-            </div>
-          </div>
-          <div>
-            <label for="email" class="form-label">Email *</label>
-            <input type="email" id="email" name="_replyto" required class="form-input">
-          </div>
-          <div>
-            <label for="subject" class="form-label">Subject</label>
-            <select id="subject" name="subject" class="form-input">
-              <option value="General inquiry">General inquiry</option>
-              <option value="PhD position">PhD position</option>
-              <option value="Postdoc position">Postdoc position</option>
-              <option value="Student project">Student project</option>
-              <option value="Collaboration">Collaboration</option>
-              <option value="Other">Other</option>
-            </select>
-          </div>
-          <div>
-            <label for="message" class="form-label">Message</label>
-            <textarea id="message" name="message" rows="5" required class="form-input"></textarea>
-          </div>
-          <button type="submit" class="bg-sky-600 hover:bg-sky-500 text-white font-medium px-8 py-3 rounded-lg transition-colors w-full text-center">Send</button>
-        </form>
       </div>
     </div>
 
+    <!-- Right: Getting to Kapteyn CTA (vertical) -->
+    <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="background: #000; min-height: 400px;">
+      <img src="{{ "img/groningen/zernike_feringa.webp" | relURL }}" alt="Zernike Campus, Feringa Building" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.2) 40%, rgba(8,10,18,.9));"></div>
+      <div class="absolute left-6 right-6 bottom-6">
+        <h2 class="text-white" style="font-family: var(--font-display); font-size: clamp(1.5rem, 1.6vw + 1rem, 2.25rem); letter-spacing: -0.015em; font-weight: 500;">How to get to Kapteyn →</h2>
+        <p class="text-white/75 text-sm mt-1.5">Directions, transport options, and finding the entrance on Zernike Campus</p>
+      </div>
+    </a>
   </div>
 </section>
 
-<!-- How to get to Kapteyn -->
-<section class="pb-16">
-  <div class="container-site max-w-5xl">
-    <h2 class="text-3xl md:text-4xl font-bold text-white mb-8 text-center" style="font-family: var(--font-heading);">How to Get to Kapteyn</h2>
-
-    <div class="prose-content mb-10">
-      <p>The Kapteyn Astronomical Institute is located on the first and second floor of the SRON building on the <strong>Zernike Campus</strong>, on the northern edge of Groningen. The entrance is shared with SRON Netherlands Institute for Space Research, opposite the Foodcourt Zernike.</p>
-    </div>
-
-    <!-- Google Maps embed -->
-    <div class="rounded-xl overflow-hidden mb-10 mx-auto" style="aspect-ratio: 16/9; width: 70%;">
-      <iframe src="https://maps.google.com/maps?q=53.240547,6.534946&z=17&t=k&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
-    <div class="text-center mb-12">
-      <a href="https://maps.app.goo.gl/LjgqArwh3i6gKv9P9" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-semibold">Open in Google Maps &rarr;</a>
-    </div>
-
-    <!-- Finding the entrance -->
-    <h3 class="text-xl font-bold text-white mb-4" style="font-family: var(--font-heading);">Finding the entrance</h3>
-    <div class="prose-content mb-6">
-      <p>The Kapteyn building entrance is located opposite the Foodcourt Zernike and at the same entrance as SRON. The nearest bus stops are "Zernikeplein" and "Nijenborgh", both within a 1 to 2 minute walk. <a href="https://maps.app.goo.gl/ZZBk9aifEi2S8GZq8" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-semibold">Open entrance location in Google Maps &rarr;</a></p>
-    </div>
-
-    <div class="prose-content mb-12">
-      <p><strong class="text-amber-400">Important:</strong> Do not use the official main entrance to Kapteynborg (the larger entrance on the south side of the building). That entrance is disconnected from the Kapteyn Astronomical Institute. Use the smaller entrance shared with SRON (see Google Maps pin above).</p>
-      <p>The entrance door is access-restricted. Ring the bell or follow someone in, and the secretariat will let you in. The secretariat is on the first floor (first door on the right). If you are visiting for a talk or meeting, they will be expecting you and can provide keys for a guest office.</p>
-    </div>
-
-    <!-- Transport options grid -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-
-      <!-- By public transport -->
-      <div class="p-6 bg-navy-800/50 border border-navy-700 rounded-xl">
-        <h3 class="text-lg font-bold text-white mb-3" style="font-family: var(--font-heading);">By bus</h3>
-        <div class="text-slate-300 text-sm leading-relaxed space-y-2">
-          <p>From Groningen Central Station or city centre, take any bus heading to the Zernike Campus. Get off at <strong class="text-white">"Zernikeplein"</strong> or <strong class="text-white">"Nijenborgh"</strong>, both within a 1 to 2 minute walk.</p>
-          <p>Buses run every 10 to 15 minutes. You can tap your debit or credit card on the card scanners when boarding and when leaving the bus. Remember to tap out when you exit. Cash is also accepted.</p>
-          <p>Plan your route at <a href="https://9292.nl/en" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300">9292.nl</a>.</p>
-        </div>
-      </div>
-
-      <!-- By train -->
-      <div class="p-6 bg-navy-800/50 border border-navy-700 rounded-xl">
-        <h3 class="text-lg font-bold text-white mb-3" style="font-family: var(--font-heading);">By train</h3>
-        <div class="text-slate-300 text-sm leading-relaxed space-y-2">
-          <p>Groningen is reachable by direct train from Amsterdam, Utrecht, and Zwolle, as well as from cities in northern Germany (via Leer).</p>
-          <p>Check <a href="https://www.ns.nl/en" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300">NS.nl</a> for Dutch train schedules or <a href="https://int.bahn.de/en" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300">DB Navigator</a> for international connections. From Groningen Central Station, take a bus to the Zernike Campus.</p>
-        </div>
-      </div>
-
-      <!-- By plane -->
-      <div class="p-6 bg-navy-800/50 border border-navy-700 rounded-xl">
-        <h3 class="text-lg font-bold text-white mb-3" style="font-family: var(--font-heading);">By plane</h3>
-        <div class="text-slate-300 text-sm leading-relaxed space-y-2">
-          <p>The nearest major airport is <strong class="text-white">Amsterdam Schiphol (AMS)</strong>, roughly 2.5 hours by direct intercity train from Groningen (roughly once per hour).</p>
-          <p><strong class="text-white">Groningen Airport Eelde (GRQ)</strong> is closer but serves limited destinations.</p>
-        </div>
-      </div>
-
-      <!-- By car / bike -->
-      <div class="p-6 bg-navy-800/50 border border-navy-700 rounded-xl">
-        <h3 class="text-lg font-bold text-white mb-3" style="font-family: var(--font-heading);">By car or bicycle</h3>
-        <div class="text-slate-300 text-sm leading-relaxed space-y-2">
-          <p>From the A28/E232 motorway, follow signs to the Zernike Campus. Parking is available on campus (paid). Enter "Landleven 12, 9747 AD Groningen" in your navigation system.</p>
-          <p>Groningen is one of the most bike-friendly cities in the world. The Zernike Campus is roughly 3 km north of the city centre, a flat 10 to 15 minute ride. Bike racks are available at the entrance.</p>
-        </div>
-      </div>
-
-    </div>
-
-  </div>
-</section>
 {{ end }}

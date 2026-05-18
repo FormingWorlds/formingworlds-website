@@ -1,66 +1,63 @@
 {{ define "main" }}
-<section style="padding-top: 10rem; padding-bottom: 4rem;">
-  <div class="container-site">
-    <h1 class="section-heading mb-4">Publications</h1>
-    <p class="section-subheading mb-10">{{ .Params.description }}</p>
 
-    <!-- Mobile nav bar -->
-    <div class="md:hidden flex overflow-x-auto gap-2 pb-4 mb-6">
-      <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener"
-         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">ADS</a>
-      <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener"
-         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">SciX</a>
-      <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=&terms-1-field=author&terms-2-operator=NOT&terms-2-term=Lichtenberg%2C+Tom&terms-2-field=author&terms-3-operator=NOT&terms-3-term=2401.10671&terms-3-field=paper_id&classification-physics=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2015&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first" target="_blank" rel="noopener"
-         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">arXiv</a>
-      <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener"
-         class="flex-shrink-0 bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Google Scholar</a>
-      <a href="#research-articles"
-         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Research</a>
-      <a href="#reviews"
-         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Reviews</a>
-      <a href="#perspectives--white-papers"
-         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Perspectives</a>
-      <a href="#numerical-methods--instrumentation"
-         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Instrumentation</a>
-      <a href="#theses"
-         class="flex-shrink-0 border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Theses</a>
+<!-- ── HEADER ────────────────────────────────────────────────────── -->
+<section style="padding-top: 6rem; padding-bottom: 3.5rem; border-bottom: 1px solid var(--color-ink-800);">
+  <div class="container-site">
+    <h1 class="section-heading">Publications.</h1>
+    {{ with .Params.description }}
+    <p class="text-ink-300 mt-6 max-w-3xl leading-relaxed">{{ . }}</p>
+    {{ end }}
+  </div>
+</section>
+
+<!-- Mobile section nav -->
+<div class="md:hidden border-b border-ink-800">
+  <div class="container-site" style="padding-top: 1.25rem; padding-bottom: 1.25rem;">
+    <h3 class="text-xs uppercase tracking-wider text-ink-400">Automated lists</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
+      <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-primary btn-sm">ADS</a>
+      <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-primary btn-sm">SciX</a>
+      <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=&terms-1-field=author&terms-2-operator=NOT&terms-2-term=Lichtenberg%2C+Tom&terms-2-field=author&date-filter_by=date_range&date-from_date=2015&date-date_type=submitted_date&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="btn-primary btn-sm">arXiv</a>
+      <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="btn-primary btn-sm">Google Scholar</a>
     </div>
 
-    <!-- Two-column layout -->
-    <div class="md:flex md:gap-10">
+    <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-4">Publication types</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
+      <a href="#research-articles" class="btn-ghost btn-sm">Research</a>
+      <a href="#reviews" class="btn-ghost btn-sm">Reviews</a>
+      <a href="#perspectives--white-papers" class="btn-ghost btn-sm">Perspectives</a>
+      <a href="#numerical-methods--instrumentation" class="btn-ghost btn-sm">Numerical methods</a>
+      <a href="#theses" class="btn-ghost btn-sm">Theses</a>
+    </div>
+
+    <p class="text-xs text-ink-400 mt-4 leading-relaxed">Lab members appear in <strong class="text-ink-100 font-medium">bold</strong>.</p>
+  </div>
+</div>
+
+<section style="padding: 2rem 0 5rem;">
+  <div class="container-site">
+    <div class="md:flex md:gap-12">
+
       <!-- Sidebar (desktop only) -->
-      <aside class="hidden md:block sticky top-20 w-64 flex-shrink-0 self-start">
-        <div class="bg-navy-800 rounded-xl p-6">
-          <!-- Automated Lists -->
-          <h3 class="text-xs uppercase tracking-wide text-slate-400 mb-3">Automated Lists</h3>
-          <div class="space-y-2">
-            <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener"
-               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">ADS</a>
-            <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener"
-               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">SciX</a>
-            <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=&terms-1-field=author&terms-2-operator=NOT&terms-2-term=Lichtenberg%2C+Tom&terms-2-field=author&terms-3-operator=NOT&terms-3-term=2401.10671&terms-3-field=paper_id&classification-physics=y&classification-physics_archives=all&classification-include_cross_list=include&date-year=&date-filter_by=date_range&date-from_date=2015&date-to_date=&date-date_type=submitted_date&abstracts=show&size=100&order=-announced_date_first" target="_blank" rel="noopener"
-               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">arXiv</a>
-            <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener"
-               class="block w-full text-center bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Google Scholar</a>
-          </div>
+      <aside class="hidden md:block sticky top-24 w-64 flex-shrink-0 self-start" style="margin-top: 10px;">
+        <h3 class="text-xs uppercase tracking-wider text-ink-400 mb-4">Automated lists</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>ADS library</span><span class="text-ink-500">↗</span></a></li>
+          <li><a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>SciX library</span><span class="text-ink-500">↗</span></a></li>
+          <li><a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>arXiv search</span><span class="text-ink-500">↗</span></a></li>
+          <li><a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>Google Scholar</span><span class="text-ink-500">↗</span></a></li>
+        </ul>
 
-          <!-- Publication Types -->
-          <h3 class="text-xs uppercase tracking-wide text-slate-400 mt-6 mb-3">Publication Types</h3>
-          <div class="space-y-2">
-            <a href="#research-articles"
-               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Research Articles</a>
-            <a href="#reviews"
-               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Reviews</a>
-            <a href="#perspectives--white-papers"
-               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Perspectives</a>
-            <a href="#numerical-methods--instrumentation"
-               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Instrumentation</a>
-            <a href="#theses"
-               class="block w-full text-center border border-sky-500 text-sky-400 hover:bg-sky-600 hover:text-white px-4 py-2 rounded-full text-sm font-medium transition-colors">Theses</a>
-          </div>
+        <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-9 mb-4">Publication types</h3>
+        <ul class="space-y-2 text-sm">
+          <li><a href="#research-articles" class="text-ink-200 hover:text-signal-300 transition-colors">Research articles</a></li>
+          <li><a href="#reviews" class="text-ink-200 hover:text-signal-300 transition-colors">Reviews</a></li>
+          <li><a href="#perspectives--white-papers" class="text-ink-200 hover:text-signal-300 transition-colors">Perspectives &amp; white papers</a></li>
+          <li><a href="#numerical-methods--instrumentation" class="text-ink-200 hover:text-signal-300 transition-colors">Numerical methods</a></li>
+          <li><a href="#theses" class="text-ink-200 hover:text-signal-300 transition-colors">PhD, MSc &amp; BSc Theses</a></li>
+        </ul>
 
-          <p class="text-xs text-slate-500 italic mt-6">Lab members in <strong>bold</strong> text</p>
-        </div>
+        <p class="text-xs text-ink-400 mt-9 leading-relaxed">Lab members appear in <strong class="text-ink-100 font-medium">bold</strong>.</p>
       </aside>
 
       <!-- Content -->
@@ -70,6 +67,7 @@
     </div>
   </div>
 </section>
+
 <script>
   document.querySelectorAll('#pub-content a[href]').forEach(function(a) {
     if (!a.getAttribute('href').startsWith('#')) {
