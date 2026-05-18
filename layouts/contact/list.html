@@ -91,63 +91,17 @@
   </div>
 </section>
 
-<!-- ── HOW TO GET THERE ─────────────────────────────────────────── -->
-<section style="padding: 4rem 0 5rem; border-top: 1px solid var(--color-ink-800);">
-  <div class="container-site max-w-5xl">
-    <h2 class="section-heading" style="font-size: clamp(1.75rem, 2vw + 1rem, 2.75rem);">How to get to Kapteyn.</h2>
-
-    <div class="prose-content mt-8">
-      <p>The Kapteyn Astronomical Institute is located on the first and second floor of the SRON building on the <strong>Zernike Campus</strong>, on the northern edge of Groningen. The entrance is shared with SRON Netherlands Institute for Space Research, opposite the Foodcourt Zernike.</p>
-    </div>
-
-    <!-- Google Maps embed -->
-    <div class="overflow-hidden mt-8 mx-auto" style="aspect-ratio: 16/9; max-width: 80%;">
-      <iframe src="https://maps.google.com/maps?q=53.240547,6.534946&z=17&t=k&output=embed" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
-    <div class="text-center mt-8 mb-12">
-      <a href="https://maps.app.goo.gl/LjgqArwh3i6gKv9P9" target="_blank" rel="noopener" class="text-signal-300 hover:text-signal-400 font-medium">Open in Google Maps →</a>
-    </div>
-
-    <!-- Finding the entrance -->
-    <h3 style="font-family: var(--font-display); font-size: 1.25rem; color: var(--color-ink-100); font-weight: 500; margin-top: 2rem;">Finding the entrance</h3>
-    <div class="prose-content mt-3">
-      <p>The Kapteyn building entrance is located opposite the Foodcourt Zernike and at the same entrance as SRON. The nearest bus stops are "Zernikeplein" and "Nijenborgh", both within a 1 to 2 minute walk. <a href="https://maps.app.goo.gl/ZZBk9aifEi2S8GZq8" target="_blank" rel="noopener">Open entrance location in Google Maps →</a></p>
-      <p><strong class="text-magma-400">Important:</strong> Do not use the official main entrance to Kapteynborg (the larger entrance on the south side of the building). That entrance is disconnected from the Kapteyn Astronomical Institute. Use the smaller entrance shared with SRON (see Google Maps pin above).</p>
-      <p>The entrance door is access-restricted. Ring the bell or follow someone in, and the secretariat will let you in. The secretariat is on the first floor (first door on the right). If you are visiting for a talk or meeting, they will be expecting you and can provide keys for a guest office.</p>
-    </div>
-
-    <!-- Transport options -->
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-7 mt-12">
-      <div>
-        <h3 style="font-family: var(--font-display); font-size: 1.0625rem; color: var(--color-ink-100); font-weight: 500;">By bus</h3>
-        <div class="text-ink-300 text-sm leading-relaxed mt-3 space-y-2">
-          <p>From Groningen Central Station or city centre, take any bus heading to the Zernike Campus. Get off at <strong class="text-ink-100">"Zernikeplein"</strong> or <strong class="text-ink-100">"Nijenborgh"</strong>, both within a 1 to 2 minute walk.</p>
-          <p>Buses run every 10 to 15 minutes. Tap your debit or credit card on the card scanners when boarding and leaving. Plan your route at <a href="https://9292.nl/en" target="_blank" rel="noopener" class="text-signal-300 hover:text-signal-400">9292.nl</a>.</p>
-        </div>
+<!-- ── GETTING TO KAPTEYN CTA ───────────────────────────────────── -->
+<section style="padding: 0 0 5rem;">
+  <div class="container-site">
+    <a href="{{ "contact/getting-to-kapteyn/" | relURL }}" class="block card-img-hover relative overflow-hidden" style="aspect-ratio: 21/6; background: #000;">
+      <img src="{{ "img/groningen/zernike_feringa.webp" | relURL }}" alt="Zernike Campus, Feringa Building" class="absolute inset-0 w-full h-full object-cover">
+      <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.2) 40%, rgba(8,10,18,.85));"></div>
+      <div class="absolute left-6 right-6 bottom-6">
+        <h2 class="text-white" style="font-family: var(--font-display); font-size: clamp(1.5rem, 1.6vw + 1rem, 2.25rem); letter-spacing: -0.015em; font-weight: 500;">How to get to Kapteyn →</h2>
+        <p class="text-white/75 text-sm mt-1.5">Directions, transport options, and finding the entrance on Zernike Campus</p>
       </div>
-      <div>
-        <h3 style="font-family: var(--font-display); font-size: 1.0625rem; color: var(--color-ink-100); font-weight: 500;">By train</h3>
-        <div class="text-ink-300 text-sm leading-relaxed mt-3 space-y-2">
-          <p>Groningen is reachable by direct train from Amsterdam, Utrecht, and Zwolle, as well as from cities in northern Germany (via Leer).</p>
-          <p>Check <a href="https://www.ns.nl/en" target="_blank" rel="noopener" class="text-signal-300 hover:text-signal-400">NS.nl</a> for Dutch schedules or <a href="https://int.bahn.de/en" target="_blank" rel="noopener" class="text-signal-300 hover:text-signal-400">DB Navigator</a> for international connections. From Groningen Central, take a bus to Zernike.</p>
-        </div>
-      </div>
-      <div>
-        <h3 style="font-family: var(--font-display); font-size: 1.0625rem; color: var(--color-ink-100); font-weight: 500;">By plane</h3>
-        <div class="text-ink-300 text-sm leading-relaxed mt-3 space-y-2">
-          <p>The nearest major airport is <strong class="text-ink-100">Amsterdam Schiphol (AMS)</strong>, roughly 2.5 hours by direct intercity train from Groningen (roughly once per hour).</p>
-          <p><strong class="text-ink-100">Groningen Airport Eelde (GRQ)</strong> is closer but serves limited destinations.</p>
-        </div>
-      </div>
-      <div>
-        <h3 style="font-family: var(--font-display); font-size: 1.0625rem; color: var(--color-ink-100); font-weight: 500;">By car or bicycle</h3>
-        <div class="text-ink-300 text-sm leading-relaxed mt-3 space-y-2">
-          <p>From the A28/E232 motorway, follow signs to the Zernike Campus. Parking is available (paid). Enter "Landleven 12, 9747 AD Groningen" in your navigation system.</p>
-          <p>Groningen is one of the most bike-friendly cities in the world. Zernike is roughly 3 km north of the centre, a flat 10–15 minute ride. Bike racks at the entrance.</p>
-        </div>
-      </div>
-    </div>
+    </a>
   </div>
 </section>
 
