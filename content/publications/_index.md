@@ -13,15 +13,15 @@ sitemap:
 
 Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)
 
-Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)
-
 ### Published & Accepted
+
+Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) *Monthly Notices of the Royal Astronomical Society*, in press (2026). [pdf](https://arxiv.org/pdf/2512.05816)
 
 **Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)
 
 **van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)
 
-Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2604.07461)
+Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://doi.org/10.3847/1538-4357/ae5b75) *The Astrophysical Journal* 1003, 85 (2026). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae5b75/pdf)
 
 **Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)
 
