@@ -83,7 +83,7 @@ Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel. [Leaky dust traps: 
 
 Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan. [Rapid formation of exoplanetesimals revealed by white dwarfs.](https://scixplorer.org/abs/2023NatAs...7...39B) *Nature Astronomy* 7, 39–48 (2023). [pdf](https://arxiv.org/pdf/2211.07244.pdf), [article](https://rdcu.be/cZCv4)
 
-<p class="year-divider">2022</p>
+<p class="year-divider">≤2022</p>
 
 Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract) *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4), [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456)
 
@@ -94,8 +94,6 @@ Curry A, A Bonsor, **T Lichtenberg**, O Shorttle. [Prevalence of short-lived rad
 Dannert F et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): II.](https://scixplorer.org/abs/2022A%26A...664A..22D/abstract) *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf)
 
 Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract) *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI), [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)
-
-<p class="year-divider">2021</p>
 
 Jin Z, M Bose, **T Lichtenberg**, GD Mulders. [New evidence for wet accretion of inner solar system planetesimals from meteorites Chelyabinsk and Benenitra.](https://scixplorer.org/abs/2021PSJ.....2..244J/abstract) *The Planetary Science Journal* 2, 244 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf)
 
@@ -117,15 +115,11 @@ Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tect
 
 **Lichtenberg T**, J Drążkowska, M Schönbächler, GJ Golabek, TO Hands. [Bifurcation of planetary building blocks during Solar System formation.](https://scixplorer.org/abs/2021Sci...371..365L/abstract) *Science* 371, 365–370 (2021). [pdf](http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci), [blog](http://bit.ly/BifurcationBlog)
 
-<p class="year-divider">2019</p>
-
 **Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini. [A water budget dichotomy of rocky protoplanets from 26Al-heating.](https://scixplorer.org/abs/2019NatAs...3..307L/abstract) *Nature Astronomy* 3, 307–313 (2019). [pdf](https://arxiv.org/pdf/1902.04026.pdf), [blog](http://bit.ly/Al26-dehydration_medium)
 
 **Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya. [Magma ascent in planetesimals: control by grain size.](https://scixplorer.org/abs/2019E%26PSL.507..154L) *Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i), [blog](http://bit.ly/2GZZ0e9)
 
 Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz. [Direct imaging of molten protoplanets in nearby young stellar associations.](https://scixplorer.org/abs/2019A%26A...621A.125B/abstract) *Astronomy & Astrophysics* 621, A125 (2019). [pdf](https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf), [blog](http://bit.ly/Bonati18)
-
-<p class="year-divider">≤2018</p>
 
 Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler. [Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling.](https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract) *Earth and Planetary Science Letters* 482, 490-500 (2018). [pdf](https://arxiv.org/pdf/1802.10421.pdf)
 
