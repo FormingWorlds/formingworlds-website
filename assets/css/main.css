@@ -1,10 +1,84 @@
 @import "tailwindcss";
 
-/* ────────────────────────────────────────────────────────────────
-   Forming Worlds Lab — Field Station theme
-   Tailwind v4 CSS-first config. Tokens here become utility classes
-   automatically (e.g. --color-signal-500 → bg-signal-500, text-signal-500).
-   ─────────────────────────────────────────────────────────────── */
+/* ════════════════════════════════════════════════════════════════
+   Forming Worlds Lab — Field Station design system
+   Tailwind v4 CSS-first config. Custom property names declared in
+   the @theme block become utility classes automatically (e.g.
+   --color-signal-500 → bg-signal-500, text-signal-500, etc.).
+
+   ┌─ PALETTE ─────────────────────────────────────────────────┐
+   │ INK     cool neutral ramp (blue bias). The whole-site     │
+   │         background is ink-950; body text is ink-100/200;  │
+   │         muted body text + borders use ink-300/400; muted  │
+   │         labels and meta use ink-400/500; section breaks   │
+   │         use ink-700/800; near-black surfaces use ink-980. │
+   │ SIGNAL  brand blue, seeded by the logo (#0072A1 at -500). │
+   │         Links use signal-300, hover signal-400. Primary   │
+   │         buttons use signal-500/400.                       │
+   │ MAGMA   warm planet-formation cue. Use for warnings,      │
+   │         important callouts (left-border + magma-300 text  │
+   │         or full callout box with magma-500 border). Also  │
+   │         the .btn-warm CTA variant.                        │
+   └───────────────────────────────────────────────────────────┘
+
+   ┌─ TYPOGRAPHY ──────────────────────────────────────────────┐
+   │ Display/heading font: Geist (loaded from Google Fonts).   │
+   │ Body font: Geist (same family, used at smaller sizes).    │
+   │ Section headings: sentence-case ending in a period —      │
+   │   "Our team.", "Publications.", "Research.". The period   │
+   │   is the design system's tic; never drop it.              │
+   │ Small section labels (sidebar h3s, year dividers):        │
+   │   text-xs uppercase tracking-wider text-ink-400.          │
+   │ Prose body via .prose-content: line-height 1.65, ink-200, │
+   │   h2/h3/h4 spacing rules built in, links go signal-300.   │
+   └───────────────────────────────────────────────────────────┘
+
+   ┌─ COMPONENTS ──────────────────────────────────────────────┐
+   │ .container-site   max-width var(--container-max) + px-6   │
+   │ .btn-primary      filled signal-500, primary CTA          │
+   │ .btn-ghost        outline ink-700, secondary CTA          │
+   │ .btn-warm         filled magma-500, urgent CTA            │
+   │ .btn-sm / .btn-lg size modifiers                          │
+   │ .team-card        flush-against-background member card    │
+   │ .alumni-grid      compact alumni section                  │
+   │ .prose-content    long-form text block with link styling  │
+   │ .year-divider     small grey YYYY label between groups    │
+   │ .gallery-masonry  CSS column-count masonry layout         │
+   └───────────────────────────────────────────────────────────┘
+
+   ┌─ LAYOUT PRIMITIVES ───────────────────────────────────────┐
+   │ Container max-width: var(--container-max) = 1280px.       │
+   │ Page header height: 120px nav, items vertically centered. │
+   │ Hero section padding-top: 6rem (across all top pages).    │
+   │ Section vertical padding: typically 4rem 0 5rem.          │
+   │ Intro paragraph max-width: calc(var(--container-max)*2/3) │
+   │   for team and join (≈ 853px at the widest viewport).     │
+   └───────────────────────────────────────────────────────────┘
+
+   ┌─ ANTI-PATTERNS · don't do these ──────────────────────────┐
+   │ • Don't invent new color/font tokens — extend the ink /   │
+   │   signal / magma palette if absolutely necessary, but     │
+   │   stay inside the cool-with-warm-accent vocabulary.       │
+   │ • Don't use raw hex codes in component CSS — reference    │
+   │   var(--color-*) custom properties so the @theme stays    │
+   │   the single source of truth.                             │
+   │ • Don't rely on arbitrary-value Tailwind utilities in     │
+   │   layouts (e.g. gap-3, py-32, grid-cols-[24px_1fr]).      │
+   │   Hugo's TW4 pipe doesn't always emit them. Use inline    │
+   │   style="" or define a component class here.              │
+   │ • Don't use em-dashes / en-dashes in user-facing copy —   │
+   │   use commas, semicolons, colons, or parentheses.         │
+   │ • Don't add features.json-style data files without a      │
+   │   layout that consumes them — orphan data accumulates.    │
+   └───────────────────────────────────────────────────────────┘
+
+   ┌─ NAVY/SKY/ACCENT aliases (deprecated, retained) ──────────┐
+   │ The original Wix-port build used navy-* / sky-* /         │
+   │ accent-* tokens. Those are aliased to the current ink /   │
+   │ signal / magma values so any straggler utilities keep     │
+   │ rendering. Don't author new work against the old names.   │
+   └───────────────────────────────────────────────────────────┘
+   ════════════════════════════════════════════════════════════════ */
 
 @theme {
   /* ── INK · cool neutral ramp (blue bias) ────────────────────── */
