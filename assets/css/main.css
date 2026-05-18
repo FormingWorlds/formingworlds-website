@@ -283,6 +283,14 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   font-weight: 500;
 }
 .prose-content > :first-child { margin-top: 0; }
+.prose-content .year-divider {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--color-ink-400);
+  letter-spacing: 0.1em;
+  font-weight: 500;
+}
 .prose-content p     { @apply mb-4; }
 .prose-content ul    { @apply list-disc pl-6 mb-4 space-y-1; }
 .prose-content ol    { @apply list-decimal pl-6 mb-4 space-y-1; }
