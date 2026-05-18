@@ -15,13 +15,23 @@ The Worker branches on `request.url.hostname`, namespaces the KV lookup with a p
 
 ## Authentication
 
-`wrangler` reads a Cloudflare API token from `CLOUDFLARE_API_TOKEN`. The token lives at `~/.cloudflare-fw-token` (mode 600, never committed). Every wrangler invocation in this repo should be prefixed:
+The recommended path is the interactive OAuth flow:
 
 ```bash
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler <command>
+npx wrangler login
 ```
 
-Required token scope: "Edit Cloudflare Workers" template, **zones**: `formingworlds.space` AND `timlichtenberg.net`. To rotate or expand scope, edit the token at https://dash.cloudflare.com/profile/api-tokens, overwrite the file, revoke the old token.
+This opens a browser, authenticates against the Cloudflare account, and caches the session in `~/.config/.wrangler/` on this Mac. Every subsequent `wrangler` invocation from this machine picks it up automatically, no env vars needed. Re-run `wrangler login` after switching machines or if the session expires.
+
+If you prefer a non-interactive token (useful for CI or for a machine without browser access), set `CLOUDFLARE_API_TOKEN`:
+
+```bash
+CLOUDFLARE_API_TOKEN=<token> npx wrangler <command>
+```
+
+Required token scope: "Edit Cloudflare Workers" template, **zones**: `formingworlds.space` AND `timlichtenberg.net`. Tokens are managed at https://dash.cloudflare.com/profile/api-tokens.
+
+> Wrangler 4 defaults to **local** KV for `kv key list` / `kv key get` / `kv key put`. Always pass `--remote` to act on the deployed namespace.
 
 ## Adding a slug
 
@@ -29,16 +39,22 @@ Required token scope: "Edit Cloudflare Workers" template, **zones**: `formingwor
 
 ```bash
 cd workers/shortlinks
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler kv key put --binding=LINKS <slug> "<target_url>"
+npx wrangler kv key put --binding=LINKS --remote <slug> "<target_url>"
 ```
 
 `timlichtenberg.net` slug (prefix with `tl:`):
 
 ```bash
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler kv key put --binding=LINKS "tl:<slug>" "<target_url>"
+npx wrangler kv key put --binding=LINKS --remote "tl:<slug>" "<target_url>"
 ```
 
 KV is eventually consistent globally; new keys are live within ~60s.
+
+After any add/update/delete, regenerate the Obsidian reference note:
+
+```bash
+./regen-vault-note.sh
+```
 
 ## Updating a slug
 
@@ -47,13 +63,13 @@ Same command as adding. The key is overwritten.
 ## Deleting a slug
 
 ```bash
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler kv key delete --binding=LINKS <slug>
+npx wrangler kv key delete --binding=LINKS --remote <slug>
 ```
 
 ## Listing all slugs
 
 ```bash
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler kv key list --binding=LINKS
+npx wrangler kv key list --binding=LINKS --remote
 ```
 
 ## Deploying code changes
@@ -61,7 +77,7 @@ CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler k
 If `src/index.js` or `wrangler.toml` changes:
 
 ```bash
-CLOUDFLARE_API_TOKEN=$(cat ~/.cloudflare-fw-token | tr -d '\n\r') npx wrangler deploy
+npx wrangler deploy
 ```
 
 ## Slug conventions
@@ -81,4 +97,5 @@ Use the listing command above for the current state. Smoke-test slugs:
 
 - **404 on custom domain**: TLS cert hasn't provisioned. Wait 5 min after first `wrangler deploy`. After that, cert auto-renews indefinitely.
 - **302 to apex for a slug that should resolve**: KV propagation lag (<60s after write), or slug typo (case-insensitive but otherwise exact match).
-- **`Unauthenticated` error from wrangler**: token expired or revoked, or `~/.cloudflare-fw-token` is missing/unreadable.
+- **`Unauthenticated` error from wrangler**: cached OAuth session expired (run `wrangler login` again), or the `CLOUDFLARE_API_TOKEN` env var is unset/invalid.
+- **`kv key list` returns `[]` despite live slugs**: missing `--remote` flag. Wrangler 4 reads local KV by default.
