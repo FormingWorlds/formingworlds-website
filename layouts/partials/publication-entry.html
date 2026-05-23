@@ -1,0 +1,52 @@
+{{ $e := .entry }}
+{{ $linkOrder := .linkOrder }}
+{{ $extraOrder := .extraOrder }}
+{{ $labels := .linkLabels }}
+<article class="pub-entry" data-slug="{{ $e.slug }}">
+  <div class="pub-authors">{{ $e.authors_md | markdownify }}.</div>
+  <div class="pub-title">{{ $e.title }}.</div>
+  {{ with $e.venue_md }}<div class="pub-venue">{{ . | markdownify }}.</div>{{ end }}
+
+  <div class="pub-actions">
+    {{ $hasUrl := false }}
+    {{ range $kind := $linkOrder }}
+      {{ with index $e.links $kind }}
+        {{ $hasUrl = true }}
+        <a class="pub-pill" href="{{ . }}" target="_blank" rel="noopener">{{ index $labels $kind }}</a>
+      {{ end }}
+    {{ end }}
+    {{ $hasExtras := false }}
+    {{ range $kind := $extraOrder }}
+      {{ with index $e.links $kind }}
+        {{ if not $hasExtras }}<span class="pub-separator" aria-hidden="true"></span>{{ end }}
+        {{ $hasExtras = true }}
+        <a class="pub-pill pub-pill-secondary" href="{{ . }}" target="_blank" rel="noopener">{{ index $labels $kind }}</a>
+      {{ end }}
+    {{ end }}
+
+    {{ $hasAbstract := and $e.abstract (ne $e.abstract "") }}
+    {{ $hasLay := and $e.lay_summary (ne $e.lay_summary "") }}
+    {{ if or $hasAbstract $hasLay }}
+      <span class="pub-separator" aria-hidden="true"></span>
+      {{ if $hasAbstract }}
+        <button class="pub-pill pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract</button>
+      {{ end }}
+      {{ if $hasLay }}
+        <button class="pub-pill pub-toggle" type="button" data-target="lay" aria-pressed="false">Lay summary</button>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{ if $hasAbstract }}
+    <div class="pub-panel" data-panel="abstract">
+      <span class="pub-panel-label">Abstract</span>
+      {{ $e.abstract | markdownify }}
+    </div>
+  {{ end }}
+  {{ if $hasLay }}
+    <div class="pub-panel" data-panel="lay">
+      <span class="pub-panel-label">Lay summary</span>
+      {{ $e.lay_summary | markdownify }}
+    </div>
+  {{ end }}
+</article>

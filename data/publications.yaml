@@ -1,0 +1,1567 @@
+- slug: attia-2026-paleos
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**'
+  title: 'PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors'
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2605.03741
+  links:
+    pdf: https://arxiv.org/pdf/2605.03741
+    arxiv: https://arxiv.org/abs/2605.03741
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)'
+- slug: nicholls-2026-beyond
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**
+  title: 'Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum'
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2604.15891
+  links:
+    pdf: https://arxiv.org/pdf/2604.15891
+    arxiv: https://arxiv.org/abs/2604.15891
+  bibcode: null
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
+- slug: calder-2025-most
+  section: research
+  subsection: preprints
+  year: 2025
+  authors_md: Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond
+  title: 'Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets'
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2512.05816
+  links:
+    pdf: https://arxiv.org/pdf/2512.05816
+    arxiv: https://arxiv.org/abs/2512.05816
+  bibcode: null
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)'
+- slug: lichtenberg-2026-coupled
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al'
+  title: 'Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models'
+  venue_md: '*The Planetary Science Journal* 7, 108 (2026)'
+  primary_url: https://doi.org/10.3847/PSJ/ae593b
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf
+    doi: https://doi.org/10.3847/PSJ/ae593b
+  bibcode: null
+  lab_led: true
+  abstract: Spectroscopic characterization of rocky exoplanets with the James Webb Space Telescope has brought the origin and evolution of their atmospheres into the focus of exoplanet science. Time-evolved models of the feedback between interior and atmosphere are critical to predict and interpret these observations and link them to the Solar System terrestrial planets. However, models differ in methodologies and input data, which can lead to significant differences in interpretation. In this paper, we present the experimental protocol of the Coupled atmospHere Interior modeL Intercomparison (CHILI) project.
+  lay_summary: Different research groups model what happens when a young rocky planet's molten surface interacts with its early atmosphere, but they don't agree with each other. CHILI is a community protocol that lets us run the same simulated planets through every model and compare the answers head-to-head. Once everyone's models are calibrated against each other, we can interpret JWST observations of young rocky exoplanets with more confidence.
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)'
+- slug: van-dijk-2026-onset
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**van Dijk MR**, **H Nicholls**, **T Lichtenberg**'
+  title: Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing
+  venue_md: '*The Planetary Science Journal* 7, 94 (2026)'
+  primary_url: https://scixplorer.org/abs/2026PSJ.....7...94V/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2511.00952
+    scix: https://scixplorer.org/abs/2026PSJ.....7...94V/abstract
+  bibcode: 2026PSJ.....7...94V
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)'
+- slug: rugheimer-2026-goldilocks
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration
+  title: 'The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE'
+  venue_md: '*The Astrophysical Journal*, in press (2026)'
+  primary_url: https://scixplorer.org/abs/2026arXiv260407461R/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2604.07461
+    scix: https://scixplorer.org/abs/2026arXiv260407461R/abstract
+  bibcode: 2026arXiv260407461R
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2604.07461)'
+- slug: nicholls-2026-volatile-rich
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert'
+  title: Volatile-rich evolution of molten super-Earth L 98-59 d
+  venue_md: '*Nature Astronomy* (2026)'
+  primary_url: https://scixplorer.org/abs/2025arXiv250702656N/abstract
+  links:
+    pdf: https://www.nature.com/articles/s41550-026-02815-8.pdf
+    scix: https://scixplorer.org/abs/2025arXiv250702656N/abstract
+  bibcode: 2025arXiv250702656N
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)'
+- slug: kimura-2026-water
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**Kimura T**, **T Lichtenberg**'
+  title: Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion
+  venue_md: '*The Astrophysical Journal* 1000, 220 (2026)'
+  primary_url: https://scixplorer.org/abs/2026ApJ..1000..220K/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2603.02423
+    scix: https://scixplorer.org/abs/2026ApJ..1000..220K/abstract
+  bibcode: 2026ApJ..1000..220K
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026ApJ..1000..220K/abstract) *The Astrophysical Journal* 1000, 220 (2026). [pdf](https://arxiv.org/pdf/2603.02423)'
+- slug: meier-2026-mantle
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley
+  title: Mantle Convection and Nightside Volcanism on Lava World K2-141 b
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
+  primary_url: https://scixplorer.org/abs/2026arXiv260302408M/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2603.02408
+    scix: https://scixplorer.org/abs/2026arXiv260302408M/abstract
+  bibcode: 2026arXiv260302408M
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
+- slug: nixon-2025-magma
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan
+  title: Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d
+  venue_md: '*The Astrophysical Journal* 995, 95 (2025)'
+  primary_url: https://scixplorer.org/abs/2025arXiv251007367N/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf
+    scix: https://scixplorer.org/abs/2025arXiv251007367N/abstract
+  bibcode: 2025arXiv251007367N
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* 995, 95 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf)
+- slug: teske-2025-thick
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al
+  title: A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b
+  venue_md: '*The Astrophysical Journal Letters* 995, L39 (2025)'
+  primary_url: https://scixplorer.org/abs/arXiv:2509.17231
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf
+    scix: https://scixplorer.org/abs/arXiv:2509.17231
+  bibcode: arXiv:2509.17231
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://scixplorer.org/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* 995, L39 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf)
+- slug: nicholls-2025-self-limited
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: '**Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert'
+  title: Self-limited tidal heating and prolonged magma oceans in the L 98-59 system
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025)'
+  primary_url: https://scixplorer.org/abs/2025arXiv250503604N/abstract
+  links:
+    pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf
+    scix: https://scixplorer.org/abs/2025arXiv250503604N/abstract
+  bibcode: 2025arXiv250503604N
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating and prolonged magma oceans in the L 98-59 system.](https://scixplorer.org/abs/2025arXiv250503604N/abstract) *Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf)'
+- slug: apai-2025-terminology
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al
+  title: A Terminology and Quantitative Framework for Assessing the Habitability of Solar System and Extraterrestrial Worlds
+  venue_md: '*The Planetary Science Journal* 6, 165 (2025)'
+  primary_url: https://scixplorer.org/abs/2025arXiv250522808A/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf
+    scix: https://scixplorer.org/abs/2025arXiv250522808A/abstract
+  bibcode: 2025arXiv250522808A
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al. [A Terminology and Quantitative Framework for Assessing the Habitability of Solar System and Extraterrestrial Worlds.](https://scixplorer.org/abs/2025arXiv250522808A/abstract) *The Planetary Science Journal* 6, 165 (2025). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf)
+- slug: boer-2025-absence
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: '**Boer ID**, **H Nicholls**, **T Lichtenberg**'
+  title: Absence of a Runaway Greenhouse Limit on Lava Planets
+  venue_md: '*The Astrophysical Journal* 987, 172 (2025)'
+  primary_url: https://scixplorer.org/abs/2025ApJ...987..172B
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf
+    scix: https://scixplorer.org/abs/2025ApJ...987..172B
+  bibcode: 2025ApJ...987..172B
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Boer ID**, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://scixplorer.org/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf)'
+- slug: schlecker-2025-bioverse
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet
+  title: 'Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life'
+  venue_md: '*The Astrophysical Journal* 987, 24 (2025)'
+  primary_url: https://scixplorer.org/abs/2025arXiv250404261S
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf
+    scix: https://scixplorer.org/abs/2025arXiv250404261S
+  bibcode: 2025arXiv250404261S
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet. [Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life.](https://scixplorer.org/abs/2025arXiv250404261S) *The Astrophysical Journal* 987, 24 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf)'
+- slug: farhat-2025-tides
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Farhat M, P Auclair-Desrotour, G Boué, **T Lichtenberg**, J Laskar
+  title: 'Tides on Lava Worlds: Application to Close-in Exoplanets and the Early Earth-Moon System'
+  venue_md: '*The Astrophysical Journal* 979, 133 (2025)'
+  primary_url: https://scixplorer.org/abs/2025ApJ...979..133F/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad9b93/pdf
+    scix: https://scixplorer.org/abs/2025ApJ...979..133F/abstract
+  bibcode: 2025ApJ...979..133F
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Farhat M, P Auclair-Desrotour, G Boué, **T Lichtenberg**, J Laskar. [Tides on Lava Worlds: Application to Close-in Exoplanets and the Early Earth-Moon System.](https://scixplorer.org/abs/2025ApJ...979..133F/abstract) *The Astrophysical Journal* 979, 133 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b93/pdf)'
+- slug: hammond-2025-reliable
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al
+  title: Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves
+  venue_md: '*The Astrophysical Journal Letters* 978, L40 (2025)'
+  primary_url: https://scixplorer.org/abs/2025ApJ...978L..40H/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ada0bc/pdf
+    scix: https://scixplorer.org/abs/2025ApJ...978L..40H/abstract
+  bibcode: 2025ApJ...978L..40H
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al. [Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves.](https://scixplorer.org/abs/2025ApJ...978L..40H/abstract) *The Astrophysical Journal Letters* 978, L40 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ada0bc/pdf)
+- slug: nicholls-2025-convective
+  section: research
+  subsection: published
+  year: 2025
+  authors_md: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**'
+  title: Convective shutdown in the atmospheres of lava worlds
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025)'
+  primary_url: https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract
+  links:
+    pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf
+    scix: https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract
+  bibcode: 2025MNRAS.536.2957N
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres of lava worlds.](https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf)'
+- slug: nicholls-2024-magma
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: '**Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert'
+  title: Magma ocean evolution at arbitrary redox state
+  venue_md: '*Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024)'
+  primary_url: https://scixplorer.org/abs/2024JGRE..12908576N/abstract
+  links:
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576
+    scix: https://scixplorer.org/abs/2024JGRE..12908576N/abstract
+  bibcode: 2024JGRE..12908576N
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://scixplorer.org/abs/2024JGRE..12908576N/abstract) *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576)'
+- slug: cesario-2024-large
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: '**Cesario L**, **T Lichtenberg** et al'
+  title: Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets in the galactic neighborhood
+  venue_md: '*Astronomy & Astrophysics* 692, A172 (2024)'
+  primary_url: https://scixplorer.org/abs/2024arXiv241013457C
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf
+    scix: https://scixplorer.org/abs/2024arXiv241013457C
+  bibcode: 2024arXiv241013457C
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Cesario L**, **T Lichtenberg** et al. [Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets in the galactic neighborhood.](https://scixplorer.org/abs/2024arXiv241013457C) *Astronomy & Astrophysics* 692, A172 (2024). [pdf](https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf)'
+- slug: eatson-2024-towards
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: Eatson JW, RJ Parker, **T Lichtenberg**
+  title: Towards a unified injection model of short-lived radioisotopes in N-body simulations of star-forming regions
+  venue_md: '*The Astrophysical Journal* 977, 13 (2024)'
+  primary_url: https://scixplorer.org/abs/2024arXiv241017163E
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf
+    scix: https://scixplorer.org/abs/2024arXiv241017163E
+  bibcode: 2024arXiv241017163E
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Eatson JW, RJ Parker, **T Lichtenberg**. [Towards a unified injection model of short-lived radioisotopes in N-body simulations of star-forming regions.](https://scixplorer.org/abs/2024arXiv241017163E) *The Astrophysical Journal* 977, 13 (2024). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf)
+- slug: meier-2024-geodynamics
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley, RT Pierrehumbert, et al
+  title: Geodynamics of super-Earth GJ 486b
+  venue_md: '*Journal of Geophysical Research: Planets* 129, e2024JE008491 (2024)'
+  primary_url: https://arxiv.org/abs/2408.10851
+  links:
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491
+    arxiv: https://arxiv.org/abs/2408.10851
+  bibcode: null
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley, RT Pierrehumbert, et al. [Geodynamics of super-Earth GJ 486b.](https://arxiv.org/abs/2408.10851) *Journal of Geophysical Research: Planets* 129, e2024JE008491 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491)'
+- slug: eatson-2024-devolatilization
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya
+  title: Devolatilization of extrasolar planetesimals by 60Fe and 26Al heating
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 528, 6619-6630 (2024)'
+  primary_url: https://scixplorer.org/abs/2024arXiv240206476E/abstract
+  links:
+    pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae438/56681885/stae438.pdf
+    scix: https://scixplorer.org/abs/2024arXiv240206476E/abstract
+  bibcode: 2024arXiv240206476E
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya. [Devolatilization of extrasolar planetesimals by 60Fe and 26Al heating.](https://scixplorer.org/abs/2024arXiv240206476E/abstract) *Monthly Notices of the Royal Astronomical Society* 528, 6619-6630 (2024). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae438/56681885/stae438.pdf)
+- slug: shorttle-2024-distinguishing
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower
+  title: Distinguishing oceans of water from magma on mini-Neptune K2-18b
+  venue_md: '*The Astrophysical Journal Letters* 962, L8 (2024)'
+  primary_url: https://scixplorer.org/abs/2024ApJ...962L...8S
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf
+    scix: https://scixplorer.org/abs/2024ApJ...962L...8S
+  bibcode: 2024ApJ...962L...8S
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune K2-18b.](https://scixplorer.org/abs/2024ApJ...962L...8S) *The Astrophysical Journal Letters* 962, L8 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf)
+- slug: schlecker-2024-bioverse
+  section: research
+  subsection: published
+  year: 2024
+  authors_md: Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman
+  title: 'Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics'
+  venue_md: '*The Planetary Science Journal* 5, 3 (2024)'
+  primary_url: https://scixplorer.org/abs/2023arXiv230904518S/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf
+    video: https://youtu.be/acgKcdTTv9c
+    scix: https://scixplorer.org/abs/2023arXiv230904518S/abstract
+  bibcode: 2023arXiv230904518S
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman. [Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics.](https://scixplorer.org/abs/2023arXiv230904518S/abstract) *The Planetary Science Journal* 5, 3 (2024). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf), [video](https://youtu.be/acgKcdTTv9c)'
+- slug: patel-2023-photoevaporation
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Patel M, CKM Polius, M Ridsdill-Smith, **T Lichtenberg**, R Parker
+  title: Photoevaporation versus enrichment in the cradle of the Sun
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 525, 2399–2410 (2023)'
+  primary_url: https://scixplorer.org/abs/2023MNRAS.tmp.2344P
+  links:
+    pdf: https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf
+    scix: https://scixplorer.org/abs/2023MNRAS.tmp.2344P
+  bibcode: 2023MNRAS.tmp.2344P
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Patel M, CKM Polius, M Ridsdill-Smith, **T Lichtenberg**, R Parker. [Photoevaporation versus enrichment in the cradle of the Sun.](https://scixplorer.org/abs/2023MNRAS.tmp.2344P) *Monthly Notices of the Royal Astronomical Society* 525, 2399–2410 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf)
+- slug: meier-2023-interior
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley
+  title: Interior dynamics of super-Earth 55 Cancri e
+  venue_md: '*Astronomy & Astrophysics* 678, A29 (2023)'
+  primary_url: https://scixplorer.org/abs/2023arXiv230800592M
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf
+    scix: https://scixplorer.org/abs/2023arXiv230800592M
+  bibcode: 2023arXiv230800592M
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley. [Interior dynamics of super-Earth 55 Cancri e.](https://scixplorer.org/abs/2023arXiv230800592M) *Astronomy & Astrophysics* 678, A29 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf)
+- slug: piette-2023-rocky
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Piette AAA, P Gao, K Brugman, A Shahar, **T Lichtenberg**, F Miozzi, P Driscoll
+  title: Rocky planet or water world? Observability of low-density lava world atmospheres
+  venue_md: '*The Astrophysical Journal* 954, 29 (2023)'
+  primary_url: https://scixplorer.org/abs/2023ApJ...954...29P
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/acdef2/pdf
+    scix: https://scixplorer.org/abs/2023ApJ...954...29P
+  bibcode: 2023ApJ...954...29P
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Piette AAA, P Gao, K Brugman, A Shahar, **T Lichtenberg**, F Miozzi, P Driscoll. [Rocky planet or water world? Observability of low-density lava world atmospheres.](https://scixplorer.org/abs/2023ApJ...954...29P) *The Astrophysical Journal* 954, 29 (2023). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/acdef2/pdf)
+- slug: parker-2023-short-lived
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Parker RJ, **T Lichtenberg**, M Patel, CKM Polius, M Ridsdill-Smith
+  title: Short-lived radioisotope enrichment in star-forming regions from stellar winds and supernovae
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 521, 4838–4851 (2023)'
+  primary_url: https://scixplorer.org/abs/2023MNRAS.521.4838P
+  links:
+    pdf: https://academic.oup.com/mnras/article-pdf/521/4/4838/49716087/stad871.pdf
+    scix: https://scixplorer.org/abs/2023MNRAS.521.4838P
+  bibcode: 2023MNRAS.521.4838P
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Parker RJ, **T Lichtenberg**, M Patel, CKM Polius, M Ridsdill-Smith. [Short-lived radioisotope enrichment in star-forming regions from stellar winds and supernovae.](https://scixplorer.org/abs/2023MNRAS.521.4838P) *Monthly Notices of the Royal Astronomical Society* 521, 4838–4851 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/521/4/4838/49716087/stad871.pdf)
+- slug: janson-2023-imaging
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Janson M, J Patel, SC Ringqvist, C Lu, I Rebollido, **T Lichtenberg**, A Brandeker, D Angerhausen, L Noack
+  title: Imaging of exocomets with infrared interferometry
+  venue_md: '*Astronomy & Astrophysics* 671, A114 (2023)'
+  primary_url: https://scixplorer.org/abs/2023A%26A...671A.114J/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2023/03/aa45402-22.pdf
+    scix: https://scixplorer.org/abs/2023A%26A...671A.114J/abstract
+  bibcode: 2023A&A...671A.114J
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Janson M, J Patel, SC Ringqvist, C Lu, I Rebollido, **T Lichtenberg**, A Brandeker, D Angerhausen, L Noack. [Imaging of exocomets with infrared interferometry.](https://scixplorer.org/abs/2023A%26A...671A.114J/abstract) *Astronomy & Astrophysics* 671, A114 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/03/aa45402-22.pdf)
+- slug: stammler-2023-leaky
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel
+  title: 'Leaky dust traps: How fragmentation impacts dust filtering by planets'
+  venue_md: '*Astronomy & Astrophysics Letters* 670, L5 (2023)'
+  primary_url: https://scixplorer.org/abs/2023A%26A...670L...5S/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf
+    scix: https://scixplorer.org/abs/2023A%26A...670L...5S/abstract
+  bibcode: 2023A&A...670L...5S
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel. [Leaky dust traps: How fragmentation impacts dust filtering by planets.](https://scixplorer.org/abs/2023A%26A...670L...5S/abstract) *Astronomy & Astrophysics Letters* 670, L5 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf)'
+- slug: bonsor-2023-rapid
+  section: research
+  subsection: published
+  year: 2023
+  authors_md: Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan
+  title: Rapid formation of exoplanetesimals revealed by white dwarfs
+  venue_md: '*Nature Astronomy* 7, 39–48 (2023)'
+  primary_url: https://scixplorer.org/abs/2023NatAs...7...39B
+  links:
+    pdf: https://arxiv.org/pdf/2211.07244.pdf
+    article: https://rdcu.be/cZCv4
+    scix: https://scixplorer.org/abs/2023NatAs...7...39B
+  bibcode: 2023NatAs...7...39B
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan. [Rapid formation of exoplanetesimals revealed by white dwarfs.](https://scixplorer.org/abs/2023NatAs...7...39B) *Nature Astronomy* 7, 39–48 (2023). [pdf](https://arxiv.org/pdf/2211.07244.pdf), [article](https://rdcu.be/cZCv4)
+- slug: graham-2022-ocean
+  section: research
+  subsection: published
+  year: 2022
+  authors_md: Graham RJ, **T Lichtenberg**, RT Pierrehumbert
+  title: CO2 ocean bistability on terrestrial exoplanets
+  venue_md: '*Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022)'
+  primary_url: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
+  links:
+    video: https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456
+    scix: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
+  bibcode: 2022JGRE..12707456G
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract) *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4), [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456)'
+- slug: lichtenberg-2022-reduced
+  section: research
+  subsection: published
+  year: 2022
+  authors_md: '**Lichtenberg T**, MS Clement'
+  title: Reduced late bombardment on rocky exoplanets around M-dwarfs
+  venue_md: '*The Astrophysical Journal Letters* 938, L3 (2022)'
+  primary_url: https://scixplorer.org/abs/2022ApJ...938L...3L/abstract
+  links:
+    video: https://youtu.be/M2CopK35Jrs
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac9521/pdf
+    scix: https://scixplorer.org/abs/2022ApJ...938L...3L/abstract
+  bibcode: 2022ApJ...938L...3L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, MS Clement. [Reduced late bombardment on rocky exoplanets around M-dwarfs.](https://scixplorer.org/abs/2022ApJ...938L...3L/abstract) *The Astrophysical Journal Letters* 938, L3 (2022). [video](https://youtu.be/M2CopK35Jrs), [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac9521/pdf)'
+- slug: curry-2022-prevalence
+  section: research
+  subsection: published
+  year: 2022
+  authors_md: Curry A, A Bonsor, **T Lichtenberg**, O Shorttle
+  title: Prevalence of short-lived radioactive isotopes across exoplanetary systems inferred from polluted white dwarfs
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 515, 395–406 (2022)'
+  primary_url: https://scixplorer.org/abs/2022MNRAS.515..395C/abstract
+  links:
+    pdf: https://academic.oup.com/mnras/article-pdf/515/1/395/44926894/stac1709.pdf
+    scix: https://scixplorer.org/abs/2022MNRAS.515..395C/abstract
+  bibcode: 2022MNRAS.515..395C
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Curry A, A Bonsor, **T Lichtenberg**, O Shorttle. [Prevalence of short-lived radioactive isotopes across exoplanetary systems inferred from polluted white dwarfs.](https://scixplorer.org/abs/2022MNRAS.515..395C/abstract) *Monthly Notices of the Royal Astronomical Society* 515, 395–406 (2022). [pdf](https://academic.oup.com/mnras/article-pdf/515/1/395/44926894/stac1709.pdf)
+- slug: dannert-2022-large
+  section: research
+  subsection: published
+  year: 2022
+  authors_md: Dannert F et al. (incl. **T Lichtenberg**)
+  title: 'Large Interferometer For Exoplanets (LIFE): II'
+  venue_md: '*Astronomy & Astrophysics* 664, A22 (2022)'
+  primary_url: https://scixplorer.org/abs/2022A%26A...664A..22D/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf
+    scix: https://scixplorer.org/abs/2022A%26A...664A..22D/abstract
+  bibcode: 2022A&A...664A..22D
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Dannert F et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): II.](https://scixplorer.org/abs/2022A%26A...664A..22D/abstract) *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf)'
+- slug: quanz-2022-large
+  section: research
+  subsection: published
+  year: 2022
+  authors_md: Quanz SP et al. (incl. **T Lichtenberg**)
+  title: 'Large Interferometer For Exoplanets (LIFE): I'
+  venue_md: '*Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI)'
+  primary_url: https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf
+    video: https://youtu.be/7JO4iDrnNMI
+    news: https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/
+    scix: https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract
+  bibcode: 2022A&A...664A..21Q
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract) *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI), [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)'
+- slug: jin-2021-evidence
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Jin Z, M Bose, **T Lichtenberg**, GD Mulders
+  title: New evidence for wet accretion of inner solar system planetesimals from meteorites Chelyabinsk and Benenitra
+  venue_md: '*The Planetary Science Journal* 2, 244 (2021)'
+  primary_url: https://scixplorer.org/abs/2021PSJ.....2..244J/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf
+    scix: https://scixplorer.org/abs/2021PSJ.....2..244J/abstract
+  bibcode: 2021PSJ.....2..244J
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Jin Z, M Bose, **T Lichtenberg**, GD Mulders. [New evidence for wet accretion of inner solar system planetesimals from meteorites Chelyabinsk and Benenitra.](https://scixplorer.org/abs/2021PSJ.....2..244J/abstract) *The Planetary Science Journal* 2, 244 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf)
+- slug: tsai-2021-inferring
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Tsai S-M, H Innes, **T Lichtenberg**, J Taylor, M Malik, K Chubb, RT Pierrehumbert
+  title: Inferring Shallow Surfaces on sub-Neptune Exoplanets with JWST
+  venue_md: '*The Astrophysical Journal Letters* 922, L27 (2021)'
+  primary_url: https://scixplorer.org/abs/2021arXiv211106429T/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf
+    scix: https://scixplorer.org/abs/2021arXiv211106429T/abstract
+  bibcode: 2021arXiv211106429T
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Tsai S-M, H Innes, **T Lichtenberg**, J Taylor, M Malik, K Chubb, RT Pierrehumbert. [Inferring Shallow Surfaces on sub-Neptune Exoplanets with JWST.](https://scixplorer.org/abs/2021arXiv211106429T/abstract) *The Astrophysical Journal Letters* 922, L27 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf)
+- slug: dorn-2021-hidden
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Dorn C, **T Lichtenberg**
+  title: Hidden water in magma ocean exoplanets
+  venue_md: '*The Astrophysical Journal Letters* 922, L4 (2021)'
+  primary_url: https://scixplorer.org/abs/2021ApJ...922L...4D/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac33af/pdf
+    scix: https://scixplorer.org/abs/2021ApJ...922L...4D/abstract
+  bibcode: 2021ApJ...922L...4D
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Dorn C, **T Lichtenberg**. [Hidden water in magma ocean exoplanets.](https://scixplorer.org/abs/2021ApJ...922L...4D/abstract) *The Astrophysical Journal Letters* 922, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac33af/pdf)
+- slug: graham-2021-multispecies
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Graham RJ, **T Lichtenberg**, R Boukrouche, RT Pierrehumbert
+  title: A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres
+  venue_md: '*The Planetary Science Journal* 2, 207 (2021)'
+  primary_url: https://scixplorer.org/abs/2021PSJ.....2..207G/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/PSJ/ac214c/pdf
+    scix: https://scixplorer.org/abs/2021PSJ.....2..207G/abstract
+  bibcode: 2021PSJ.....2..207G
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Graham RJ, **T Lichtenberg**, R Boukrouche, RT Pierrehumbert. [A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres.](https://scixplorer.org/abs/2021PSJ.....2..207G/abstract) *The Planetary Science Journal* 2, 207 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac214c/pdf)
+- slug: boukrouche-2021-beyond
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Boukrouche R, **T Lichtenberg**, RT Pierrehumbert
+  title: 'Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets'
+  venue_md: '*The Astrophysical Journal* 919, 130 (2021)'
+  primary_url: https://scixplorer.org/abs/2021ApJ...919..130B/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ac1345/pdf
+    scix: https://scixplorer.org/abs/2021ApJ...919..130B/abstract
+  bibcode: 2021ApJ...919..130B
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Boukrouche R, **T Lichtenberg**, RT Pierrehumbert. [Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets.](https://scixplorer.org/abs/2021ApJ...919..130B/abstract) *The Astrophysical Journal* 919, 130 (2021). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ac1345/pdf)'
+- slug: lichtenberg-2021-redox
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: '**Lichtenberg T**'
+  title: Redox hysteresis of super-Earth exoplanets from magma ocean circulation
+  venue_md: '*The Astrophysical Journal Letters* 914, L4 (2021)'
+  primary_url: https://scixplorer.org/abs/2021ApJ...914L...4L/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac0146/pdf
+    blog: https://bit.ly/Lichtenberg21blog
+    scix: https://scixplorer.org/abs/2021ApJ...914L...4L/abstract
+  bibcode: 2021ApJ...914L...4L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**. [Redox hysteresis of super-Earth exoplanets from magma ocean circulation.](https://scixplorer.org/abs/2021ApJ...914L...4L/abstract) *The Astrophysical Journal Letters* 914, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac0146/pdf), [blog](https://bit.ly/Lichtenberg21blog)'
+- slug: lichtenberg-2021-system-level
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: '**Lichtenberg T**, S Krijt'
+  title: System-level fractionation of carbon from disk and planetesimal processing
+  venue_md: '*The Astrophysical Journal Letters* 913, L20 (2021)'
+  primary_url: https://scixplorer.org/abs/2021ApJ...913L..20L/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/abfdce/pdf
+    blog: https://bit.ly/LichtenbergKrijt21blog
+    scix: https://scixplorer.org/abs/2021ApJ...913L..20L/abstract
+  bibcode: 2021ApJ...913L..20L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, S Krijt. [System-level fractionation of carbon from disk and planetesimal processing.](https://scixplorer.org/abs/2021ApJ...913L..20L/abstract) *The Astrophysical Journal Letters* 913, L20 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abfdce/pdf), [blog](https://bit.ly/LichtenbergKrijt21blog)'
+- slug: meier-2021-hemispheric
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory
+  title: Hemispheric Tectonics on super-Earth LHS 3844b
+  venue_md: '*The Astrophysical Journal Letters* 908, L48 (2021)'
+  primary_url: https://scixplorer.org/abs/2021ApJ...908L..48M/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2041-8213/abe400/pdf
+    blog: http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/
+    scix: https://scixplorer.org/abs/2021ApJ...908L..48M/abstract
+  bibcode: 2021ApJ...908L..48M
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tectonics on super-Earth LHS 3844b.](https://scixplorer.org/abs/2021ApJ...908L..48M/abstract) *The Astrophysical Journal Letters* 908, L48 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abe400/pdf), [blog](http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/)
+- slug: lichtenberg-2021-vertically
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: '**Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert'
+  title: 'Vertically resolved magma ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers'
+  venue_md: '*Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021)'
+  primary_url: https://scixplorer.org/abs/2021JGRE..12606711L
+  links:
+    pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JE006711
+    blog: http://bit.ly/MO21_blog
+    scix: https://scixplorer.org/abs/2021JGRE..12606711L
+  bibcode: 2021JGRE..12606711L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert. [Vertically resolved magma ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers.](https://scixplorer.org/abs/2021JGRE..12606711L) *Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021). [pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JE006711), [blog](http://bit.ly/MO21_blog)'
+- slug: lichtenberg-2021-bifurcation
+  section: research
+  subsection: published
+  year: 2021
+  authors_md: '**Lichtenberg T**, J Drążkowska, M Schönbächler, GJ Golabek, TO Hands'
+  title: Bifurcation of planetary building blocks during Solar System formation
+  venue_md: '*Science* 371, 365–370 (2021)'
+  primary_url: https://scixplorer.org/abs/2021Sci...371..365L/abstract
+  links:
+    pdf: http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci
+    blog: http://bit.ly/BifurcationBlog
+    scix: https://scixplorer.org/abs/2021Sci...371..365L/abstract
+  bibcode: 2021Sci...371..365L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, J Drążkowska, M Schönbächler, GJ Golabek, TO Hands. [Bifurcation of planetary building blocks during Solar System formation.](https://scixplorer.org/abs/2021Sci...371..365L/abstract) *Science* 371, 365–370 (2021). [pdf](http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci), [blog](http://bit.ly/BifurcationBlog)'
+- slug: lichtenberg-2019-water
+  section: research
+  subsection: published
+  year: 2019
+  authors_md: '**Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini'
+  title: A water budget dichotomy of rocky protoplanets from 26Al-heating
+  venue_md: '*Nature Astronomy* 3, 307–313 (2019)'
+  primary_url: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
+  links:
+    pdf: https://arxiv.org/pdf/1902.04026.pdf
+    blog: http://bit.ly/Al26-dehydration_medium
+    scix: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
+  bibcode: 2019NatAs...3..307L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini. [A water budget dichotomy of rocky protoplanets from 26Al-heating.](https://scixplorer.org/abs/2019NatAs...3..307L/abstract) *Nature Astronomy* 3, 307–313 (2019). [pdf](https://arxiv.org/pdf/1902.04026.pdf), [blog](http://bit.ly/Al26-dehydration_medium)'
+- slug: lichtenberg-2019-magma
+  section: research
+  subsection: published
+  year: 2019
+  authors_md: '**Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya'
+  title: 'Magma ascent in planetesimals: control by grain size'
+  venue_md: '*Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i)'
+  primary_url: https://scixplorer.org/abs/2019E%26PSL.507..154L
+  links:
+    pdf: https://arxiv.org/pdf/1802.02157.pdf
+    video: http://goo.gl/V1UK1i
+    blog: http://bit.ly/2GZZ0e9
+    scix: https://scixplorer.org/abs/2019E%26PSL.507..154L
+  bibcode: 2019E&PSL.507..154L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya. [Magma ascent in planetesimals: control by grain size.](https://scixplorer.org/abs/2019E%26PSL.507..154L) *Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i), [blog](http://bit.ly/2GZZ0e9)'
+- slug: bonati-2019-direct
+  section: research
+  subsection: published
+  year: 2019
+  authors_md: Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz
+  title: Direct imaging of molten protoplanets in nearby young stellar associations
+  venue_md: '*Astronomy & Astrophysics* 621, A125 (2019)'
+  primary_url: https://scixplorer.org/abs/2019A%26A...621A.125B/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf
+    blog: http://bit.ly/Bonati18
+    scix: https://scixplorer.org/abs/2019A%26A...621A.125B/abstract
+  bibcode: 2019A&A...621A.125B
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz. [Direct imaging of molten protoplanets in nearby young stellar associations.](https://scixplorer.org/abs/2019A%26A...621A.125B/abstract) *Astronomy & Astrophysics* 621, A125 (2019). [pdf](https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf), [blog](http://bit.ly/Bonati18)
+- slug: hunt-2018-late
+  section: research
+  subsection: published
+  year: 2018
+  authors_md: Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler
+  title: 'Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling'
+  venue_md: '*Earth and Planetary Science Letters* 482, 490-500 (2018)'
+  primary_url: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
+  links:
+    pdf: https://arxiv.org/pdf/1802.10421.pdf
+    scix: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
+  bibcode: 2018E&PSL.482..490H
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler. [Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling.](https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract) *Earth and Planetary Science Letters* 482, 490-500 (2018). [pdf](https://arxiv.org/pdf/1802.10421.pdf)'
+- slug: lichtenberg-2018-impact
+  section: research
+  subsection: published
+  year: 2018
+  authors_md: '**Lichtenberg T**, GJ Golabek, CP Dullemond, M Schönbächler, TV Gerya, MR Meyer'
+  title: Impact splash chondrule formation during planetesimal recycling
+  venue_md: '*Icarus* 302, 27–43 (2018)'
+  primary_url: https://scixplorer.org/abs/2018Icar..302...27L
+  links:
+    pdf: https://arxiv.org/pdf/1711.02103.pdf
+    blog: http://goo.gl/5bDqGC
+    scix: https://scixplorer.org/abs/2018Icar..302...27L
+  bibcode: 2018Icar..302...27L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, GJ Golabek, CP Dullemond, M Schönbächler, TV Gerya, MR Meyer. [Impact splash chondrule formation during planetesimal recycling.](https://scixplorer.org/abs/2018Icar..302...27L) *Icarus* 302, 27–43 (2018). [pdf](https://arxiv.org/pdf/1711.02103.pdf), [blog](http://goo.gl/5bDqGC)'
+- slug: parker-2017-planet
+  section: research
+  subsection: published
+  year: 2017
+  authors_md: Parker RJ, **T Lichtenberg**, SP Quanz
+  title: Was Planet 9 captured in the Sun's natal star-forming region?
+  venue_md: '*Monthly Notices of the Royal Astronomical Society: Letters* 472, L75–L79 (2017)'
+  primary_url: https://scixplorer.org/abs/2017MNRAS.472L..75P
+  links:
+    pdf: https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf
+    scix: https://scixplorer.org/abs/2017MNRAS.472L..75P
+  bibcode: 2017MNRAS.472L..75P
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun''s natal star-forming region?](https://scixplorer.org/abs/2017MNRAS.472L..75P) *Monthly Notices of the Royal Astronomical Society: Letters* 472, L75–L79 (2017). [pdf](https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf)'
+- slug: lichtenberg-2016-isotopic
+  section: research
+  subsection: published
+  year: 2016
+  authors_md: '**Lichtenberg T**, RJ Parker, MR Meyer'
+  title: Isotopic enrichment of forming planetary systems from supernova pollution
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf), [video](http://bit.ly/supernova_pollution)'
+  primary_url: https://scixplorer.org/abs/2016MNRAS.462.3979L
+  links:
+    pdf: https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf
+    video: http://bit.ly/supernova_pollution
+    blog: http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/
+    scix: https://scixplorer.org/abs/2016MNRAS.462.3979L
+  bibcode: 2016MNRAS.462.3979L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, RJ Parker, MR Meyer. [Isotopic enrichment of forming planetary systems from supernova pollution.](https://scixplorer.org/abs/2016MNRAS.462.3979L) *Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf), [video](http://bit.ly/supernova_pollution), [blog](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/)'
+- slug: lichtenberg-2016-effects
+  section: research
+  subsection: published
+  year: 2016
+  authors_md: '**Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer'
+  title: The effects of short-lived radionuclides and porosity on the early thermo-mechanical evolution of planetesimals
+  venue_md: '*Icarus* 274, 350–365 (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution)'
+  primary_url: https://scixplorer.org/abs/2016Icar..274..350L
+  links:
+    pdf: https://arxiv.org/pdf/1603.05979.pdf
+    video: http://bit.ly/planetesimal_evolution
+    blog: http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/
+    scix: https://scixplorer.org/abs/2016Icar..274..350L
+  bibcode: 2016Icar..274..350L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer. [The effects of short-lived radionuclides and porosity on the early thermo-mechanical evolution of planetesimals.](https://scixplorer.org/abs/2016Icar..274..350L) *Icarus* 274, 350–365 (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution), [blog](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/)'
+- slug: lichtenberg-2015-modeling
+  section: research
+  subsection: published
+  year: 2015
+  authors_md: '**Lichtenberg T** & DRG Schleicher'
+  title: Modeling gravitational instabilities in self-gravitating protoplanetary disks with adaptive mesh refinement techniques
+  venue_md: '*Astronomy & Astrophysics* 579, A32 (2015)'
+  primary_url: https://scixplorer.org/abs/2015A%26A...579A..32L/abstract
+  links:
+    pdf: https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf
+    video: http://bit.ly/gi_disk
+    scix: https://scixplorer.org/abs/2015A%26A...579A..32L/abstract
+  bibcode: 2015A&A...579A..32L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T** & DRG Schleicher. [Modeling gravitational instabilities in self-gravitating protoplanetary disks with adaptive mesh refinement techniques.](https://scixplorer.org/abs/2015A%26A...579A..32L/abstract) *Astronomy & Astrophysics* 579, A32 (2015). [pdf](https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf), [video](http://bit.ly/gi_disk)'
+- slug: lichtenberg-2025-constraining
+  section: reviews
+  subsection: null
+  year: 2025
+  authors_md: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton'
+  title: Constraining exoplanet interiors using observations of their atmospheres
+  venue_md: '*Science* 390, eads3360 (2025)'
+  primary_url: https://scixplorer.org/abs/2025arXiv251008844L
+  links:
+    pdf: https://www.science.org/doi/pdf/10.1126/science.ads3360
+    scix: https://scixplorer.org/abs/2025arXiv251008844L
+  bibcode: 2025arXiv251008844L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)'
+- slug: lichtenberg-2025-super-earths
+  section: reviews
+  subsection: null
+  year: 2025
+  authors_md: '**Lichtenberg T**, Y Miguel'
+  title: Super-Earths and Earth-like Exoplanets
+  venue_md: '*Treatise on Geochemistry*, 3rd edition (2025)'
+  primary_url: https://scixplorer.org/abs/2024arXiv240504057L
+  links:
+    pdf: https://arxiv.org/pdf/2405.04057
+    scix: https://scixplorer.org/abs/2024arXiv240504057L
+  bibcode: 2024arXiv240504057L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L) *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)'
+- slug: suer-2023-distribution
+  section: reviews
+  subsection: null
+  year: 2023
+  authors_md: Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**
+  title: The distribution of volatile elements during rocky planet formation
+  venue_md: '*Frontiers in Earth Science* 11:1159412 (2023)'
+  primary_url: https://scixplorer.org/abs/2023FrEaS..1159412S/abstract
+  links:
+    pdf: https://www.frontiersin.org/articles/10.3389/feart.2023.1159412/pdf?isPublishedV2=False
+    scix: https://scixplorer.org/abs/2023FrEaS..1159412S/abstract
+  bibcode: 2023FrEaS..1159412S
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of volatile elements during rocky planet formation.](https://scixplorer.org/abs/2023FrEaS..1159412S/abstract) *Frontiers in Earth Science* 11:1159412 (2023). [pdf](https://www.frontiersin.org/articles/10.3389/feart.2023.1159412/pdf?isPublishedV2=False)
+- slug: lichtenberg-2023-geophysical
+  section: reviews
+  subsection: null
+  year: 2023
+  authors_md: '**Lichtenberg T**, LK Schaefer, M Nakajima, R Fischer'
+  title: Geophysical Evolution During Rocky Planet Formation
+  venue_md: '*Protostars and Planets VII*, ASP Conference Series, Vol. 534, 907 (2023)'
+  primary_url: https://scixplorer.org/abs/2022arXiv220310023L/abstract
+  links:
+    pdf: https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF
+    scix: https://scixplorer.org/abs/2022arXiv220310023L/abstract
+  bibcode: 2022arXiv220310023L
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lichtenberg T**, LK Schaefer, M Nakajima, R Fischer. [Geophysical Evolution During Rocky Planet Formation.](https://scixplorer.org/abs/2022arXiv220310023L/abstract) *Protostars and Planets VII*, ASP Conference Series, Vol. 534, 907 (2023). [pdf](https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF)'
+- slug: hu-2025-identifying
+  section: perspectives
+  subsection: null
+  year: 2025
+  authors_md: Hu R et al. (incl. **T Lichtenberg**)
+  title: Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory
+  venue_md: arXiv preprint (2025)
+  primary_url: https://scixplorer.org/abs/2025arXiv250916798H/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2509.16798
+    scix: https://scixplorer.org/abs/2025arXiv250916798H/abstract
+  bibcode: 2025arXiv250916798H
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025). [pdf](https://arxiv.org/pdf/2509.16798)
+- slug: rauer-et-al-incl-2025-plato
+  section: perspectives
+  subsection: null
+  year: 2025
+  authors_md: Rauer et al. (incl. **T Lichtenberg**)
+  title: The PLATO mission
+  venue_md: '*Experimental Astronomy* 59, 26 (2025)'
+  primary_url: https://scixplorer.org/abs/2025ExA....59...26R/abstract
+  links:
+    pdf: https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf
+    scix: https://scixplorer.org/abs/2025ExA....59...26R/abstract
+  bibcode: 2025ExA....59...26R
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Rauer et al. (incl. **T Lichtenberg**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 26 (2025). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf)
+- slug: menti-2024-database
+  section: perspectives
+  subsection: null
+  year: 2024
+  authors_md: Menti F et al. (incl. **T Lichtenberg**)
+  title: Database of Candidate Targets for the LIFE Mission
+  venue_md: '*Research Notes of the AAS* 8, 267 (2024)'
+  primary_url: https://scixplorer.org/abs/2024RNAAS...8..267M/abstract
+  links:
+    pdf: https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf
+    scix: https://scixplorer.org/abs/2024RNAAS...8..267M/abstract
+  bibcode: 2024RNAAS...8..267M
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Menti F et al. (incl. **T Lichtenberg**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf)
+- slug: trappist-1-2024-roadmap
+  section: perspectives
+  subsection: null
+  year: 2024
+  authors_md: TRAPPIST-1 JWST Community Initiative (incl. **T Lichtenberg**)
+  title: A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST
+  venue_md: '*Nature Astronomy* 8, 810–818 (2024)'
+  primary_url: https://scixplorer.org/abs/2024NatAs...8..810T/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2310.15895.pdf
+    scix: https://scixplorer.org/abs/2024NatAs...8..810T/abstract
+  bibcode: 2024NatAs...8..810T
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: TRAPPIST-1 JWST Community Initiative (incl. **T Lichtenberg**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy* 8, 810–818 (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
+- slug: meadows-2022-community
+  section: perspectives
+  subsection: null
+  year: 2022
+  authors_md: Meadows V et al. (incl. **T Lichtenberg**)
+  title: Community Report from the Biosignatures Standards of Evidence Workshop
+  venue_md: Workshop Report (2022)
+  primary_url: https://scixplorer.org/abs/2022arXiv221014293M/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2210.14293.pdf
+    scix: https://scixplorer.org/abs/2022arXiv221014293M/abstract
+  bibcode: 2022arXiv221014293M
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Meadows V et al. (incl. **T Lichtenberg**). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://scixplorer.org/abs/2022arXiv221014293M/abstract) Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
+- slug: helled-2022-ariel
+  section: perspectives
+  subsection: null
+  year: 2022
+  authors_md: Helled R et al. (incl. **T Lichtenberg**)
+  title: Ariel Planetary Interiors White Paper
+  venue_md: '*Experimental Astronomy* 53, 323-356 (2022)'
+  primary_url: https://scixplorer.org/abs/2022ExA....53..323H/abstract
+  links:
+    pdf: https://link.springer.com/content/pdf/10.1007/s10686-021-09739-3.pdf
+    scix: https://scixplorer.org/abs/2022ExA....53..323H/abstract
+  bibcode: 2022ExA....53..323H
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Helled R et al. (incl. **T Lichtenberg**). [Ariel Planetary Interiors White Paper.](https://scixplorer.org/abs/2022ExA....53..323H/abstract) *Experimental Astronomy* 53, 323-356 (2022). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09739-3.pdf)
+- slug: tinetti-2021-ariel
+  section: perspectives
+  subsection: null
+  year: 2021
+  authors_md: Tinetti G et al. (incl. **T Lichtenberg**)
+  title: 'Ariel: Enabling planetary science across light-years'
+  venue_md: ESA Ariel Definition Study Report (2021)
+  primary_url: https://scixplorer.org/abs/2021arXiv210404824T/abstract
+  links:
+    pdf: https://arxiv.org/pdf/2104.04824
+    scix: https://scixplorer.org/abs/2021arXiv210404824T/abstract
+  bibcode: 2021arXiv210404824T
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Tinetti G et al. (incl. **T Lichtenberg**). [Ariel: Enabling planetary science across light-years.](https://scixplorer.org/abs/2021arXiv210404824T/abstract) ESA Ariel Definition Study Report (2021). [pdf](https://arxiv.org/pdf/2104.04824)'
+- slug: quanz-2019-atmospheric
+  section: perspectives
+  subsection: null
+  year: 2019
+  authors_md: Quanz SP et al. (incl. **T Lichtenberg**)
+  title: 'Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability & diversity'
+  venue_md: ESA Voyage 2050 White Paper (2019)
+  primary_url: https://scixplorer.org/abs/2022ExA....54.1197Q/abstract
+  links:
+    pdf: https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf
+    scix: https://scixplorer.org/abs/2022ExA....54.1197Q/abstract
+  bibcode: 2022ExA....54.1197Q
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability & diversity.](https://scixplorer.org/abs/2022ExA....54.1197Q/abstract) ESA Voyage 2050 White Paper (2019). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf)'
+- slug: line-2019-importance
+  section: perspectives
+  subsection: null
+  year: 2019
+  authors_md: Line M et al. (incl. **T Lichtenberg**)
+  title: The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets
+  venue_md: '*Astro2020*, BAAS 51, 3, 271 (2019)'
+  primary_url: https://scixplorer.org/abs/2019BAAS...51c.271L/abstract
+  links:
+    pdf: https://scixplorer.org/link_gateway/2019BAAS...51c.271L/PUB_PDF
+    scix: https://scixplorer.org/abs/2019BAAS...51c.271L/abstract
+  bibcode: 2019BAAS...51c.271L
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Line M et al. (incl. **T Lichtenberg**). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets.](https://scixplorer.org/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://scixplorer.org/link_gateway/2019BAAS...51c.271L/PUB_PDF)
+- slug: lyra-2019-planet
+  section: perspectives
+  subsection: null
+  year: 2019
+  authors_md: Lyra W et al. (incl. **T Lichtenberg**)
+  title: Planet formation — The case for large efforts on the computational side
+  venue_md: '*Astro2020*, BAAS 51, 3, 129 (2019)'
+  primary_url: https://scixplorer.org/abs/2019BAAS...51c.129L/abstract
+  links:
+    pdf: https://arxiv.org/pdf/1903.04546
+    scix: https://scixplorer.org/abs/2019BAAS...51c.129L/abstract
+  bibcode: 2019BAAS...51c.129L
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Lyra W et al. (incl. **T Lichtenberg**). [Planet formation — The case for large efforts on the computational side.](https://scixplorer.org/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 129 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
+- slug: khullar-2019-astrobites
+  section: perspectives
+  subsection: null
+  year: 2019
+  authors_md: Khullar G et al. (incl. **T Lichtenberg**)
+  title: Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics
+  venue_md: '*Astro2020*, BAAS 51, 7, 230 (2019)'
+  primary_url: https://scixplorer.org/abs/2019BAAS...51g.230K/abstract
+  links:
+    pdf: https://arxiv.org/pdf/1907.09496
+    scix: https://scixplorer.org/abs/2019BAAS...51g.230K/abstract
+  bibcode: 2019BAAS...51g.230K
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics.](https://scixplorer.org/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7, 230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
+- slug: nicholls-2025-agni
+  section: instrumentation
+  subsection: null
+  year: 2025
+  authors_md: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**'
+  title: 'AGNI: A radiative-convective model for lava planet atmospheres'
+  venue_md: '*Journal of Open Source Software* 10, 7726 (2025)'
+  primary_url: https://doi.org/10.21105/joss.07726
+  links:
+    pdf: https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf
+    doi: https://doi.org/10.21105/joss.07726
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)'
+- slug: glauser-2024-large
+  section: instrumentation
+  subsection: null
+  year: 2024
+  authors_md: Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**)
+  title: 'The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry'
+  venue_md: null
+  primary_url: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
+  links:
+    scix: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
+  bibcode: 2024SPIE13095E..1DG
+  lab_led: false
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: 'Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).'
+- slug: harrison-nicholls-nd-what
+  section: theses
+  subsection: null
+  year: null
+  authors_md: '**Harrison Nicholls**'
+  title: What happened to rocky planets? An atmosphere-interior perspective from numerical modelling
+  venue_md: DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised
+  primary_url: https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca
+  links:
+    pdf: https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca) DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)'
+- slug: jorick-lania-2025-forging
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Jorick Lania**'
+  title: 'Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes'
+  venue_md: M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
+- slug: karen-stuitje-2025-cosmic
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Karen Stuitje**'
+  title: 'The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets'
+  venue_md: B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Karen Stuitje**, *The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*. B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
+- slug: flavia-2025-modelling
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Flavia C. Pascal**'
+  title: Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Flavia C. Pascal**, *Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+- slug: marijn-2025-tidally
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Marijn R. van Dijk**'
+  title: 'Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life''s Building Blocks'
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Marijn R. van Dijk**, *Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life''s Building Blocks*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+- slug: marguerite-anvel-de-sainte-marie-d-agneaux-2025-timescale
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**'
+  title: Timescale of ocean formation and their composition on Earth-like exoplanets
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**, *Timescale of ocean formation and their composition on Earth-like exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+- slug: bjorn-koops-2024-rock-vapour
+  section: theses
+  subsection: null
+  year: 2024
+  authors_md: '**Björn Koops**'
+  title: Rock-vapour species in lava exoplanet atmospheres
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+- slug: iris-boer-2024-redox
+  section: theses
+  subsection: null
+  year: 2024
+  authors_md: '**Iris Boer**'
+  title: Redox dependency of the runaway greenhouse limit
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+- slug: jessica-helmerhorst-2024-under-dense
+  section: theses
+  subsection: null
+  year: 2024
+  authors_md: '**Jessica Helmerhorst**'
+  title: The under-dense region between super-Earths and sub-Neptunes
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+- slug: lotte-bartels-2024-magma
+  section: theses
+  subsection: null
+  year: 2024
+  authors_md: '**Lotte Bartels**'
+  title: Magma oceanography of GJ 367 b
+  venue_md: M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).'
+- slug: marijn-smorenburg-2023-volcanic
+  section: theses
+  subsection: null
+  year: 2023
+  authors_md: '**Marijn Smorenburg**'
+  title: Volcanic climate change on hot terrestrial exoplanets
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+- slug: lucas-priolet-2023-distinguishing
+  section: theses
+  subsection: null
+  year: 2023
+  authors_md: '**Lucas Priolet**'
+  title: Distinguishing surface features on rocky exoplanets
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+- slug: lorenzo-cesario-2023-detecting
+  section: theses
+  subsection: null
+  year: 2023
+  authors_md: '**Lorenzo Cesario**'
+  title: Detecting Cooling Protoplanets with Next-Generation Surveys
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+- slug: boyd-van-der-plaat-2023-prevalence
+  section: theses
+  subsection: null
+  year: 2023
+  authors_md: '**Boyd van der Plaat**'
+  title: The prevalence of steam atmospheres on hot rocky exoplanets
+  venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+- slug: beat-hubmann-2022-hydrology
+  section: theses
+  subsection: null
+  year: 2022
+  authors_md: '**Beat Hubmann**'
+  title: Hydrology of Planetesimals
+  venue_md: M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).'
+- slug: madeleine-2019-percolative
+  section: theses
+  subsection: null
+  year: 2019
+  authors_md: '**Madeleine R. Müller**'
+  title: Percolative core formation in terrestrial planetesimals and protoplanets
+  venue_md: B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).'
+- slug: tim-lichtenberg-nd-thermal
+  section: theses
+  subsection: null
+  year: null
+  authors_md: '**Tim Lichtenberg**'
+  title: 'Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention'
+  venue_md: Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018)
+  primary_url: https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd
+  links:
+    pdf: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)'
+- slug: irene-bonati-2017-quantitative
+  section: theses
+  subsection: null
+  year: 2017
+  authors_md: '**Irene Bonati**'
+  title: Quantitative Predictions for the Observability of Protoplanetary Collisions
+  venue_md: M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).'
+- slug: tim-lichtenberg-2014-modeling
+  section: theses
+  subsection: null
+  year: 2014
+  authors_md: '**Tim Lichtenberg**'
+  title: Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques
+  venue_md: M.Sc. Physics, Georg-August-Universität Göttingen, Germany (2014)
+  primary_url: http://dx.doi.org/10.6084/m9.figshare.1501031
+  links:
+    pdf: https://ndownloader.figshare.com/files/2198993
+    doi: http://dx.doi.org/10.6084/m9.figshare.1501031
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen, Germany (2014). [pdf](https://ndownloader.figshare.com/files/2198993)'
+- slug: tim-lichtenberg-2012-constraining
+  section: theses
+  subsection: null
+  year: 2012
+  authors_md: '**Tim Lichtenberg**'
+  title: Constraining Exoplanet Characteristics with Asteroseismology
+  venue_md: B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012)
+  primary_url: http://dx.doi.org/10.6084/m9.figshare.1501030
+  links:
+    pdf: https://ndownloader.figshare.com/files/2198992
+    doi: http://dx.doi.org/10.6084/m9.figshare.1501030
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: null
+  lay_summary_draft: null
+  _raw: '**Tim Lichtenberg**, [*Constraining Exoplanet Characteristics with Asteroseismology*.](http://dx.doi.org/10.6084/m9.figshare.1501030) B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012). [pdf](https://ndownloader.figshare.com/files/2198992)'

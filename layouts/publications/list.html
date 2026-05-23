@@ -1,4 +1,15 @@
 {{ define "main" }}
+{{ $pubs := .Site.Data.publications }}
+{{ $sections := slice
+  (dict "key" "research"        "title" "Research articles"                   "anchor" "research-articles" "subsections" (slice (dict "key" "preprints" "title" "Preprints" "anchor" "preprints") (dict "key" "published" "title" "Published & Accepted" "anchor" "published--accepted")))
+  (dict "key" "reviews"         "title" "Reviews"                             "anchor" "reviews")
+  (dict "key" "perspectives"    "title" "Perspectives & White Papers"         "anchor" "perspectives--white-papers")
+  (dict "key" "instrumentation" "title" "Numerical Methods & Instrumentation" "anchor" "numerical-methods--instrumentation")
+  (dict "key" "theses"          "title" "PhD, MSc & BSc Theses"               "anchor" "theses")
+}}
+{{ $linkOrder := slice "scix" "arxiv" "doi" "pdf" }}
+{{ $extraOrder := slice "blog" "video" "news" "article" }}
+{{ $linkLabels := dict "scix" "SciX" "arxiv" "arXiv" "doi" "DOI" "pdf" "PDF" "blog" "Blog" "video" "Video" "news" "News" "article" "Article" }}
 
 <!-- ── HEADER ────────────────────────────────────────────────────── -->
 <section style="padding-top: 6rem; padding-bottom: 3.5rem; border-bottom: 1px solid var(--color-ink-800);">
@@ -23,11 +34,9 @@
 
     <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-4">Publication types</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
-      <a href="#research-articles" class="btn-ghost btn-sm">Research</a>
-      <a href="#reviews" class="btn-ghost btn-sm">Reviews</a>
-      <a href="#perspectives--white-papers" class="btn-ghost btn-sm">Perspectives</a>
-      <a href="#numerical-methods--instrumentation" class="btn-ghost btn-sm">Numerical methods</a>
-      <a href="#theses" class="btn-ghost btn-sm">Theses</a>
+      {{ range $sections }}
+      <a href="#{{ .anchor }}" class="btn-ghost btn-sm">{{ .title }}</a>
+      {{ end }}
     </div>
 
     <p class="text-xs text-ink-400 mt-4 leading-relaxed">Lab members appear in <strong class="text-ink-100 font-medium">bold</strong>.</p>
@@ -50,30 +59,58 @@
 
         <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-9 mb-4">Publication types</h3>
         <ul class="space-y-2 text-sm">
-          <li><a href="#research-articles" class="text-ink-200 hover:text-signal-300 transition-colors">Research articles</a></li>
-          <li><a href="#reviews" class="text-ink-200 hover:text-signal-300 transition-colors">Reviews</a></li>
-          <li><a href="#perspectives--white-papers" class="text-ink-200 hover:text-signal-300 transition-colors">Perspectives &amp; white papers</a></li>
-          <li><a href="#numerical-methods--instrumentation" class="text-ink-200 hover:text-signal-300 transition-colors">Numerical methods</a></li>
-          <li><a href="#theses" class="text-ink-200 hover:text-signal-300 transition-colors">PhD, MSc &amp; BSc Theses</a></li>
+          {{ range $sections }}
+          <li><a href="#{{ .anchor }}" class="text-ink-200 hover:text-signal-300 transition-colors">{{ .title }}</a></li>
+          {{ end }}
         </ul>
 
         <p class="text-xs text-ink-400 mt-9 leading-relaxed">Lab members appear in <strong class="text-ink-100 font-medium">bold</strong>.</p>
       </aside>
 
       <!-- Content -->
-      <div class="flex-1 min-w-0 prose-content" id="pub-content">
-        {{ .Content }}
+      <div class="flex-1 min-w-0" id="pub-content">
+        {{ range $section := $sections }}
+        {{ $entries := where $pubs "section" $section.key }}
+        {{ if $entries }}
+        <h2 id="{{ $section.anchor }}" style="font-size: 1.5rem; font-weight: 700; color: var(--color-ink-0); margin-top: 3rem; margin-bottom: 1rem;">{{ $section.title }}</h2>
+
+        {{ if $section.subsections }}
+          {{ range $sub := $section.subsections }}
+          {{ $subEntries := where $entries "subsection" $sub.key }}
+          {{ if $subEntries }}
+          <h3 id="{{ $sub.anchor }}" style="font-size: 1.25rem; font-weight: 600; color: var(--color-ink-100); margin-top: 2rem; margin-bottom: 0.75rem;">{{ $sub.title }}</h3>
+          {{ range $subEntries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels) }}{{ end }}
+          {{ end }}
+          {{ end }}
+        {{ else }}
+          {{ range $entries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels) }}{{ end }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
 
 <script>
-  document.querySelectorAll('#pub-content a[href]').forEach(function(a) {
-    if (!a.getAttribute('href').startsWith('#')) {
-      a.target = '_blank';
-      a.rel = 'noopener';
-    }
-  });
+  (function () {
+    document.querySelectorAll('.pub-entry').forEach(function (entry) {
+      var toggles = entry.querySelectorAll('.pub-toggle');
+      var panels  = entry.querySelectorAll('.pub-panel');
+      toggles.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var target = btn.getAttribute('data-target');
+          var isOpen = btn.getAttribute('aria-pressed') === 'true';
+          toggles.forEach(function (t) { t.setAttribute('aria-pressed', 'false'); });
+          panels.forEach(function (p) { p.classList.remove('is-open'); });
+          if (!isOpen) {
+            btn.setAttribute('aria-pressed', 'true');
+            var panel = entry.querySelector('.pub-panel[data-panel="' + target + '"]');
+            if (panel) panel.classList.add('is-open');
+          }
+        });
+      });
+    });
+  })();
 </script>
 {{ end }}
