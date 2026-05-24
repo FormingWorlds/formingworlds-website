@@ -11,16 +11,41 @@
     arxiv: https://arxiv.org/abs/2605.03741
   bibcode: null
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)'
+  abstract: 'Modeling the interior of a rocky or water-rich exoplanet is a thermodynamic closure problem: every layer''s density,
+    temperature gradient, and phase must follow from an equation of state (EoS) that remains self-consistent across the pressure-temperature
+    range from surface to core. Existing EoS span disciplines, use different formalisms, and rarely supply the full thermodynamic
+    quantities needed by evolutionary models of interior phase transitions. We present PALEOS (Planetary Assemblage Layers:
+    Equations of State), an open-source toolkit consolidating EoS for iron, magnesium silicate (MgSiO$_3$), and water (H$_2$O)
+    into a unified, phase-aware, thermally responsive framework spanning 17 phases. PALEOS derives density, energy, entropy,
+    heat capacities, thermal expansion, and the adiabatic gradient analytically via Maxwell relations, and is released as
+    lookup tables on regular P-T grids. We validate it against the Preliminary Reference Earth Model, recovering Earth''s
+    radius to 0.3% and lower-mantle densities to 3%, and compute 17,900 mass-radius relations from 0.1 to 100 $M_\oplus$ for
+    rocky (Fe + MgSiO$_3$) and water-rich (Earth-like core + H$_2$O envelope) compositions at 300-4000 K. Continuous solid-to-melt
+    EoS let thermal expansion span the fully-solid to magma-ocean regime: the radius offset exceeds 1% above 1500 K and reaches
+    16% at 4000 K for low-mass silicate planets, comparable to composition degeneracy and transit-radius uncertainties. We
+    demonstrate this on two ultrashort-period super-Earths, WASP-47 e and TOI-1807 b: each admits two purely rocky solutions
+    indistinguishable in mass and radius but in radically different states, one fully solid with no dynamo, the other hosting
+    a deep magma ocean and a liquid iron core capable of sustaining a magnetic field. Phase-aware, thermally resolved EoS
+    are essential for translating astronomical observations into exoplanetary geophysics.'
+  lay_summary: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave under
+    extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron, rock,
+    and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
+    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
+    a deep magma ocean with an active magnetic field.'
+  lay_summary_draft: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave
+    under extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron,
+    rock, and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
+    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
+    a deep magma ocean with an active magnetic field.'
+  _raw: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius
+    Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)'
 - slug: nicholls-2026-beyond
   section: research
   subsection: preprints
   year: 2026
   authors_md: Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**
-  title: 'Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum'
+  title: 'Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet
+    continuum'
   venue_md: null
   primary_url: https://arxiv.org/abs/2604.15891
   links:
@@ -31,7 +56,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
+  _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective
+    and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
 - slug: calder-2025-most
   section: research
   subsection: preprints
@@ -48,13 +74,16 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)'
+  _raw: 'Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the
+    Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)'
 - slug: lichtenberg-2026-coupled
   section: research
   subsection: published
   year: 2026
-  authors_md: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al'
-  title: 'Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models'
+  authors_md: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen,
+    TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al'
+  title: 'Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project
+    of Magma Ocean Models'
   venue_md: '*The Planetary Science Journal* 7, 108 (2026)'
   primary_url: https://doi.org/10.3847/PSJ/ae593b
   links:
@@ -62,10 +91,20 @@
     doi: https://doi.org/10.3847/PSJ/ae593b
   bibcode: null
   lab_led: true
-  abstract: Spectroscopic characterization of rocky exoplanets with the James Webb Space Telescope has brought the origin and evolution of their atmospheres into the focus of exoplanet science. Time-evolved models of the feedback between interior and atmosphere are critical to predict and interpret these observations and link them to the Solar System terrestrial planets. However, models differ in methodologies and input data, which can lead to significant differences in interpretation. In this paper, we present the experimental protocol of the Coupled atmospHere Interior modeL Intercomparison (CHILI) project.
-  lay_summary: Different research groups model what happens when a young rocky planet's molten surface interacts with its early atmosphere, but they don't agree with each other. CHILI is a community protocol that lets us run the same simulated planets through every model and compare the answers head-to-head. Once everyone's models are calibrated against each other, we can interpret JWST observations of young rocky exoplanets with more confidence.
+  abstract: Spectroscopic characterization of rocky exoplanets with the James Webb Space Telescope has brought the origin
+    and evolution of their atmospheres into the focus of exoplanet science. Time-evolved models of the feedback between interior
+    and atmosphere are critical to predict and interpret these observations and link them to the Solar System terrestrial
+    planets. However, models differ in methodologies and input data, which can lead to significant differences in interpretation.
+    In this paper, we present the experimental protocol of the Coupled atmospHere Interior modeL Intercomparison (CHILI) project.
+  lay_summary: Different research groups model what happens when a young rocky planet's molten surface interacts with its
+    early atmosphere, but they don't agree with each other. CHILI is a community protocol that lets us run the same simulated
+    planets through every model and compare the answers head-to-head. Once everyone's models are calibrated against each other,
+    we can interpret JWST observations of young rocky exoplanets with more confidence.
   lay_summary_draft: null
-  _raw: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen, Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b) *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)'
+  _raw: '**Lichtenberg T**, L Schaefer, J Krissansen-Totton, Y Miguel, DE Sergeev, P Baumeister, J Cmiel, LJ Janssen, TG Nguyen,
+    Y Miyazaki, **H Nicholls**, A Papesh, H Pelissard, B Peng, J Perez, **E Postolec**, **M Sastre** et al. [Coupled atmospHere
+    Interior modeL Intercomparison (CHILI) Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models.](https://doi.org/10.3847/PSJ/ae593b)
+    *The Planetary Science Journal* 7, 108 (2026). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf)'
 - slug: van-dijk-2026-onset
   section: research
   subsection: published
@@ -79,16 +118,41 @@
     scix: https://scixplorer.org/abs/2026PSJ.....7...94V/abstract
   bibcode: 2026PSJ.....7...94V
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)'
+  abstract: 'In the aftermath of the Moon-forming giant impact, the Hadean Earth''s mantle and surface crystallized from a
+    global magma ocean blanketed by a dense volatile-rich atmosphere. While prior studies have explored the thermal evolution
+    of such early-Earth scenarios under idealized, oxidizing conditions, the potential feedback between tidal heating driven
+    by Earth─Moon orbital forcing and variable redox scenarios have not yet been explored in detail. We investigate whether
+    tidal heating could have prolonged this early magma ocean phase and supported quasi-steady state epochs of global radiative
+    equilibrium: periods of thermal balance between outgoing radiation and interior heat flux. Using the PROTEUS simulation
+    framework, we simulate Earth''s early evolution under a range of plausible tidal power densities, oxygen fugacities, and
+    volatile inventories. Our results suggest that feedback between tidal heating and atmospheric forcing can induce substantial
+    variation in magma ocean lifetimes, from ∼30 Myr up to ∼500 Myr, sensitive to interior redox conditions. Global radiative
+    equilibrium epochs commonly arise across this range, lasting from ∼2 to ∼320 Myr, and typically occur from 24 Myr after
+    the Moon-forming impact. Under oxidizing conditions, late-stage H<SUB>2</SUB>O degassing promotes melt retention and sustained
+    heating due to its significant contribution to greenhouse forcing. Weak tides increase the atmospheric abundance of H<SUB>2</SUB>S
+    and NH<SUB>3</SUB> and deplete CO. Therefore, the feedback between tides and atmospheric forcing induces a disequilibrium
+    signature in the magma ocean atmosphere.'
+  lay_summary: After the Moon-forming impact, Earth was covered in a global magma ocean beneath a thick atmosphere. We show
+    that tidal heating from the young Moon, combined with greenhouse warming from outgassed volatiles, could have kept Earth's
+    surface molten for anywhere from 30 to 500 million years depending on the chemistry of the mantle. The interplay between
+    tides and atmospheric composition also produces distinctive chemical signatures that could help constrain the early conditions
+    that led to habitability.
+  lay_summary_draft: After the Moon-forming impact, Earth was covered in a global magma ocean beneath a thick atmosphere.
+    We show that tidal heating from the young Moon, combined with greenhouse warming from outgassed volatiles, could have
+    kept Earth's surface molten for anywhere from 30 to 500 million years depending on the chemistry of the mantle. The interplay
+    between tides and atmospheric composition also produces distinctive chemical signatures that could help constrain the
+    early conditions that led to habitability.
+  _raw: '**van Dijk MR**, **H Nicholls**, **T Lichtenberg**. [Onset of habitable conditions on the Hadean Earth set by feedback
+    between tides and greenhouse forcing.](https://scixplorer.org/abs/2026PSJ.....7...94V/abstract) *The Planetary Science
+    Journal* 7, 94 (2026). [pdf](https://arxiv.org/pdf/2511.00952)'
 - slug: rugheimer-2026-goldilocks
   section: research
   subsection: published
   year: 2026
-  authors_md: Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration
-  title: 'The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE'
+  authors_md: Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz,
+    LIFE collaboration
+  title: 'The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with
+    LIFE'
   venue_md: '*The Astrophysical Journal*, in press (2026)'
   primary_url: https://scixplorer.org/abs/2026arXiv260407461R/abstract
   links:
@@ -99,7 +163,10 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026). [pdf](https://arxiv.org/pdf/2604.07461)'
+  _raw: 'Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE
+    collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the
+    mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026).
+    [pdf](https://arxiv.org/pdf/2604.07461)'
 - slug: nicholls-2026-volatile-rich
   section: research
   subsection: published
@@ -111,12 +178,33 @@
   links:
     pdf: https://www.nature.com/articles/s41550-026-02815-8.pdf
     scix: https://scixplorer.org/abs/2025arXiv250702656N/abstract
-  bibcode: 2025arXiv250702656N
+  bibcode: 2026NatAs.tmp...61N
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026). [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)'
+  abstract: Small, low-density exoplanets are sculpted by strong stellar irradiation, but their primordial compositions and
+    subsequent evolution are still unknown. Two often-considered scenarios hold that they formed with rocky interiors and
+    H<SUB>2</SUB>-He atmospheres (`gas dwarfs') or alternatively with bulk compositions dominated by H<SUB>2</SUB>O phases
+    (`water worlds'). Here we constrain the possible range of evolutionary histories linking the birth conditions of low-density
+    super-Earth L 98-59 d to recent observations using a coupled atmosphere-interior evolutionary model. We find that the
+    observations can be explained by in situ photochemical production of SO<SUB>2</SUB> in an H<SUB>2</SUB> background, indicative
+    of a chemically reducing mantle and substantial (&gt;1.8 mass%) early sulfur and hydrogen content, inconsistent with both
+    the gas-dwarf and water-world scenarios. L 98-59 d's interior comprises a permanent magma ocean, allowing long-term retention
+    of volatiles within its mantle over billions of years, consistent with California-Kepler Survey trends. Our analysis reveals
+    an evolutionary pathway in which planets host volatile-rich atmospheres sustained by long-term magma-ocean degassing,
+    shaped by secular cooling, atmospheric erosion and photochemistry. Internal and environmental processes contribute to
+    the observed diversity of super-Earth and sub-Neptune exoplanets.
+  lay_summary: The exoplanet L 98-59 d is surprisingly large for its mass, suggesting it holds substantial volatiles, but
+    whether it is a miniature gas planet or a water world has been unclear. By simulating its evolution from birth to present
+    day, we find neither scenario fits; instead, its atmosphere is sustained by a permanent magma ocean releasing sulfur and
+    hydrogen over billions of years. This points to a new evolutionary pathway in which long-lived magma oceans drive the
+    atmospheric diversity we observe among super-Earths.
+  lay_summary_draft: The exoplanet L 98-59 d is surprisingly large for its mass, suggesting it holds substantial volatiles,
+    but whether it is a miniature gas planet or a water world has been unclear. By simulating its evolution from birth to
+    present day, we find neither scenario fits; instead, its atmosphere is sustained by a permanent magma ocean releasing
+    sulfur and hydrogen over billions of years. This points to a new evolutionary pathway in which long-lived magma oceans
+    drive the atmospheric diversity we observe among super-Earths.
+  _raw: '**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert. [Volatile-rich evolution
+    of molten super-Earth L 98-59 d.](https://scixplorer.org/abs/2025arXiv250702656N/abstract) *Nature Astronomy* (2026).
+    [pdf](https://www.nature.com/articles/s41550-026-02815-8.pdf)'
 - slug: kimura-2026-water
   section: research
   subsection: published
@@ -130,15 +218,36 @@
     scix: https://scixplorer.org/abs/2026ApJ..1000..220K/abstract
   bibcode: 2026ApJ..1000..220K
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026ApJ..1000..220K/abstract) *The Astrophysical Journal* 1000, 220 (2026). [pdf](https://arxiv.org/pdf/2603.02423)'
+  abstract: The interaction between a magma ocean and a primordial atmosphere is increasingly recognized as a key process
+    in shaping planetary envelope compositions. This coupling should strongly influence gas accretion, yet its role during
+    the disk-embedded stage remains poorly constrained. We develop a time-dependent model that couples solid accretion, nebular
+    gas accretion, and water enrichment and partitioning through magma─atmosphere interactions, along with post-disk thermal
+    evolution and escape. We find that, for super-Earth-mass planets, water production is generally limited by the magma oxygen
+    budget and typically ceases before disk dispersal. Subsequent nebular gas accretion dilutes the envelope toward hydrogen-dominated
+    compositions, largely independent of the initial magma redox state. This establishes an upper bound on the envelope water
+    fraction—the oxygen exhaustion limit—primarily set by the reactive oxygen inventory and the planet mass. After disk dispersal,
+    degassing increases the water fraction only in Earth-mass planets undergoing strong escape, while super-Earths exhibit
+    little change because surface pressures are hardly affected by escape. Magma─atmosphere coupling alone therefore cannot
+    maintain water-rich envelopes in sub-Neptunes and produces a strong mass─composition relation imposed by the oxygen exhaustion
+    limit. Highly enriched sub-Neptunes would therefore imply additional mechanisms such as late volatile delivery or post-disk
+    giant impacts. The relation between planetary radius and envelope composition offers a means to infer magma properties,
+    providing a pathway to connect present-day observables with early formation histories.
+  lay_summary: When a young planet's magma ocean interacts with its atmosphere, it can produce water vapor by reacting hydrogen
+    with oxygen from the rock. We find that this process runs out of available oxygen surprisingly quickly, setting an upper
+    limit on how water-rich a sub-Neptune's atmosphere can become through magma chemistry alone. Sub-Neptunes with very water-rich
+    atmospheres would therefore need additional water delivered later, for instance by icy impacts.
+  lay_summary_draft: When a young planet's magma ocean interacts with its atmosphere, it can produce water vapor by reacting
+    hydrogen with oxygen from the rock. We find that this process runs out of available oxygen surprisingly quickly, setting
+    an upper limit on how water-rich a sub-Neptune's atmosphere can become through magma chemistry alone. Sub-Neptunes with
+    very water-rich atmospheres would therefore need additional water delivered later, for instance by icy impacts.
+  _raw: '**Kimura T**, **T Lichtenberg**. [Water enrichment of forming sub-Neptune envelopes limited by oxygen exhaustion.](https://scixplorer.org/abs/2026ApJ..1000..220K/abstract)
+    *The Astrophysical Journal* 1000, 220 (2026). [pdf](https://arxiv.org/pdf/2603.02423)'
 - slug: meier-2026-mantle
   section: research
   subsection: published
   year: 2026
-  authors_md: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley
+  authors_md: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek,
+    **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley
   title: Mantle Convection and Nightside Volcanism on Lava World K2-141 b
   venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
   primary_url: https://scixplorer.org/abs/2026arXiv260302408M/abstract
@@ -150,12 +259,16 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
+  _raw: Meier TG, CM Guimond, RT Pierrehumbert, J Birkby, RD Chatterjee, CE Fisher, GJ Golabek, M Hammond, TD Komacek, **T
+    Lichtenberg**, A McGinty, E Meier Valdés, **H Nicholls**, LT Parker, RJ Spaargaren, PJ Tackley. [Mantle Convection and
+    Nightside Volcanism on Lava World K2-141 b.](https://scixplorer.org/abs/2026arXiv260302408M/abstract) *Monthly Notices
+    of the Royal Astronomical Society* (2026). [pdf](https://arxiv.org/pdf/2603.02408)
 - slug: nixon-2025-magma
   section: research
   subsection: published
   year: 2025
-  authors_md: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan
+  authors_md: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks,
+    W Misener, AAA Piette, NF Wogan
   title: Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d
   venue_md: '*The Astrophysical Journal* 995, 95 (2025)'
   primary_url: https://scixplorer.org/abs/2025arXiv251007367N/abstract
@@ -167,12 +280,15 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract) *The Astrophysical Journal* 995, 95 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf)
+  _raw: Nixon MC, S Sander Somers, AB Savel, J Ih, EMR Kempton, ED Young, HE Schlichting, **T Lichtenberg**, L Welbanks, W
+    Misener, AAA Piette, NF Wogan. [Magma ocean interactions can explain JWST observations of the sub-Neptune TOI-270 d.](https://scixplorer.org/abs/2025arXiv251007367N/abstract)
+    *The Astrophysical Journal* 995, 95 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf)
 - slug: teske-2025-thick
   section: research
   subsection: published
   year: 2025
-  authors_md: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al
+  authors_md: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**,
+    et al
   title: A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b
   venue_md: '*The Astrophysical Journal Letters* 995, L39 (2025)'
   primary_url: https://scixplorer.org/abs/arXiv:2509.17231
@@ -184,7 +300,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al. [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://scixplorer.org/abs/arXiv:2509.17231) *The Astrophysical Journal Letters* 995, L39 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf)
+  _raw: Teske JK, NL Wallack, AAA Piette, L Dang, **T Lichtenberg**, M Plotnykov, RT Pierrehumbert, **E Postolec**, et al.
+    [A Thick Volatile Atmosphere on the Ultra-Hot Super-Earth TOI-561 b.](https://scixplorer.org/abs/arXiv:2509.17231) *The
+    Astrophysical Journal Letters* 995, L39 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf)
 - slug: nicholls-2025-self-limited
   section: research
   subsection: published
@@ -196,12 +314,32 @@
   links:
     pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf
     scix: https://scixplorer.org/abs/2025arXiv250503604N/abstract
-  bibcode: 2025arXiv250503604N
+  bibcode: 2025MNRAS.541.2566N
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating and prolonged magma oceans in the L 98-59 system.](https://scixplorer.org/abs/2025arXiv250503604N/abstract) *Monthly Notices of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf)'
+  abstract: Rocky exoplanets accessible to characterization often lie on close-in orbits where tidal heating within their
+    interiors is significant, with the L 98-59 planetary system being a prime example. As a long-term energy source for ongoing
+    mantle melting and outgassing, tidal heating has been considered as a way to replenish lost atmospheres on rocky planets
+    around active M-dwarfs. We simulate the early evolution of L 98-59 b, c, and d using a time-evolved interior-atmosphere
+    modelling framework, with a self-consistent implementation of tidal heating and redox-controlled outgassing. Emerging
+    from our calculations is a novel self-limiting mechanism between radiative cooling, tidal heating, and mantle rheology,
+    which we term the 'radiation-tide-rheology feedback'. Our coupled modelling yields self-limiting tidal heating estimates
+    that are up to two orders of magnitude lower than previous calculations, and yet are still large enough to enable the
+    extension of primordial magma oceans to Gyr time-scales. Comparisons with a semi-analytic model demonstrate that this
+    negative feedback is a robust mechanism which can probe a given planet's initial conditions, atmospheric composition,
+    and interior structure. The orbit and instellation of the sub-Venus L 98-59 b likely place it in a regime where tidal
+    heating has kept the planet molten up to the present day, even if it were to have lost its atmosphere. For c and d, a
+    long-lived magma ocean can be induced by tides only with additional atmospheric regulation of energy transport.
+  lay_summary: 'Rocky exoplanets on tight orbits experience internal tidal heating, similar to how Jupiter''s gravity keeps
+    Io volcanically active. We discovered a self-regulating feedback: as tidal heating melts the mantle, the softened rock
+    dissipates tidal energy less efficiently, capping the heating rate far below previous estimates. Despite this self-limitation,
+    tidal heating in the L 98-59 system can still sustain magma oceans for billions of years.'
+  lay_summary_draft: 'Rocky exoplanets on tight orbits experience internal tidal heating, similar to how Jupiter''s gravity
+    keeps Io volcanically active. We discovered a self-regulating feedback: as tidal heating melts the mantle, the softened
+    rock dissipates tidal energy less efficiently, capping the heating rate far below previous estimates. Despite this self-limitation,
+    tidal heating in the L 98-59 system can still sustain magma oceans for billions of years.'
+  _raw: '**Nicholls H**, CM Guimond, CFC Hay, RD Chatterjee, **T Lichtenberg**, RT Pierrehumbert. [Self-limited tidal heating
+    and prolonged magma oceans in the L 98-59 system.](https://scixplorer.org/abs/2025arXiv250503604N/abstract) *Monthly Notices
+    of the Royal Astronomical Society* 541, 2566–2584 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf)'
 - slug: apai-2025-terminology
   section: research
   subsection: published
@@ -218,7 +356,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al. [A Terminology and Quantitative Framework for Assessing the Habitability of Solar System and Extraterrestrial Worlds.](https://scixplorer.org/abs/2025arXiv250522808A/abstract) *The Planetary Science Journal* 6, 165 (2025). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf)
+  _raw: Apai D, R Barnes, MM Murphy, **T Lichtenberg** et al. [A Terminology and Quantitative Framework for Assessing the
+    Habitability of Solar System and Extraterrestrial Worlds.](https://scixplorer.org/abs/2025arXiv250522808A/abstract) *The
+    Planetary Science Journal* 6, 165 (2025). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf)
 - slug: boer-2025-absence
   section: research
   subsection: published
@@ -232,16 +372,40 @@
     scix: https://scixplorer.org/abs/2025ApJ...987..172B
   bibcode: 2025ApJ...987..172B
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Boer ID**, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://scixplorer.org/abs/2025ApJ...987..172B) *The Astrophysical Journal* 987, 172 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf)'
+  abstract: 'Climate transitions on exoplanets offer valuable insights into the atmospheric processes governing planetary
+    habitability. Previous pure-steam atmospheric models show a thermal limit in outgoing long-wave radiation, which has been
+    used to define the inner edge of the classical habitable zone and guide exoplanet surveys aiming to identify and characterize
+    potentially habitable worlds. We expand upon previous modelling by treating (i) the dissolution of volatiles into a magma
+    ocean underneath the atmosphere, (ii) a broader volatile range of the atmospheric composition including H<SUB>2</SUB>O,
+    CO<SUB>2</SUB>, CO, H<SUB>2</SUB>, CH<SUB>4</SUB>, and N<SUB>2</SUB>, and (iii) a surface-temperature- and mantle-redox-dependent
+    equilibrium chemistry. We find that multicomponent atmospheres of outgassed composition located above partially or fully
+    molten mantles do not exhibit the characteristic thermal radiation limit that arises from pure-steam models, thereby undermining
+    the canonical concept of a runaway greenhouse limit, and hence challenging the conventional approach of using it to define
+    an irradiation-based habitable zone. Our results show that atmospheric heat loss to space is strongly dependent on the
+    oxidation and melting state of the underlying planetary mantle, through their significant influence on the atmosphere''s
+    equilibrium composition. This suggests an evolutionary hysteresis in climate scenarios: Initially molten and cooling planets
+    do not converge to the same climate regime as solidified planets that heat up by external irradiation. Steady-state models
+    cannot recover evolutionary climate transitions, which instead require self-consistent models of the temporal evolution
+    of the coupled feedback processes between interior and atmosphere over geologic time.'
+  lay_summary: 'The ''runaway greenhouse'' concept defines the inner edge of the habitable zone: the distance from a star
+    where a planet''s oceans would boil away irreversibly. We show that this thermal limit, derived from pure-steam atmosphere
+    models, vanishes when we account for the complex chemistry of atmospheres above magma oceans. Whether a planet retains
+    habitable conditions depends not just on how much starlight it receives, but on the composition and melting state of its
+    interior.'
+  lay_summary_draft: 'The ''runaway greenhouse'' concept defines the inner edge of the habitable zone: the distance from a
+    star where a planet''s oceans would boil away irreversibly. We show that this thermal limit, derived from pure-steam atmosphere
+    models, vanishes when we account for the complex chemistry of atmospheres above magma oceans. Whether a planet retains
+    habitable conditions depends not just on how much starlight it receives, but on the composition and melting state of its
+    interior.'
+  _raw: '**Boer ID**, **H Nicholls**, **T Lichtenberg**. [Absence of a Runaway Greenhouse Limit on Lava Planets.](https://scixplorer.org/abs/2025ApJ...987..172B)
+    *The Astrophysical Journal* 987, 172 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf)'
 - slug: schlecker-2025-bioverse
   section: research
   subsection: published
   year: 2025
   authors_md: Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet
-  title: 'Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life'
+  title: 'Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin
+    of Life'
   venue_md: '*The Astrophysical Journal* 987, 24 (2025)'
   primary_url: https://scixplorer.org/abs/2025arXiv250404261S
   links:
@@ -252,7 +416,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet. [Bioverse: Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life.](https://scixplorer.org/abs/2025arXiv250404261S) *The Astrophysical Journal* 987, 24 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf)'
+  _raw: 'Schlecker M, D Apai, A Affholder, S Ranjan, R Ferrière, KK Hardegree-Ullman, **T Lichtenberg**, S Mazevet. [Bioverse:
+    Potentially Observable Exoplanet Biosignature Patterns Under the UV Threshold Hypothesis for the Origin of Life.](https://scixplorer.org/abs/2025arXiv250404261S)
+    *The Astrophysical Journal* 987, 24 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf)'
 - slug: farhat-2025-tides
   section: research
   subsection: published
@@ -269,7 +435,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Farhat M, P Auclair-Desrotour, G Boué, **T Lichtenberg**, J Laskar. [Tides on Lava Worlds: Application to Close-in Exoplanets and the Early Earth-Moon System.](https://scixplorer.org/abs/2025ApJ...979..133F/abstract) *The Astrophysical Journal* 979, 133 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b93/pdf)'
+  _raw: 'Farhat M, P Auclair-Desrotour, G Boué, **T Lichtenberg**, J Laskar. [Tides on Lava Worlds: Application to Close-in
+    Exoplanets and the Early Earth-Moon System.](https://scixplorer.org/abs/2025ApJ...979..133F/abstract) *The Astrophysical
+    Journal* 979, 133 (2025). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad9b93/pdf)'
 - slug: hammond-2025-reliable
   section: research
   subsection: published
@@ -286,7 +454,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al. [Reliable Detections of Atmospheres on Rocky Exoplanets with Photometric JWST Phase Curves.](https://scixplorer.org/abs/2025ApJ...978L..40H/abstract) *The Astrophysical Journal Letters* 978, L40 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ada0bc/pdf)
+  _raw: Hammond M, CM Guimond, **T Lichtenberg**, **H Nicholls**, et al. [Reliable Detections of Atmospheres on Rocky Exoplanets
+    with Photometric JWST Phase Curves.](https://scixplorer.org/abs/2025ApJ...978L..40H/abstract) *The Astrophysical Journal
+    Letters* 978, L40 (2025). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ada0bc/pdf)
 - slug: nicholls-2025-convective
   section: research
   subsection: published
@@ -300,10 +470,34 @@
     scix: https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract
   bibcode: 2025MNRAS.536.2957N
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres of lava worlds.](https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society* 536, 2957-2971 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf)'
+  abstract: 'Atmospheric energy transport is central to the cooling of primordial magma oceans. Theoretical studies of atmospheres
+    on lava planets have assumed that convection is the only process involved in setting the atmospheric temperature structure.
+    This significantly influences the ability for a magma ocean to cool. It has been suggested that convective stability in
+    these atmospheres could preclude permanent magma oceans. We develop a new 1D radiative-convective model in order to investigate
+    when the atmospheres overlying magma oceans are convectively stable. Using a coupled interior-atmosphere framework, we
+    simulate the early evolution of two terrestrial-mass exoplanets: TRAPPIST-1 c and HD 63433 d. Our simulations suggest
+    that the atmosphere of HD 63433 d exhibits deep isothermal layers which are convectively stable. However, it is able to
+    maintain a permanent magma ocean and an atmosphere depleted in <inline-formula><tex-math id="TM0001" notation="LaTeX">$\mathrm{H_{2}O}$</tex-math></inline-formula>.
+    It is possible to maintain permanent magma oceans underneath atmospheres without convection. Absorption features of <inline-formula><tex-math
+    id="TM0002" notation="LaTeX">$\mathrm{CO_{2}}$</tex-math></inline-formula> and <inline-formula><tex-math id="TM0003" notation="LaTeX">$\mathrm{SO_{2}}$</tex-math></inline-formula>
+    within synthetic emission spectra are associated with mantle redox state, meaning that future observations of HD 63433
+    d may provide constraints on the geochemical properties of a magma ocean analogous with the early Earth. Simulations of
+    TRAPPIST-1 c indicate that it is expected to have solidified within <inline-formula><tex-math id="TM0004" notation="LaTeX">$100
+    \,\mathrm{M}\rm {yr}$</tex-math></inline-formula>, outgassing a thick atmosphere in the process. Cool isothermal stratospheres
+    generated by low-molecular-weight atmospheres can mimic the emission of an atmosphere-less body. Future work should consider
+    how atmospheric escape and chemistry modulates the lifetime of magma oceans, and the role of tidal heating in sustaining
+    atmospheric convection.'
+  lay_summary: Models of lava planets typically assume their thick atmospheres transport heat upward through convection, similar
+    to boiling water. We find that some lava world atmospheres develop deep layers where convection shuts down entirely, yet
+    the planet can still maintain a permanent magma ocean. This matters for interpreting upcoming telescope observations,
+    because the atmospheric structure and chemistry change dramatically when convection is absent.
+  lay_summary_draft: Models of lava planets typically assume their thick atmospheres transport heat upward through convection,
+    similar to boiling water. We find that some lava world atmospheres develop deep layers where convection shuts down entirely,
+    yet the planet can still maintain a permanent magma ocean. This matters for interpreting upcoming telescope observations,
+    because the atmospheric structure and chemistry change dramatically when convection is absent.
+  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**, **L Soucasse**, **S Smeets**. [Convective shutdown in the atmospheres
+    of lava worlds.](https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract) *Monthly Notices of the Royal Astronomical Society*
+    536, 2957-2971 (2025). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf)'
 - slug: nicholls-2024-magma
   section: research
   subsection: published
@@ -317,10 +511,32 @@
     scix: https://scixplorer.org/abs/2024JGRE..12908576N/abstract
   bibcode: 2024JGRE..12908576N
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://scixplorer.org/abs/2024JGRE..12908576N/abstract) *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576)'
+  abstract: Interactions between magma oceans and overlying atmospheres on young rocky planets leads to an evolving feedback
+    of outgassing, greenhouse forcing, and mantle melt fraction. Previous studies have predominantly focused on the solidification
+    of oxidized Earth-similar planets, but the diversity in mean density and irradiation observed in the low-mass exoplanet
+    census motivate exploration of strongly varying geochemical scenarios. We aim to explore how variable redox properties
+    alter the duration of magma ocean solidification, the equilibrium thermodynamic state, melt fraction of the mantle, and
+    atmospheric composition. We develop a 1D coupled interior-atmosphere model that can simulate the time-evolution of lava
+    planets. This is applied across a grid of fixed redox states, orbital separations, hydrogen endowments, and C/H ratios
+    around a Sun-like star. The composition of these atmospheres is highly variable before and during solidification. The
+    evolutionary path of an Earth-like planet at 1 AU ranges between permanent magma ocean states and solidification within
+    1 Myr. Recently solidified planets typically host H<SUB>2</SUB>O- or H<SUB>2</SUB>-dominated atmospheres in the absence
+    of escape. Orbital separation is the primary factor determining magma ocean evolution, followed by the total hydrogen
+    endowment, mantle oxygen fugacity, and finally the planet's C/H ratio. Collisional absorption by H<SUB>2</SUB> induces
+    a greenhouse effect which can prevent or stall magma ocean solidification. Through this effect, as well as the outgassing
+    of other volatiles, geochemical properties exert significant control over the fate of magma oceans on rocky planets.
+  lay_summary: The chemistry of a young planet's magma ocean, specifically how oxidized or reduced it is, controls which gases
+    enter the atmosphere and how quickly the surface solidifies. We systematically explored this across a wide range of chemical
+    conditions and found that hydrogen-rich atmospheres produced under reducing conditions can trap enough heat to prevent
+    a magma ocean from ever freezing. The planet's oxidation state thus acts as a chemical switch between permanent magma
+    ocean worlds and planets that solidify within a million years.
+  lay_summary_draft: The chemistry of a young planet's magma ocean, specifically how oxidized or reduced it is, controls which
+    gases enter the atmosphere and how quickly the surface solidifies. We systematically explored this across a wide range
+    of chemical conditions and found that hydrogen-rich atmospheres produced under reducing conditions can trap enough heat
+    to prevent a magma ocean from ever freezing. The planet's oxidation state thus acts as a chemical switch between permanent
+    magma ocean worlds and planets that solidify within a million years.
+  _raw: '**Nicholls H**, **T Lichtenberg**, DJ Bower, RT Pierrehumbert. [Magma ocean evolution at arbitrary redox state.](https://scixplorer.org/abs/2024JGRE..12908576N/abstract)
+    *Journal of Geophysical Research: Planets* 129, 2024JE008576 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576)'
 - slug: cesario-2024-large
   section: research
   subsection: published
@@ -332,12 +548,42 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf
     scix: https://scixplorer.org/abs/2024arXiv241013457C
-  bibcode: 2024arXiv241013457C
+  bibcode: 2024A&A...692A.172C
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Cesario L**, **T Lichtenberg** et al. [Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets in the galactic neighborhood.](https://scixplorer.org/abs/2024arXiv241013457C) *Astronomy & Astrophysics* 692, A172 (2024). [pdf](https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf)'
+  abstract: Context. The increased brightness temperature of young rocky protoplanets during their magma ocean epoch makes
+    them potentially amenable to atmospheric characterization at distances from the Solar System far greater than thermally
+    equilibrated terrestrial exoplanets, offering observational opportunities for unique insights into the origin of secondary
+    atmospheres and the near surface conditions of prebiotic environments. Aims. The Large Interferometer For Exoplanets (LIFE)
+    mission will employ a space-based midinfrared nulling interferometer to directly measure the thermal emission of terrestrial
+    exoplanets. In this work, we seek to assess the capabilities of various instrumental design choices of the LIFE mission
+    concept for the detection of cooling protoplanets with transient high-temperature magma ocean atmospheres at the tail
+    end of planetary accretion. In particular, we investigate the minimum integration times necessary to detect transient
+    magma ocean exoplanets in young stellar associations in the Solar neighborhood. Methods. Using the LIFE mission instrument
+    simulator (LIFEsim), we assessed how specific instrumental parameters and design choices, such as wavelength coverage,
+    aperture diameter, and photon throughput, facilitate or disadvantage the detection of protoplan-ets. We focused on the
+    observational sensitivities of distance to the observed planetary system, protoplanet brightness temperature (using a
+    blackbody assumption), and orbital distance of the potential protoplanets around both G- and M-dwarf stars. Results. Our
+    simulations suggest that LIFE will be able to detect (S/N ≥ 7) hot protoplanets in young stellar associations up to distances
+    of 100 pc from the Solar System for reasonable integration times (up to a few hours). Detection of an Earth-sized protoplanet
+    orbiting a Solar-sized host star at 1 AU requires less than 30 minutes of integration time. M-dwarfs generally need shorter
+    integration times. The contribution from wavelength regions smaller than 6 µm is important for decreasing the detection
+    threshold and discriminating emission temperatures. Conclusions. The LIFE mission is capable of detecting cooling terrestrial
+    protoplanets within minutes to hours in several local young stellar associations hosting potential targets. The anticipated
+    compositional range of magma ocean atmospheres motivates further architectural design studies to characterize the crucial
+    transition from primary to secondary atmospheres.
+  lay_summary: Young rocky planets glow brightly in infrared light while their surfaces are still molten, making them visible
+    at much greater distances than cooled, habitable-zone planets. We assessed whether the proposed LIFE space telescope could
+    detect these young, molten worlds and found it could spot Earth-sized protoplanets in nearby star-forming regions within
+    minutes to hours of observation. Detecting planets in this early molten stage would reveal how secondary atmospheres first
+    form on rocky worlds.
+  lay_summary_draft: Young rocky planets glow brightly in infrared light while their surfaces are still molten, making them
+    visible at much greater distances than cooled, habitable-zone planets. We assessed whether the proposed LIFE space telescope
+    could detect these young, molten worlds and found it could spot Earth-sized protoplanets in nearby star-forming regions
+    within minutes to hours of observation. Detecting planets in this early molten stage would reveal how secondary atmospheres
+    first form on rocky worlds.
+  _raw: '**Cesario L**, **T Lichtenberg** et al. [Large Interferometer For Exoplanets (LIFE). XIV. Finding terrestrial protoplanets
+    in the galactic neighborhood.](https://scixplorer.org/abs/2024arXiv241013457C) *Astronomy & Astrophysics* 692, A172 (2024).
+    [pdf](https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf)'
 - slug: eatson-2024-towards
   section: research
   subsection: published
@@ -354,7 +600,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Eatson JW, RJ Parker, **T Lichtenberg**. [Towards a unified injection model of short-lived radioisotopes in N-body simulations of star-forming regions.](https://scixplorer.org/abs/2024arXiv241017163E) *The Astrophysical Journal* 977, 13 (2024). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf)
+  _raw: Eatson JW, RJ Parker, **T Lichtenberg**. [Towards a unified injection model of short-lived radioisotopes in N-body
+    simulations of star-forming regions.](https://scixplorer.org/abs/2024arXiv241017163E) *The Astrophysical Journal* 977,
+    13 (2024). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf)
 - slug: meier-2024-geodynamics
   section: research
   subsection: published
@@ -371,7 +619,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley, RT Pierrehumbert, et al. [Geodynamics of super-Earth GJ 486b.](https://arxiv.org/abs/2408.10851) *Journal of Geophysical Research: Planets* 129, e2024JE008491 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491)'
+  _raw: 'Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley, RT Pierrehumbert, et al. [Geodynamics of super-Earth
+    GJ 486b.](https://arxiv.org/abs/2408.10851) *Journal of Geophysical Research: Planets* 129, e2024JE008491 (2024). [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491)'
 - slug: eatson-2024-devolatilization
   section: research
   subsection: published
@@ -388,7 +637,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya. [Devolatilization of extrasolar planetesimals by 60Fe and 26Al heating.](https://scixplorer.org/abs/2024arXiv240206476E/abstract) *Monthly Notices of the Royal Astronomical Society* 528, 6619-6630 (2024). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae438/56681885/stae438.pdf)
+  _raw: Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya. [Devolatilization of extrasolar planetesimals by 60Fe and 26Al
+    heating.](https://scixplorer.org/abs/2024arXiv240206476E/abstract) *Monthly Notices of the Royal Astronomical Society*
+    528, 6619-6630 (2024). [pdf](https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae438/56681885/stae438.pdf)
 - slug: shorttle-2024-distinguishing
   section: research
   subsection: published
@@ -405,13 +656,15 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune K2-18b.](https://scixplorer.org/abs/2024ApJ...962L...8S) *The Astrophysical Journal Letters* 962, L8 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf)
+  _raw: Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune
+    K2-18b.](https://scixplorer.org/abs/2024ApJ...962L...8S) *The Astrophysical Journal Letters* 962, L8 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf)
 - slug: schlecker-2024-bioverse
   section: research
   subsection: published
   year: 2024
   authors_md: Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman
-  title: 'Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics'
+  title: 'Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet
+    Demographics'
   venue_md: '*The Planetary Science Journal* 5, 3 (2024)'
   primary_url: https://scixplorer.org/abs/2023arXiv230904518S/abstract
   links:
@@ -423,7 +676,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman. [Bioverse: The Habitable Zone Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics.](https://scixplorer.org/abs/2023arXiv230904518S/abstract) *The Planetary Science Journal* 5, 3 (2024). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf), [video](https://youtu.be/acgKcdTTv9c)'
+  _raw: 'Schlecker M, D Apai, **T Lichtenberg**, G Bergsten, A Salvador, KK Hardegree-Ullman. [Bioverse: The Habitable Zone
+    Inner Edge Discontinuity as an Imprint of Runaway Greenhouse Climates on Exoplanet Demographics.](https://scixplorer.org/abs/2023arXiv230904518S/abstract)
+    *The Planetary Science Journal* 5, 3 (2024). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf), [video](https://youtu.be/acgKcdTTv9c)'
 - slug: patel-2023-photoevaporation
   section: research
   subsection: published
@@ -440,7 +695,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Patel M, CKM Polius, M Ridsdill-Smith, **T Lichtenberg**, R Parker. [Photoevaporation versus enrichment in the cradle of the Sun.](https://scixplorer.org/abs/2023MNRAS.tmp.2344P) *Monthly Notices of the Royal Astronomical Society* 525, 2399–2410 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf)
+  _raw: Patel M, CKM Polius, M Ridsdill-Smith, **T Lichtenberg**, R Parker. [Photoevaporation versus enrichment in the cradle
+    of the Sun.](https://scixplorer.org/abs/2023MNRAS.tmp.2344P) *Monthly Notices of the Royal Astronomical Society* 525,
+    2399–2410 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf)
 - slug: meier-2023-interior
   section: research
   subsection: published
@@ -457,7 +714,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley. [Interior dynamics of super-Earth 55 Cancri e.](https://scixplorer.org/abs/2023arXiv230800592M) *Astronomy & Astrophysics* 678, A29 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf)
+  _raw: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley. [Interior dynamics of super-Earth 55 Cancri e.](https://scixplorer.org/abs/2023arXiv230800592M)
+    *Astronomy & Astrophysics* 678, A29 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf)
 - slug: piette-2023-rocky
   section: research
   subsection: published
@@ -474,7 +732,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Piette AAA, P Gao, K Brugman, A Shahar, **T Lichtenberg**, F Miozzi, P Driscoll. [Rocky planet or water world? Observability of low-density lava world atmospheres.](https://scixplorer.org/abs/2023ApJ...954...29P) *The Astrophysical Journal* 954, 29 (2023). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/acdef2/pdf)
+  _raw: Piette AAA, P Gao, K Brugman, A Shahar, **T Lichtenberg**, F Miozzi, P Driscoll. [Rocky planet or water world? Observability
+    of low-density lava world atmospheres.](https://scixplorer.org/abs/2023ApJ...954...29P) *The Astrophysical Journal* 954,
+    29 (2023). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/acdef2/pdf)
 - slug: parker-2023-short-lived
   section: research
   subsection: published
@@ -491,7 +751,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Parker RJ, **T Lichtenberg**, M Patel, CKM Polius, M Ridsdill-Smith. [Short-lived radioisotope enrichment in star-forming regions from stellar winds and supernovae.](https://scixplorer.org/abs/2023MNRAS.521.4838P) *Monthly Notices of the Royal Astronomical Society* 521, 4838–4851 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/521/4/4838/49716087/stad871.pdf)
+  _raw: Parker RJ, **T Lichtenberg**, M Patel, CKM Polius, M Ridsdill-Smith. [Short-lived radioisotope enrichment in star-forming
+    regions from stellar winds and supernovae.](https://scixplorer.org/abs/2023MNRAS.521.4838P) *Monthly Notices of the Royal
+    Astronomical Society* 521, 4838–4851 (2023). [pdf](https://academic.oup.com/mnras/article-pdf/521/4/4838/49716087/stad871.pdf)
 - slug: janson-2023-imaging
   section: research
   subsection: published
@@ -508,7 +770,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Janson M, J Patel, SC Ringqvist, C Lu, I Rebollido, **T Lichtenberg**, A Brandeker, D Angerhausen, L Noack. [Imaging of exocomets with infrared interferometry.](https://scixplorer.org/abs/2023A%26A...671A.114J/abstract) *Astronomy & Astrophysics* 671, A114 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/03/aa45402-22.pdf)
+  _raw: Janson M, J Patel, SC Ringqvist, C Lu, I Rebollido, **T Lichtenberg**, A Brandeker, D Angerhausen, L Noack. [Imaging
+    of exocomets with infrared interferometry.](https://scixplorer.org/abs/2023A%26A...671A.114J/abstract) *Astronomy & Astrophysics*
+    671, A114 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/03/aa45402-22.pdf)
 - slug: stammler-2023-leaky
   section: research
   subsection: published
@@ -525,7 +789,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel. [Leaky dust traps: How fragmentation impacts dust filtering by planets.](https://scixplorer.org/abs/2023A%26A...670L...5S/abstract) *Astronomy & Astrophysics Letters* 670, L5 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf)'
+  _raw: 'Stammler SM, **T Lichtenberg**, J Drążkowska, T Birnstiel. [Leaky dust traps: How fragmentation impacts dust filtering
+    by planets.](https://scixplorer.org/abs/2023A%26A...670L...5S/abstract) *Astronomy & Astrophysics Letters* 670, L5 (2023).
+    [pdf](https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf)'
 - slug: bonsor-2023-rapid
   section: research
   subsection: published
@@ -543,7 +809,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan. [Rapid formation of exoplanetesimals revealed by white dwarfs.](https://scixplorer.org/abs/2023NatAs...7...39B) *Nature Astronomy* 7, 39–48 (2023). [pdf](https://arxiv.org/pdf/2211.07244.pdf), [article](https://rdcu.be/cZCv4)
+  _raw: Bonsor A, **T Lichtenberg**, J Drążkowska, AM Buchan. [Rapid formation of exoplanetesimals revealed by white dwarfs.](https://scixplorer.org/abs/2023NatAs...7...39B)
+    *Nature Astronomy* 7, 39–48 (2023). [pdf](https://arxiv.org/pdf/2211.07244.pdf), [article](https://rdcu.be/cZCv4)
 - slug: graham-2022-ocean
   section: research
   subsection: published
@@ -561,7 +828,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract) *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4), [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456)'
+  _raw: 'Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract)
+    *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4),
+    [pdf](https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456)'
 - slug: lichtenberg-2022-reduced
   section: research
   subsection: published
@@ -576,10 +845,30 @@
     scix: https://scixplorer.org/abs/2022ApJ...938L...3L/abstract
   bibcode: 2022ApJ...938L...3L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, MS Clement. [Reduced late bombardment on rocky exoplanets around M-dwarfs.](https://scixplorer.org/abs/2022ApJ...938L...3L/abstract) *The Astrophysical Journal Letters* 938, L3 (2022). [video](https://youtu.be/M2CopK35Jrs), [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac9521/pdf)'
+  abstract: Ocean-vaporizing impacts of chemically reduced planetesimals onto the early Earth have been suggested to catalyze
+    atmospheric production of reduced nitrogen compounds and trigger prebiotic synthesis despite an oxidized lithosphere.
+    While geochemical evidence supports a dry, highly reduced late veneer on Earth, the composition of late-impacting debris
+    around lower-mass stars is subject to variable volatile loss as a result of their hosts' extended pre-main-sequence phase.
+    We perform simulations of late-stage planet formation across the M-dwarf mass spectrum to derive upper limits on reducing
+    bombardment epochs in Hadean-analog environments. We contrast the solar system scenario with varying initial volatile
+    distributions due to extended primordial runaway greenhouse phases on protoplanets and the desiccation of smaller planetesimals
+    by internal radiogenic heating. We find a decreasing rate of late-accreting reducing impacts with decreasing stellar mass.
+    Young planets around stars ≤0.4 M <SUB>☉</SUB> experience no impacts of sufficient mass to generate prebiotically relevant
+    concentrations of reduced atmospheric compounds once their stars have reached the main sequence. For M-dwarf planets to
+    not exceed Earth-like concentrations of volatiles, both planetesimals, and larger protoplanets must undergo extensive
+    devolatilization processes and can typically emerge from long-lived magma ocean phases with sufficient atmophile content
+    to outgas secondary atmospheres. Our results suggest that transiently reducing surface conditions on young rocky exoplanets
+    are favored around FGK stellar types relative to M dwarfs.
+  lay_summary: Impacts of chemically reduced meteorites onto the early Earth may have triggered the production of molecules
+    relevant for the origin of life. We simulated late-stage planet formation around stars of different masses and found that
+    planets orbiting small M-dwarf stars receive far fewer of these reducing impacts. This suggests that the chemical conditions
+    thought to favor prebiotic chemistry are more likely around Sun-like stars than around the most common stars in the galaxy.
+  lay_summary_draft: Impacts of chemically reduced meteorites onto the early Earth may have triggered the production of molecules
+    relevant for the origin of life. We simulated late-stage planet formation around stars of different masses and found that
+    planets orbiting small M-dwarf stars receive far fewer of these reducing impacts. This suggests that the chemical conditions
+    thought to favor prebiotic chemistry are more likely around Sun-like stars than around the most common stars in the galaxy.
+  _raw: '**Lichtenberg T**, MS Clement. [Reduced late bombardment on rocky exoplanets around M-dwarfs.](https://scixplorer.org/abs/2022ApJ...938L...3L/abstract)
+    *The Astrophysical Journal Letters* 938, L3 (2022). [video](https://youtu.be/M2CopK35Jrs), [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac9521/pdf)'
 - slug: curry-2022-prevalence
   section: research
   subsection: published
@@ -596,7 +885,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Curry A, A Bonsor, **T Lichtenberg**, O Shorttle. [Prevalence of short-lived radioactive isotopes across exoplanetary systems inferred from polluted white dwarfs.](https://scixplorer.org/abs/2022MNRAS.515..395C/abstract) *Monthly Notices of the Royal Astronomical Society* 515, 395–406 (2022). [pdf](https://academic.oup.com/mnras/article-pdf/515/1/395/44926894/stac1709.pdf)
+  _raw: Curry A, A Bonsor, **T Lichtenberg**, O Shorttle. [Prevalence of short-lived radioactive isotopes across exoplanetary
+    systems inferred from polluted white dwarfs.](https://scixplorer.org/abs/2022MNRAS.515..395C/abstract) *Monthly Notices
+    of the Royal Astronomical Society* 515, 395–406 (2022). [pdf](https://academic.oup.com/mnras/article-pdf/515/1/395/44926894/stac1709.pdf)
 - slug: dannert-2022-large
   section: research
   subsection: published
@@ -613,14 +904,16 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Dannert F et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): II.](https://scixplorer.org/abs/2022A%26A...664A..22D/abstract) *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf)'
+  _raw: 'Dannert F et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): II.](https://scixplorer.org/abs/2022A%26A...664A..22D/abstract)
+    *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf)'
 - slug: quanz-2022-large
   section: research
   subsection: published
   year: 2022
   authors_md: Quanz SP et al. (incl. **T Lichtenberg**)
   title: 'Large Interferometer For Exoplanets (LIFE): I'
-  venue_md: '*Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI)'
+  venue_md: '*Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf),
+    [video](https://youtu.be/7JO4iDrnNMI)'
   primary_url: https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf
@@ -632,7 +925,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract) *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI), [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)'
+  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract)
+    *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI),
+    [news](https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/)'
 - slug: jin-2021-evidence
   section: research
   subsection: published
@@ -649,7 +944,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Jin Z, M Bose, **T Lichtenberg**, GD Mulders. [New evidence for wet accretion of inner solar system planetesimals from meteorites Chelyabinsk and Benenitra.](https://scixplorer.org/abs/2021PSJ.....2..244J/abstract) *The Planetary Science Journal* 2, 244 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf)
+  _raw: Jin Z, M Bose, **T Lichtenberg**, GD Mulders. [New evidence for wet accretion of inner solar system planetesimals
+    from meteorites Chelyabinsk and Benenitra.](https://scixplorer.org/abs/2021PSJ.....2..244J/abstract) *The Planetary Science
+    Journal* 2, 244 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf)
 - slug: tsai-2021-inferring
   section: research
   subsection: published
@@ -666,7 +963,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Tsai S-M, H Innes, **T Lichtenberg**, J Taylor, M Malik, K Chubb, RT Pierrehumbert. [Inferring Shallow Surfaces on sub-Neptune Exoplanets with JWST.](https://scixplorer.org/abs/2021arXiv211106429T/abstract) *The Astrophysical Journal Letters* 922, L27 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf)
+  _raw: Tsai S-M, H Innes, **T Lichtenberg**, J Taylor, M Malik, K Chubb, RT Pierrehumbert. [Inferring Shallow Surfaces on
+    sub-Neptune Exoplanets with JWST.](https://scixplorer.org/abs/2021arXiv211106429T/abstract) *The Astrophysical Journal
+    Letters* 922, L27 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf)
 - slug: dorn-2021-hidden
   section: research
   subsection: published
@@ -683,7 +982,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Dorn C, **T Lichtenberg**. [Hidden water in magma ocean exoplanets.](https://scixplorer.org/abs/2021ApJ...922L...4D/abstract) *The Astrophysical Journal Letters* 922, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac33af/pdf)
+  _raw: Dorn C, **T Lichtenberg**. [Hidden water in magma ocean exoplanets.](https://scixplorer.org/abs/2021ApJ...922L...4D/abstract)
+    *The Astrophysical Journal Letters* 922, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac33af/pdf)
 - slug: graham-2021-multispecies
   section: research
   subsection: published
@@ -700,7 +1000,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Graham RJ, **T Lichtenberg**, R Boukrouche, RT Pierrehumbert. [A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres.](https://scixplorer.org/abs/2021PSJ.....2..207G/abstract) *The Planetary Science Journal* 2, 207 (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac214c/pdf)
+  _raw: Graham RJ, **T Lichtenberg**, R Boukrouche, RT Pierrehumbert. [A multispecies pseudoadiabat for simulating condensable-rich
+    exoplanet atmospheres.](https://scixplorer.org/abs/2021PSJ.....2..207G/abstract) *The Planetary Science Journal* 2, 207
+    (2021). [pdf](https://iopscience.iop.org/article/10.3847/PSJ/ac214c/pdf)
 - slug: boukrouche-2021-beyond
   section: research
   subsection: published
@@ -717,7 +1019,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Boukrouche R, **T Lichtenberg**, RT Pierrehumbert. [Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets.](https://scixplorer.org/abs/2021ApJ...919..130B/abstract) *The Astrophysical Journal* 919, 130 (2021). [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ac1345/pdf)'
+  _raw: 'Boukrouche R, **T Lichtenberg**, RT Pierrehumbert. [Beyond runaway: initiation of the post-runaway greenhouse state
+    on rocky exoplanets.](https://scixplorer.org/abs/2021ApJ...919..130B/abstract) *The Astrophysical Journal* 919, 130 (2021).
+    [pdf](https://iopscience.iop.org/article/10.3847/1538-4357/ac1345/pdf)'
 - slug: lichtenberg-2021-redox
   section: research
   subsection: published
@@ -732,10 +1036,26 @@
     scix: https://scixplorer.org/abs/2021ApJ...914L...4L/abstract
   bibcode: 2021ApJ...914L...4L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**. [Redox hysteresis of super-Earth exoplanets from magma ocean circulation.](https://scixplorer.org/abs/2021ApJ...914L...4L/abstract) *The Astrophysical Journal Letters* 914, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac0146/pdf), [blog](https://bit.ly/Lichtenberg21blog)'
+  abstract: Internal redox reactions may irreversibly alter the mantle composition and volatile inventory of terrestrial and
+    super-Earth exoplanets and affect the prospects for atmospheric observations. The global efficacy of these mechanisms,
+    however, hinges on the transfer of reduced iron from the molten silicate mantle to the metal core. Scaling analysis indicates
+    that turbulent diffusion in the internal magma oceans of sub-Neptunes can kinetically entrain liquid iron droplets and
+    quench core formation. This suggests that the chemical equilibration between core, mantle, and atmosphere may be energetically
+    limited by convective overturn in the magma flow. Hence, molten super-Earths possibly retain a compositional memory of
+    their accretion path. Redox control by magma ocean circulation is positively correlated with planetary heat flow, internal
+    gravity, and planet size. The presence and speciation of remanent atmospheres, surface mineralogy, and core mass fraction
+    of primary envelope-stripped exoplanets may thus constrain magma ocean dynamics.
+  lay_summary: When a super-Earth's interior is fully molten, iron droplets should sink to form a metal core, setting the
+    oxidation state of the mantle. We show that turbulent convection in deep magma oceans can keep iron droplets suspended,
+    preventing complete core formation and preserving a chemical memory of how the planet formed. This means two super-Earths
+    of identical mass could have very different mantle and atmospheric compositions depending on their accretion history.
+  lay_summary_draft: When a super-Earth's interior is fully molten, iron droplets should sink to form a metal core, setting
+    the oxidation state of the mantle. We show that turbulent convection in deep magma oceans can keep iron droplets suspended,
+    preventing complete core formation and preserving a chemical memory of how the planet formed. This means two super-Earths
+    of identical mass could have very different mantle and atmospheric compositions depending on their accretion history.
+  _raw: '**Lichtenberg T**. [Redox hysteresis of super-Earth exoplanets from magma ocean circulation.](https://scixplorer.org/abs/2021ApJ...914L...4L/abstract)
+    *The Astrophysical Journal Letters* 914, L4 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/ac0146/pdf),
+    [blog](https://bit.ly/Lichtenberg21blog)'
 - slug: lichtenberg-2021-system-level
   section: research
   subsection: published
@@ -750,10 +1070,29 @@
     scix: https://scixplorer.org/abs/2021ApJ...913L..20L/abstract
   bibcode: 2021ApJ...913L..20L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, S Krijt. [System-level fractionation of carbon from disk and planetesimal processing.](https://scixplorer.org/abs/2021ApJ...913L..20L/abstract) *The Astrophysical Journal Letters* 913, L20 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abfdce/pdf), [blog](https://bit.ly/LichtenbergKrijt21blog)'
+  abstract: Finding and characterizing extrasolar Earth analogs will rely on interpretation of the planetary system's environmental
+    context. The total budget and fractionation between C-H-O species sensitively affect the climatic and geodynamic state
+    of terrestrial worlds, but their main delivery channels are poorly constrained. We connect numerical models of volatile
+    chemistry and pebble coagulation in the circumstellar disk with the internal compositional evolution of planetesimals
+    during the primary accretion phase. Our simulations demonstrate that disk chemistry and degassing from planetesimals operate
+    on comparable timescales and can fractionate the relative abundances of major water and carbon carriers by orders of magnitude.
+    As a result, individual planetary systems with significant planetesimal processing display increased correlation in the
+    volatile budget of planetary building blocks relative to no internal heating. Planetesimal processing in a subset of systems
+    increases the variance of volatile contents across planetary systems. Our simulations thus suggest that exoplanetary atmospheric
+    compositions may provide constraints on when a specific planet formed.
+  lay_summary: The relative abundances of water and carbon delivered to young planets depend on both the chemistry of the
+    surrounding gas disk and the internal heating of the rocky building blocks. We show that radioactive heating inside planetesimals
+    can drive off volatiles on the same timescale as disk chemistry rearranges them, creating correlated carbon-to-water ratios
+    across a planetary system. Future measurements of exoplanet atmospheres may thus reveal when and how quickly a planet's
+    building blocks formed.
+  lay_summary_draft: The relative abundances of water and carbon delivered to young planets depend on both the chemistry of
+    the surrounding gas disk and the internal heating of the rocky building blocks. We show that radioactive heating inside
+    planetesimals can drive off volatiles on the same timescale as disk chemistry rearranges them, creating correlated carbon-to-water
+    ratios across a planetary system. Future measurements of exoplanet atmospheres may thus reveal when and how quickly a
+    planet's building blocks formed.
+  _raw: '**Lichtenberg T**, S Krijt. [System-level fractionation of carbon from disk and planetesimal processing.](https://scixplorer.org/abs/2021ApJ...913L..20L/abstract)
+    *The Astrophysical Journal Letters* 913, L20 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abfdce/pdf),
+    [blog](https://bit.ly/LichtenbergKrijt21blog)'
 - slug: meier-2021-hemispheric
   section: research
   subsection: published
@@ -771,7 +1110,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tectonics on super-Earth LHS 3844b.](https://scixplorer.org/abs/2021ApJ...908L..48M/abstract) *The Astrophysical Journal Letters* 908, L48 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abe400/pdf), [blog](http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/)
+  _raw: Meier TG, DJ Bower, **T Lichtenberg**, PJ Tackley, B-O Demory. [Hemispheric Tectonics on super-Earth LHS 3844b.](https://scixplorer.org/abs/2021ApJ...908L..48M/abstract)
+    *The Astrophysical Journal Letters* 908, L48 (2021). [pdf](https://iopscience.iop.org/article/10.3847/2041-8213/abe400/pdf),
+    [blog](http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/)
 - slug: lichtenberg-2021-vertically
   section: research
   subsection: published
@@ -786,10 +1127,34 @@
     scix: https://scixplorer.org/abs/2021JGRE..12606711L
   bibcode: 2021JGRE..12606711L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert. [Vertically resolved magma ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers.](https://scixplorer.org/abs/2021JGRE..12606711L) *Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021). [pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JE006711), [blog](http://bit.ly/MO21_blog)'
+  abstract: 'The earliest atmospheres of rocky planets originate from extensive volatile release during magma ocean epochs
+    that occur during assembly of the planet. These establish the initial distribution of the major volatile elements between
+    different chemical reservoirs that subsequently evolve via geological cycles. Current theoretical techniques are limited
+    in exploring the anticipated range of compositional and thermal scenarios of early planetary evolution, even though these
+    are of prime importance to aid astronomical inferences on the environmental context and geological history of extrasolar
+    planets. Here, we present a coupled numerical framework that links an evolutionary, vertically resolved model of the planetary
+    silicate mantle with a radiative convective model of the atmosphere. Using this method, we investigate the early evolution
+    of idealized Earth sized rocky planets with end member, clear sky atmospheres dominated by either H<SUB>2</SUB>, H<SUB>2</SUB>O,
+    CO<SUB>2</SUB>, CH<SUB>4</SUB>, CO, O<SUB>2</SUB>, or N<SUB>2</SUB>. We find central metrics of early planetary evolution,
+    such as energy gradient, sequence of mantle solidification, surface pressure, or vertical stratification of the atmosphere,
+    to be intimately controlled by the dominant volatile and outgassing history of the planet. Thermal sequences fall into
+    three general classes with increasing cooling timescale: CO, N<SUB>2</SUB>, and O<SUB>2</SUB> with minimal effect, H<SUB>2</SUB>O,
+    CO<SUB>2</SUB>, and CH<SUB>4</SUB> with intermediate influence, and H<SUB>2</SUB> with several orders of magnitude increase
+    in solidification time and atmosphere vertical stratification. Our numerical experiments exemplify the capabilities of
+    the presented modeling framework and link the interior and atmospheric evolution of rocky exoplanets with multiwavelength
+    astronomical observations.'
+  lay_summary: The first atmosphere of a rocky planet forms when its molten surface releases trapped gases. We built a coupled
+    model that tracks how different atmospheric gases interact with a solidifying magma ocean and control the planet's cooling
+    rate. Hydrogen-dominated atmospheres slow cooling by orders of magnitude compared to nitrogen or carbon monoxide, meaning
+    the dominant outgassed species fundamentally determines a young planet's thermal evolution.
+  lay_summary_draft: The first atmosphere of a rocky planet forms when its molten surface releases trapped gases. We built
+    a coupled model that tracks how different atmospheric gases interact with a solidifying magma ocean and control the planet's
+    cooling rate. Hydrogen-dominated atmospheres slow cooling by orders of magnitude compared to nitrogen or carbon monoxide,
+    meaning the dominant outgassed species fundamentally determines a young planet's thermal evolution.
+  _raw: '**Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert. [Vertically resolved magma
+    ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers.](https://scixplorer.org/abs/2021JGRE..12606711L)
+    *Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021). [pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JE006711),
+    [blog](http://bit.ly/MO21_blog)'
 - slug: lichtenberg-2021-bifurcation
   section: research
   subsection: published
@@ -804,10 +1169,27 @@
     scix: https://scixplorer.org/abs/2021Sci...371..365L/abstract
   bibcode: 2021Sci...371..365L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, J Drążkowska, M Schönbächler, GJ Golabek, TO Hands. [Bifurcation of planetary building blocks during Solar System formation.](https://scixplorer.org/abs/2021Sci...371..365L/abstract) *Science* 371, 365–370 (2021). [pdf](http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci), [blog](http://bit.ly/BifurcationBlog)'
+  abstract: Geochemical and astronomical evidence demonstrates that planet formation occurred in two spatially and temporally
+    separated reservoirs. The origin of this dichotomy is unknown. We use numerical models to investigate how the evolution
+    of the solar protoplanetary disk influenced the timing of protoplanet formation and their internal evolution. Migration
+    of the water snow line can generate two distinct bursts of planetesimal formation that sample different source regions.
+    These reservoirs evolve in divergent geophysical modes and develop distinct volatile contents, consistent with constraints
+    from accretion chronology, thermochemistry, and the mass divergence of inner and outer Solar System. Our simulations suggest
+    that the compositional fractionation and isotopic dichotomy of the Solar System was initiated by the interplay between
+    disk dynamics, heterogeneous accretion, and internal evolution of forming protoplanets.
+  lay_summary: Meteorite evidence shows that the Solar System's building blocks formed in two distinct chemical reservoirs,
+    but the origin of this split was unclear. We demonstrate that the inward migration of the snow line in the young Solar
+    System triggered two separate bursts of planetesimal formation, sampling different regions of the disk. These two populations
+    then evolved along divergent geophysical paths, naturally explaining the compositional divide between the inner and outer
+    Solar System.
+  lay_summary_draft: Meteorite evidence shows that the Solar System's building blocks formed in two distinct chemical reservoirs,
+    but the origin of this split was unclear. We demonstrate that the inward migration of the snow line in the young Solar
+    System triggered two separate bursts of planetesimal formation, sampling different regions of the disk. These two populations
+    then evolved along divergent geophysical paths, naturally explaining the compositional divide between the inner and outer
+    Solar System.
+  _raw: '**Lichtenberg T**, J Drążkowska, M Schönbächler, GJ Golabek, TO Hands. [Bifurcation of planetary building blocks
+    during Solar System formation.](https://scixplorer.org/abs/2021Sci...371..365L/abstract) *Science* 371, 365–370 (2021).
+    [pdf](http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci), [blog](http://bit.ly/BifurcationBlog)'
 - slug: lichtenberg-2019-water
   section: research
   subsection: published
@@ -822,10 +1204,33 @@
     scix: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
   bibcode: 2019NatAs...3..307L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini. [A water budget dichotomy of rocky protoplanets from 26Al-heating.](https://scixplorer.org/abs/2019NatAs...3..307L/abstract) *Nature Astronomy* 3, 307–313 (2019). [pdf](https://arxiv.org/pdf/1902.04026.pdf), [blog](http://bit.ly/Al26-dehydration_medium)'
+  abstract: 'In contrast to the water-poor planets of the inner Solar System, stochasticity during planetary formation<SUP>1,2</SUP>
+    and order-of-magnitude deviations in exoplanet volatile contents<SUP>3</SUP> suggest that rocky worlds engulfed in thick
+    volatile ice layers<SUP>4,5</SUP> are the dominant family of terrestrial analogues<SUP>6,7</SUP> among the extrasolar
+    planet population. However, the distribution of compositionally Earth-like planets remains insufficiently constrained<SUP>3</SUP>,
+    and it is not clear whether the Solar System is a statistical outlier or can be explained by more general planetary formation
+    processes. Here we use numerical models of planet formation, evolution and interior structure to show that a planet''s
+    bulk water fraction and radius are anti-correlated with initial <SUP>26</SUP>Al levels in the planetesimal-based accretion
+    framework. The heat generated by this short-lived radionuclide rapidly dehydrates planetesimals<SUP>8</SUP> before their
+    accretion onto larger protoplanets and yields a system-wide correlation<SUP>9,10</SUP> of planetary bulk water abundances,
+    which, for instance, can explain the lack of a clear orbital trend in the water budgets of the TRAPPIST-1 planets<SUP>11</SUP>.
+    Qualitatively, our models suggest two main scenarios for the formation of planetary systems: high-<SUP>26</SUP>Al systems,
+    like our Solar System, form small, water-depleted planets, whereas those devoid of <SUP>26</SUP>Al predominantly form
+    ocean worlds. For planets of similar mass, the mean planetary transit radii of the ocean planet population can be up to
+    about 10% larger than for planets from the <SUP>26</SUP>Al-rich formation scenario.'
+  lay_summary: Radioactive aluminum-26, inherited from a nearby supernova, heated the Solar System's earliest rocky bodies
+    and drove off their water before they could grow into planets. We show that planetary systems rich in aluminum-26, like
+    ours, preferentially form dry, rocky worlds, while systems without it form water-rich ocean planets. This mechanism can
+    explain why the TRAPPIST-1 planets have similar water contents despite orbiting at very different distances from their
+    star.
+  lay_summary_draft: Radioactive aluminum-26, inherited from a nearby supernova, heated the Solar System's earliest rocky
+    bodies and drove off their water before they could grow into planets. We show that planetary systems rich in aluminum-26,
+    like ours, preferentially form dry, rocky worlds, while systems without it form water-rich ocean planets. This mechanism
+    can explain why the TRAPPIST-1 planets have similar water contents despite orbiting at very different distances from their
+    star.
+  _raw: '**Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini. [A water budget dichotomy of
+    rocky protoplanets from 26Al-heating.](https://scixplorer.org/abs/2019NatAs...3..307L/abstract) *Nature Astronomy* 3,
+    307–313 (2019). [pdf](https://arxiv.org/pdf/1902.04026.pdf), [blog](http://bit.ly/Al26-dehydration_medium)'
 - slug: lichtenberg-2019-magma
   section: research
   subsection: published
@@ -841,10 +1246,35 @@
     scix: https://scixplorer.org/abs/2019E%26PSL.507..154L
   bibcode: 2019E&PSL.507..154L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya. [Magma ascent in planetesimals: control by grain size.](https://scixplorer.org/abs/2019E%26PSL.507..154L) *Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i), [blog](http://bit.ly/2GZZ0e9)'
+  abstract: Rocky planetesimals in the early solar system melted internally and evolved chemically due to radiogenic heating
+    from <SUP>26</SUP>Al. Here we quantify the parametric controls on magma genesis and transport using a coupled petrological
+    and fluid mechanical model of reactive two-phase flow. We find the mean grain size of silicate minerals to be a key control
+    on magma ascent. For grain sizes ≳1 mm, melt segregation produces distinct radial structure and chemical stratification.
+    This stratification is most pronounced for bodies formed at around 1 Myr after formation of Ca, Al-rich inclusions. These
+    findings suggest a link between the time and orbital location of planetesimal formation and their subsequent structural
+    and chemical evolution. According to our models, the evolution of partially molten planetesimal interiors falls into two
+    categories. In the magma ocean scenario, the whole interior of a planetesimal experiences nearly complete melting, which
+    would result in turbulent convection and core-mantle differentiation by the rainfall mechanism. In the magma sill scenario,
+    segregating melts gradually deplete the deep interior of the radiogenic heat source. In this case, magma may form melt-rich
+    layers beneath a cool and stable lid, while core formation would proceed by percolation. Our findings suggest that grain
+    sizes prevalent during the internal heating stage governed magma ascent in planetesimals. Regardless of whether evolution
+    progresses toward a magma ocean or magma sill structure, our models predict that temperature inversions due to rapid <SUP>26</SUP>Al
+    redistribution are limited to bodies formed earlier than ≈1 Myr after CAIs. We find that if grain size was ≲1 mm during
+    peak internal melting, only elevated solid-melt density contrasts (such as found for the reducing conditions in enstatite
+    chondrite compositions) would allow substantial melt segregation to occur.
+  lay_summary: 'The earliest rocky bodies in the Solar System melted from the inside out due to radioactive heating, but it
+    has been unclear how magma moved through their interiors. We find that the grain size of silicate minerals is the critical
+    factor: coarse-grained material lets magma segregate and create chemically layered structures, while fine-grained material
+    traps melt in place. This connects the mineral texture of meteorites to the internal evolution and differentiation of
+    their parent bodies.'
+  lay_summary_draft: 'The earliest rocky bodies in the Solar System melted from the inside out due to radioactive heating,
+    but it has been unclear how magma moved through their interiors. We find that the grain size of silicate minerals is the
+    critical factor: coarse-grained material lets magma segregate and create chemically layered structures, while fine-grained
+    material traps melt in place. This connects the mineral texture of meteorites to the internal evolution and differentiation
+    of their parent bodies.'
+  _raw: '**Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya. [Magma ascent in planetesimals: control by grain size.](https://scixplorer.org/abs/2019E%26PSL.507..154L)
+    *Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i),
+    [blog](http://bit.ly/2GZZ0e9)'
 - slug: bonati-2019-direct
   section: research
   subsection: published
@@ -862,13 +1292,16 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz. [Direct imaging of molten protoplanets in nearby young stellar associations.](https://scixplorer.org/abs/2019A%26A...621A.125B/abstract) *Astronomy & Astrophysics* 621, A125 (2019). [pdf](https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf), [blog](http://bit.ly/Bonati18)
+  _raw: Bonati I, **T Lichtenberg**, DJ Bower, ML Timpe, SP Quanz. [Direct imaging of molten protoplanets in nearby young
+    stellar associations.](https://scixplorer.org/abs/2019A%26A...621A.125B/abstract) *Astronomy & Astrophysics* 621, A125
+    (2019). [pdf](https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf), [blog](http://bit.ly/Bonati18)
 - slug: hunt-2018-late
   section: research
   subsection: published
   year: 2018
   authors_md: Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler
-  title: 'Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling'
+  title: 'Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal
+    modelling'
   venue_md: '*Earth and Planetary Science Letters* 482, 490-500 (2018)'
   primary_url: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
   links:
@@ -879,7 +1312,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler. [Late metal–silicate separation on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling.](https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract) *Earth and Planetary Science Letters* 482, 490-500 (2018). [pdf](https://arxiv.org/pdf/1802.10421.pdf)'
+  _raw: 'Hunt AC, DL Cook, **T Lichtenberg**, PM Reger, M Ek, GJ Golabek, M Schönbächler. [Late metal–silicate separation
+    on the IAB parent asteroid: Constraints from combined W and Pt isotopes and thermal modelling.](https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract)
+    *Earth and Planetary Science Letters* 482, 490-500 (2018). [pdf](https://arxiv.org/pdf/1802.10421.pdf)'
 - slug: lichtenberg-2018-impact
   section: research
   subsection: published
@@ -894,10 +1329,38 @@
     scix: https://scixplorer.org/abs/2018Icar..302...27L
   bibcode: 2018Icar..302...27L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, GJ Golabek, CP Dullemond, M Schönbächler, TV Gerya, MR Meyer. [Impact splash chondrule formation during planetesimal recycling.](https://scixplorer.org/abs/2018Icar..302...27L) *Icarus* 302, 27–43 (2018). [pdf](https://arxiv.org/pdf/1711.02103.pdf), [blog](http://goo.gl/5bDqGC)'
+  abstract: Chondrules, mm-sized igneous-textured spherules, are the dominant bulk silicate constituent of chondritic meteorites
+    and originate from highly energetic, local processes during the first million years after the birth of the Sun. So far,
+    an astrophysically consistent chondrule formation scenario explaining major chemical, isotopic and textural features,
+    in particular Fe,Ni metal abundances, bulk Fe/Mg ratios and intra-chondrite chemical and isotopic diversity, remains elusive.
+    Here, we examine the prospect of forming chondrules from impact splashes among planetesimals heated by radioactive decay
+    of short-lived radionuclides using thermomechanical models of their interior evolution. We show that intensely melted
+    planetesimals with interior magma oceans became rapidly chemically equilibrated and physically differentiated. Therefore,
+    collisional interactions among such bodies would have resulted in chondrule-like but basaltic spherules, which are not
+    observed in the meteoritic record. This inconsistency with the expected dynamical interactions hints at an incomplete
+    understanding of the planetary growth regime during the lifetime of the solar protoplanetary disk. To resolve this conundrum,
+    we examine how the observed chemical and isotopic features of chondrules constrain the dynamical environment of accreting
+    chondrite parent bodies by interpreting the meteoritic record as an impact-generated proxy of early solar system planetesimals
+    that underwent repeated collision and reaccretion cycles. Using a coupled evolution-collision model we demonstrate that
+    the vast majority of collisional debris feeding the asteroid main belt must be derived from planetesimals which were partially
+    molten at maximum. Therefore, the precursors of chondrite parent bodies either formed primarily small, from sub-canonical
+    aluminum-26 reservoirs, or collisional destruction mechanisms were efficient enough to shatter planetesimals before they
+    reached the magma ocean phase. Finally, we outline the window in parameter space for which chondrule formation from planetesimal
+    collisions can be reconciled with the meteoritic record and how our results can be used to further constrain early solar
+    system dynamics.
+  lay_summary: Chondrules, millimeter-sized glassy beads found in most meteorites, formed in energetic events during the first
+    million years of the Solar System, but their origin remains debated. We tested whether collisions between partially molten
+    planetesimals could produce chondrules with the right chemistry and found that the precursor bodies must not have been
+    fully melted. This constrains either the timing and size of early planetesimals or the efficiency of collisional destruction
+    in the young Solar System.
+  lay_summary_draft: Chondrules, millimeter-sized glassy beads found in most meteorites, formed in energetic events during
+    the first million years of the Solar System, but their origin remains debated. We tested whether collisions between partially
+    molten planetesimals could produce chondrules with the right chemistry and found that the precursor bodies must not have
+    been fully melted. This constrains either the timing and size of early planetesimals or the efficiency of collisional
+    destruction in the young Solar System.
+  _raw: '**Lichtenberg T**, GJ Golabek, CP Dullemond, M Schönbächler, TV Gerya, MR Meyer. [Impact splash chondrule formation
+    during planetesimal recycling.](https://scixplorer.org/abs/2018Icar..302...27L) *Icarus* 302, 27–43 (2018). [pdf](https://arxiv.org/pdf/1711.02103.pdf),
+    [blog](http://goo.gl/5bDqGC)'
 - slug: parker-2017-planet
   section: research
   subsection: published
@@ -914,14 +1377,16 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun''s natal star-forming region?](https://scixplorer.org/abs/2017MNRAS.472L..75P) *Monthly Notices of the Royal Astronomical Society: Letters* 472, L75–L79 (2017). [pdf](https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf)'
+  _raw: 'Parker RJ, **T Lichtenberg**, SP Quanz. [Was Planet 9 captured in the Sun''s natal star-forming region?](https://scixplorer.org/abs/2017MNRAS.472L..75P)
+    *Monthly Notices of the Royal Astronomical Society: Letters* 472, L75–L79 (2017). [pdf](https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf)'
 - slug: lichtenberg-2016-isotopic
   section: research
   subsection: published
   year: 2016
   authors_md: '**Lichtenberg T**, RJ Parker, MR Meyer'
   title: Isotopic enrichment of forming planetary systems from supernova pollution
-  venue_md: '*Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf), [video](http://bit.ly/supernova_pollution)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf),
+    [video](http://bit.ly/supernova_pollution)'
   primary_url: https://scixplorer.org/abs/2016MNRAS.462.3979L
   links:
     pdf: https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf
@@ -930,10 +1395,33 @@
     scix: https://scixplorer.org/abs/2016MNRAS.462.3979L
   bibcode: 2016MNRAS.462.3979L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, RJ Parker, MR Meyer. [Isotopic enrichment of forming planetary systems from supernova pollution.](https://scixplorer.org/abs/2016MNRAS.462.3979L) *Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf), [video](http://bit.ly/supernova_pollution), [blog](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/)'
+  abstract: Heating by short-lived radioisotopes (SLRs) such as <SUP>26</SUP>Al and <SUP>60</SUP>Fe fundamentally shaped the
+    thermal history and interior structure of Solar system planetesimals during the early stages of planetary formation. The
+    subsequent thermo-mechanical evolution, such as internal differentiation or rapid volatile degassing, yields important
+    implications for the final structure, composition and evolution of terrestrial planets. SLR-driven heating in the Solar
+    system is sensitive to the absolute abundance and homogeneity of SLRs within the protoplanetary disc present during the
+    condensation of the first solids. In order to explain the diverse compositions found for extrasolar planets, it is important
+    to understand the distribution of SLRs in active planet formation regions (star clusters) during their first few Myr of
+    evolution. By constraining the range of possible effects, we show how the imprint of SLRs can be extrapolated to exoplanetary
+    systems and derive statistical predictions for the distribution of <SUP>26</SUP>Al and <SUP>60</SUP>Fe based on N-body
+    simulations of typical to large clusters (10<SUP>3</SUP>-10<SUP>4</SUP> stars) with a range of initial conditions. We
+    quantify the pollution of protoplanetary discs by supernova ejecta and show that the likelihood of enrichment levels similar
+    to or higher than the Solar system can vary considerably, depending on the cluster morphology. Furthermore, many enriched
+    systems show an excess in radiogenic heating compared to Solar system levels, which implies that the formation and evolution
+    of planetesimals could vary significantly depending on the birth environment of their host stars.
+  lay_summary: Short-lived radioactive isotopes like aluminum-26 heated the building blocks of our Solar System and drove
+    their internal evolution, but it is unclear how common such enrichment is elsewhere. We simulated the dispersal of supernova
+    ejecta through young star clusters and found that the likelihood of Solar-System-level enrichment varies widely depending
+    on the cluster's size and structure. Many planetary systems may receive even higher doses, implying that planetesimal
+    evolution could differ substantially across the galaxy.
+  lay_summary_draft: Short-lived radioactive isotopes like aluminum-26 heated the building blocks of our Solar System and
+    drove their internal evolution, but it is unclear how common such enrichment is elsewhere. We simulated the dispersal
+    of supernova ejecta through young star clusters and found that the likelihood of Solar-System-level enrichment varies
+    widely depending on the cluster's size and structure. Many planetary systems may receive even higher doses, implying that
+    planetesimal evolution could differ substantially across the galaxy.
+  _raw: '**Lichtenberg T**, RJ Parker, MR Meyer. [Isotopic enrichment of forming planetary systems from supernova pollution.](https://scixplorer.org/abs/2016MNRAS.462.3979L)
+    *Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf),
+    [video](http://bit.ly/supernova_pollution), [blog](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/)'
 - slug: lichtenberg-2016-effects
   section: research
   subsection: published
@@ -949,10 +1437,34 @@
     scix: https://scixplorer.org/abs/2016Icar..274..350L
   bibcode: 2016Icar..274..350L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer. [The effects of short-lived radionuclides and porosity on the early thermo-mechanical evolution of planetesimals.](https://scixplorer.org/abs/2016Icar..274..350L) *Icarus* 274, 350–365 (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution), [blog](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/)'
+  abstract: The thermal history and internal structure of chondritic planetesimals, assembled before the giant impact phase
+    of chaotic growth, potentially yield important implications for the final composition and evolution of terrestrial planets.
+    These parameters critically depend on the internal balance of heating versus cooling, which is mostly determined by the
+    presence of short-lived radionuclides (SLRs), such as <SUP>26</SUP>Al and <SUP>60</SUP>Fe, as well as the heat conductivity
+    of the material. The heating by SLRs depends on their initial abundances, the formation time of the planetesimal and its
+    size. It has been argued that the cooling history is determined by the porosity of the granular material, which undergoes
+    dramatic changes via compaction processes and tends to decrease with time. In this study we assess the influence of these
+    parameters on the thermo-mechanical evolution of young planetesimals with both 2D and 3D simulations. Using the code family
+    I2ELVIS/I3ELVIS we have run numerous 2D and 3D numerical finite-difference fluid dynamic models with varying planetesimal
+    radius, formation time and initial porosity. Our results indicate that powdery materials lowered the threshold for melting
+    and convection in planetesimals, depending on the amount of SLRs present. A subset of planetesimals retained a powdery
+    surface layer which lowered the thermal conductivity and hindered cooling. The effect of initial porosity was small, however,
+    compared to those of planetesimal size and formation time, which dominated the thermo-mechanical evolution and were the
+    primary factors for the onset of melting and differentiation. We comment on the implications of this work concerning the
+    structure and evolution of these planetesimals, as well as their behavior as possible building blocks of terrestrial planets.
+  lay_summary: The porous, powdery texture of freshly formed planetesimals acts as thermal insulation, potentially trapping
+    radioactive heat and promoting internal melting. We modeled how porosity and radioactive heating interact in 2D and 3D
+    simulations and found that while porosity lowers the melting threshold, the size and formation time of a planetesimal
+    are far more important in determining whether it differentiates. These results constrain which meteorite parent bodies
+    underwent internal melting and how they contributed to terrestrial planet formation.
+  lay_summary_draft: The porous, powdery texture of freshly formed planetesimals acts as thermal insulation, potentially trapping
+    radioactive heat and promoting internal melting. We modeled how porosity and radioactive heating interact in 2D and 3D
+    simulations and found that while porosity lowers the melting threshold, the size and formation time of a planetesimal
+    are far more important in determining whether it differentiates. These results constrain which meteorite parent bodies
+    underwent internal melting and how they contributed to terrestrial planet formation.
+  _raw: '**Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer. [The effects of short-lived radionuclides and porosity on the
+    early thermo-mechanical evolution of planetesimals.](https://scixplorer.org/abs/2016Icar..274..350L) *Icarus* 274, 350–365
+    (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution), [blog](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/)'
 - slug: lichtenberg-2015-modeling
   section: research
   subsection: published
@@ -967,10 +1479,43 @@
     scix: https://scixplorer.org/abs/2015A%26A...579A..32L/abstract
   bibcode: 2015A&A...579A..32L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T** & DRG Schleicher. [Modeling gravitational instabilities in self-gravitating protoplanetary disks with adaptive mesh refinement techniques.](https://scixplorer.org/abs/2015A%26A...579A..32L/abstract) *Astronomy & Astrophysics* 579, A32 (2015). [pdf](https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf), [video](http://bit.ly/gi_disk)'
+  abstract: The astonishing diversity in the observed planetary population requires theoretical efforts and advances in planet
+    formation theories. The use of numerical approaches provides a method to tackle the weaknesses of current models and is
+    an important tool to close gaps in poorly constrained areas such as the rapid formation of giant planets in highly evolved
+    systems. So far, most numerical approaches make use of Lagrangian-based smoothed-particle hydrodynamics techniques or
+    grid-based 2D axisymmetric simulations. We present a new global disk setup to model the first stages of giant planet formation
+    via gravitational instabilities (GI) in 3D with the block-structured adaptive mesh refinement (AMR) hydrodynamics code
+    enzo. With this setup, we explore the potential impact of AMR techniques on the fragmentation and clumping due to large-scale
+    instabilities using different AMR configurations. Additionally, we seek to derive general resolution criteria for global
+    simulations of self-gravitating disks of variable extent. We run a grid of simulations with varying AMR settings, including
+    runs with a static grid for comparison. Additionally, we study the effects of varying the disk radius. The physical settings
+    involve disks with R<SUB>disk</SUB> = 10,100 and 300 AU, with a mass of M<SUB>disk</SUB> ≈ 0.05 M<SUB>☉</SUB> and a central
+    object of subsolar mass (M<SUB>⋆</SUB> = 0.646 M<SUB>☉</SUB>). To validate our thermodynamical approach we include a set
+    of simulations with a dynamically stable profile (Q<SUB>init</SUB> = 3) and similar grid parameters. The development of
+    fragmentation and the buildup of distinct clumps in the disk is strongly dependent on the chosen AMR grid settings. By
+    combining our findings from the resolution and parameter studies we find a general lower limit criterion to be able to
+    resolve GI induced fragmentation features and distinct clumps, which induce turbulence in the disk and seed giant planet
+    formation. Irrespective of the physical extension of the disk, topologically disconnected clump features are only resolved
+    if the fragmentation-active zone of the disk is resolved with at least 100 cells. The latter corresponds to a minimum
+    requirement for all global disk setups. Our simulations illustrate the capabilities of AMR-based modeling techniques for
+    planet formation simulations and underline the importance of balanced refinement settings to reproduce fragmenting structures.
+    The clumps in our models are migrating inward and are eventually destroyed because of tidal disruptions, reflecting the
+    absence of radiative feedback from the central star, which may stabilize the clumps on larger scales. We expect that the
+    inclusion of additional physics, like a radiation transport mechanism and the formation of sink particles, will provide
+    a detailed framework to study the formation of planets via gravitational instabilities in a global disk view.
+  lay_summary: Giant planets might form rapidly when protoplanetary disks become gravitationally unstable and fragment into
+    clumps, but capturing this process in simulations is numerically challenging. We developed a new 3D setup using adaptive
+    mesh refinement to resolve the fragmentation of self-gravitating disks, identifying a minimum resolution requirement for
+    reliably resolving gravitational collapse. The resulting clumps migrate inward and are tidally destroyed, indicating that
+    additional physics such as radiative feedback is needed to stabilize them into surviving planets.
+  lay_summary_draft: Giant planets might form rapidly when protoplanetary disks become gravitationally unstable and fragment
+    into clumps, but capturing this process in simulations is numerically challenging. We developed a new 3D setup using adaptive
+    mesh refinement to resolve the fragmentation of self-gravitating disks, identifying a minimum resolution requirement for
+    reliably resolving gravitational collapse. The resulting clumps migrate inward and are tidally destroyed, indicating that
+    additional physics such as radiative feedback is needed to stabilize them into surviving planets.
+  _raw: '**Lichtenberg T** & DRG Schleicher. [Modeling gravitational instabilities in self-gravitating protoplanetary disks
+    with adaptive mesh refinement techniques.](https://scixplorer.org/abs/2015A%26A...579A..32L/abstract) *Astronomy & Astrophysics*
+    579, A32 (2015). [pdf](https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf), [video](http://bit.ly/gi_disk)'
 - slug: lichtenberg-2025-constraining
   section: reviews
   subsection: null
@@ -982,12 +1527,25 @@
   links:
     pdf: https://www.science.org/doi/pdf/10.1126/science.ads3360
     scix: https://scixplorer.org/abs/2025arXiv251008844L
-  bibcode: 2025arXiv251008844L
+  bibcode: 2025Sci...390S3660L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)'
+  abstract: Astronomical surveys have identified numerous exoplanets with bulk compositions that are unlike the planets of
+    the Solar System, including rocky super-Earths and gas-enveloped sub-Neptunes. Observing the atmospheres of these objects
+    provides information on the geological processes that influence their climates and surfaces. In this Review, we summarize
+    the current understanding of these planets, including insights into the interaction between the atmosphere and interior
+    based on observations made with the JWST. We describe the expected climatic and interior planetary regimes for planets
+    with different density and stellar flux and how those regimes might be observationally distinguished. We also identify
+    the observational, experimental, and theoretical innovations that will be required to characterize Earth-like exoplanets.
+  lay_summary: Rocky exoplanets come in a wider range of sizes and compositions than anything in our Solar System, from bare
+    rocky surfaces to gas-enveloped sub-Neptunes. This review synthesizes what atmospheric observations, particularly from
+    JWST, are revealing about the geological processes shaping these worlds. It identifies the observational, experimental,
+    and theoretical advances needed to eventually characterize truly Earth-like exoplanets.
+  lay_summary_draft: Rocky exoplanets come in a wider range of sizes and compositions than anything in our Solar System, from
+    bare rocky surfaces to gas-enveloped sub-Neptunes. This review synthesizes what atmospheric observations, particularly
+    from JWST, are revealing about the geological processes shaping these worlds. It identifies the observational, experimental,
+    and theoretical advances needed to eventually characterize truly Earth-like exoplanets.
+  _raw: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their
+    atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)'
 - slug: lichtenberg-2025-super-earths
   section: reviews
   subsection: null
@@ -999,12 +1557,34 @@
   links:
     pdf: https://arxiv.org/pdf/2405.04057
     scix: https://scixplorer.org/abs/2024arXiv240504057L
-  bibcode: 2024arXiv240504057L
+  bibcode: 2025TrGeo...7...51L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L) *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)'
+  abstract: In the last few years astronomical surveys have expanded the reach of planetary science into the realm of small
+    and dense extrasolar worlds. These share a number of characteristics with the terrestrial and icy planetary objects of
+    the Solar System, but keep stretching previous understanding of the known limits of planetary thermodynamics, material
+    properties, and climate regimes. Improved compositional and thermal constraints on exoplanets below $\sim$2 Earth radii
+    suggest efficient accretion of atmosphere-forming volatile elements in a fraction of planetary systems, pointing to rapid
+    formation, planet-scale melting, and chemical equilibration between the core, mantle, and atmosphere of rocky and volatile-rich
+    exoplanets. Meaningful interpretation of novel observational data from these worlds necessitates cross-disciplinary expansion
+    of known material properties under extreme thermodynamic, non-solar conditions, and accounting for dynamic feedbacks between
+    interior and atmospheric processes. Exploration of the atmosphere and surface composition of individual, short-period
+    super-Earths in the next few years will enable key inferences on magma ocean dynamics, the redox state of rocky planetary
+    mantles, and mixing between volatile and refractory phases in planetary regimes that are absent from the present-day Solar
+    System, and reminiscent of the conditions of the prebiotic Earth. The atmospheric characterization of climate diversity
+    and the statistical search for biosignatures on terrestrial exoplanets on temperate orbits will require space-based direct
+    imaging surveys, capable of resolving emission features of major and trace gases in both shortwave and mid-infrared wavelengths.
+  lay_summary: Astronomical surveys are now detecting rocky exoplanets small enough to be compared with Earth, but their compositions
+    and climates challenge existing planetary science frameworks. This review covers what we know about super-Earths and Earth-like
+    exoplanets, from their formation through magma ocean stages to their present-day atmospheres. Characterizing temperate,
+    potentially habitable worlds will ultimately require space-based direct imaging missions capable of resolving their atmospheric
+    composition.
+  lay_summary_draft: Astronomical surveys are now detecting rocky exoplanets small enough to be compared with Earth, but their
+    compositions and climates challenge existing planetary science frameworks. This review covers what we know about super-Earths
+    and Earth-like exoplanets, from their formation through magma ocean stages to their present-day atmospheres. Characterizing
+    temperate, potentially habitable worlds will ultimately require space-based direct imaging missions capable of resolving
+    their atmospheric composition.
+  _raw: '**Lichtenberg T**, Y Miguel. [Super-Earths and Earth-like Exoplanets.](https://scixplorer.org/abs/2024arXiv240504057L)
+    *Treatise on Geochemistry*, 3rd edition (2025). [pdf](https://arxiv.org/pdf/2405.04057)'
 - slug: suer-2023-distribution
   section: reviews
   subsection: null
@@ -1021,7 +1601,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of volatile elements during rocky planet formation.](https://scixplorer.org/abs/2023FrEaS..1159412S/abstract) *Frontiers in Earth Science* 11:1159412 (2023). [pdf](https://www.frontiersin.org/articles/10.3389/feart.2023.1159412/pdf?isPublishedV2=False)
+  _raw: Suer T-A, C Jackson, DS Grewal, C Dalou, **T Lichtenberg**. [The distribution of volatile elements during rocky planet
+    formation.](https://scixplorer.org/abs/2023FrEaS..1159412S/abstract) *Frontiers in Earth Science* 11:1159412 (2023). [pdf](https://www.frontiersin.org/articles/10.3389/feart.2023.1159412/pdf?isPublishedV2=False)
 - slug: lichtenberg-2023-geophysical
   section: reviews
   subsection: null
@@ -1033,12 +1614,30 @@
   links:
     pdf: https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF
     scix: https://scixplorer.org/abs/2022arXiv220310023L/abstract
-  bibcode: 2022arXiv220310023L
+  bibcode: 2023ASPC..534..907L
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Lichtenberg T**, LK Schaefer, M Nakajima, R Fischer. [Geophysical Evolution During Rocky Planet Formation.](https://scixplorer.org/abs/2022arXiv220310023L/abstract) *Protostars and Planets VII*, ASP Conference Series, Vol. 534, 907 (2023). [pdf](https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF)'
+  abstract: Progressive astronomical characterization of planet-forming disks and rocky exoplanets highlight the need for
+    increasing interdisciplinary efforts to understand the birth and life cycle of terrestrial worlds in a unified picture.
+    Here, we review major geophysical and geochemical processes that shape the evolution of rocky planets and their precursor
+    planetesimals during planetary formation and early evolution, and how these map onto the astrophysical timeline and varying
+    accretion environments of planetary growth. The evolution of the coupled core-mantle-atmosphere system of growing protoplanets
+    diverges in thermal, compositional, and structural states to first order, and ultimately shapes key planetary characteristics
+    that can discern planets harboring clement surface conditions from those that do not. Astronomical campaigns seeking to
+    investigate rocky exoplanets will require significant advances in laboratory characterization of planetary materials and
+    time- and spatially-resolved theoretical models of planetary evolution, to extend planetary science beyond the Solar System
+    and constrain the origins and frequency of habitable worlds like our own.
+  lay_summary: Understanding rocky planets requires connecting astrophysical disk processes to geophysical interior evolution,
+    but these fields have traditionally been studied separately. This review traces how core, mantle, and atmosphere co-evolve
+    during planetary formation, and how early divergences in thermal and chemical state determine whether a planet ends up
+    habitable. Extending planetary science to exoplanets will demand advances in laboratory measurements and time-resolved
+    theoretical models.
+  lay_summary_draft: Understanding rocky planets requires connecting astrophysical disk processes to geophysical interior
+    evolution, but these fields have traditionally been studied separately. This review traces how core, mantle, and atmosphere
+    co-evolve during planetary formation, and how early divergences in thermal and chemical state determine whether a planet
+    ends up habitable. Extending planetary science to exoplanets will demand advances in laboratory measurements and time-resolved
+    theoretical models.
+  _raw: '**Lichtenberg T**, LK Schaefer, M Nakajima, R Fischer. [Geophysical Evolution During Rocky Planet Formation.](https://scixplorer.org/abs/2022arXiv220310023L/abstract)
+    *Protostars and Planets VII*, ASP Conference Series, Vol. 534, 907 (2023). [pdf](https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF)'
 - slug: hu-2025-identifying
   section: perspectives
   subsection: null
@@ -1055,7 +1654,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025). [pdf](https://arxiv.org/pdf/2509.16798)
+  _raw: Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets
+    with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025).
+    [pdf](https://arxiv.org/pdf/2509.16798)
 - slug: rauer-et-al-incl-2025-plato
   section: perspectives
   subsection: null
@@ -1072,7 +1673,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Rauer et al. (incl. **T Lichtenberg**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract) *Experimental Astronomy* 59, 26 (2025). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf)
+  _raw: Rauer et al. (incl. **T Lichtenberg**). [The PLATO mission.](https://scixplorer.org/abs/2025ExA....59...26R/abstract)
+    *Experimental Astronomy* 59, 26 (2025). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf)
 - slug: menti-2024-database
   section: perspectives
   subsection: null
@@ -1089,7 +1691,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Menti F et al. (incl. **T Lichtenberg**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract) *Research Notes of the AAS* 8, 267 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf)
+  _raw: Menti F et al. (incl. **T Lichtenberg**). [Database of Candidate Targets for the LIFE Mission.](https://scixplorer.org/abs/2024RNAAS...8..267M/abstract)
+    *Research Notes of the AAS* 8, 267 (2024). [pdf](https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf)
 - slug: trappist-1-2024-roadmap
   section: perspectives
   subsection: null
@@ -1106,7 +1709,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: TRAPPIST-1 JWST Community Initiative (incl. **T Lichtenberg**). [A roadmap for the atmospheric characterization of terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy* 8, 810–818 (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
+  _raw: TRAPPIST-1 JWST Community Initiative (incl. **T Lichtenberg**). [A roadmap for the atmospheric characterization of
+    terrestrial exoplanets with JWST.](https://scixplorer.org/abs/2024NatAs...8..810T/abstract) *Nature Astronomy* 8, 810–818
+    (2024). [pdf](https://arxiv.org/pdf/2310.15895.pdf)
 - slug: meadows-2022-community
   section: perspectives
   subsection: null
@@ -1123,7 +1728,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Meadows V et al. (incl. **T Lichtenberg**). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://scixplorer.org/abs/2022arXiv221014293M/abstract) Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
+  _raw: Meadows V et al. (incl. **T Lichtenberg**). [Community Report from the Biosignatures Standards of Evidence Workshop.](https://scixplorer.org/abs/2022arXiv221014293M/abstract)
+    Workshop Report (2022). [pdf](https://arxiv.org/pdf/2210.14293.pdf)
 - slug: helled-2022-ariel
   section: perspectives
   subsection: null
@@ -1140,7 +1746,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Helled R et al. (incl. **T Lichtenberg**). [Ariel Planetary Interiors White Paper.](https://scixplorer.org/abs/2022ExA....53..323H/abstract) *Experimental Astronomy* 53, 323-356 (2022). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09739-3.pdf)
+  _raw: Helled R et al. (incl. **T Lichtenberg**). [Ariel Planetary Interiors White Paper.](https://scixplorer.org/abs/2022ExA....53..323H/abstract)
+    *Experimental Astronomy* 53, 323-356 (2022). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09739-3.pdf)
 - slug: tinetti-2021-ariel
   section: perspectives
   subsection: null
@@ -1157,7 +1764,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Tinetti G et al. (incl. **T Lichtenberg**). [Ariel: Enabling planetary science across light-years.](https://scixplorer.org/abs/2021arXiv210404824T/abstract) ESA Ariel Definition Study Report (2021). [pdf](https://arxiv.org/pdf/2104.04824)'
+  _raw: 'Tinetti G et al. (incl. **T Lichtenberg**). [Ariel: Enabling planetary science across light-years.](https://scixplorer.org/abs/2021arXiv210404824T/abstract)
+    ESA Ariel Definition Study Report (2021). [pdf](https://arxiv.org/pdf/2104.04824)'
 - slug: quanz-2019-atmospheric
   section: perspectives
   subsection: null
@@ -1174,7 +1782,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Atmospheric characterization of terrestrial exoplanets in the mid-infrared: biosignatures, habitability & diversity.](https://scixplorer.org/abs/2022ExA....54.1197Q/abstract) ESA Voyage 2050 White Paper (2019). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf)'
+  _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Atmospheric characterization of terrestrial exoplanets in the mid-infrared:
+    biosignatures, habitability & diversity.](https://scixplorer.org/abs/2022ExA....54.1197Q/abstract) ESA Voyage 2050 White
+    Paper (2019). [pdf](https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf)'
 - slug: line-2019-importance
   section: perspectives
   subsection: null
@@ -1191,7 +1801,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Line M et al. (incl. **T Lichtenberg**). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial Exoplanets.](https://scixplorer.org/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://scixplorer.org/link_gateway/2019BAAS...51c.271L/PUB_PDF)
+  _raw: Line M et al. (incl. **T Lichtenberg**). [The Importance of Thermal Emission Spectroscopy for Understanding Terrestrial
+    Exoplanets.](https://scixplorer.org/abs/2019BAAS...51c.271L/abstract) *Astro2020*, BAAS 51, 3, 271 (2019). [pdf](https://scixplorer.org/link_gateway/2019BAAS...51c.271L/PUB_PDF)
 - slug: lyra-2019-planet
   section: perspectives
   subsection: null
@@ -1208,7 +1819,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Lyra W et al. (incl. **T Lichtenberg**). [Planet formation — The case for large efforts on the computational side.](https://scixplorer.org/abs/2019BAAS...51c.129L/abstract) *Astro2020*, BAAS 51, 3, 129 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
+  _raw: Lyra W et al. (incl. **T Lichtenberg**). [Planet formation — The case for large efforts on the computational side.](https://scixplorer.org/abs/2019BAAS...51c.129L/abstract)
+    *Astro2020*, BAAS 51, 3, 129 (2019). [pdf](https://arxiv.org/pdf/1903.04546)
 - slug: khullar-2019-astrobites
   section: perspectives
   subsection: null
@@ -1225,7 +1837,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model for Education, Science Communication, and Accessibility in Astrophysics.](https://scixplorer.org/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7, 230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
+  _raw: Khullar G et al. (incl. **T Lichtenberg**). [Astrobites as a Community-led Model for Education, Science Communication,
+    and Accessibility in Astrophysics.](https://scixplorer.org/abs/2019BAAS...51g.230K/abstract) *Astro2020*, BAAS 51, 7,
+    230 (2019). [pdf](https://arxiv.org/pdf/1907.09496)
 - slug: nicholls-2025-agni
   section: instrumentation
   subsection: null
@@ -1239,10 +1853,31 @@
     doi: https://doi.org/10.21105/joss.07726
   bibcode: null
   lab_led: true
-  abstract: null
-  lay_summary: null
-  lay_summary_draft: null
-  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726) *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)'
+  abstract: 'It is important that we are able to accurately model the atmospheres of (exo)planets. This is because atmospheres
+    play a central role in setting a planet''s thermochemical environment at a given point in time, and also in regulating
+    how it evolves over geological timescales. Additionally, it is primarily by observation of their atmospheres that we are
+    able to characterise exoplanets. There is particular demand for accurate models in the context of so-called lava worlds:
+    planets with molten interiors (or `magma oceans''). AGNI is a Julia program designed to solve for the temperature and
+    radiation environment within the atmospheres of rocky (exo)planets. It leverages a well established FORTRAN code to calculate
+    radiative fluxes from a given atmospheric temperature structure and composition, which -- alongside representations of
+    convection and other processes -- enables an energy-conserving numerical solution for the atmospheric conditions. In contrast
+    to most other numerical atmosphere models, AGNI uses a Newton-Raphson optimisation method to obtain its solution, which
+    enables improved performance and scalability. Our model was specifically developed for use alongside planetary interior
+    models within a coupled simulation framework. However, it can also be applied to scientific problems standalone when used
+    as an executable program; it reads TOML configuration files and outputs figures and NetCDF datasets. AGNI can also function
+    as a software library; it is used in this sense within the Jupyter notebook tutorials of our GitHub repository (https://nichollsh.github.io/AGNI/dev/)'
+  lay_summary: Modeling the atmospheres of rocky exoplanets requires accurate calculations of how radiation and convection
+    transport energy, especially for planets with molten surfaces. AGNI is an open-source atmospheric model purpose-built
+    for lava worlds that uses an efficient numerical solver to calculate temperature profiles and radiation environments.
+    It is designed to couple with interior evolution models within the PROTEUS simulation framework, enabling self-consistent
+    simulations of how rocky planets evolve over time.
+  lay_summary_draft: Modeling the atmospheres of rocky exoplanets requires accurate calculations of how radiation and convection
+    transport energy, especially for planets with molten surfaces. AGNI is an open-source atmospheric model purpose-built
+    for lava worlds that uses an efficient numerical solver to calculate temperature profiles and radiation environments.
+    It is designed to couple with interior evolution models within the PROTEUS simulation framework, enabling self-consistent
+    simulations of how rocky planets evolve over time.
+  _raw: '**Nicholls H**, RT Pierrehumbert, **T Lichtenberg**. [AGNI: A radiative-convective model for lava planet atmospheres.](https://doi.org/10.21105/joss.07726)
+    *Journal of Open Source Software* 10, 7726 (2025). [pdf](https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf)'
 - slug: glauser-2024-large
   section: instrumentation
   subsection: null
@@ -1258,7 +1893,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: 'Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract) *Proceedings of the SPIE* 13095, 130951D (2024).'
+  _raw: 'Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer
+    For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract)
+    *Proceedings of the SPIE* 13095, 130951D (2024).'
 - slug: harrison-nicholls-nd-what
   section: theses
   subsection: null
@@ -1274,7 +1911,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca) DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)'
+  _raw: '**Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca)
+    DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)'
 - slug: jorick-lania-2025-forging
   section: theses
   subsection: null
@@ -1289,7 +1927,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
+  _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc.
+    thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
 - slug: karen-stuitje-2025-cosmic
   section: theses
   subsection: null
@@ -1304,7 +1943,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Karen Stuitje**, *The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*. B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
+  _raw: '**Karen Stuitje**, *The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*.
+    B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
 - slug: flavia-2025-modelling
   section: theses
   subsection: null
@@ -1319,13 +1959,15 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Flavia C. Pascal**, *Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+  _raw: '**Flavia C. Pascal**, *Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*. B.Sc. thesis. Kapteyn
+    Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
 - slug: marijn-2025-tidally
   section: theses
   subsection: null
   year: 2025
   authors_md: '**Marijn R. van Dijk**'
-  title: 'Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life''s Building Blocks'
+  title: 'Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life''s Building
+    Blocks'
   venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025)
   primary_url: null
   links: {}
@@ -1334,7 +1976,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Marijn R. van Dijk**, *Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life''s Building Blocks*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+  _raw: '**Marijn R. van Dijk**, *Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the
+    Production of Life''s Building Blocks*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands
+    (07/2025).'
 - slug: marguerite-anvel-de-sainte-marie-d-agneaux-2025-timescale
   section: theses
   subsection: null
@@ -1349,7 +1993,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**, *Timescale of ocean formation and their composition on Earth-like exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
+  _raw: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**, *Timescale of ocean formation and their composition on Earth-like
+    exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
 - slug: bjorn-koops-2024-rock-vapour
   section: theses
   subsection: null
@@ -1364,7 +2009,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+  _raw: '**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute,
+    University of Groningen, The Netherlands (07/2024).'
 - slug: iris-boer-2024-redox
   section: theses
   subsection: null
@@ -1379,7 +2025,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+  _raw: '**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute,
+    University of Groningen, The Netherlands (07/2024).'
 - slug: jessica-helmerhorst-2024-under-dense
   section: theses
   subsection: null
@@ -1394,7 +2041,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024).'
+  _raw: '**Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical
+    Institute, University of Groningen, The Netherlands (07/2024).'
 - slug: lotte-bartels-2024-magma
   section: theses
   subsection: null
@@ -1409,7 +2057,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024).'
+  _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of
+    Groningen, The Netherlands (06/2024).'
 - slug: marijn-smorenburg-2023-volcanic
   section: theses
   subsection: null
@@ -1424,7 +2073,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+  _raw: '**Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical
+    Institute, University of Groningen, The Netherlands (07/2023).'
 - slug: lucas-priolet-2023-distinguishing
   section: theses
   subsection: null
@@ -1439,7 +2089,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+  _raw: '**Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute,
+    University of Groningen, The Netherlands (07/2023).'
 - slug: lorenzo-cesario-2023-detecting
   section: theses
   subsection: null
@@ -1454,7 +2105,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+  _raw: '**Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical
+    Institute, University of Groningen, The Netherlands (07/2023).'
 - slug: boyd-van-der-plaat-2023-prevalence
   section: theses
   subsection: null
@@ -1469,7 +2121,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2023).'
+  _raw: '**Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical
+    Institute, University of Groningen, The Netherlands (07/2023).'
 - slug: beat-hubmann-2022-hydrology
   section: theses
   subsection: null
@@ -1484,7 +2137,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2022).'
+  _raw: '**Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich,
+    Switzerland (09/2022).'
 - slug: madeleine-2019-percolative
   section: theses
   subsection: null
@@ -1499,7 +2153,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).'
+  _raw: '**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis
+    (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).'
 - slug: tim-lichtenberg-nd-thermal
   section: theses
   subsection: null
@@ -1515,7 +2170,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd) Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)'
+  _raw: '**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd)
+    Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)'
 - slug: irene-bonati-2017-quantitative
   section: theses
   subsection: null
@@ -1530,7 +2186,8 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).'
+  _raw: '**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised).
+    Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).'
 - slug: tim-lichtenberg-2014-modeling
   section: theses
   subsection: null
@@ -1547,7 +2204,9 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen, Germany (2014). [pdf](https://ndownloader.figshare.com/files/2198993)'
+  _raw: '**Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive
+    mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen,
+    Germany (2014). [pdf](https://ndownloader.figshare.com/files/2198993)'
 - slug: tim-lichtenberg-2012-constraining
   section: theses
   subsection: null
@@ -1564,4 +2223,5 @@
   abstract: null
   lay_summary: null
   lay_summary_draft: null
-  _raw: '**Tim Lichtenberg**, [*Constraining Exoplanet Characteristics with Asteroseismology*.](http://dx.doi.org/10.6084/m9.figshare.1501030) B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012). [pdf](https://ndownloader.figshare.com/files/2198992)'
+  _raw: '**Tim Lichtenberg**, [*Constraining Exoplanet Characteristics with Asteroseismology*.](http://dx.doi.org/10.6084/m9.figshare.1501030)
+    B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012). [pdf](https://ndownloader.figshare.com/files/2198992)'

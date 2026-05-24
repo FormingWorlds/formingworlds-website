@@ -450,12 +450,12 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   transition: background-color 0.15s, color 0.15s, border-color 0.15s;
 }
 .pub-pill:hover {
-  background: var(--color-signal-500); color: #fff; border-color: var(--color-signal-500);
+  background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500);
 }
 .pub-pill-secondary       { border-color: var(--color-ink-600); color: var(--color-ink-400); }
 .pub-pill-secondary:hover { background: var(--color-ink-700); color: var(--color-ink-100); border-color: var(--color-ink-600); }
 .pub-separator { display: inline-block; width: 1px; height: 1rem; background: var(--color-ink-700); margin: 0 0.25rem; }
-.pub-toggle[aria-pressed="true"] { background: var(--color-signal-500); color: #fff; border-color: var(--color-signal-500); }
+.pub-toggle[aria-pressed="true"] { background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500); }
 .pub-panel {
   display: none; margin-top: 0.75rem; padding: 0.85rem 1rem;
   background: var(--color-ink-900); border-left: 3px solid var(--color-signal-500);
