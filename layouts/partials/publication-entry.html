@@ -29,10 +29,10 @@
     {{ if or $hasAbstract $hasLay }}
       <span class="pub-separator" aria-hidden="true"></span>
       {{ if $hasAbstract }}
-        <button class="pub-pill pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract</button>
+        <button class="pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract <span class="pub-chevron">▾</span></button>
       {{ end }}
       {{ if $hasLay }}
-        <button class="pub-pill pub-toggle" type="button" data-target="lay" aria-pressed="false">Lay summary</button>
+        <button class="pub-toggle" type="button" data-target="lay" aria-pressed="false">Lay summary <span class="pub-chevron">▾</span></button>
       {{ end }}
     {{ end }}
   </div>
