@@ -443,7 +443,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .pub-actions       { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 0.625rem; }
 .pub-pill {
   display: inline-flex; align-items: center;
-  padding: 0.2rem 0.65rem; border-radius: 9999px;
+  padding: 0.2rem 0.65rem; border-radius: 0.25rem;
   border: 1px solid var(--color-signal-500); color: var(--color-signal-300);
   background: transparent; font-size: 0.72rem; font-weight: 600;
   letter-spacing: 0.01em; text-decoration: none; cursor: pointer; line-height: 1.4;
@@ -457,7 +457,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .pub-separator { display: inline-block; width: 1px; height: 1rem; background: var(--color-ink-700); margin: 0 0.25rem; }
 .pub-toggle {
   display: inline-flex; align-items: center; gap: 0.25rem;
-  padding: 0.2rem 0.6rem; border-radius: 9999px;
+  padding: 0.2rem 0.6rem; border-radius: 0.25rem;
   border: 1px solid var(--color-ink-600); color: var(--color-ink-300);
   background: transparent; font-size: 0.72rem; font-weight: 600;
   letter-spacing: 0.01em; cursor: pointer; line-height: 1.4;
@@ -470,8 +470,18 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .pub-panel {
   display: none; margin-top: 0.75rem; padding: 0.85rem 1rem;
   background: var(--color-ink-900); border-left: 3px solid var(--color-signal-500);
-  border-radius: 0 0.5rem 0.5rem 0; color: var(--color-ink-200);
+  border-radius: 0 0.25rem 0.25rem 0; color: var(--color-ink-200);
   font-size: 0.875rem; line-height: 1.6;
 }
 .pub-panel.is-open  { display: block; }
 .pub-panel-label    { display: block; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-ink-400); margin-bottom: 0.4rem; }
+.pub-sidebar-btn {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  padding: 0.25rem 0.6rem; border-radius: 0.25rem;
+  border: 1px solid var(--color-ink-600); color: var(--color-ink-200);
+  background: transparent; font-size: 0.75rem; font-weight: 500;
+  text-decoration: none; cursor: pointer; line-height: 1.4;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.pub-sidebar-btn:hover { background: var(--color-ink-800); color: var(--color-ink-0); border-color: var(--color-ink-500); }
+.pub-sidebar-btn .arrow { font-size: 0.6rem; color: var(--color-ink-500); }

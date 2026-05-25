@@ -7,9 +7,9 @@
   (dict "key" "instrumentation" "title" "Numerical Methods & Instrumentation" "anchor" "numerical-methods--instrumentation")
   (dict "key" "theses"          "title" "PhD, MSc & BSc Theses"               "anchor" "theses")
 }}
-{{ $linkOrder := slice "scix" "arxiv" "doi" "pdf" }}
+{{ $linkOrder := slice "scix" "doi" "pdf" }}
 {{ $extraOrder := slice "blog" "video" "news" "article" }}
-{{ $linkLabels := dict "scix" "SciX" "arxiv" "arXiv" "doi" "DOI" "pdf" "PDF" "blog" "Blog" "video" "Video" "news" "News" "article" "Article" }}
+{{ $linkLabels := dict "scix" "SciX" "doi" "DOI" "pdf" "PDF" "blog" "Blog" "video" "Video" "news" "News" "article" "Article" }}
 
 <!-- ── HEADER ────────────────────────────────────────────────────── -->
 <section style="padding-top: 6rem; padding-bottom: 3.5rem; border-bottom: 1px solid var(--color-ink-800);">
@@ -50,12 +50,12 @@
       <!-- Sidebar (desktop only) -->
       <aside class="hidden md:block sticky top-24 w-64 flex-shrink-0 self-start" style="margin-top: 10px;">
         <h3 class="text-xs uppercase tracking-wider text-ink-400 mb-4">Automated lists</h3>
-        <ul class="space-y-2 text-sm">
-          <li><a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>ADS library</span><span class="text-ink-500">↗</span></a></li>
-          <li><a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>SciX library</span><span class="text-ink-500">↗</span></a></li>
-          <li><a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>arXiv search</span><span class="text-ink-500">↗</span></a></li>
-          <li><a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="text-ink-200 hover:text-signal-300 transition-colors" style="display: inline-flex; align-items: center; gap: 0.5rem;"><span>Google Scholar</span><span class="text-ink-500">↗</span></a></li>
-        </ul>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+          <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="pub-sidebar-btn">ADS <span class="arrow">↗</span></a>
+          <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="pub-sidebar-btn">SciX <span class="arrow">↗</span></a>
+          <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="pub-sidebar-btn">arXiv <span class="arrow">↗</span></a>
+          <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="pub-sidebar-btn">Google Scholar <span class="arrow">↗</span></a>
+        </div>
 
         <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-9 mb-4">Publication types</h3>
         <ul class="space-y-2 text-sm">

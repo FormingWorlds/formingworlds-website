@@ -7,8 +7,8 @@
   venue_md: null
   primary_url: https://arxiv.org/abs/2605.03741
   links:
+    scix: https://scixplorer.org/abs/arXiv:2605.03741
     pdf: https://arxiv.org/pdf/2605.03741
-    arxiv: https://arxiv.org/abs/2605.03741
   bibcode: null
   lab_led: true
   abstract: 'Modeling the interior of a rocky or water-rich exoplanet is a thermodynamic closure problem: every layer''s density,
@@ -49,8 +49,8 @@
   venue_md: null
   primary_url: https://arxiv.org/abs/2604.15891
   links:
+    scix: https://scixplorer.org/abs/arXiv:2604.15891
     pdf: https://arxiv.org/pdf/2604.15891
-    arxiv: https://arxiv.org/abs/2604.15891
   bibcode: null
   lab_led: false
   abstract: null
@@ -60,15 +60,15 @@
     and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
 - slug: calder-2025-most
   section: research
-  subsection: preprints
+  subsection: published
   year: 2025
   authors_md: Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond
   title: 'Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets'
-  venue_md: null
+  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2025)'
   primary_url: https://arxiv.org/abs/2512.05816
   links:
+    scix: https://scixplorer.org/abs/arXiv:2512.05816
     pdf: https://arxiv.org/pdf/2512.05816
-    arxiv: https://arxiv.org/abs/2512.05816
   bibcode: null
   lab_led: false
   abstract: null
@@ -610,8 +610,8 @@
   venue_md: '*Journal of Geophysical Research: Planets* 129, e2024JE008491 (2024)'
   primary_url: https://arxiv.org/abs/2408.10851
   links:
+    scix: https://scixplorer.org/abs/arXiv:2408.10851
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491
-    arxiv: https://arxiv.org/abs/2408.10851
   bibcode: null
   lab_led: false
   abstract: null
