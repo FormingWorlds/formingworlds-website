@@ -25,17 +25,17 @@
 <div class="md:hidden border-b border-ink-800">
   <div class="container-site" style="padding-top: 1.25rem; padding-bottom: 1.25rem;">
     <h3 class="text-xs uppercase tracking-wider text-ink-400">Automated lists</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
-      <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-primary btn-sm">ADS</a>
-      <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-primary btn-sm">SciX</a>
-      <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=&terms-1-field=author&terms-2-operator=NOT&terms-2-term=Lichtenberg%2C+Tom&terms-2-field=author&date-filter_by=date_range&date-from_date=2015&date-date_type=submitted_date&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="btn-primary btn-sm">arXiv</a>
-      <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="btn-primary btn-sm">Google Scholar</a>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.5rem;">
+      <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">ADS ↗</a>
+      <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">SciX ↗</a>
+      <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&terms-1-operator=NOT&terms-1-term=&terms-1-field=author&terms-2-operator=NOT&terms-2-term=Lichtenberg%2C+Tom&terms-2-field=author&date-filter_by=date_range&date-from_date=2015&date-date_type=submitted_date&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">arXiv ↗</a>
+      <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">Google Scholar ↗</a>
     </div>
 
     <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-4">Publication types</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.5rem;">
       {{ range $sections }}
-      <a href="#{{ .anchor }}" class="btn-ghost btn-sm">{{ .title }}</a>
+      <a href="#{{ .anchor }}" class="btn-warm-ghost btn-sm">{{ .title }}</a>
       {{ end }}
     </div>
 
@@ -49,20 +49,20 @@
 
       <!-- Sidebar (desktop only) -->
       <aside class="hidden md:block sticky top-24 w-64 flex-shrink-0 self-start" style="margin-top: 10px;">
-        <h3 class="text-xs uppercase tracking-wider text-ink-400 mb-4">Automated lists</h3>
-        <div style="display: flex; flex-direction: column; gap: 0.4rem; align-items: flex-start;">
-          <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="pub-sidebar-btn">ADS <span class="arrow">↗</span></a>
-          <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="pub-sidebar-btn">SciX <span class="arrow">↗</span></a>
-          <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="pub-sidebar-btn">arXiv <span class="arrow">↗</span></a>
-          <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="pub-sidebar-btn">Google Scholar <span class="arrow">↗</span></a>
+        <h3 class="text-xs uppercase tracking-wider text-ink-400 mb-3">Automated lists</h3>
+        <div style="display: flex; flex-direction: column; gap: 0.4rem; align-items: stretch;">
+          <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">ADS ↗</a>
+          <a href="https://scixplorer.org/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">SciX ↗</a>
+          <a href="https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=Lichtenberg%2C+T&terms-0-field=author&size=100&order=-announced_date_first" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">arXiv ↗</a>
+          <a href="https://scholar.google.com/citations?user=xNqLUtwAAAAJ&hl=en" target="_blank" rel="noopener" class="btn-warm-ghost btn-sm">Google Scholar ↗</a>
         </div>
 
-        <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-9 mb-4">Publication types</h3>
-        <ul class="space-y-2 text-sm">
+        <h3 class="text-xs uppercase tracking-wider text-ink-400 mt-9 mb-3">Publication types</h3>
+        <div style="display: flex; flex-direction: column; gap: 0.4rem; align-items: stretch;">
           {{ range $sections }}
-          <li><a href="#{{ .anchor }}" class="text-ink-200 hover:text-signal-300 transition-colors">{{ .title }}</a></li>
+          <a href="#{{ .anchor }}" class="btn-warm-ghost btn-sm">{{ .title }}</a>
           {{ end }}
-        </ul>
+        </div>
 
         <p class="text-xs text-ink-400 mt-9 leading-relaxed">Lab members appear in <strong class="text-ink-100 font-medium">bold</strong>.</p>
       </aside>
