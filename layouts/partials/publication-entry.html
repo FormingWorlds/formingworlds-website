@@ -24,7 +24,7 @@
         <button class="pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract <span class="pub-chevron">▾</span></button>
       {{ end }}
       {{ if $hasLay }}
-        <button class="pub-toggle" type="button" data-target="lay" aria-pressed="false">In brief <span class="pub-chevron">▾</span></button>
+        <button class="pub-toggle" type="button" data-target="lay" aria-pressed="false">At a glance <span class="pub-chevron">▾</span></button>
       {{ end }}
     {{ end }}
 
@@ -46,7 +46,7 @@
   {{ end }}
   {{ if $hasLay }}
     <div class="pub-panel" data-panel="lay"{{ if eq $sectionKey "theses" }} style="border-left: none; border-radius: 0.25rem;"{{ end }}>
-      <span class="pub-panel-label">In brief</span>
+      <span class="pub-panel-label">At a glance</span>
       {{ $e.lay_summary | markdownify }}
     </div>
   {{ end }}

@@ -1312,9 +1312,10 @@
     temperature of the exoplanets are ≲10%, for the exoplanet radius ≲20%, and for the separation from the host star ≲2%.
     SNR values obtained in the signal extraction process deviate less than 10% from purely photon-counting statistics based
     SNRs. (abridged)
-  lay_summary: The LIFE space mission concept aims to use mid-infrared interferometry to detect and characterize hundreds
-    of exoplanets. This paper presents the mission architecture and key design trades for the space-based nulling interferometer,
-    establishing the technical requirements for detecting biosignatures in exoplanet atmospheres.
+  lay_summary: The LIFE space mission concept aims to detect thermal emission from terrestrial exoplanets using mid-infrared
+    interferometry. This paper presents LIFEsim, an end-to-end instrument simulator, and validates its signal extraction algorithms,
+    showing that exoplanet temperature, radius, and orbital separation can be recovered to accuracies of roughly 10%, 20%,
+    and 2%, respectively.
   lay_summary_draft: null
   _raw: 'Dannert F et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): II.](https://scixplorer.org/abs/2022A%26A...664A..22D/abstract)
     *Astronomy & Astrophysics* 664, A22 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf)'
@@ -1357,10 +1358,9 @@
     various exoplanet science cases that a future space-based MIR nulling interferometer could address. Reliable signal extraction
     algorithms exist, and our results underline the power of the MIR wavelength range for deriving fundamental exoplanet properties
     from single-epoch observations.
-  lay_summary: The LIFE space mission concept aims to detect thermal emission from terrestrial exoplanets using mid-infrared
-    interferometry. This paper presents LIFEsim, an end-to-end instrument simulator, and validates its signal extraction algorithms,
-    showing that exoplanet temperature, radius, and orbital separation can be recovered to accuracies of roughly 10%, 20%,
-    and 2%, respectively.
+  lay_summary: The LIFE space mission concept aims to use mid-infrared interferometry to detect and characterize hundreds
+    of exoplanets. This paper presents the mission architecture and key design trades for the space-based nulling interferometer,
+    establishing the technical requirements for detecting biosignatures in exoplanet atmospheres.
   lay_summary_draft: null
   _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract)
     *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI),
