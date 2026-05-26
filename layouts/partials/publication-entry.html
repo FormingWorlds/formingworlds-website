@@ -19,7 +19,7 @@
     {{ $hasAbstract := and $e.abstract (ne $e.abstract "") }}
     {{ $hasLay := and $e.lay_summary (ne $e.lay_summary "") }}
     {{ if or $hasAbstract $hasLay }}
-      <span class="pub-separator" aria-hidden="true"></span>
+      {{ if $hasUrl }}<span class="pub-separator" aria-hidden="true"></span>{{ end }}
       {{ if $hasAbstract }}
         <button class="pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract <span class="pub-chevron">▾</span></button>
       {{ end }}
