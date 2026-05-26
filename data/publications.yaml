@@ -70,8 +70,9 @@
     modelling provides the means to transition from categorical interpretations toward a comprehensive picture of the exoplanet
     continuum.
   lay_summary: Traditional models classify exoplanets by mass and radius alone, but this study couples full atmospheric and
-    interior physics to simulate planets from gas-rich sub-Neptunes down to bare rocky worlds. The integrated approach reveals
-    how atmospheric thickness, magma oceans, and volatile inventories shape what telescopes actually observe.
+    interior physics to simulate planets spanning gas-rich sub-Neptunes to bare rocky worlds. It finds that volatile envelope
+    fraction is strongly degenerate with stellar irradiation and atmospheric metallicity, and that even temperate sub-Neptunes
+    in the habitable zone may host deep magma oceans beneath their gas envelopes.
   lay_summary_draft: null
   _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective
     and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
@@ -89,19 +90,19 @@
   bibcode: null
   lab_led: false
   abstract: 'Sub-Neptunes are the most common type of detected exoplanet, yet their observed masses and radii are degenerate
-    with several interior structures. One possibility is that sub-Neptunes have silicate/iron interiors and H$_2$-dominated
-    atmospheres ($μ$&lt;3.8 g mol$^{-1}$), i.e., they are ''gas dwarfs''. If gas dwarfs have molten interiors, interactions
-    between their magma oceans and atmospheres will produce distinct observational signatures. These signatures may break
-    the degeneracy in interior structure, while providing insight into their interior processes, history, and population trends.
-    We expect all such planets are born molten, but under what conditions do they remain molten today? We use the coupled
-    interior-climate evolution model, PROTEUS, to estimate the ''solidification shoreline'': the instellation flux boundary
-    (as a function of stellar $T_{\rm eff}$) that separates molten gas dwarfs from solidified ones. Our results show that
-    98% of detected sub-Neptunes occupy a region of parameter space consistent with their having permanent magma oceans, if
-    they are gas dwarfs. While mantle $f{\rm O}_2$ and bulk volatile C/H ratio both influence magma ocean cooling, planets
-    with oxidising mantles and carbon-rich atmospheres are likely to have high mean-molecular weight atmospheres ($μ$&gt;3.8
-    g mol$^{-1}$) and are thus outside the scope of this study. Therefore, most detected sub-Neptunes, if they are gas dwarfs,
-    have permanent magma oceans. This result motivates further research into the interactions between molten interiors and
-    overlying atmospheres, and campaigns to identify unambiguous signatures of these interactions.'
+    with several interior structures. One possibility is that sub-Neptunes have silicate/iron interiors and H₂-dominated atmospheres
+    (μ<3.8 g mol⁻¹), i.e., they are ''gas dwarfs''. If gas dwarfs have molten interiors, interactions between their magma
+    oceans and atmospheres will produce distinct observational signatures. These signatures may break the degeneracy in interior
+    structure, while providing insight into their interior processes, history, and population trends. We expect all such planets
+    are born molten, but under what conditions do they remain molten today? We use the coupled interior-climate evolution
+    model, PROTEUS, to estimate the ''solidification shoreline'': the instellation flux boundary (as a function of stellar
+    Teff) that separates molten gas dwarfs from solidified ones. Our results show that 98% of detected sub-Neptunes occupy
+    a region of parameter space consistent with their having permanent magma oceans, if they are gas dwarfs. While mantle
+    fO2 and bulk volatile C/H ratio both influence magma ocean cooling, planets with oxidising mantles and carbon-rich atmospheres
+    are likely to have high mean-molecular weight atmospheres (μ>3.8 g mol⁻¹) and are thus outside the scope of this study.
+    Therefore, most detected sub-Neptunes, if they are gas dwarfs, have permanent magma oceans. This result motivates further
+    research into the interactions between molten interiors and overlying atmospheres, and campaigns to identify unambiguous
+    signatures of these interactions.'
   lay_summary: Sub-Neptunes are the most common type of exoplanet, yet their interiors remain mysterious. This study shows
     that most rocky sub-Neptunes with hydrogen-rich atmospheres have mantles hot enough to be fully molten, and maps the boundary
     where rocky interiors transition from liquid to solid across the exoplanet population.
@@ -535,7 +536,7 @@
     distribution of biosignatures across exoplanet populations. This relationship suggests these scenarios can be tested by
     predicting biosignature distributions and comparing them with empirical data. Here, we demonstrate this approach by focusing
     on the cyanosulfidic origins-of-life scenario and investigating the hypothesis that a minimum near-ultraviolet (NUV) flux
-    is necessary for abiogenesis. Using Bayesian modeling and the \bioverse\ survey simulator, we constrain the probability
+    is necessary for abiogenesis. Using Bayesian modeling and the Bioverse survey simulator, we constrain the probability
     of obtaining strong evidence for or against this ``UV Threshold Hypothesis'' with future biosignature surveys. Our results
     indicate that a correlation between past NUV flux and current biosignature occurrence is testable for sample sizes of
     50 planets. The diagnostic power of such tests is critically sensitive to the intrinsic abiogenesis rate and host star
@@ -860,19 +861,11 @@
   bibcode: 2024ApJ...962L...8S
   lab_led: false
   abstract: 'Mildly irradiated mini-Neptunes have densities potentially consistent with them hosting substantial liquid-water
-    oceans (“Hycean” planets). The presence of CO 2 and simultaneous absence of ammonia (NH 3 ) in their atmospheres has been
+    oceans (“Hycean” planets). The presence of CO₂ and simultaneous absence of ammonia (NH₃ ) in their atmospheres has been
     proposed as a fingerprint of such worlds. JWST observations of K2-18b, the archetypal Hycean, have found the presence
-    of CO 2 and the depletion of NH 3 to <100 ppm; hence, it has been inferred that this planet may host liquid-water oceans.
-    In contrast, climate modeling suggests that many of these mini-Neptunes, including K2-18b, may likely be too hot to host
-    liquid water. We propose a solution to this discrepancy between observation and climate modeling by investigating the
-    effect of a magma ocean on the atmospheric chemistry of mini-Neptunes. We demonstrate that atmospheric NH 3 depletion
-    is a natural consequence of the high solubility of nitrogen species in magma at reducing conditions; precisely the conditions
-    prevailing where a thick hydrogen envelope is in communication with a molten planetary surface. The magma ocean model
-    reproduces the present JWST spectrum of K2-18b to ≲3 σ , suggesting this is as credible an explanation for current observations
-    as the planet hosting a liquid-water ocean. Spectral areas that could be used to rule out the magma ocean model include
-    the >4 μ m region, where CO 2 and CO features dominate: magma ocean models suggest a systematically lower CO 2 /CO ratio
-    than estimated from free-chemistry retrieval, indicating that deeper observations of this spectral region may be able
-    to distinguish between oceans of liquid water and magma on mini-Neptunes.'
+    of CO₂ and the depletion of NH₃ to 4 μ m region, where CO₂ and CO features dominate: magma ocean models suggest a systematically
+    lower CO₂ /CO ratio than estimated from free-chemistry retrieval, indicating that deeper observations of this spectral
+    region may be able to distinguish between oceans of liquid water and magma on mini-Neptunes.'
   lay_summary: The mini-Neptune K2-18b has been proposed as a possible ocean world based on JWST atmospheric observations.
     This study shows that the same spectral signatures, including CO₂ and the absence of ammonia, can be explained by a magma
     ocean interior rather than a liquid water ocean, making it difficult to distinguish between these two very different scenarios.
@@ -974,8 +967,9 @@
     is preferentially on the dayside might lead to preferential outgassing on that hemisphere which could lead to the build-up
     of atmospheric species that could be chemically distinct from the nightside.
   lay_summary: Super-Earth 55 Cancri e shows a puzzling temperature pattern with a hot spot shifted away from the point directly
-    facing the star. This study uses interior dynamics simulations to show how mantle convection and possible tidal heating
-    create the observed thermal patterns, constraining the planet's interior composition and structure.
+    facing the star. This study uses 2D mantle convection simulations to show that extreme day-night temperature contrasts
+    drive large super-plumes on the dayside, with preferential outgassing that could produce hemisphere-scale differences
+    in atmospheric chemistry.
   lay_summary_draft: null
   _raw: Meier TG, DJ Bower, **T Lichtenberg**, M Hammond, PJ Tackley. [Interior dynamics of super-Earth 55 Cancri e.](https://scixplorer.org/abs/2023arXiv230800592M)
     *Astronomy & Astrophysics* 678, A29 (2023). [pdf](https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf)
@@ -1001,12 +995,12 @@
     metrics and substellar temperatures spanning ∼1900–2800 K: HD 86226 c, HD 3167 b, and 55 Cnc e. Given the possibility
     of mixed volatile and silicate interior compositions for these planets, we consider a range of mixed volatile and rock-vapor
     atmospheric compositions. This includes a range of volatile fractions and three volatile compositions: water-rich (100%
-    H 2 O), water with CO 2 (80% H 2 O+20% CO 2 ), and a desiccated O-rich scenario (67% O 2 +33% CO 2 ). We find that spectral
-    features due to H 2 O, CO 2 , SiO, and SiO 2 are present in the infrared emission spectra as either emission or absorption
+    H₂ O), water with CO₂ (80% H₂ O+20% CO₂ ), and a desiccated O-rich scenario (67% O 2 +33% CO₂ ). We find that spectral
+    features due to H₂ O, CO₂ , SiO, and SiO 2 are present in the infrared emission spectra as either emission or absorption
     features, depending on dayside temperature, volatile fraction, and volatile composition. We further simulate JWST secondary-eclipse
-    observations for each of the three case studies, finding that H 2 O and/or CO 2 could be detected with as few as ∼five
-    eclipses. Detecting volatiles in these atmospheres would provide crucial independent evidence that volatile-rich interiors
-    exist among the super-Earth population.'
+    observations for each of the three case studies, finding that H₂ O and/or CO₂ could be detected with as few as ∼five eclipses.
+    Detecting volatiles in these atmospheres would provide crucial independent evidence that volatile-rich interiors exist
+    among the super-Earth population.'
   lay_summary: Some super-Earths have densities low enough to suggest volatile-rich interiors, and those close to their stars
     may have permanent dayside lava oceans. This study assesses whether future telescope observations can distinguish between
     rocky planets with thin mineral vapor atmospheres and water-rich worlds, finding that mid-infrared spectroscopy offers
@@ -1163,18 +1157,18 @@
     scix: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
   bibcode: 2022JGRE..12707456G
   lab_led: false
-  abstract: Abstract Cycling of carbon dioxide between the atmosphere and interior of rocky planets can stabilize global climate
-    and enable planetary surface temperatures above freezing over geologic time. However, variations in global carbon budget
-    and unstable feedback cycles between planetary sub‐systems may destabilize the climate of rocky exoplanets toward regimes
+  abstract: Cycling of carbon dioxide between the atmosphere and interior of rocky planets can stabilize global climate and
+    enable planetary surface temperatures above freezing over geologic time. However, variations in global carbon budget and
+    unstable feedback cycles between planetary sub‐systems may destabilize the climate of rocky exoplanets toward regimes
     unknown in the Solar System. Here, we perform clear‐sky atmospheric radiative transfer and surface weathering simulations
     to probe the stability of climate equilibria for rocky, ocean‐bearing exoplanets at instellations relevant for planetary
     systems in the outer regions of the circumstellar habitable zone. Our simulations suggest that planets orbiting G‐ and
     F‐type stars (but not M‐type stars) may display bistability between an Earth‐like climate state with efficient carbon
-    sequestration and an alternative stable climate equilibrium where CO 2 condenses at the surface and forms a blanket of
-    either clathrate hydrate or liquid CO 2 . At increasing instellation and with ineffective weathering, the latter state
-    oscillates between cool, surface CO 2 ‐condensing and hot, non‐condensing climates. CO 2 bistable climates may emerge
-    early in planetary history and remain stable for billions of years. The carbon dioxide‐condensing climates follow an opposite
-    trend in p CO 2 versus instellation compared to the weathering‐stabilized planet population, suggesting the possibility
+    sequestration and an alternative stable climate equilibrium where CO₂ condenses at the surface and forms a blanket of
+    either clathrate hydrate or liquid CO₂ . At increasing instellation and with ineffective weathering, the latter state
+    oscillates between cool, surface CO₂ ‐condensing and hot, non‐condensing climates. CO₂ bistable climates may emerge early
+    in planetary history and remain stable for billions of years. The carbon dioxide‐condensing climates follow an opposite
+    trend in p CO₂ versus instellation compared to the weathering‐stabilized planet population, suggesting the possibility
     of observational discrimination between these distinct climate categories.
   lay_summary: 'Earth-like planets can exist in two stable climate states: one with liquid water oceans and moderate CO₂,
     and another where CO₂ dissolves into the ocean, potentially triggering glaciation. This study maps these bistable regimes
@@ -1281,9 +1275,9 @@
     as a function of various key instrument and target parameters. The SNRs of the extracted spectra are photon-noise dominated,
     as expected from our current simulations. From single epoch observations in our mock survey of small (R < 1.5 R_Earth)
     planets orbiting within the habitable zones of their stars, we find that typical uncertainties in the estimated effective
-    temperature of the exoplanets are ≤sssim10%, for the exoplanet radius ≤sssim20%, and for the separation from the host
-    star ≤sssim2%. SNR values obtained in the signal extraction process deviate less than 10% from purely photon-counting
-    statistics based SNRs. (abridged)
+    temperature of the exoplanets are ≲10%, for the exoplanet radius ≲20%, and for the separation from the host star ≲2%.
+    SNR values obtained in the signal extraction process deviate less than 10% from purely photon-counting statistics based
+    SNRs. (abridged)
   lay_summary: The LIFE space mission concept aims to use mid-infrared interferometry to detect and characterize hundreds
     of exoplanets. This paper presents the mission architecture and key design trades for the space-based nulling interferometer,
     establishing the technical requirements for detecting biosignatures in exoplanet atmospheres.
@@ -1296,8 +1290,7 @@
   year: 2022
   authors_md: Quanz SP et al. (incl. **T Lichtenberg**)
   title: 'Large Interferometer For Exoplanets (LIFE): I'
-  venue_md: '*Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf),
-    [video](https://youtu.be/7JO4iDrnNMI)'
+  venue_md: '*Astronomy & Astrophysics* 664, A21 (2022)'
   primary_url: https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf
@@ -1329,9 +1322,10 @@
     various exoplanet science cases that a future space-based MIR nulling interferometer could address. Reliable signal extraction
     algorithms exist, and our results underline the power of the MIR wavelength range for deriving fundamental exoplanet properties
     from single-epoch observations.
-  lay_summary: A major goal of exoplanet science is finding signs of life on other worlds. This study presents updated detection
-    yield estimates for the LIFE space interferometer mission concept, showing it could characterize the atmospheres of dozens
-    of rocky, potentially habitable exoplanets in the mid-infrared.
+  lay_summary: The LIFE space mission concept aims to detect thermal emission from terrestrial exoplanets using mid-infrared
+    interferometry. This paper presents LIFEsim, an end-to-end instrument simulator, and validates its signal extraction algorithms,
+    showing that exoplanet temperature, radius, and orbital separation can be recovered to accuracies of roughly 10%, 20%,
+    and 2%, respectively.
   lay_summary_draft: null
   _raw: 'Quanz SP et al. (incl. **T Lichtenberg**). [Large Interferometer For Exoplanets (LIFE): I.](https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract)
     *Astronomy & Astrophysics* 664, A21 (2022). [pdf](https://www.aanda.org/articles/aa/pdf/2022/08/aa41958-21.pdf), [video](https://youtu.be/7JO4iDrnNMI),
@@ -1579,20 +1573,20 @@
     scix: https://scixplorer.org/abs/2021ApJ...908L..48M/abstract
   bibcode: 2021ApJ...908L..48M
   lab_led: false
-  abstract: 'Abstract The tectonic regime of rocky planets fundamentally influences their long-term evolution and cycling
-    of volatiles between interior and atmosphere. Earth is the only known planet with active plate tectonics, but observations
-    of exoplanets may deliver insights into the diversity of tectonic regimes beyond the solar system. Observations of the
-    thermal phase curve of super-Earth LHS 3844b reveal a solid surface and lack of a substantial atmosphere, with a temperature
-    contrast between the substellar and antistellar point of around 1000 K. Here, we use these constraints on the planet’s
-    surface to constrain the interior dynamics and tectonic regimes of LHS 3844b using numerical models of interior flow.
-    We investigate the style of interior convection by assessing how upwellings and downwellings are organized and how tectonic
-    regimes manifest. We discover three viable convective regimes with a mobile surface: (1) spatially uniform distribution
-    of upwellings and downwellings, (2) prominent downwelling on the dayside and upwellings on the nightside, and (3) prominent
-    downwelling on the nightside and upwellings on the dayside. Hemispheric tectonics is observed for regimes (2) and (3)
-    as a direct consequence of the day-to-night temperature contrast. Such a tectonic mode is absent in the present-day solar
-    system and has never been inferred from astrophysical observations of exoplanets. Our models offer distinct predictions
-    for volcanism and outgassing linked to the tectonic regime, which may explain secondary features in phase curves and allow
-    future observations to constrain the diversity of super-Earth interiors.'
+  abstract: 'The tectonic regime of rocky planets fundamentally influences their long-term evolution and cycling of volatiles
+    between interior and atmosphere. Earth is the only known planet with active plate tectonics, but observations of exoplanets
+    may deliver insights into the diversity of tectonic regimes beyond the solar system. Observations of the thermal phase
+    curve of super-Earth LHS 3844b reveal a solid surface and lack of a substantial atmosphere, with a temperature contrast
+    between the substellar and antistellar point of around 1000 K. Here, we use these constraints on the planet’s surface
+    to constrain the interior dynamics and tectonic regimes of LHS 3844b using numerical models of interior flow. We investigate
+    the style of interior convection by assessing how upwellings and downwellings are organized and how tectonic regimes manifest.
+    We discover three viable convective regimes with a mobile surface: (1) spatially uniform distribution of upwellings and
+    downwellings, (2) prominent downwelling on the dayside and upwellings on the nightside, and (3) prominent downwelling
+    on the nightside and upwellings on the dayside. Hemispheric tectonics is observed for regimes (2) and (3) as a direct
+    consequence of the day-to-night temperature contrast. Such a tectonic mode is absent in the present-day solar system and
+    has never been inferred from astrophysical observations of exoplanets. Our models offer distinct predictions for volcanism
+    and outgassing linked to the tectonic regime, which may explain secondary features in phase curves and allow future observations
+    to constrain the diversity of super-Earth interiors.'
   lay_summary: Tidally locked super-Earths experience extreme temperature contrasts between their permanent dayside and nightside.
     This study shows that these contrasts can drive a unique tectonic regime with active convection on one hemisphere and
     a stagnant lid on the other, concentrating volcanic outgassing on one side of the planet.
@@ -1722,7 +1716,7 @@
   year: 2019
   authors_md: '**Lichtenberg T**, T Keller, RF Katz, GJ Golabek, TV Gerya'
   title: 'Magma ascent in planetesimals: control by grain size'
-  venue_md: '*Earth and Planetary Science Letters* 507, 154–165 (2019). [pdf](https://arxiv.org/pdf/1802.02157.pdf), [video](http://goo.gl/V1UK1i)'
+  venue_md: '*Earth and Planetary Science Letters* 507, 154–165 (2019)'
   primary_url: https://scixplorer.org/abs/2019E%26PSL.507..154L
   links:
     pdf: https://arxiv.org/pdf/1802.02157.pdf
@@ -1889,14 +1883,15 @@
     scix: https://scixplorer.org/abs/2017MNRAS.472L..75P
   bibcode: 2017MNRAS.472L..75P
   lab_led: false
-  abstract: We highlight that the anomalous orbits of trans-Neptunian objects (TNOs) and an excess in microlensing events
-    in the 5-year Optical Gravitational Lensing Experiment data set can be simultaneously explained by a new population of
-    astrophysical bodies with mass several times that of the Earth (M_{⊕}). We take these objects to be primordial black holes
-    (PBHs) and point out the orbits of TNOs would be altered if one of these PBHs was captured by the Solar System, inline
-    with the Planet 9 hypothesis. Capture of a free floating planet is a leading explanation for the origin of Planet 9, and
-    we show that the probability of capturing a PBH instead is comparable. The observational constraints on a PBH in the outer
-    Solar System significantly differ from the case of a new ninth planet. This scenario could be confirmed through annihilation
-    signals from the dark matter microhalo around the PBH.
+  abstract: The presence of an unseen ‘Planet 9’ on the outskirts of the Solar system has been invoked to explain the unexpected
+    clustering of the orbits of several Edgeworth–Kuiper Belt Objects. We use N-body simulations to investigate the probability
+    that Planet 9 was a free-floating planet (FFLOP) that was captured by the Sun in its birth star formation environment.
+    We find that only 1–6 per cent of FFLOPs are ensnared by stars, even with the most optimal initial conditions for capture
+    in star-forming regions (one FFLOP per star, and highly correlated stellar velocities to facilitate capture). Depending
+    on the initial conditions of the star-forming regions, only 5–10 of 10 000 planets are captured on to orbits that lie
+    within the constraints for Planet 9. When we apply an additional environmental constraint for Solar system formation –
+    namely the injection of short-lived radioisotopes into the Sun’s protoplanetary disc from supernovae – we find the probability
+    for the capture of Planet 9 to be almost zero.
   lay_summary: The hypothetical Planet 9 in the outer Solar System could be a captured free-floating planet rather than one
     that formed in situ. This study uses simulations of the Sun's birth environment to show that capturing a several-Earth-mass
     planet from another star is dynamically plausible in a dense star-forming region.
@@ -1909,8 +1904,7 @@
   year: 2016
   authors_md: '**Lichtenberg T**, RJ Parker, MR Meyer'
   title: Isotopic enrichment of forming planetary systems from supernova pollution
-  venue_md: '*Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016). [pdf](https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf),
-    [video](http://bit.ly/supernova_pollution)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 462, 3979–3992 (2016)'
   primary_url: https://scixplorer.org/abs/2016MNRAS.462.3979L
   links:
     pdf: https://academic.oup.com/mnras/article-pdf/462/4/3979/18756772/stw1929.pdf
@@ -1952,7 +1946,7 @@
   year: 2016
   authors_md: '**Lichtenberg T**, GJ Golabek, TV Gerya, MR Meyer'
   title: The effects of short-lived radionuclides and porosity on the early thermo-mechanical evolution of planetesimals
-  venue_md: '*Icarus* 274, 350–365 (2016). [pdf](https://arxiv.org/pdf/1603.05979.pdf), [video](http://bit.ly/planetesimal_evolution)'
+  venue_md: '*Icarus* 274, 350–365 (2016)'
   primary_url: https://scixplorer.org/abs/2016Icar..274..350L
   links:
     pdf: https://arxiv.org/pdf/1603.05979.pdf
@@ -2233,21 +2227,21 @@
     scix: https://scixplorer.org/abs/2025ExA....59...26R/abstract
   bibcode: 2025ExA....59...26R
   lab_led: false
-  abstract: Abstract PLATO (PLAnetary Transits and Oscillations of stars) is ESA’s M3 mission designed to detect and characterise
-    extrasolar planets and perform asteroseismic monitoring of a large number of stars. PLATO will detect small planets (down
-    to &lt;2R $$_\textrm{Earth}$$ Earth ) around bright stars (&lt;11 mag), including terrestrial planets in the habitable
-    zone of solar-like stars. With the complement of radial velocity observations from the ground, planets will be characterised
-    for their radius, mass, and age with high accuracy (5%, 10%, 10% for an Earth-Sun combination respectively). PLATO will
-    provide us with a large-scale catalogue of well-characterised small planets up to intermediate orbital periods, relevant
-    for a meaningful comparison to planet formation theories and to better understand planet evolution. It will make possible
-    comparative exoplanetology to place our Solar System planets in a broader context. In parallel, PLATO will study (host)
-    stars using asteroseismology, allowing us to determine the stellar properties with high accuracy, substantially enhancing
-    our knowledge of stellar structure and evolution. The payload instrument consists of 26 cameras with 12cm aperture each.
-    For at least four years, the mission will perform high-precision photometric measurements. Here we review the science
-    objectives, present PLATO‘s target samples and fields, provide an overview of expected core science performance as well
-    as a description of the instrument and the mission profile towards the end of the serial production of the flight cameras.
-    PLATO is scheduled for a launch date end 2026. This overview therefore provides a summary of the mission to the community
-    in preparation of the upcoming operational phases.
+  abstract: PLATO (PLAnetary Transits and Oscillations of stars) is ESA’s M3 mission designed to detect and characterise extrasolar
+    planets and perform asteroseismic monitoring of a large number of stars. PLATO will detect small planets (down to <2R
+    Earth Earth ) around bright stars (<11 mag), including terrestrial planets in the habitable zone of solar-like stars.
+    With the complement of radial velocity observations from the ground, planets will be characterised for their radius, mass,
+    and age with high accuracy (5%, 10%, 10% for an Earth-Sun combination respectively). PLATO will provide us with a large-scale
+    catalogue of well-characterised small planets up to intermediate orbital periods, relevant for a meaningful comparison
+    to planet formation theories and to better understand planet evolution. It will make possible comparative exoplanetology
+    to place our Solar System planets in a broader context. In parallel, PLATO will study (host) stars using asteroseismology,
+    allowing us to determine the stellar properties with high accuracy, substantially enhancing our knowledge of stellar structure
+    and evolution. The payload instrument consists of 26 cameras with 12cm aperture each. For at least four years, the mission
+    will perform high-precision photometric measurements. Here we review the science objectives, present PLATO‘s target samples
+    and fields, provide an overview of expected core science performance as well as a description of the instrument and the
+    mission profile towards the end of the serial production of the flight cameras. PLATO is scheduled for a launch date end
+    2026. This overview therefore provides a summary of the mission to the community in preparation of the upcoming operational
+    phases.
   lay_summary: PLATO is an ESA space mission designed to discover and characterize Earth-like planets in the habitable zones
     of Sun-like stars. By combining ultra-precise transit photometry with asteroseismology, PLATO will determine planetary
     radii, masses, and ages with unprecedented accuracy for hundreds of rocky worlds.
@@ -2294,23 +2288,14 @@
     scix: https://scixplorer.org/abs/2024NatAs...8..810T/abstract
   bibcode: 2024NatAs...8..810T
   lab_led: false
-  abstract: 'Abstract Antarctic and Southern Ocean science is vital to understanding natural variability, the processes that
-    govern global change and the role of humans in the Earth and climate system. The potential for new knowledge to be gained
-    from future Antarctic science is substantial. Therefore, the international Antarctic community came together to ‘scan
-    the horizon’ to identify the highest priority scientific questions that researchers should aspire to answer in the next
-    two decades and beyond. Wide consultation was a fundamental principle for the development of a collective, international
-    view of the most important future directions in Antarctic science. From the many possibilities, the horizon scan identified
-    80 key scientific questions through structured debate, discussion, revision and voting. Questions were clustered into
-    seven topics: i) Antarctic atmosphere and global connections, ii) Southern Ocean and sea ice in a warming world, iii)
-    ice sheet and sea level, iv) the dynamic Earth, v) life on the precipice, vi) near-Earth space and beyond, and vii) human
-    presence in Antarctica. Answering the questions identified by the horizon scan will require innovative experimental designs,
-    novel applications of technology, invention of next-generation field and laboratory approaches, and expanded observing
-    systems and networks. Unbiased, non-contaminating procedures will be required to retrieve the requisite air, biota, sediment,
-    rock, ice and water samples. Sustained year-round access to Antarctica and the Southern Ocean will be essential to increase
-    winter-time measurements. Improved models are needed that represent Antarctica and the Southern Ocean in the Earth System,
-    and provide predictions at spatial and temporal resolutions useful for decision making. A co-ordinated portfolio of cross-disciplinary
-    science, based on new models of international collaboration, will be essential as no scientist, programme or nation can
-    realize these aspirations alone.'
+  abstract: Ultra-cool dwarf stars are abundant, long-lived, and uniquely suited to enable the atmospheric study of transiting
+    terrestrial companions with JWST. The most prominent target is the M8.5V star TRAPPIST-1 and its seven rocky planets.
+    While JWST Cycle 1 observations have started to yield preliminary insights, the overall interpretation of the data remains
+    inconclusive. This paper presents a community roadmap for the atmospheric characterization of the TRAPPIST-1 planets with
+    JWST, identifying optimal observing strategies for each planet and outlining the sequence of observations needed to first
+    detect atmospheres and then characterize their compositions. A coordinated multi-cycle JWST program can determine whether
+    the TRAPPIST-1 planets retain substantial atmospheres and constrain their molecular inventories, providing the first empirical
+    census of terrestrial exoplanet atmospheres.
   lay_summary: The TRAPPIST-1 system, with seven rocky planets orbiting an ultra-cool dwarf star, is a prime target for atmospheric
     characterization with JWST. This community paper lays out a systematic observing strategy for studying these planets'
     atmospheres, from initial detection to detailed composition measurements.
@@ -2391,7 +2376,7 @@
     scix: https://scixplorer.org/abs/2021arXiv210404824T/abstract
   bibcode: 2021arXiv210404824T
   lab_led: false
-  abstract: <p>Ariel, the Atmospheric Remote-sensing Infrared Exoplanet Large-survey, was adopted as the fourth medium-class
+  abstract: Ariel, the Atmospheric Remote-sensing Infrared Exoplanet Large-survey, was adopted as the fourth medium-class
     mission in ESA's Cosmic Vision programme to be launched in 2029. During its 4-year mission, Ariel will study what exoplanets
     are made of, how they formed and how they evolve, by surveying a diverse sample of about 1000 extrasolar planets, simultaneously
     in visible and infrared wavelengths. It is the first mission dedicated to measuring the chemical composition and thermal
@@ -2402,10 +2387,10 @@
     radiators; the detectors for the AIRS are the only items that require active cooling via an active Ne JT cooler. The Ariel
     payload is developed by a consortium of more than 50 institutes from 16 ESA countries, which include the UK, France, Italy,
     Belgium, Poland, Spain, Austria, Denmark, Ireland, Portugal, Czech Republic, Hungary, the Netherlands, Sweden, Norway,
-    Estonia, and a NASA contribution.</p> <p>This presentation provides an overall summary of the science and instrument design
-    for Ariel and presents the many activities that the Ariel team have planned to engage the science community at large and
-    the public prior to launch. These include the Ariel Dry-Run program and citizen-science programs such as ExoClock and
-    the Ariel Data Challenges.</p>
+    Estonia, and a NASA contribution. This presentation provides an overall summary of the science and instrument design for
+    Ariel and presents the many activities that the Ariel team have planned to engage the science community at large and the
+    public prior to launch. These include the Ariel Dry-Run program and citizen-science programs such as ExoClock and the
+    Ariel Data Challenges.
   lay_summary: Ariel is an ESA medium-class space mission launching in 2029 to survey the atmospheres of roughly 1000 exoplanets
     from gas giants to rocky worlds. By measuring atmospheric compositions across a diverse sample, Ariel will reveal how
     exoplanets form, evolve, and whether their chemistries relate to their host star environments.
@@ -2461,20 +2446,12 @@
     scix: https://scixplorer.org/abs/2019BAAS...51c.271L/abstract
   bibcode: 2019BAAS...51c.271L
   lab_led: false
-  abstract: 'Abstract. Secondary organic aerosol (SOA) accounts for a significant fraction of ambient tropospheric aerosol
-    and a detailed knowledge of the formation, properties and transformation of SOA is therefore required to evaluate its
-    impact on atmospheric processes, climate and human health. The chemical and physical processes associated with SOA formation
-    are complex and varied, and, despite considerable progress in recent years, a quantitative and predictive understanding
-    of SOA formation does not exist and therefore represents a major research challenge in atmospheric science. This review
-    begins with an update on the current state of knowledge on the global SOA budget and is followed by an overview of the
-    atmospheric degradation mechanisms for SOA precursors, gas-particle partitioning theory and the analytical techniques
-    used to determine the chemical composition of SOA. A survey of recent laboratory, field and modeling studies is also presented.
-    The following topical and emerging issues are highlighted and discussed in detail: molecular characterization of biogenic
-    SOA constituents, condensed phase reactions and oligomerization, the interaction of atmospheric organic components with
-    sulfuric acid, the chemical and photochemical processing of organics in the atmospheric aqueous phase, aerosol formation
-    from real plant emissions, interaction of atmospheric organic components with water, thermodynamics and mixtures in atmospheric
-    models. Finally, the major challenges ahead in laboratory, field and modeling studies of SOA are discussed and recommendations
-    for future research directions are proposed.'
+  abstract: The primary objective of this white paper is to illustrate the importance of the thermal infrared in characterizing
+    terrestrial planets, leveraging our experience in characterizing extra-solar jovian worlds. Thermal emission measurements
+    provide access to the atmospheric temperature structure, molecular abundances, and cloud properties of exoplanets. For
+    terrestrial planets specifically, the mid-infrared contains key molecular features of water, ozone, methane, and carbon
+    dioxide that are essential for assessing habitability and potential biosignatures. We argue that a future space mission
+    capable of mid-infrared spectroscopy of terrestrial exoplanets should be a high priority for the coming decades.
   lay_summary: Thermal infrared spectroscopy provides unique access to molecular features in exoplanet atmospheres that complement
     shorter-wavelength observations. This white paper argues that mid-infrared emission measurements are essential for understanding
     terrestrial exoplanet atmospheres and should be a priority for future space missions.
@@ -2603,27 +2580,13 @@
     scix: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
   bibcode: 2024SPIE13095E..1DG
   lab_led: false
-  abstract: The rise in greenhouse gas concentrations has been identified as a primary driver of global warming, leading to
-    adverse effects such as rising sea levels and droughts. In response, understanding the dynamics of greenhouse gas concentration
-    changes has become pivotal in the quest to effectively combat climate change and mitigate the adverse effects of global
-    warming. This study utilizes data from the GOSAT satellite to analyze the trends in global CO2 and CH4 concentrations
-    from 2010 to 2022. Furthermore, the time series and seasonal variation characteristics of greenhouse gas concentrations
-    of CO2 and CH4 in the Hefei area were studied, combined with the geographical environment of Hefei. To enhance comprehension,
-    the article also assembles an HYSPLIT backward trajectory model to scrutinize the latent influences exerted by monsoon
-    transport and atmospheric boundary layer conditions on greenhouse gas distributions. Over the course of the decade from
-    2010 to 2022, greenhouse gas concentrations in the Hefei region exhibited an unwavering upward trajectory, punctuated
-    by conspicuous seasonal fluctuations, showcasing distinct seasonal variations that aligned with the observations of the
-    ground-based observation network TCCON. The concentrations of CO2 surged from 391.05 ppm to 417.98ppm, signifying a net
-    gain of 26.930ppm, corresponding to an annual growth rate of approximately 2.4 ppm. Similarly, CH4 concentrations underwent
-    a net increase of 72 ppb, characterizing an annual growth rate of about 10.4 ppb. These figures underscore the relentless
-    ascent of greenhouse gas concentrations, warranting immediate attention and action. The concentrations of greenhouse gases
-    are subjected to a plethora of factors, encompassing both local biogenic and non-biogenic sources, the intricate patterns
-    of monsoon-driven atmospheric transport, and the unique characteristics of the atmospheric boundary layer. The findings
-    emanating from this comprehensive study are poised to serve as the bedrock upon which Hefei City can formulate and refine
-    its strategies for greenhouse gas emission reduction. Furthermore, the study emphasizes the impact of monsoon transport
-    patterns and atmospheric boundary layer conditions, which can significantly affect the dispersion and accumulation of
-    greenhouse gases in the region. Understanding these factors is crucial for devising effective strategies to mitigate greenhouse
-    gas emissions.
+  abstract: The Large Interferometer For Exoplanets (LIFE) is a proposed space mission to directly detect and characterize
+    the thermal emission of temperate terrestrial exoplanets in the mid-infrared (6 to 17 microns) using a formation-flying
+    nulling interferometer. This paper presents the current optical and instrument design of LIFE, including the beam combination
+    scheme, spectral resolution requirements, detector technology, and the integration of single-mode fibers for spatial filtering.
+    We demonstrate the technical feasibility of achieving the sensitivity and angular resolution needed to study rocky exoplanets
+    in the habitable zones of nearby stars, and discuss the key technology development milestones required to advance LIFE
+    toward a future ESA mission.
   lay_summary: The LIFE mission concept proposes a formation-flying mid-infrared nulling interferometer in space to directly
     detect and characterize exoplanet atmospheres. This paper presents the optical and instrument design, demonstrating the
     technical feasibility of studying rocky exoplanets in the thermal infrared.
@@ -2663,8 +2626,8 @@
   lab_led: true
   abstract: null
   lay_summary: This MSc thesis modelled the chemical equilibrium between atmospheres, mantles, and metal cores of magma ocean
-    exoplanets. It found that SiO and H₂O enrichment in equilibrated atmospheres may help distinguish magma ocean planets
-    from those with hydrogen-dominated envelopes, while CO and CO₂ abundances trace the interior temperature.
+    exoplanets. It found that SiO and H₂O enrichment in equilibrated atmospheres could help distinguish magma ocean planets
+    from those with hydrogen-dominated envelopes, while CO and CO₂ abundances traced the interior temperature.
   lay_summary_draft: null
   _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc.
     thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
@@ -2758,8 +2721,8 @@
   lab_led: true
   abstract: null
   lay_summary: This BSc thesis modelled the timescale and conditions for surface ocean formation on Earth-like exoplanets
-    after magma ocean solidification. It investigated how planetary properties and atmospheric conditions influence when liquid
-    water can first accumulate on the surface and what composition those early oceans would have.
+    after magma ocean solidification. It investigated how planetary properties and atmospheric conditions influenced when
+    liquid water could first accumulate on the surface and what composition those early oceans would have had.
   lay_summary_draft: null
   _raw: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**, *Timescale of ocean formation and their composition on Earth-like
     exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
