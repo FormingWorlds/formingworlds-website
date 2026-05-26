@@ -466,7 +466,7 @@
     of key conditions in the habitat. Second, a viability model, which describes the probability that a metabolism is viable
     given a set of environmental conditions. We provide an open-source implementation of this framework and four examples
     as a proof of concept: (a) Comparison of two exoplanets for observational target prioritization; (b) Interpretation of
-    atmospheric O2 detection in two exoplanets; (c) Subsurface habitability of Mars; and (d) Ocean habitability in Europa.
+    atmospheric O₂ detection in two exoplanets; (c) Subsurface habitability of Mars; and (d) Ocean habitability in Europa.
     These examples demonstrate that our framework can self-consistently inform astrobiology research over a broad range of
     questions. The proposed framework is modular so that future work can expand the range and complexity of models available,
     both for habitats and for metabolisms.'
@@ -758,18 +758,18 @@
     scix: https://scixplorer.org/abs/2024arXiv241017163E
   bibcode: 2024arXiv241017163E
   lab_led: false
-  abstract: Recent research provides compelling evidence that the decay of short-lived radioisotopes (SLRs), such as 26Al,
+  abstract: Recent research provides compelling evidence that the decay of short-lived radioisotopes (SLRs), such as ²⁶Al,
     provided the bulk of energy for heating and desiccation of volatile-rich planetesimals in the early Solar System. However,
     it remains unclear whether the early Solar System was highly enriched relative to other planetary systems with similar
     formation characteristics. While the Solar System possesses an elevated level of SLR enrichment compared to the interstellar
     medium, determining SLR enrichment of individual protoplanetary disks observationally has not been performed and is markedly
     more difficult. We use N-body simulations to estimate enrichment of SLRs in star-forming regions through two likely important
     SLR sources, stellar winds from massive stars and supernovae. We vary the number of stars and the radii of the star-forming
-    regions and implement two models of stellar wind SLR propagation for the radioisotopes 26Al and 60Fe. We find that for
-    26Al enrichment the Solar System is at the upper end of the expected distribution, while for the more supernovae dependent
-    isotope 60Fe we find that the Solar System is comparatively very highly enriched. Furthermore, combined with our previous
-    research, these results suggest that the statistical role of 26Al-driven desiccation on exoplanet bulk composition may
-    be underestimated in typical interpretations of the low-mass exoplanet census, and that 60Fe is even less influential
+    regions and implement two models of stellar wind SLR propagation for the radioisotopes ²⁶Al and ⁶⁰Fe. We find that for
+    ²⁶Al enrichment the Solar System is at the upper end of the expected distribution, while for the more supernovae dependent
+    isotope ⁶⁰Fe we find that the Solar System is comparatively very highly enriched. Furthermore, combined with our previous
+    research, these results suggest that the statistical role of ²⁶Al-driven desiccation on exoplanet bulk composition may
+    be underestimated in typical interpretations of the low-mass exoplanet census, and that ⁶⁰Fe is even less influential
     as a source of heating than previously assumed.
   lay_summary: Short-lived radioactive isotopes like aluminium-26 heated the building blocks of planets in our early Solar
     System, but it is unclear whether this enrichment was typical or unusual. This study develops a unified model for how
@@ -832,11 +832,11 @@
     resultant planets. While the inner planets of the Solar system are comparatively water-poor, recent observational evidence
     from exoplanet bulk densities and planetary formation models suggest that rocky exoplanets engulfed by substantial layers
     of high-pressure ices or massive steam atmospheres could be widespread. Here we quantify variations in planetesimal desiccation
-    due to potential fractionation of the two short-lived radioisotopes 26Al and 60Fe relevant for internal heating on planetary
-    formation timescales. We focus on how order of magnitude variations in 60Fe can affect the water content of planetesimals,
-    and how this may alter the formation of extrasolar ocean worlds. We find that heating by 26Al is the dominant cause of
+    due to potential fractionation of the two short-lived radioisotopes ²⁶Al and ⁶⁰Fe relevant for internal heating on planetary
+    formation timescales. We focus on how order of magnitude variations in ⁶⁰Fe can affect the water content of planetesimals,
+    and how this may alter the formation of extrasolar ocean worlds. We find that heating by ²⁶Al is the dominant cause of
     planetesimal heating in any Solar system analogue scenario, thus validating previous works focussing only on this radioisotope.
-    However, 60Fe can become the primary heating source in the case of high levels of supernova enrichment in massive star-forming
+    However, ⁶⁰Fe can become the primary heating source in the case of high levels of supernova enrichment in massive star-forming
     regions. These diverging scenarios can affect the formation pathways, bulk volatile budget, and climate diversity of low-mass
     exoplanets.
   lay_summary: The water and volatile content of rocky planets depends on how much heating their building blocks experienced
@@ -874,7 +874,7 @@
     than estimated from free-chemistry retrieval, indicating that deeper observations of this spectral region may be able
     to distinguish between oceans of liquid water and magma on mini-Neptunes.'
   lay_summary: The mini-Neptune K2-18b has been proposed as a possible ocean world based on JWST atmospheric observations.
-    This study shows that the same spectral signatures, including CO2 and the absence of ammonia, can be explained by a magma
+    This study shows that the same spectral signatures, including CO₂ and the absence of ammonia, can be explained by a magma
     ocean interior rather than a liquid water ocean, making it difficult to distinguish between these two very different scenarios.
   lay_summary_draft: null
   _raw: Shorttle O, S Jordan, **H Nicholls**, **T Lichtenberg**, DJ Bower. [Distinguishing oceans of water from magma on mini-Neptune
@@ -928,8 +928,8 @@
     scix: https://scixplorer.org/abs/2023MNRAS.tmp.2344P
   bibcode: 2023MNRAS.tmp.2344P
   lab_led: false
-  abstract: The presence of short-lived radioisotopes (SLRs) 26Al and 60Fe in the Solar system places constraints on the initial
-    conditions of our planetary system. Most theories posit that the origin of 26Al and 60Fe is in the interiors of massive
+  abstract: The presence of short-lived radioisotopes (SLRs) ²⁶Al and ⁶⁰Fe in the Solar system places constraints on the initial
+    conditions of our planetary system. Most theories posit that the origin of ²⁶Al and ⁶⁰Fe is in the interiors of massive
     stars, and they are either delivered directly to the protosolar disc from the winds and supernovae of the massive stars,
     or indirectly via a sequential star formation event. However, massive stars that produce SLRs also emit photoionising
     far and extreme ultraviolet radiation, which can destroy the gas component of protoplanetary discs, possibly precluding
@@ -937,7 +937,7 @@
     and determine whether discs that are enriched in SLRs can retain enough gas to form Jovian planets. We find that discs
     are enriched and survive the photoionising radiation only when the dust radius of the disc is fixed and not allowed to
     move inwards due to the photoevaporation, or outwards due to viscous spreading. Even in this optimal scenario, not enough
-    discs survive until the supernovae of the massive stars and so have zero or very little enrichment in 60Fe. We therefore
+    discs survive until the supernovae of the massive stars and so have zero or very little enrichment in ⁶⁰Fe. We therefore
     suggest that the delivery of SLRs to the Solar system may not come from the winds and supernovae of massive stars.
   lay_summary: The radioactive isotopes found in Solar System meteorites must have been produced by nearby massive stars,
     but the same stellar winds and radiation can strip material from young planetary disks. This study quantifies how photoevaporation
@@ -1028,19 +1028,19 @@
     scix: https://scixplorer.org/abs/2023MNRAS.521.4838P
   bibcode: 2023MNRAS.521.4838P
   lab_led: false
-  abstract: 'The abundance of the short-lived radioisotopes 26Al and 60Fe in the early Solar system is usually explained by
+  abstract: 'The abundance of the short-lived radioisotopes ²⁶Al and ⁶⁰Fe in the early Solar system is usually explained by
     the Sun either forming from pre-enriched material, or the Sun’s protosolar disc being polluted by a nearby supernova explosion
     from a massive star. Both hypotheses suffer from significant drawbacks: the former does not account for the dynamical
     evolution of star-forming regions, while in the latter the time for massive stars to explode as supernovae can be similar
     to, or even longer than, the lifetime of protoplanetary discs. In this paper, we extend the disc enrichment scenario to
-    include the contribution of 26Al from the winds of massive stars before they explode as supernovae. We use N-body simulations
+    include the contribution of ²⁶Al from the winds of massive stars before they explode as supernovae. We use N-body simulations
     and a post-processing analysis to calculate the amount of enrichment in each disc, and we vary the stellar density of
     the star-forming regions. We find that stellar winds contribute to disc enrichment to such an extent that the Solar system’s
-    26Al/60Fe ratio is reproduced in up to 50 per cent of discs in dense (ρ = 1000 M⊙ pc−3) star-forming regions. When winds
+    ²⁶Al/⁶⁰Fe ratio is reproduced in up to 50 per cent of discs in dense (ρ = 1000 M⊙ pc−3) star-forming regions. When winds
     are a significant contributor to the SLR enrichment, we find that Solar system levels of enrichment can occur much earlier
     (before 2.5 Myr) than when enrichment occurs from supernovae, which start to explode at later ages (>4 Myr). We find that
     Solar system levels of enrichment all but disappear in low-density star-forming regions (ρ ≤ 10 M⊙ pc−3), implying that
-    the Solar system must have formed in a dense, populous star-forming region if 26Al and 60Fe were delivered directly to
+    the Solar system must have formed in a dense, populous star-forming region if ²⁶Al and ⁶⁰Fe were delivered directly to
     the protosolar disc from massive-star winds and supernovae.'
   lay_summary: The early Solar System contained radioactive aluminium-26 and iron-60 that heated young planetesimals, but
     the source of these isotopes is debated. This study uses simulations of star-forming regions to show that stellar winds
@@ -1164,9 +1164,9 @@
   bibcode: 2022JGRE..12707456G
   lab_led: false
   abstract: null
-  lay_summary: 'Earth-like planets can exist in two stable climate states: one with liquid water oceans and moderate CO2,
-    and another where CO2 dissolves into the ocean, potentially triggering glaciation. This study maps these bistable regimes
-    across different planetary conditions, showing that the transition depends on atmospheric CO2 levels and stellar irradiation.'
+  lay_summary: 'Earth-like planets can exist in two stable climate states: one with liquid water oceans and moderate CO₂,
+    and another where CO₂ dissolves into the ocean, potentially triggering glaciation. This study maps these bistable regimes
+    across different planetary conditions, showing that the transition depends on atmospheric CO₂ levels and stellar irradiation.'
   lay_summary_draft: null
   _raw: 'Graham RJ, **T Lichtenberg**, RT Pierrehumbert. [CO2 ocean bistability on terrestrial exoplanets.](https://scixplorer.org/abs/2022JGRE..12707456G/abstract)
     *Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022). [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4),
@@ -1222,7 +1222,7 @@
     scix: https://scixplorer.org/abs/2022MNRAS.515..395C/abstract
   bibcode: 2022MNRAS.515..395C
   lab_led: false
-  abstract: In the Solar system, short-lived radioisotopes, such as 26Al, played a crucial role during the formation of planetary
+  abstract: In the Solar system, short-lived radioisotopes, such as ²⁶Al, played a crucial role during the formation of planetary
     bodies by providing a significant additional source of heat. Notably, this led to early and large-scale melting and iron
     core formation in planetesimals and their loss of volatile elements, such as hydrogen and carbon. In the context of exoplanetary
     systems therefore the prevalence of short-lived radioisotopes is key to interpreting the observed bulk volatile budget
@@ -1233,7 +1233,7 @@
     that the current evidence from white dwarfs point towards a significant fraction of exoplanetesimals having formed an
     iron core. Although the data may be explained by the accretion of exomoon or Pluto-sized bodies that were able to differentiate
     due to gravitational potential energy release, our results suggest that the most likely explanation for the prevalence
-    of differentiated material among polluted white dwarfs is that the Solar system is not unusual in being enriched in 26Al.
+    of differentiated material among polluted white dwarfs is that the Solar system is not unusual in being enriched in ²⁶Al.
     The models presented here suggest a ubiquitous pathway for the enrichment of exoplanetary systems by short-lived radioisotopes,
     disfavouring short-lived radioisotope enrichment scenarios relying on statistically rare chance encounters with single
     nearby supernovae, Wolf–Rayet, or AGB stars.
@@ -2578,7 +2578,7 @@
   year: 2026
   authors_md: '**Harrison Nicholls**'
   title: What happened to rocky planets? An atmosphere-interior perspective from numerical modelling
-  venue_md: DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised
+  venue_md: DPhil thesis (co-supervised). Department of Physics, University of Oxford, United Kingdom (01/2026)
   primary_url: https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca
   links:
     pdf: https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127
@@ -2604,8 +2604,8 @@
   lab_led: true
   abstract: null
   lay_summary: This MSc thesis modelled the chemical equilibrium between atmospheres, mantles, and metal cores of magma ocean
-    exoplanets. It found that SiO and H2O enrichment in equilibrated atmospheres may help distinguish magma ocean planets
-    from those with hydrogen-dominated envelopes, while CO and CO2 abundances trace the interior temperature.
+    exoplanets. It found that SiO and H₂O enrichment in equilibrated atmospheres may help distinguish magma ocean planets
+    from those with hydrogen-dominated envelopes, while CO and CO₂ abundances trace the interior temperature.
   lay_summary_draft: null
   _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc.
     thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
@@ -2616,7 +2616,7 @@
   authors_md: '**Mariëlle Wortelboer**'
   title: The Efficiency of Single-mode Fibers for Spatial Filtering as Part of the Optical Design for the Large Interferometer
     For Exoplanets
-  venue_md: MSc thesis. Kapteyn Astronomical Institute, University of Groningen (08/2025), co-supervised.
+  venue_md: M.Sc. thesis (co-supervised). Kapteyn Astronomical Institute, University of Groningen, The Netherlands (08/2025)
   primary_url: null
   links: {}
   bibcode: null
@@ -2717,8 +2717,8 @@
   lab_led: true
   abstract: null
   lay_summary: This BSc thesis modelled volatile-depleted rock-vapour species in lava exoplanet atmospheres using the VapoRock
-    code across a range of compositions, iron contents, and oxidation states. It identified SiO and SiO2 as tracers of the
-    mantle redox state, Cr, Fe, and Na as indicators of reducing conditions, and highlighted CrO2 and CrO3 as markers of highly
+    code across a range of compositions, iron contents, and oxidation states. It identified SiO and SiO₂ as tracers of the
+    mantle redox state, Cr, Fe, and Na as indicators of reducing conditions, and highlighted CrO₂ and CrO₃ as markers of highly
     oxidized environments.
   lay_summary_draft: null
   _raw: '**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute,
@@ -2790,7 +2790,7 @@
   lab_led: true
   abstract: null
   lay_summary: This BSc thesis modelled the atmospheric spectra of volcanically active terrestrial exoplanets to determine
-    whether different geological states can be distinguished remotely. It found that CO2, SO2, H2O, and NH3 absorption features
+    whether different geological states can be distinguished remotely. It found that CO₂, SO₂, H₂O, and NH₃ absorption features
     in the 5 to 30 micron range are the primary discriminants, and that planets orbiting Sun-like stars produce more distinct
     spectral signatures than those around M-dwarfs.
   lay_summary_draft: null
