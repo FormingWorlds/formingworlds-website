@@ -87,6 +87,7 @@
   links:
     scix: https://scixplorer.org/abs/arXiv:2512.05816
     pdf: https://arxiv.org/pdf/2512.05816
+    doi: https://doi.org/10.48550/arxiv.2512.05816
   bibcode: null
   lab_led: false
   abstract: 'Sub-Neptunes are the most common type of detected exoplanet, yet their observed masses and radii are degenerate
@@ -161,6 +162,7 @@
   links:
     pdf: https://arxiv.org/pdf/2511.00952
     scix: https://scixplorer.org/abs/2026PSJ.....7...94V/abstract
+    doi: https://doi.org/10.3847/psj/ae5928
   bibcode: 2026PSJ.....7...94V
   lab_led: true
   abstract: 'In the aftermath of the Moon-forming giant impact, the Hadean Earth''s mantle and surface crystallized from a
@@ -203,6 +205,7 @@
   links:
     pdf: https://arxiv.org/pdf/2604.07461
     scix: https://scixplorer.org/abs/2026arXiv260407461R/abstract
+    doi: https://doi.org/10.3847/1538-4357/ae5b75
   bibcode: 2026arXiv260407461R
   lab_led: false
   abstract: 'We investigate how well the Large Interferometer for Exoplanets (LIFE) mission concept can detect habitable conditions
@@ -238,6 +241,7 @@
   links:
     pdf: https://www.nature.com/articles/s41550-026-02815-8.pdf
     scix: https://scixplorer.org/abs/2025arXiv250702656N/abstract
+    doi: https://doi.org/10.1038/s41550-026-02815-8
   bibcode: 2026NatAs.tmp...61N
   lab_led: true
   abstract: Small, low-density exoplanets are sculpted by strong stellar irradiation, but their primordial compositions and
@@ -276,6 +280,7 @@
   links:
     pdf: https://arxiv.org/pdf/2603.02423
     scix: https://scixplorer.org/abs/2026ApJ..1000..220K/abstract
+    doi: https://doi.org/10.3847/1538-4357/ae4d3e
   bibcode: 2026ApJ..1000..220K
   lab_led: true
   abstract: The interaction between a magma ocean and a primordial atmosphere is increasingly recognized as a key process
@@ -314,6 +319,7 @@
   links:
     pdf: https://arxiv.org/pdf/2603.02408
     scix: https://scixplorer.org/abs/2026arXiv260302408M/abstract
+    doi: https://doi.org/10.1093/mnras/stag390
   bibcode: 2026arXiv260302408M
   lab_led: false
   abstract: Ultra-short period lava worlds offer a unique window into the coupled evolution of planetary interior and atmospheres
@@ -350,6 +356,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf
     scix: https://scixplorer.org/abs/2025arXiv251007367N/abstract
+    doi: https://doi.org/10.3847/1538-4357/ad7e23
   bibcode: 2025arXiv251007367N
   lab_led: false
   abstract: Sub-Neptunes with substantial atmospheres may possess magma oceans in contact with the overlying gas, with chemical
@@ -387,6 +394,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf
     scix: https://scixplorer.org/abs/arXiv:2509.17231
+    doi: https://doi.org/10.3847/2041-8213/adb3c5
   bibcode: arXiv:2509.17231
   lab_led: false
   abstract: Ultrashort-period (USP) exoplanets, with R_p ≤ 2 R⊕ and periods ≤1 day, are expected to be stripped of volatile
@@ -418,6 +426,7 @@
   links:
     pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/staf1167/63775631/staf1167.pdf
     scix: https://scixplorer.org/abs/2025arXiv250503604N/abstract
+    doi: https://doi.org/10.1093/mnras/staf1167
   bibcode: 2025MNRAS.541.2566N
   lab_led: true
   abstract: Rocky exoplanets accessible to characterization often lie on close-in orbits where tidal heating within their
@@ -455,6 +464,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/PSJ/addda8/pdf
     scix: https://scixplorer.org/abs/2025arXiv250522808A/abstract
+    doi: https://doi.org/10.3847/psj/addda8
   bibcode: 2025arXiv250522808A
   lab_led: false
   abstract: 'The search for extraterrestrial life in the Solar System and beyond is a key science driver in astrobiology,
@@ -490,6 +500,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/add69f/pdf
     scix: https://scixplorer.org/abs/2025ApJ...987..172B
+    doi: https://doi.org/10.3847/1538-4357/add69f
   bibcode: 2025ApJ...987..172B
   lab_led: true
   abstract: 'Climate transitions on exoplanets offer valuable insights into the atmospheric processes governing planetary
@@ -531,6 +542,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf
     scix: https://scixplorer.org/abs/2025arXiv250404261S
+    doi: https://doi.org/10.3847/1538-4357/ada014
   bibcode: 2025arXiv250404261S
   lab_led: false
   abstract: A wide variety of scenarios for the origin of life have been proposed, with many influencing the prevalence and
@@ -566,6 +578,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad9b93/pdf
     scix: https://scixplorer.org/abs/2025ApJ...979..133F/abstract
+    doi: https://doi.org/10.3847/1538-4357/ad9b93
   bibcode: 2025ApJ...979..133F
   lab_led: false
   abstract: 'Understanding the physics of planetary magma oceans has been the subject of growing efforts, in light of the
@@ -600,6 +613,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ada0bc/pdf
     scix: https://scixplorer.org/abs/2025ApJ...978L..40H/abstract
+    doi: https://doi.org/10.3847/2041-8213/ada0bc
   bibcode: 2025ApJ...978L..40H
   lab_led: false
   abstract: The prevalence of atmospheres on rocky planets is one of the major questions in exoplanet astronomy, but there
@@ -634,6 +648,7 @@
   links:
     pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae2772/61218697/stae2772.pdf
     scix: https://scixplorer.org/abs/2025MNRAS.536.2957N/abstract
+    doi: https://doi.org/10.1093/mnras/stae2772
   bibcode: 2025MNRAS.536.2957N
   lab_led: true
   abstract: 'Atmospheric energy transport is central to the cooling of primordial magma oceans. Theoretical studies of atmospheres
@@ -672,6 +687,7 @@
   links:
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008576
     scix: https://scixplorer.org/abs/2024JGRE..12908576N/abstract
+    doi: https://doi.org/10.1029/2024je008576
   bibcode: 2024JGRE..12908576N
   lab_led: true
   abstract: Interactions between magma oceans and overlying atmospheres on young rocky planets leads to an evolving feedback
@@ -711,6 +727,7 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2024/12/aa50764-24.pdf
     scix: https://scixplorer.org/abs/2024arXiv241013457C
+    doi: https://doi.org/10.48550/arxiv.2410.13457
   bibcode: 2024A&A...692A.172C
   lab_led: true
   abstract: Context. The increased brightness temperature of young rocky protoplanets during their magma ocean epoch makes
@@ -758,6 +775,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf
     scix: https://scixplorer.org/abs/2024arXiv241017163E
+    doi: https://doi.org/10.1093/mnras/stae2396
   bibcode: 2024arXiv241017163E
   lab_led: false
   abstract: Recent research provides compelling evidence that the decay of short-lived radioisotopes (SLRs), such as ²⁶Al,
@@ -791,6 +809,7 @@
   links:
     scix: https://scixplorer.org/abs/arXiv:2408.10851
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491
+    doi: https://doi.org/10.1093/mnras/staf002
   bibcode: null
   lab_led: false
   abstract: Many super-Earths are on very short orbits around their host star and, therefore, more likely to be tidally locked.
@@ -825,6 +844,7 @@
   links:
     pdf: https://academic.oup.com/mnras/advance-article-pdf/doi/10.1093/mnras/stae438/56681885/stae438.pdf
     scix: https://scixplorer.org/abs/2024arXiv240206476E/abstract
+    doi: https://doi.org/10.1093/mnras/stae438
   bibcode: 2024arXiv240206476E
   lab_led: false
   abstract: Whilst the formation of Solar system planets is constrained by meteoritic evidence, the geophysical history of
@@ -859,6 +879,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ad206e/pdf
     scix: https://scixplorer.org/abs/2024ApJ...962L...8S
+    doi: https://doi.org/10.3847/2041-8213/ad206e
   bibcode: 2024ApJ...962L...8S
   lab_led: false
   abstract: 'Mildly irradiated mini-Neptunes have densities potentially consistent with them hosting substantial liquid-water
@@ -886,6 +907,7 @@
     pdf: https://iopscience.iop.org/article/10.3847/PSJ/acf57f/pdf
     video: https://youtu.be/acgKcdTTv9c
     scix: https://scixplorer.org/abs/2023arXiv230904518S/abstract
+    doi: https://doi.org/10.3847/psj/acf57f
   bibcode: 2023arXiv230904518S
   lab_led: false
   abstract: 'Long-term magma ocean phases on rocky exoplanets orbiting closer to their star than the runaway greenhouse threshold
@@ -920,6 +942,7 @@
   links:
     pdf: https://academic.oup.com/mnras/article-pdf/525/2/2399/51273834/stad2415.pdf
     scix: https://scixplorer.org/abs/2023MNRAS.tmp.2344P
+    doi: https://doi.org/10.1093/mnras/stad2415
   bibcode: 2023MNRAS.tmp.2344P
   lab_led: false
   abstract: The presence of short-lived radioisotopes (SLRs) ²⁶Al and ⁶⁰Fe in the Solar system places constraints on the initial
@@ -951,6 +974,7 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2023/10/aa46950-23.pdf
     scix: https://scixplorer.org/abs/2023arXiv230800592M
+    doi: https://doi.org/10.1051/0004-6361/202346950
   bibcode: 2023arXiv230800592M
   lab_led: false
   abstract: The ultra-short-period super-Earth 55 Cancri e has a measured radius of 1.8 Earth radii. Previous thermal phase
@@ -985,6 +1009,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/acdef2/pdf
     scix: https://scixplorer.org/abs/2023ApJ...954...29P
+    doi: https://doi.org/10.3847/1538-4357/acdef2
   bibcode: 2023ApJ...954...29P
   lab_led: false
   abstract: 'Super-Earths span a wide range of bulk densities, indicating a diversity in interior conditions beyond that seen
@@ -1021,6 +1046,7 @@
   links:
     pdf: https://academic.oup.com/mnras/article-pdf/521/4/4838/49716087/stad871.pdf
     scix: https://scixplorer.org/abs/2023MNRAS.521.4838P
+    doi: https://doi.org/10.1093/mnras/stad871
   bibcode: 2023MNRAS.521.4838P
   lab_led: false
   abstract: 'The abundance of the short-lived radioisotopes ²⁶Al and ⁶⁰Fe in the early Solar system is usually explained by
@@ -1056,6 +1082,7 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2023/03/aa45402-22.pdf
     scix: https://scixplorer.org/abs/2023A%26A...671A.114J/abstract
+    doi: https://doi.org/10.1051/0004-6361/202245402
   bibcode: 2023A&A...671A.114J
   lab_led: false
   abstract: Active comets have been detected in several exoplanetary systems, although so far only indirectly, when the dust
@@ -1092,6 +1119,7 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2023/02/aa45512-22.pdf
     scix: https://scixplorer.org/abs/2023A%26A...670L...5S/abstract
+    doi: https://doi.org/10.1051/0004-6361/202245512
   bibcode: 2023A&A...670L...5S
   lab_led: false
   abstract: The nucleosynthetic isotope dichotomy between carbonaceous (CC) and non-carbonaceous (NC) meteorites has been
@@ -1126,6 +1154,7 @@
     pdf: https://arxiv.org/pdf/2211.07244.pdf
     article: https://rdcu.be/cZCv4
     scix: https://scixplorer.org/abs/2023NatAs...7...39B
+    doi: https://doi.org/10.1038/s41550-022-01815-8
   bibcode: 2023NatAs...7...39B
   lab_led: false
   abstract: The timing of formation for the first planetesimals determines the mode of planetary accretion and their geophysical
@@ -1156,6 +1185,7 @@
     video: https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2022JE007456
     scix: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
+    doi: https://doi.org/10.1029/2022JE007456
   bibcode: 2022JGRE..12707456G
   lab_led: false
   abstract: Cycling of carbon dioxide between the atmosphere and interior of rocky planets can stabilize global climate and
@@ -1190,6 +1220,7 @@
     video: https://youtu.be/M2CopK35Jrs
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac9521/pdf
     scix: https://scixplorer.org/abs/2022ApJ...938L...3L/abstract
+    doi: https://doi.org/10.3847/2041-8213/ac9521
   bibcode: 2022ApJ...938L...3L
   lab_led: true
   abstract: Ocean-vaporizing impacts of chemically reduced planetesimals onto the early Earth have been suggested to catalyze
@@ -1227,6 +1258,7 @@
   links:
     pdf: https://academic.oup.com/mnras/article-pdf/515/1/395/44926894/stac1709.pdf
     scix: https://scixplorer.org/abs/2022MNRAS.515..395C/abstract
+    doi: https://doi.org/10.1093/mnras/stac1709
   bibcode: 2022MNRAS.515..395C
   lab_led: false
   abstract: In the Solar system, short-lived radioisotopes, such as ²⁶Al, played a crucial role during the formation of planetary
@@ -1262,6 +1294,7 @@
   links:
     pdf: https://www.aanda.org/articles/aa/pdf/2022/12/aa43846-22.pdf
     scix: https://scixplorer.org/abs/2022A%26A...664A..22D/abstract
+    doi: https://doi.org/10.48550/arxiv.2203.00471
   bibcode: 2022A&A...664A..22D
   lab_led: false
   abstract: The Large Interferometer For Exoplanets (LIFE) initiative is developing the science and a technology roadmap for
@@ -1298,6 +1331,7 @@
     video: https://youtu.be/7JO4iDrnNMI
     news: https://www.innovationnewsnetwork.com/searching-beyond-the-solar-system-for-life-on-exoplanets/11631/
     scix: https://scixplorer.org/abs/2022A%26A...664A..21Q/abstract
+    doi: https://doi.org/10.1051/0004-6361/202140366
   bibcode: 2022A&A...664A..21Q
   lab_led: false
   abstract: Context. The Large Interferometer For Exoplanets (LIFE) initiative is developing the science and a technology
@@ -1342,6 +1376,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/PSJ/ac3d86/pdf
     scix: https://scixplorer.org/abs/2021PSJ.....2..244J/abstract
+    doi: https://doi.org/10.3847/PSJ/ac3d86
   bibcode: 2021PSJ.....2..244J
   lab_led: false
   abstract: We investigated the hydrogen isotopic compositions and water contents of pyroxenes in two recent ordinary chondrite
@@ -1374,6 +1409,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac399a/pdf
     scix: https://scixplorer.org/abs/2021arXiv211106429T/abstract
+    doi: https://doi.org/10.3847/2041-8213/ac2f40
   bibcode: 2021arXiv211106429T
   lab_led: false
   abstract: Planets smaller than Neptune and larger than Earth make up the majority of the discovered exoplanets. Those with
@@ -1405,6 +1441,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac33af/pdf
     scix: https://scixplorer.org/abs/2021ApJ...922L...4D/abstract
+    doi: https://doi.org/10.3847/2041-8213/ac33af
   bibcode: 2021ApJ...922L...4D
   lab_led: false
   abstract: We demonstrate that the deep volatile storage capacity of magma oceans has significant implications for the bulk
@@ -1433,6 +1470,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/PSJ/ac214c/pdf
     scix: https://scixplorer.org/abs/2021PSJ.....2..207G/abstract
+    doi: https://doi.org/10.3847/PSJ/ac214c
   bibcode: 2021PSJ.....2..207G
   lab_led: false
   abstract: 'Central stages in the evolution of rocky, potentially habitable planets may play out under atmospheric conditions
@@ -1468,6 +1506,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ac1345/pdf
     scix: https://scixplorer.org/abs/2021ApJ...919..130B/abstract
+    doi: https://doi.org/10.3847/1538-4357/ac1345
   bibcode: 2021ApJ...919..130B
   lab_led: false
   abstract: 'The runaway greenhouse represents the ultimate climate catastrophe for rocky, Earth-like worlds: when the incoming
@@ -1501,6 +1540,7 @@
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ac0146/pdf
     blog: https://bit.ly/Lichtenberg21blog
     scix: https://scixplorer.org/abs/2021ApJ...914L...4L/abstract
+    doi: https://doi.org/10.3847/2041-8213/ac0146
   bibcode: 2021ApJ...914L...4L
   lab_led: true
   abstract: Internal redox reactions may irreversibly alter the mantle composition and volatile inventory of terrestrial and
@@ -1535,6 +1575,7 @@
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/abfdce/pdf
     blog: https://bit.ly/LichtenbergKrijt21blog
     scix: https://scixplorer.org/abs/2021ApJ...913L..20L/abstract
+    doi: https://doi.org/10.3847/2041-8213/abfdce
   bibcode: 2021ApJ...913L..20L
   lab_led: true
   abstract: Finding and characterizing extrasolar Earth analogs will rely on interpretation of the planetary system's environmental
@@ -1572,6 +1613,7 @@
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/abe400/pdf
     blog: http://nccr-planets.ch/blog/2021/03/04/volcanoes-might-light-up-the-night-sky-of-this-planet/
     scix: https://scixplorer.org/abs/2021ApJ...908L..48M/abstract
+    doi: https://doi.org/10.3847/2041-8213/abe400
   bibcode: 2021ApJ...908L..48M
   lab_led: false
   abstract: 'The tectonic regime of rocky planets fundamentally influences their long-term evolution and cycling of volatiles
@@ -1607,6 +1649,7 @@
     pdf: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020JE006711
     blog: http://bit.ly/MO21_blog
     scix: https://scixplorer.org/abs/2021JGRE..12606711L
+    doi: https://doi.org/10.3847/2041-8213/ac0f37
   bibcode: 2021JGRE..12606711L
   lab_led: true
   abstract: 'The earliest atmospheres of rocky planets originate from extensive volatile release during magma ocean epochs
@@ -1648,6 +1691,7 @@
     pdf: http://science.sciencemag.org/cgi/rapidpdf/371/6527/365?ijkey=O/eSa0.QgQcD6&keytype=ref&siteid=sci
     blog: http://bit.ly/BifurcationBlog
     scix: https://scixplorer.org/abs/2021Sci...371..365L/abstract
+    doi: https://doi.org/10.1126/science.abb3091
   bibcode: 2021Sci...371..365L
   lab_led: true
   abstract: Geochemical and astronomical evidence demonstrates that planet formation occurred in two spatially and temporally
@@ -1683,6 +1727,7 @@
     pdf: https://arxiv.org/pdf/1902.04026.pdf
     blog: http://bit.ly/Al26-dehydration_medium
     scix: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
+    doi: https://doi.org/10.1038/s41550-018-0688-5
   bibcode: 2019NatAs...3..307L
   lab_led: true
   abstract: 'In contrast to the water-poor planets of the inner Solar System, stochasticity during planetary formation¹,²
@@ -1724,6 +1769,7 @@
     video: http://goo.gl/V1UK1i
     blog: http://bit.ly/2GZZ0e9
     scix: https://scixplorer.org/abs/2019E%26PSL.507..154L
+    doi: https://doi.org/10.1016/j.epsl.2018.11.034
   bibcode: 2019E&PSL.507..154L
   lab_led: true
   abstract: Rocky planetesimals in the early solar system melted internally and evolved chemically due to radiogenic heating
@@ -1767,6 +1813,7 @@
     pdf: https://www.aanda.org/articles/aa/pdf/2018/10/aa33942-18.pdf
     blog: http://bit.ly/Bonati18
     scix: https://scixplorer.org/abs/2019A%26A...621A.125B/abstract
+    doi: https://doi.org/10.1051/0004-6361/201833158
   bibcode: 2019A&A...621A.125B
   lab_led: false
   abstract: During their formation and early evolution, rocky planets undergo multiple global melting events due to accretionary
@@ -1805,6 +1852,7 @@
   links:
     pdf: https://arxiv.org/pdf/1802.10421.pdf
     scix: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
+    doi: https://doi.org/10.1016/j.epsl.2017.12.006
   bibcode: 2018E&PSL.482..490H
   lab_led: false
   abstract: The short-lived ¹⁸²Hf-¹⁸²W decay system is a powerful chronometer for constraining the timing of metal-silicate
@@ -1837,6 +1885,7 @@
     pdf: https://arxiv.org/pdf/1711.02103.pdf
     blog: http://goo.gl/5bDqGC
     scix: https://scixplorer.org/abs/2018Icar..302...27L
+    doi: https://doi.org/10.1016/j.icarus.2017.11.004
   bibcode: 2018Icar..302...27L
   lab_led: true
   abstract: Chondrules, mm-sized igneous-textured spherules, are the dominant bulk silicate constituent of chondritic meteorites
@@ -1882,6 +1931,7 @@
   links:
     pdf: https://academic.oup.com/mnrasl/article-pdf/472/1/L75/56953806/slx141.pdf
     scix: https://scixplorer.org/abs/2017MNRAS.472L..75P
+    doi: https://doi.org/10.1093/mnrasl/slx141
   bibcode: 2017MNRAS.472L..75P
   lab_led: false
   abstract: The presence of an unseen ‘Planet 9’ on the outskirts of the Solar system has been invoked to explain the unexpected
@@ -1912,6 +1962,7 @@
     video: http://bit.ly/supernova_pollution
     blog: http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/
     scix: https://scixplorer.org/abs/2016MNRAS.462.3979L
+    doi: https://doi.org/10.1093/mnras/stw1929
   bibcode: 2016MNRAS.462.3979L
   lab_led: true
   abstract: Heating by short-lived radioisotopes (SLRs) such as ²⁶Al and ⁶⁰Fe fundamentally shaped the thermal history and
@@ -1954,6 +2005,7 @@
     video: http://bit.ly/planetesimal_evolution
     blog: http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/
     scix: https://scixplorer.org/abs/2016Icar..274..350L
+    doi: https://doi.org/10.1016/j.icarus.2015.11.038
   bibcode: 2016Icar..274..350L
   lab_led: true
   abstract: The thermal history and internal structure of chondritic planetesimals, assembled before the giant impact phase
@@ -1996,6 +2048,7 @@
     pdf: https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf
     video: http://bit.ly/gi_disk
     scix: https://scixplorer.org/abs/2015A%26A...579A..32L/abstract
+    doi: https://doi.org/10.1051/0004-6361/201526058
   bibcode: 2015A&A...579A..32L
   lab_led: true
   abstract: The astonishing diversity in the observed planetary population requires theoretical efforts and advances in planet
@@ -2046,6 +2099,7 @@
   links:
     pdf: https://www.science.org/doi/pdf/10.1126/science.ads3360
     scix: https://scixplorer.org/abs/2025arXiv251008844L
+    doi: https://doi.org/10.1126/science.ads3360
   bibcode: 2025Sci...390S3660L
   lab_led: true
   abstract: Astronomical surveys have identified numerous exoplanets with bulk compositions that are unlike the planets of
@@ -2076,6 +2130,7 @@
   links:
     pdf: https://arxiv.org/pdf/2405.04057
     scix: https://scixplorer.org/abs/2024arXiv240504057L
+    doi: https://doi.org/10.1016/b978-0-323-99762-1.00122-4
   bibcode: 2025TrGeo...7...51L
   lab_led: true
   abstract: In the last few years astronomical surveys have expanded the reach of planetary science into the realm of small
@@ -2115,6 +2170,7 @@
   links:
     pdf: https://www.frontiersin.org/articles/10.3389/feart.2023.1159412/pdf?isPublishedV2=False
     scix: https://scixplorer.org/abs/2023FrEaS..1159412S/abstract
+    doi: https://doi.org/10.3389/feart.2023.1159412
   bibcode: 2023FrEaS..1159412S
   lab_led: false
   abstract: Core segregation and atmosphere formation are two of the major processes that redistribute the volatile elements—hydrogen
@@ -2155,6 +2211,7 @@
   links:
     pdf: https://scixplorer.org/link_gateway/2022arXiv220310023L/EPRINT_PDF
     scix: https://scixplorer.org/abs/2022arXiv220310023L/abstract
+    doi: https://doi.org/10.48550/arxiv.2203.10023
   bibcode: 2023ASPC..534..907L
   lab_led: true
   abstract: Progressive astronomical characterization of planet-forming disks and rocky exoplanets highlight the need for
@@ -2226,6 +2283,7 @@
   links:
     pdf: https://link.springer.com/content/pdf/10.1007/s10686-025-09985-9.pdf
     scix: https://scixplorer.org/abs/2025ExA....59...26R/abstract
+    doi: https://doi.org/10.1007/s10686-025-09985-9
   bibcode: 2025ExA....59...26R
   lab_led: false
   abstract: PLATO (PLAnetary Transits and Oscillations of stars) is ESA’s M3 mission designed to detect and characterise extrasolar
@@ -2260,6 +2318,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2515-5172/ad887e/ampdf
     scix: https://scixplorer.org/abs/2024RNAAS...8..267M/abstract
+    doi: https://doi.org/10.3847/2515-5172/ad887e
   bibcode: 2024RNAAS...8..267M
   lab_led: false
   abstract: We present the database of potential targets for the Large Interferometer For Exoplanets (LIFE), a space-based
@@ -2287,6 +2346,7 @@
   links:
     pdf: https://arxiv.org/pdf/2310.15895.pdf
     scix: https://scixplorer.org/abs/2024NatAs...8..810T/abstract
+    doi: https://doi.org/10.1038/s41550-024-02298-5
   bibcode: 2024NatAs...8..810T
   lab_led: false
   abstract: Ultra-cool dwarf stars are abundant, long-lived, and uniquely suited to enable the atmospheric study of transiting
@@ -2315,6 +2375,7 @@
   links:
     pdf: https://arxiv.org/pdf/2210.14293.pdf
     scix: https://scixplorer.org/abs/2022arXiv221014293M/abstract
+    doi: https://doi.org/10.48550/arxiv.2210.14293
   bibcode: 2022arXiv221014293M
   lab_led: false
   abstract: The search for life beyond the Earth is the overarching goal of the NASA Astrobiology Program, and it underpins
@@ -2349,6 +2410,7 @@
   links:
     pdf: https://link.springer.com/content/pdf/10.1007/s10686-021-09739-3.pdf
     scix: https://scixplorer.org/abs/2022ExA....53..323H/abstract
+    doi: https://doi.org/10.17863/cam.85203
   bibcode: 2022ExA....53..323H
   lab_led: false
   abstract: The recently adopted Ariel ESA mission will measure the atmospheric composition of a large number of exoplanets.
@@ -2375,6 +2437,7 @@
   links:
     pdf: https://arxiv.org/pdf/2104.04824
     scix: https://scixplorer.org/abs/2021arXiv210404824T/abstract
+    doi: https://doi.org/10.5194/epsc2022-1114
   bibcode: 2021arXiv210404824T
   lab_led: false
   abstract: Ariel, the Atmospheric Remote-sensing Infrared Exoplanet Large-survey, was adopted as the fourth medium-class
@@ -2409,6 +2472,7 @@
   links:
     pdf: https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf
     scix: https://scixplorer.org/abs/2022ExA....54.1197Q/abstract
+    doi: https://doi.org/10.1007/s10686-021-09803-y
   bibcode: 2022ExA....54.1197Q
   lab_led: false
   abstract: 'Exoplanet science is one of the most thriving fields of modern astrophysics. A major goal is the atmospheric
@@ -2504,6 +2568,7 @@
   links:
     pdf: https://arxiv.org/pdf/1907.09496
     scix: https://scixplorer.org/abs/2019BAAS...51g.230K/abstract
+    doi: https://doi.org/10.3847/25c2cfeb.87116a12
   bibcode: 2019BAAS...51g.230K
   lab_led: false
   abstract: 'As recent advancements in physics and astronomy rewrite textbooks in a very rapid pace, there is a growing need
@@ -2580,6 +2645,7 @@
   primary_url: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
   links:
     scix: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
+    doi: https://doi.org/10.1117/12.3019090
   bibcode: 2024SPIE13095E..1DG
   lab_led: false
   abstract: The Large Interferometer For Exoplanets (LIFE) is a proposed space mission to directly detect and characterize
@@ -2922,6 +2988,7 @@
   primary_url: https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd
   links:
     pdf: https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y
+    doi: https://doi.org/10.3929/ethz-b-000298059
   bibcode: null
   lab_led: true
   abstract: null
@@ -2961,7 +3028,7 @@
   primary_url: http://dx.doi.org/10.6084/m9.figshare.1501031
   links:
     pdf: https://ndownloader.figshare.com/files/2198993
-    doi: http://dx.doi.org/10.6084/m9.figshare.1501031
+    doi: https://doi.org/10.6084/m9.figshare.1501031
   bibcode: null
   lab_led: true
   abstract: null
@@ -2982,7 +3049,7 @@
   primary_url: http://dx.doi.org/10.6084/m9.figshare.1501030
   links:
     pdf: https://ndownloader.figshare.com/files/2198992
-    doi: http://dx.doi.org/10.6084/m9.figshare.1501030
+    doi: https://doi.org/10.6084/m9.figshare.1501030
   bibcode: null
   lab_led: true
   abstract: null
