@@ -838,7 +838,7 @@
   subsection: published
   year: 2024
   authors_md: Eatson JW, **T Lichtenberg**, RJ Parker, TV Gerya
-  title: Devolatilization of extrasolar planetesimals by 60Fe and 26Al heating
+  title: Devolatilization of extrasolar planetesimals by ⁶⁰Fe and ²⁶Al heating
   venue_md: '*Monthly Notices of the Royal Astronomical Society* 528, 6619-6630 (2024)'
   primary_url: https://scixplorer.org/abs/2024arXiv240206476E/abstract
   links:
@@ -1178,7 +1178,7 @@
   subsection: published
   year: 2022
   authors_md: Graham RJ, **T Lichtenberg**, RT Pierrehumbert
-  title: CO2 ocean bistability on terrestrial exoplanets
+  title: CO₂ ocean bistability on terrestrial exoplanets
   venue_md: '*Journal of Geophysical Research: Planets* 127, 2022JE007456 (2022)'
   primary_url: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
   links:
@@ -1642,7 +1642,7 @@
   subsection: published
   year: 2021
   authors_md: '**Lichtenberg T**, DJ Bower, M Hammond, R Boukrouche, P Sanan, S-M Tsai, RT Pierrehumbert'
-  title: 'Vertically resolved magma ocean-protoatmosphere evolution: H2, H2O, CO2, CH4, CO, O2, and N2 as primary absorbers'
+  title: 'Vertically resolved magma ocean-protoatmosphere evolution: H₂, H₂O, CO₂, CH₄, CO, O₂, and N₂ as primary absorbers'
   venue_md: '*Journal of Geophysical Research: Planets* 126, e2020JE006711 (2021)'
   primary_url: https://scixplorer.org/abs/2021JGRE..12606711L
   links:
@@ -1720,7 +1720,7 @@
   subsection: published
   year: 2019
   authors_md: '**Lichtenberg T**, GJ Golabek, R Burn, MR Meyer, Y Alibert, TV Gerya, CA Mordasini'
-  title: A water budget dichotomy of rocky protoplanets from 26Al-heating
+  title: A water budget dichotomy of rocky protoplanets from ²⁶Al-heating
   venue_md: '*Nature Astronomy* 3, 307–313 (2019)'
   primary_url: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
   links:
