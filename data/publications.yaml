@@ -1163,7 +1163,19 @@
     scix: https://scixplorer.org/abs/2022JGRE..12707456G/abstract
   bibcode: 2022JGRE..12707456G
   lab_led: false
-  abstract: null
+  abstract: Abstract Cycling of carbon dioxide between the atmosphere and interior of rocky planets can stabilize global climate
+    and enable planetary surface temperatures above freezing over geologic time. However, variations in global carbon budget
+    and unstable feedback cycles between planetary sub‐systems may destabilize the climate of rocky exoplanets toward regimes
+    unknown in the Solar System. Here, we perform clear‐sky atmospheric radiative transfer and surface weathering simulations
+    to probe the stability of climate equilibria for rocky, ocean‐bearing exoplanets at instellations relevant for planetary
+    systems in the outer regions of the circumstellar habitable zone. Our simulations suggest that planets orbiting G‐ and
+    F‐type stars (but not M‐type stars) may display bistability between an Earth‐like climate state with efficient carbon
+    sequestration and an alternative stable climate equilibrium where CO 2 condenses at the surface and forms a blanket of
+    either clathrate hydrate or liquid CO 2 . At increasing instellation and with ineffective weathering, the latter state
+    oscillates between cool, surface CO 2 ‐condensing and hot, non‐condensing climates. CO 2 bistable climates may emerge
+    early in planetary history and remain stable for billions of years. The carbon dioxide‐condensing climates follow an opposite
+    trend in p CO 2 versus instellation compared to the weathering‐stabilized planet population, suggesting the possibility
+    of observational discrimination between these distinct climate categories.
   lay_summary: 'Earth-like planets can exist in two stable climate states: one with liquid water oceans and moderate CO₂,
     and another where CO₂ dissolves into the ocean, potentially triggering glaciation. This study maps these bistable regimes
     across different planetary conditions, showing that the transition depends on atmospheric CO₂ levels and stellar irradiation.'
@@ -1567,7 +1579,20 @@
     scix: https://scixplorer.org/abs/2021ApJ...908L..48M/abstract
   bibcode: 2021ApJ...908L..48M
   lab_led: false
-  abstract: null
+  abstract: 'Abstract The tectonic regime of rocky planets fundamentally influences their long-term evolution and cycling
+    of volatiles between interior and atmosphere. Earth is the only known planet with active plate tectonics, but observations
+    of exoplanets may deliver insights into the diversity of tectonic regimes beyond the solar system. Observations of the
+    thermal phase curve of super-Earth LHS 3844b reveal a solid surface and lack of a substantial atmosphere, with a temperature
+    contrast between the substellar and antistellar point of around 1000 K. Here, we use these constraints on the planet’s
+    surface to constrain the interior dynamics and tectonic regimes of LHS 3844b using numerical models of interior flow.
+    We investigate the style of interior convection by assessing how upwellings and downwellings are organized and how tectonic
+    regimes manifest. We discover three viable convective regimes with a mobile surface: (1) spatially uniform distribution
+    of upwellings and downwellings, (2) prominent downwelling on the dayside and upwellings on the nightside, and (3) prominent
+    downwelling on the nightside and upwellings on the dayside. Hemispheric tectonics is observed for regimes (2) and (3)
+    as a direct consequence of the day-to-night temperature contrast. Such a tectonic mode is absent in the present-day solar
+    system and has never been inferred from astrophysical observations of exoplanets. Our models offer distinct predictions
+    for volcanism and outgassing linked to the tectonic regime, which may explain secondary features in phase curves and allow
+    future observations to constrain the diversity of super-Earth interiors.'
   lay_summary: Tidally locked super-Earths experience extreme temperature contrasts between their permanent dayside and nightside.
     This study shows that these contrasts can drive a unique tectonic regime with active convection on one hemisphere and
     a stagnant lid on the other, concentrating volcanic outgassing on one side of the planet.
@@ -2208,7 +2233,21 @@
     scix: https://scixplorer.org/abs/2025ExA....59...26R/abstract
   bibcode: 2025ExA....59...26R
   lab_led: false
-  abstract: null
+  abstract: Abstract PLATO (PLAnetary Transits and Oscillations of stars) is ESA’s M3 mission designed to detect and characterise
+    extrasolar planets and perform asteroseismic monitoring of a large number of stars. PLATO will detect small planets (down
+    to &lt;2R $$_\textrm{Earth}$$ Earth ) around bright stars (&lt;11 mag), including terrestrial planets in the habitable
+    zone of solar-like stars. With the complement of radial velocity observations from the ground, planets will be characterised
+    for their radius, mass, and age with high accuracy (5%, 10%, 10% for an Earth-Sun combination respectively). PLATO will
+    provide us with a large-scale catalogue of well-characterised small planets up to intermediate orbital periods, relevant
+    for a meaningful comparison to planet formation theories and to better understand planet evolution. It will make possible
+    comparative exoplanetology to place our Solar System planets in a broader context. In parallel, PLATO will study (host)
+    stars using asteroseismology, allowing us to determine the stellar properties with high accuracy, substantially enhancing
+    our knowledge of stellar structure and evolution. The payload instrument consists of 26 cameras with 12cm aperture each.
+    For at least four years, the mission will perform high-precision photometric measurements. Here we review the science
+    objectives, present PLATO‘s target samples and fields, provide an overview of expected core science performance as well
+    as a description of the instrument and the mission profile towards the end of the serial production of the flight cameras.
+    PLATO is scheduled for a launch date end 2026. This overview therefore provides a summary of the mission to the community
+    in preparation of the upcoming operational phases.
   lay_summary: PLATO is an ESA space mission designed to discover and characterize Earth-like planets in the habitable zones
     of Sun-like stars. By combining ultra-precise transit photometry with asteroseismology, PLATO will determine planetary
     radii, masses, and ages with unprecedented accuracy for hundreds of rocky worlds.
@@ -2564,7 +2603,27 @@
     scix: https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract
   bibcode: 2024SPIE13095E..1DG
   lab_led: false
-  abstract: null
+  abstract: The rise in greenhouse gas concentrations has been identified as a primary driver of global warming, leading to
+    adverse effects such as rising sea levels and droughts. In response, understanding the dynamics of greenhouse gas concentration
+    changes has become pivotal in the quest to effectively combat climate change and mitigate the adverse effects of global
+    warming. This study utilizes data from the GOSAT satellite to analyze the trends in global CO2 and CH4 concentrations
+    from 2010 to 2022. Furthermore, the time series and seasonal variation characteristics of greenhouse gas concentrations
+    of CO2 and CH4 in the Hefei area were studied, combined with the geographical environment of Hefei. To enhance comprehension,
+    the article also assembles an HYSPLIT backward trajectory model to scrutinize the latent influences exerted by monsoon
+    transport and atmospheric boundary layer conditions on greenhouse gas distributions. Over the course of the decade from
+    2010 to 2022, greenhouse gas concentrations in the Hefei region exhibited an unwavering upward trajectory, punctuated
+    by conspicuous seasonal fluctuations, showcasing distinct seasonal variations that aligned with the observations of the
+    ground-based observation network TCCON. The concentrations of CO2 surged from 391.05 ppm to 417.98ppm, signifying a net
+    gain of 26.930ppm, corresponding to an annual growth rate of approximately 2.4 ppm. Similarly, CH4 concentrations underwent
+    a net increase of 72 ppb, characterizing an annual growth rate of about 10.4 ppb. These figures underscore the relentless
+    ascent of greenhouse gas concentrations, warranting immediate attention and action. The concentrations of greenhouse gases
+    are subjected to a plethora of factors, encompassing both local biogenic and non-biogenic sources, the intricate patterns
+    of monsoon-driven atmospheric transport, and the unique characteristics of the atmospheric boundary layer. The findings
+    emanating from this comprehensive study are poised to serve as the bedrock upon which Hefei City can formulate and refine
+    its strategies for greenhouse gas emission reduction. Furthermore, the study emphasizes the impact of monsoon transport
+    patterns and atmospheric boundary layer conditions, which can significantly affect the dispersion and accumulation of
+    greenhouse gases in the region. Understanding these factors is crucial for devising effective strategies to mitigate greenhouse
+    gas emissions.
   lay_summary: The LIFE mission concept proposes a formation-flying mid-infrared nulling interferometer in space to directly
     detect and characterize exoplanet atmospheres. This paper presents the optical and instrument design, demonstrating the
     technical feasibility of studying rocky exoplanets in the thermal infrared.
