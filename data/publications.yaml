@@ -2882,15 +2882,16 @@
   lab_led: true
   abstract: null
   lay_summary: This BSc thesis modelled percolative core formation in planetesimals and protoplanets, where molten iron migrates
-    through a solid silicate matrix toward the center. It investigated the conditions under which this mechanism drove metal-silicate
-    differentiation during early Solar System evolution.
+    through a solid silicate matrix driven by buoyancy and capillary forces. Using two-phase flow simulations, it investigated
+    the efficiency and timescale of this mechanism for metal-silicate separation during early Solar System evolution, complementing
+    the more commonly studied large-scale overturn and diapir sinking scenarios.
   lay_summary_draft: null
   _raw: '**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis
     (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).'
 - slug: tim-lichtenberg-nd-thermal
   section: theses
   subsection: null
-  year: null
+  year: 2019
   authors_md: '**Tim Lichtenberg**'
   title: 'Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention'
   venue_md: Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018)
@@ -2900,9 +2901,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This PhD thesis studied the thermal evolution of rocky planets during formation, focusing on how radioactive
-    isotope heating drives internal differentiation, volatile loss, and the transition from magma ocean to solid mantle. It
-    connected early thermal processing to the long-term composition and potential habitability of terrestrial worlds.
+  lay_summary: This PhD thesis investigated the thermal evolution of rocky planets during their formation, tracing how the
+    decay of short-lived radioactive isotopes like aluminium-26 drives internal melting, iron core segregation, and the loss
+    of water and other volatiles from planetesimals. It established a quantitative link between the birth environment of a
+    planetary system and the long-term volatile budget and habitability potential of its rocky planets.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd)
     Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)'
@@ -2918,9 +2920,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This MSc thesis developed predictions for the infrared brightness and duration of post-collision magma oceans
-    on young rocky protoplanets. It modelled the thermal afterglow of giant impacts and assessed whether next-generation telescopes
-    could directly image these events in nearby star-forming regions.
+  lay_summary: This MSc thesis predicted the observability of magma oceans created by giant collisions between protoplanets
+    during terrestrial planet formation. Using 1D magma ocean cooling models, N-body collision statistics, and the performance
+    specifications of future instruments (E-ELT/METIS, Darwin-like space telescope), it computed detection probabilities for
+    ten nearby young stellar associations, identifying the Beta Pictoris and TW Hydrae groups as the most promising targets.
   lay_summary_draft: null
   _raw: '**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised).
     Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).'
@@ -2938,9 +2941,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This MSc thesis modelled gravitational instabilities in compact, massive protoplanetary disks using adaptive
-    mesh refinement techniques. It investigated the conditions under which disk fragmentation can lead to the rapid formation
-    of gas giant planets or brown dwarfs.
+  lay_summary: This MSc thesis simulated gravitational instabilities in compact, massive protoplanetary disks using 3D adaptive
+    mesh refinement hydrodynamics. It investigated the conditions, including disk mass, temperature, and cooling rates, under
+    which self-gravitating disks fragment into bound clumps that could become gas giant planets or brown dwarfs.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive
     mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen,
@@ -2959,9 +2962,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This BSc thesis explored how asteroseismology can improve the characterization of exoplanet host stars, enabling
-    more precise determinations of planetary size and composition. It connected measurements of stellar oscillation frequencies
-    to constraints on the physical properties of orbiting planets.
+  lay_summary: This BSc thesis investigated how stellar oscillation measurements (asteroseismology) can improve the characterization
+    of exoplanet host stars. By constraining fundamental stellar parameters such as mass, radius, and age more precisely,
+    it showed how asteroseismology propagates into tighter constraints on the physical properties of transiting exoplanets.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Constraining Exoplanet Characteristics with Asteroseismology*.](http://dx.doi.org/10.6084/m9.figshare.1501030)
     B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012). [pdf](https://ndownloader.figshare.com/files/2198992)'
