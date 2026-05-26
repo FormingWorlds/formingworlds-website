@@ -122,6 +122,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/PSJ/ae593b/pdf
     doi: https://doi.org/10.3847/PSJ/ae593b
+    scix: https://scixplorer.org/abs/2026PSJ.....7..108L/abstract
   bibcode: null
   lab_led: true
   abstract: Spectroscopic characterization of rocky exoplanets with the James Webb Space Telescope has brought the origin
@@ -2541,6 +2542,7 @@
   links:
     pdf: https://www.theoj.org/joss-papers/joss.07726/10.21105.joss.07726.pdf
     doi: https://doi.org/10.21105/joss.07726
+    scix: https://scixplorer.org/abs/2025JOSS...10.7726N/abstract
   bibcode: null
   lab_led: true
   abstract: 'It is important that we are able to accurately model the atmospheres of (exo)planets. This is because atmospheres
