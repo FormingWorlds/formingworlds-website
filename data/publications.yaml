@@ -356,7 +356,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ae17c8/pdf
     scix: https://scixplorer.org/abs/2025arXiv251007367N/abstract
-    doi: https://doi.org/10.3847/1538-4357/ad7e23
+    doi: https://doi.org/10.3847/1538-4357/ae17c8
   bibcode: 2025arXiv251007367N
   lab_led: false
   abstract: Sub-Neptunes with substantial atmospheres may possess magma oceans in contact with the overlying gas, with chemical
@@ -394,7 +394,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/2041-8213/ae0a4c/pdf
     scix: https://scixplorer.org/abs/arXiv:2509.17231
-    doi: https://doi.org/10.3847/2041-8213/adb3c5
+    doi: https://doi.org/10.3847/2041-8213/ae0a4c
   bibcode: arXiv:2509.17231
   lab_led: false
   abstract: Ultrashort-period (USP) exoplanets, with R_p ≤ 2 R⊕ and periods ≤1 day, are expected to be stripped of volatile
@@ -542,7 +542,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/adc8a9/pdf
     scix: https://scixplorer.org/abs/2025arXiv250404261S
-    doi: https://doi.org/10.3847/1538-4357/ada014
+    doi: https://doi.org/10.3847/1538-4357/adc8a9
   bibcode: 2025arXiv250404261S
   lab_led: false
   abstract: A wide variety of scenarios for the origin of life have been proposed, with many influencing the prevalence and
@@ -775,7 +775,7 @@
   links:
     pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad8642/pdf
     scix: https://scixplorer.org/abs/2024arXiv241017163E
-    doi: https://doi.org/10.1093/mnras/stae2396
+    doi: https://doi.org/10.3847/1538-4357/ad8642
   bibcode: 2024arXiv241017163E
   lab_led: false
   abstract: Recent research provides compelling evidence that the decay of short-lived radioisotopes (SLRs), such as ²⁶Al,
@@ -809,7 +809,7 @@
   links:
     scix: https://scixplorer.org/abs/arXiv:2408.10851
     pdf: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2024JE008491
-    doi: https://doi.org/10.1093/mnras/staf002
+    doi: https://doi.org/10.1029/2024JE008491
   bibcode: null
   lab_led: false
   abstract: Many super-Earths are on very short orbits around their host star and, therefore, more likely to be tidally locked.
@@ -1852,7 +1852,7 @@
   links:
     pdf: https://arxiv.org/pdf/1802.10421.pdf
     scix: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
-    doi: https://doi.org/10.1016/j.epsl.2017.12.006
+    doi: https://doi.org/10.1016/j.epsl.2017.11.034
   bibcode: 2018E&PSL.482..490H
   lab_led: false
   abstract: The short-lived ¹⁸²Hf-¹⁸²W decay system is a powerful chronometer for constraining the timing of metal-silicate
@@ -2005,7 +2005,7 @@
     video: http://bit.ly/planetesimal_evolution
     blog: http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/
     scix: https://scixplorer.org/abs/2016Icar..274..350L
-    doi: https://doi.org/10.1016/j.icarus.2015.11.038
+    doi: https://doi.org/10.1016/j.icarus.2016.03.004
   bibcode: 2016Icar..274..350L
   lab_led: true
   abstract: The thermal history and internal structure of chondritic planetesimals, assembled before the giant impact phase
@@ -2048,7 +2048,7 @@
     pdf: https://www.aanda.org/articles/aa/pdf/2014/11/aa24478-14.pdf
     video: http://bit.ly/gi_disk
     scix: https://scixplorer.org/abs/2015A%26A...579A..32L/abstract
-    doi: https://doi.org/10.1051/0004-6361/201526058
+    doi: https://doi.org/10.1051/0004-6361/201424528
   bibcode: 2015A&A...579A..32L
   lab_led: true
   abstract: The astonishing diversity in the observed planetary population requires theoretical efforts and advances in planet
@@ -2472,7 +2472,7 @@
   links:
     pdf: https://link.springer.com/content/pdf/10.1007/s10686-021-09803-y.pdf
     scix: https://scixplorer.org/abs/2022ExA....54.1197Q/abstract
-    doi: https://doi.org/10.1007/s10686-021-09803-y
+    doi: https://doi.org/10.1007/s10686-021-09791-z
   bibcode: 2022ExA....54.1197Q
   lab_led: false
   abstract: 'Exoplanet science is one of the most thriving fields of modern astrophysics. A major goal is the atmospheric
@@ -2568,7 +2568,6 @@
   links:
     pdf: https://arxiv.org/pdf/1907.09496
     scix: https://scixplorer.org/abs/2019BAAS...51g.230K/abstract
-    doi: https://doi.org/10.3847/25c2cfeb.87116a12
   bibcode: 2019BAAS...51g.230K
   lab_led: false
   abstract: 'As recent advancements in physics and astronomy rewrite textbooks in a very rapid pace, there is a growing need
