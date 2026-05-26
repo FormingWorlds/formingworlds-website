@@ -370,6 +370,15 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   letter-spacing: 0.1em;
   font-weight: 500;
 }
+.pub-year-divider {
+  margin-top: 1.75rem;
+  margin-bottom: 0.25rem;
+  font-size: 0.75rem;
+  color: var(--color-ink-400);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+}
 .prose-content p     { @apply mb-4; }
 .prose-content ul    { @apply list-disc pl-6 mb-4 space-y-1; }
 .prose-content ol    { @apply list-decimal pl-6 mb-4 space-y-1; }
@@ -449,7 +458,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .pub-pill {
   display: inline-flex; align-items: center;
   padding: 0.2rem 0.65rem; border-radius: 0.25rem;
-  border: 1px solid var(--color-signal-500); color: var(--color-signal-300);
+  border: 1px solid var(--color-ink-600); color: var(--color-ink-300);
   background: transparent; font-size: 0.72rem; font-weight: 600;
   letter-spacing: 0.01em; text-decoration: none; cursor: pointer; line-height: 1.4;
   transition: background-color 0.15s, color 0.15s, border-color 0.15s;
@@ -458,7 +467,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500);
 }
 .pub-pill-secondary       { border-color: var(--color-ink-600); color: var(--color-ink-400); }
-.pub-pill-secondary:hover { background: var(--color-ink-700); color: var(--color-ink-100); border-color: var(--color-ink-600); }
+.pub-pill-secondary:hover { background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500); }
 .pub-separator { display: inline-block; width: 1px; height: 1rem; background: var(--color-ink-700); margin: 0 0.25rem; }
 .pub-toggle {
   display: inline-flex; align-items: center; gap: 0.25rem;
@@ -468,7 +477,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   letter-spacing: 0.01em; cursor: pointer; line-height: 1.4;
   transition: background-color 0.15s, color 0.15s, border-color 0.15s;
 }
-.pub-toggle:hover { background: var(--color-ink-800); color: var(--color-ink-100); border-color: var(--color-ink-500); }
+.pub-toggle:hover { background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500); }
 .pub-toggle[aria-pressed="true"] { background: var(--color-ink-700); color: var(--color-ink-0); border-color: var(--color-ink-500); }
 .pub-chevron { display: inline-block; font-size: 0.65rem; transition: transform 0.2s ease; }
 .pub-toggle[aria-pressed="true"] .pub-chevron { transform: rotate(180deg); }

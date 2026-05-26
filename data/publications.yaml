@@ -56,13 +56,13 @@
   abstract: Static structure models, which map mass-radius constraints to bulk planet composition, are frequently used to
     categorise exoplanets due to their computational efficiency and the high-level insight they offer into planetary properties.
     However, static structure models typically have simplified atmospheric treatments, which may introduce systematic biases
-    when interpreting the structures -- and therefore the climates -- of sub-Neptunes and super-Earths.We present a framework
+    when interpreting the structures, and therefore the climates, of sub-Neptunes and super-Earths.We present a framework
     for recovering exoplanet properties using static structure models that accounts for necessary physical-chemical complexity
     in their atmospheres. We produce a comprehensive library of 504,000 exoplanet simulations that unify deep planetary interior
     structure with radiative-convective-chemical climate calculations. From these models we demonstrate that a planet's envelope
-    mass fraction -- a critical parameter to infer -- is frequently degenerate with its instellation flux and atmospheric
-    metallicity, and sensitive to the treatment of gravitational acceleration at the mbar level. Such uncertainties have significant
-    implications for inferring planetary processes, as our modelling shows that habitable-zone sub-Neptunes readily host supercritical
+    mass fraction, a critical parameter to infer, is frequently degenerate with its instellation flux and atmospheric metallicity,
+    and sensitive to the treatment of gravitational acceleration at the mbar level. Such uncertainties have significant implications
+    for inferring planetary processes, as our modelling shows that habitable-zone sub-Neptunes readily host supercritical
     surfaces or deep magma oceans, despite their temperate irradiation regime. To marginalise over these uncertainties, we
     introduce a Bayesian retrieval tool that uses our library of self-consistent models. By applying this Bayesian approach
     to case-studies of Pi Men c and TOI-421 b, we show that robust physical interpretations are achievable through whole-planet
@@ -78,7 +78,7 @@
 - slug: calder-2025-most
   section: research
   subsection: published
-  year: 2025
+  year: 2026
   authors_md: Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond
   title: 'Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets'
   venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2025)'
@@ -90,18 +90,18 @@
   lab_led: false
   abstract: 'Sub-Neptunes are the most common type of detected exoplanet, yet their observed masses and radii are degenerate
     with several interior structures. One possibility is that sub-Neptunes have silicate/iron interiors and H$_2$-dominated
-    atmospheres ($μ$<3.8 g mol$^{-1}$), i.e., they are ''gas dwarfs''. If gas dwarfs have molten interiors, interactions between
-    their magma oceans and atmospheres will produce distinct observational signatures. These signatures may break the degeneracy
-    in interior structure, while providing insight into their interior processes, history, and population trends. We expect
-    all such planets are born molten, but under what conditions do they remain molten today? We use the coupled interior-climate
-    evolution model, PROTEUS, to estimate the ''solidification shoreline'': the instellation flux boundary (as a function
-    of stellar $T_{\rm eff}$) that separates molten gas dwarfs from solidified ones. Our results show that 98% of detected
-    sub-Neptunes occupy a region of parameter space consistent with their having permanent magma oceans, if they are gas dwarfs.
-    While mantle $f{\rm O}_2$ and bulk volatile C/H ratio both influence magma ocean cooling, planets with oxidising mantles
-    and carbon-rich atmospheres are likely to have high mean-molecular weight atmospheres ($μ$>3.8 g mol$^{-1}$) and are thus
-    outside the scope of this study. Therefore, most detected sub-Neptunes, if they are gas dwarfs, have permanent magma oceans.
-    This result motivates further research into the interactions between molten interiors and overlying atmospheres, and campaigns
-    to identify unambiguous signatures of these interactions.'
+    atmospheres ($μ$&lt;3.8 g mol$^{-1}$), i.e., they are ''gas dwarfs''. If gas dwarfs have molten interiors, interactions
+    between their magma oceans and atmospheres will produce distinct observational signatures. These signatures may break
+    the degeneracy in interior structure, while providing insight into their interior processes, history, and population trends.
+    We expect all such planets are born molten, but under what conditions do they remain molten today? We use the coupled
+    interior-climate evolution model, PROTEUS, to estimate the ''solidification shoreline'': the instellation flux boundary
+    (as a function of stellar $T_{\rm eff}$) that separates molten gas dwarfs from solidified ones. Our results show that
+    98% of detected sub-Neptunes occupy a region of parameter space consistent with their having permanent magma oceans, if
+    they are gas dwarfs. While mantle $f{\rm O}_2$ and bulk volatile C/H ratio both influence magma ocean cooling, planets
+    with oxidising mantles and carbon-rich atmospheres are likely to have high mean-molecular weight atmospheres ($μ$&gt;3.8
+    g mol$^{-1}$) and are thus outside the scope of this study. Therefore, most detected sub-Neptunes, if they are gas dwarfs,
+    have permanent magma oceans. This result motivates further research into the interactions between molten interiors and
+    overlying atmospheres, and campaigns to identify unambiguous signatures of these interactions.'
   lay_summary: Sub-Neptunes are the most common type of exoplanet, yet their interiors remain mysterious. This study shows
     that most rocky sub-Neptunes with hydrogen-rich atmospheres have mantles hot enough to be fully molten, and maps the boundary
     where rocky interiors transition from liquid to solid across the exoplanet population.
@@ -128,6 +128,17 @@
     and atmosphere are critical to predict and interpret these observations and link them to the Solar System terrestrial
     planets. However, models differ in methodologies and input data, which can lead to significant differences in interpretation.
     In this paper, we present the experimental protocol of the Coupled atmospHere Interior modeL Intercomparison (CHILI) project.
+    CHILI is an (exo-)planet model intercomparison project within the Climates Using Interactive Suites of Intercomparisons
+    Nested for Exoplanet Studies (CUISINES) framework, which aims to support a diverse set of multi-model intercomparison
+    projects in the exoplanet community. The present protocol includes the initial set of participating magma ocean models,
+    divided into evolutionary and static models, and two types of test categories, one focused on Solar System planets (Earth
+    & Venus) and the other on exoplanets orbiting low-mass M-dwarfs. Both test categories aim to quantify the evolution of
+    key markers of the links between planetary atmospheres and interiors over geological timescales. The proposed tests would
+    allow us to quantify and compare the differences between coupled atmosphere-interior models used by the exoplanet and
+    planetary science communities. Results from the proposed tests will be published in dedicated follow-up papers. To encourage
+    the community to join this comparison effort and as an example, we present initial test results for the early Earth and
+    TRAPPIST-1 b, conducted with models differing in the treatment of energy transport in the planetary interior and atmosphere,
+    surface boundary layer, geochemistry, and the in- and outgassing of volatile compounds.
   lay_summary: Different research groups model what happens when a young rocky planet's molten surface interacts with its
     early atmosphere, but they don't agree with each other. CHILI is a community protocol that lets us run the same simulated
     planets through every model and compare the answers head-to-head. Once everyone's models are calibrated against each other,
@@ -160,10 +171,10 @@
     volatile inventories. Our results suggest that feedback between tidal heating and atmospheric forcing can induce substantial
     variation in magma ocean lifetimes, from ∼30 Myr up to ∼500 Myr, sensitive to interior redox conditions. Global radiative
     equilibrium epochs commonly arise across this range, lasting from ∼2 to ∼320 Myr, and typically occur from 24 Myr after
-    the Moon-forming impact. Under oxidizing conditions, late-stage H<SUB>2</SUB>O degassing promotes melt retention and sustained
-    heating due to its significant contribution to greenhouse forcing. Weak tides increase the atmospheric abundance of H<SUB>2</SUB>S
-    and NH<SUB>3</SUB> and deplete CO. Therefore, the feedback between tides and atmospheric forcing induces a disequilibrium
-    signature in the magma ocean atmosphere.'
+    the Moon-forming impact. Under oxidizing conditions, late-stage H₂O degassing promotes melt retention and sustained heating
+    due to its significant contribution to greenhouse forcing. Weak tides increase the atmospheric abundance of H₂S and NH₃
+    and deplete CO. Therefore, the feedback between tides and atmospheric forcing induces a disequilibrium signature in the
+    magma ocean atmosphere.'
   lay_summary: After the Moon-forming impact, Earth was covered in a global magma ocean beneath a thick atmosphere. We show
     that tidal heating from the young Moon, combined with greenhouse warming from outgassed volatiles, could have kept Earth's
     surface molten for anywhere from 30 to 500 million years depending on the chemistry of the mantle. The interplay between
@@ -195,17 +206,17 @@
   abstract: 'We investigate how well the Large Interferometer for Exoplanets (LIFE) mission concept can detect habitable conditions
     on exoplanets through the presence of atmospheric water vapor as a proxy for surface oceans. We model the atmosphere of
     a pre-biotic Earth-like planet across a range of water concentrations, from water-poor to water-rich, with surface partial
-    pressures from 10$^{-7}$ to 1 bar of H$_2$O. We simulate LIFE-like noise at spectral resolutions R = 50 and 100 using
-    LIFEsim and perform Bayesian atmospheric retrievals to determine the technical requirements for LIFE to confirm habitability.
+    pressures from 10⁻⁷ to 1 bar of H₂O. We simulate LIFE-like noise at spectral resolutions R = 50 and 100 using LIFEsim
+    and perform Bayesian atmospheric retrievals to determine the technical requirements for LIFE to confirm habitability.
     We model three vertical water distributions: a vertically constant profile, a Manabe-Wetherald based Earth-like profile,
     and a diffusion and photochemistry profile to test how the assumed vertical structure influences the retrieved abundances.
     Clouds are not modeled. We find the ability for LIFE to detect water strongly depends on the vertical profile assumed.
     LIFE is unable to constrain the highest water cases and provides upper limits on low water planets. For the highest water
-    abundances, absorption features saturate and reduce sensitivity to characterize precise H$_2$O levels. Water vapor is
-    not detectable in any profile modeled for $\leq10^{-6}$ bar in surface water, comparable to Mars. For an Earth-like profile,
-    LIFE could constrain H$_2$O concentrations from $\sim10^{-3}$ to 1 bar, spanning below and above present-day Earth concentrations
-    of 10$^{-2}$ bar. Detectable atmospheric water may imply surface oceans, as water is highly reactive and rapidly removed
-    by surface mineral reactions. Thus, LIFE can characterize water abundances indicative of habitable surface conditions.'
+    abundances, absorption features saturate and reduce sensitivity to characterize precise H₂O levels. Water vapor is not
+    detectable in any profile modeled for ≤10⁻⁶ bar in surface water, comparable to Mars. For an Earth-like profile, LIFE
+    could constrain H₂O concentrations from 10⁻³ to 1 bar, spanning below and above present-day Earth concentrations of 10⁻²
+    bar. Detectable atmospheric water may imply surface oceans, as water is highly reactive and rapidly removed by surface
+    mineral reactions. Thus, LIFE can characterize water abundances indicative of habitable surface conditions.'
   lay_summary: Detecting water vapor in exoplanet atmospheres could indicate habitable surface conditions, but too much or
     too little water makes detection unreliable. This study quantifies the sensitivity of the planned LIFE space telescope
     to water vapor on Earth-like planets and identifies the range of atmospheric water abundances it can reliably measure.
@@ -229,16 +240,16 @@
   lab_led: true
   abstract: Small, low-density exoplanets are sculpted by strong stellar irradiation, but their primordial compositions and
     subsequent evolution are still unknown. Two often-considered scenarios hold that they formed with rocky interiors and
-    H<SUB>2</SUB>-He atmospheres (`gas dwarfs') or alternatively with bulk compositions dominated by H<SUB>2</SUB>O phases
-    (`water worlds'). Here we constrain the possible range of evolutionary histories linking the birth conditions of low-density
-    super-Earth L 98-59 d to recent observations using a coupled atmosphere-interior evolutionary model. We find that the
-    observations can be explained by in situ photochemical production of SO<SUB>2</SUB> in an H<SUB>2</SUB> background, indicative
-    of a chemically reducing mantle and substantial (&gt;1.8 mass%) early sulfur and hydrogen content, inconsistent with both
-    the gas-dwarf and water-world scenarios. L 98-59 d's interior comprises a permanent magma ocean, allowing long-term retention
-    of volatiles within its mantle over billions of years, consistent with California-Kepler Survey trends. Our analysis reveals
-    an evolutionary pathway in which planets host volatile-rich atmospheres sustained by long-term magma-ocean degassing,
-    shaped by secular cooling, atmospheric erosion and photochemistry. Internal and environmental processes contribute to
-    the observed diversity of super-Earth and sub-Neptune exoplanets.
+    H₂-He atmospheres (`gas dwarfs') or alternatively with bulk compositions dominated by H₂O phases (`water worlds'). Here
+    we constrain the possible range of evolutionary histories linking the birth conditions of low-density super-Earth L 98-59
+    d to recent observations using a coupled atmosphere-interior evolutionary model. We find that the observations can be
+    explained by in situ photochemical production of SO₂ in an H₂ background, indicative of a chemically reducing mantle and
+    substantial (>1.8 mass%) early sulfur and hydrogen content, inconsistent with both the gas-dwarf and water-world scenarios.
+    L 98-59 d's interior comprises a permanent magma ocean, allowing long-term retention of volatiles within its mantle over
+    billions of years, consistent with California-Kepler Survey trends. Our analysis reveals an evolutionary pathway in which
+    planets host volatile-rich atmospheres sustained by long-term magma-ocean degassing, shaped by secular cooling, atmospheric
+    erosion and photochemistry. Internal and environmental processes contribute to the observed diversity of super-Earth and
+    sub-Neptune exoplanets.
   lay_summary: The exoplanet L 98-59 d is surprisingly large for its mass, suggesting it holds substantial volatiles, but
     whether it is a miniature gas planet or a water world has been unclear. By simulating its evolution from birth to present
     day, we find neither scenario fits; instead, its atmosphere is sustained by a permanent magma ocean releasing sulfur and
@@ -305,19 +316,18 @@
   lab_led: false
   abstract: Ultra-short period lava worlds offer a unique window into the coupled evolution of planetary interior and atmospheres
     under extreme irradiation. In this study, we investigate the mantle dynamics, nightside volcanism, and volatile outgassing
-    on lava world K2-141 b ($1.54 R_{\oplus}$, $5.31 M_{\oplus}$) using two-dimensional convection models with tracer-based
-    volatile tracking. Our simulations explore a range of interior configurations, including models with and without plastic
-    yielding, basal versus mixed heating, core cooling, and melt intrusion. In models without plastic yielding (i.e. with
-    a strong lithosphere), we find that mantle upwellings form at the substellar and antistellar points, while downwellings
-    form near the day-night terminators at the boundary between the magma ocean and cold, solid nightside. These downwellings
-    facilitate the recycling of crustal material, representing a form of asymmetric, single-lid tectonics. The resulting magma
-    ocean thickness varies from 200 to 300 km depending on the model parameters, corresponding to about 2-3% of the planet's
-    radius. Continuous nightside volcanism produces a basaltic crust and gradually depletes the mantle of volatiles. We find
-    that over a billion years, volcanic eruptions can outgas tens of bars of CO$_{2}$ and H$_{2}$O. We show that even relatively
-    large volcanic eruptions on the nightside produce thermal emission signals of no more than 1 ppm, remaining below the
-    current detectability threshold in thermal phase curves. However, for most models, outgassing rates are increased near
-    the day-night terminators and future studies should assess whether such localised outgassing could lead to atmospheric
-    signatures in transmission spectroscopy.
+    on lava world K2-141 b (1.54 R⊕, 5.31 M⊕) using two-dimensional convection models with tracer-based volatile tracking.
+    Our simulations explore a range of interior configurations, including models with and without plastic yielding, basal
+    versus mixed heating, core cooling, and melt intrusion. In models without plastic yielding (i.e. with a strong lithosphere),
+    we find that mantle upwellings form at the substellar and antistellar points, while downwellings form near the day-night
+    terminators at the boundary between the magma ocean and cold, solid nightside. These downwellings facilitate the recycling
+    of crustal material, representing a form of asymmetric, single-lid tectonics. The resulting magma ocean thickness varies
+    from 200 to 300 km depending on the model parameters, corresponding to about 2-3% of the planet's radius. Continuous nightside
+    volcanism produces a basaltic crust and gradually depletes the mantle of volatiles. We find that over a billion years,
+    volcanic eruptions can outgas tens of bars of CO₂ and H₂O. We show that even relatively large volcanic eruptions on the
+    nightside produce thermal emission signals of no more than 1 ppm, remaining below the current detectability threshold
+    in thermal phase curves. However, for most models, outgassing rates are increased near the day-night terminators and future
+    studies should assess whether such localised outgassing could lead to atmospheric signatures in transmission spectroscopy.
   lay_summary: Ultra-hot lava worlds like K2-141 b have permanent dayside magma oceans and cooler nightsides. This study models
     how internal mantle convection driven by extreme surface temperature contrasts can sustain nightside volcanism and outgassing,
     connecting the planet's interior dynamics to potentially observable atmospheric signatures.
@@ -350,12 +360,12 @@
     interactions. We combine an equilibrium chemistry code which models reactions between the core, mantle and atmosphere
     with a radiative-convective model that determines the composition and structure of the observable upper atmosphere. We
     examine how different conditions at the atmosphere-mantle boundary and different core and mantle compositions impact the
-    upper atmospheric composition. We compare our models to JWST NIRISS+NIRSpec observations of the sub-Neptune TOI-270~d,
+    upper atmospheric composition. We compare our models to JWST NIRISS+NIRSpec observations of the sub-Neptune TOI-270 d,
     finding that our models can provide a good fit to the observed transmission spectrum with little fine-tuning. This suggests
-    that magma-atmosphere interactions may be sufficient to explain high abundances of molecules such as H$_2$O, CH$_4$ and
-    CO$_2$ in sub-Neptune atmospheres, without additional accretion of icy material from the protoplanetary disk. Although
-    other processes could lead to similar compositions, our work highlights the need to consider magma-atmosphere interactions
-    when interpreting the observed atmospheric composition of a sub-Neptune.
+    that magma-atmosphere interactions may be sufficient to explain high abundances of molecules such as H₂O, CH₄ and CO₂
+    in sub-Neptune atmospheres, without additional accretion of icy material from the protoplanetary disk. Although other
+    processes could lead to similar compositions, our work highlights the need to consider magma-atmosphere interactions when
+    interpreting the observed atmospheric composition of a sub-Neptune.
   lay_summary: JWST observations of the sub-Neptune TOI-270 d have revealed unexpectedly high abundances of carbon- and oxygen-bearing
     molecules. This study shows that chemical reactions between a hydrogen-rich atmosphere and an underlying magma ocean can
     naturally explain these observations, without requiring exotic compositions.
@@ -377,17 +387,17 @@
     scix: https://scixplorer.org/abs/arXiv:2509.17231
   bibcode: arXiv:2509.17231
   lab_led: false
-  abstract: Ultrashort-period (USP) exoplanets -- with $R_p \leq 2~$R$_{\oplus}$ and periods $\leq$1 day -- are expected to
-    be stripped of volatile atmospheres by intense host star irradiation, which is corroborated by their nominal bulk densities
-    and previous eclipse observations consistent with bare rock surfaces. However, a few USP planets appear anomalously under-dense
-    relative to an Earth-like composition, suggesting an exotic interior structure (e.g., core-less) or a volatile-rich secondary
-    atmosphere increasing their apparent radius. Here we present the first dayside emission spectrum of the low-density (4.3$\pm$0.4
-    g~cm$^{-3}$) USP planet TOI-561 b, which orbits an iron-poor, alpha-rich, $\sim$10 Gyr old thick disk star. Our 3-5 $μ$m
-    JWST/NIRSpec observations demonstrate the dayside of TOI-561 b is inconsistent with a bare-rock surface at high statistical
-    significance, suggesting instead a thick volatile envelope that is cooling the dayside to well below the $\sim$3000 K
-    expected in the bare-rock or thin-atmosphere case. These results reject the popular hypothesis of complete atmospheric
-    desiccation for highly irradiated exoplanets and support predictions that planetary-scale magma oceans can retain substantial
-    reservoirs of volatiles, opening the geophysical study of ultrahot super-Earths through the lenses of their atmospheres.
+  abstract: Ultrashort-period (USP) exoplanets, with R_p ≤ 2 R⊕ and periods ≤1 day, are expected to be stripped of volatile
+    atmospheres by intense host star irradiation, which is corroborated by their nominal bulk densities and previous eclipse
+    observations consistent with bare rock surfaces. However, a few USP planets appear anomalously under-dense relative to
+    an Earth-like composition, suggesting an exotic interior structure (e.g., core-less) or a volatile-rich secondary atmosphere
+    increasing their apparent radius. Here we present the first dayside emission spectrum of the low-density (4.3±0.4 g cm⁻³)
+    USP planet TOI-561 b, which orbits an iron-poor, alpha-rich, 10 Gyr old thick disk star. Our 3-5 μm JWST/NIRSpec observations
+    demonstrate the dayside of TOI-561 b is inconsistent with a bare-rock surface at high statistical significance, suggesting
+    instead a thick volatile envelope that is cooling the dayside to well below the 3000 K expected in the bare-rock or thin-atmosphere
+    case. These results reject the popular hypothesis of complete atmospheric desiccation for highly irradiated exoplanets
+    and support predictions that planetary-scale magma oceans can retain substantial reservoirs of volatiles, opening the
+    geophysical study of ultrahot super-Earths through the lenses of their atmospheres.
   lay_summary: Ultra-short-period rocky planets orbiting extremely close to their stars are expected to be stripped of any
     atmosphere. New JWST observations of super-Earth TOI-561 b challenge this picture by revealing evidence for a thick volatile
     atmosphere, suggesting some close-in rocky worlds can retain or regenerate atmospheric gases.
@@ -484,17 +494,17 @@
     habitability. Previous pure-steam atmospheric models show a thermal limit in outgoing long-wave radiation, which has been
     used to define the inner edge of the classical habitable zone and guide exoplanet surveys aiming to identify and characterize
     potentially habitable worlds. We expand upon previous modelling by treating (i) the dissolution of volatiles into a magma
-    ocean underneath the atmosphere, (ii) a broader volatile range of the atmospheric composition including H<SUB>2</SUB>O,
-    CO<SUB>2</SUB>, CO, H<SUB>2</SUB>, CH<SUB>4</SUB>, and N<SUB>2</SUB>, and (iii) a surface-temperature- and mantle-redox-dependent
-    equilibrium chemistry. We find that multicomponent atmospheres of outgassed composition located above partially or fully
-    molten mantles do not exhibit the characteristic thermal radiation limit that arises from pure-steam models, thereby undermining
-    the canonical concept of a runaway greenhouse limit, and hence challenging the conventional approach of using it to define
-    an irradiation-based habitable zone. Our results show that atmospheric heat loss to space is strongly dependent on the
-    oxidation and melting state of the underlying planetary mantle, through their significant influence on the atmosphere''s
-    equilibrium composition. This suggests an evolutionary hysteresis in climate scenarios: Initially molten and cooling planets
-    do not converge to the same climate regime as solidified planets that heat up by external irradiation. Steady-state models
-    cannot recover evolutionary climate transitions, which instead require self-consistent models of the temporal evolution
-    of the coupled feedback processes between interior and atmosphere over geologic time.'
+    ocean underneath the atmosphere, (ii) a broader volatile range of the atmospheric composition including H₂O, CO₂, CO,
+    H₂, CH₄, and N₂, and (iii) a surface-temperature- and mantle-redox-dependent equilibrium chemistry. We find that multicomponent
+    atmospheres of outgassed composition located above partially or fully molten mantles do not exhibit the characteristic
+    thermal radiation limit that arises from pure-steam models, thereby undermining the canonical concept of a runaway greenhouse
+    limit, and hence challenging the conventional approach of using it to define an irradiation-based habitable zone. Our
+    results show that atmospheric heat loss to space is strongly dependent on the oxidation and melting state of the underlying
+    planetary mantle, through their significant influence on the atmosphere''s equilibrium composition. This suggests an evolutionary
+    hysteresis in climate scenarios: Initially molten and cooling planets do not converge to the same climate regime as solidified
+    planets that heat up by external irradiation. Steady-state models cannot recover evolutionary climate transitions, which
+    instead require self-consistent models of the temporal evolution of the coupled feedback processes between interior and
+    atmosphere over geologic time.'
   lay_summary: 'The ''runaway greenhouse'' concept defines the inner edge of the habitable zone: the distance from a star
     where a planet''s oceans would boil away irreversibly. We show that this thermal limit, derived from pure-steam atmosphere
     models, vanishes when we account for the complex chemistry of atmospheres above magma oceans. Whether a planet retains
@@ -528,15 +538,14 @@
     is necessary for abiogenesis. Using Bayesian modeling and the \bioverse\ survey simulator, we constrain the probability
     of obtaining strong evidence for or against this ``UV Threshold Hypothesis'' with future biosignature surveys. Our results
     indicate that a correlation between past NUV flux and current biosignature occurrence is testable for sample sizes of
-    $\gtrsim$50 planets. The diagnostic power of such tests is critically sensitive to the intrinsic abiogenesis rate and
-    host star properties, particularly maximum past NUV fluxes. Surveys targeting a wide range of fluxes, and planets orbiting
-    M dwarfs enhance the chances of conclusive results, with sample sizes $\gtrsim$100 providing $\gtrsim$80\% likelihood
-    of strong evidence if abiogenesis rates are high and the required NUV fluxes are moderate. For required fluxes exceeding
-    a few hundred erg/s/cm$^2$, both the fraction of inhabited planets and the diagnostic power sharply decrease. Our findings
-    demonstrate the potential of exoplanet surveys to test origins-of-life hypotheses. Beyond specific scenarios, this work
-    underscores the broader value of realistic survey simulations for future observatories (e.g., HWO, LIFE, ELTs, Nautilus)
-    in identifying testable science questions, optimizing mission strategies, and advancing theoretical and experimental studies
-    of abiogenesis.
+    50 planets. The diagnostic power of such tests is critically sensitive to the intrinsic abiogenesis rate and host star
+    properties, particularly maximum past NUV fluxes. Surveys targeting a wide range of fluxes, and planets orbiting M dwarfs
+    enhance the chances of conclusive results, with sample sizes 100 providing 80\% likelihood of strong evidence if abiogenesis
+    rates are high and the required NUV fluxes are moderate. For required fluxes exceeding a few hundred erg/s/cm², both the
+    fraction of inhabited planets and the diagnostic power sharply decrease. Our findings demonstrate the potential of exoplanet
+    surveys to test origins-of-life hypotheses. Beyond specific scenarios, this work underscores the broader value of realistic
+    survey simulations for future observatories (e.g., HWO, LIFE, ELTs, Nautilus) in identifying testable science questions,
+    optimizing mission strategies, and advancing theoretical and experimental studies of abiogenesis.
   lay_summary: The conditions under which life originates may leave detectable patterns in the distribution of biosignatures
     across exoplanet populations. This study models how UV-driven origin-of-life scenarios would imprint on observable biosignature
     statistics and shows how future surveys could test these hypotheses.
@@ -565,7 +574,7 @@
     this phase transition, allowing for a physical estimation of the tidal response of lava worlds. We apply the model in
     two settings: the tidal history of the early Earth–Moon system in the aftermath of the giant impact, and the tidal interplay
     between short-period exoplanets and their host stars. For the former, we show that the fluid behavior of the Earth''s
-    molten surface drives efficient early lunar recession to ~25 Earth radii within 104–105 yr, in contrast with earlier predictions.
+    molten surface drives efficient early lunar recession to 25 Earth radii within 104–105 yr, in contrast with earlier predictions.
     For close-in exoplanets, we report on how their molten surfaces significantly change their spin–orbit dynamics, allowing
     them to evade spin–orbit resonances and accelerating their track toward tidal synchronization from a gigayear to megayear
     timescale. Moreover, we reevaluate the energy budgets of detected close-in exoplanets, highlighting how the surface thermodynamics
@@ -591,19 +600,19 @@
     scix: https://scixplorer.org/abs/2025ApJ...978L..40H/abstract
   bibcode: 2025ApJ...978L..40H
   lab_led: false
-  abstract: Abstract The prevalence of atmospheres on rocky planets is one of the major questions in exoplanet astronomy,
-    but there are currently no published unambiguous detections of atmospheres on any rocky exoplanets. The MIRI instrument
-    on JWST can measure thermal emission from tidally locked rocky exoplanets orbiting small, cool stars. This emission is
-    a function of their surface and atmospheric properties, potentially allowing detections of atmospheres. One way to find
-    atmospheres is to search for lower dayside emission than would be expected for a blackbody planet. Another technique is
-    to measure phase curves of thermal emission to search for nightside emission due to atmospheric heat redistribution. Here,
-    we compare strategies for detecting atmospheres on rocky exoplanets. We simulate secondary eclipse and phase curve observations
-    in the MIRI F1500W and F1280W filters for a range of surfaces (providing our open-access albedo data) and atmospheres
-    on 30 exoplanets selected for their F1500W signal-to-noise ratio. We show that secondary eclipse observations are more
-    degenerate between surfaces and atmospheres than suggested in previous work, and that thick atmospheres can support emission
-    consistent with a blackbody planet in these filters. These results make it difficult to unambiguously detect or rule out
-    atmospheres using their photometric dayside emission alone. We suggest that an F1500W phase curve could instead be observed
-    for a similar sample of planets. While phase curves are time-consuming and their instrumental systematics can be challenging,
+  abstract: The prevalence of atmospheres on rocky planets is one of the major questions in exoplanet astronomy, but there
+    are currently no published unambiguous detections of atmospheres on any rocky exoplanets. The MIRI instrument on JWST
+    can measure thermal emission from tidally locked rocky exoplanets orbiting small, cool stars. This emission is a function
+    of their surface and atmospheric properties, potentially allowing detections of atmospheres. One way to find atmospheres
+    is to search for lower dayside emission than would be expected for a blackbody planet. Another technique is to measure
+    phase curves of thermal emission to search for nightside emission due to atmospheric heat redistribution. Here, we compare
+    strategies for detecting atmospheres on rocky exoplanets. We simulate secondary eclipse and phase curve observations in
+    the MIRI F1500W and F1280W filters for a range of surfaces (providing our open-access albedo data) and atmospheres on
+    30 exoplanets selected for their F1500W signal-to-noise ratio. We show that secondary eclipse observations are more degenerate
+    between surfaces and atmospheres than suggested in previous work, and that thick atmospheres can support emission consistent
+    with a blackbody planet in these filters. These results make it difficult to unambiguously detect or rule out atmospheres
+    using their photometric dayside emission alone. We suggest that an F1500W phase curve could instead be observed for a
+    similar sample of planets. While phase curves are time-consuming and their instrumental systematics can be challenging,
     we suggest that they allow the only unambiguous detections of atmospheres by nightside thermal emission.
   lay_summary: Detecting atmospheres on rocky exoplanets is a major goal of current astronomy, but no unambiguous detection
     exists yet. This study demonstrates that photometric phase curve observations with JWST can reliably distinguish between
@@ -672,11 +681,11 @@
     planets. This is applied across a grid of fixed redox states, orbital separations, hydrogen endowments, and C/H ratios
     around a Sun-like star. The composition of these atmospheres is highly variable before and during solidification. The
     evolutionary path of an Earth-like planet at 1 AU ranges between permanent magma ocean states and solidification within
-    1 Myr. Recently solidified planets typically host H<SUB>2</SUB>O- or H<SUB>2</SUB>-dominated atmospheres in the absence
-    of escape. Orbital separation is the primary factor determining magma ocean evolution, followed by the total hydrogen
-    endowment, mantle oxygen fugacity, and finally the planet's C/H ratio. Collisional absorption by H<SUB>2</SUB> induces
-    a greenhouse effect which can prevent or stall magma ocean solidification. Through this effect, as well as the outgassing
-    of other volatiles, geochemical properties exert significant control over the fate of magma oceans on rocky planets.
+    1 Myr. Recently solidified planets typically host H₂O- or H₂-dominated atmospheres in the absence of escape. Orbital separation
+    is the primary factor determining magma ocean evolution, followed by the total hydrogen endowment, mantle oxygen fugacity,
+    and finally the planet's C/H ratio. Collisional absorption by H₂ induces a greenhouse effect which can prevent or stall
+    magma ocean solidification. Through this effect, as well as the outgassing of other volatiles, geochemical properties
+    exert significant control over the fate of magma oceans on rocky planets.
   lay_summary: The chemistry of a young planet's magma ocean, specifically how oxidized or reduced it is, controls which gases
     enter the atmosphere and how quickly the surface solidifies. We systematically explored this across a wide range of chemical
     conditions and found that hydrogen-rich atmospheres produced under reducing conditions can trap enough heat to prevent
@@ -788,15 +797,15 @@
     solar system. The presence of an atmosphere, however, would allow transport of heat from the dayside towards the nightside
     and thereby reduce the surface temperature contrast between the two hemispheres. On rocky planets, atmospheric and geodynamic
     regimes are closely linked, which directly connects the question of atmospheric thickness to the potential interior dynamics
-    of the planet. Here, we study the interior dynamics of super-Earth GJ 486b ($R=1.34$ $R_{\oplus}$, $M=3.0$ $M_{\oplus}$,
-    T$_\mathrm{eq}\approx700$ K), which is one of the most suitable M-dwarf super-Earth candidates for retaining an atmosphere
-    produced by degassing from the mantle and magma ocean. We investigate how the geodynamic regime of GJ 486b is influenced
-    by different surface temperature contrasts by varying possible atmospheric circulation regimes. We also investigate how
-    the strength of the lithosphere affects the convection pattern. We find that hemispheric tectonics, the surface expression
-    of degree-1 convection with downwellings forming on one hemisphere and upwelling material rising on the opposite hemisphere,
-    is a consequence of the strong lithosphere rather than surface temperature contrast. Anchored hemispheric tectonics, where
-    downwellings und upwellings have a preferred (day/night) hemisphere, is favoured for strong temperature contrasts between
-    the dayside and nightside and higher surface temperatures.
+    of the planet. Here, we study the interior dynamics of super-Earth GJ 486b (R=1.34 R⊕, M=3.0 M⊕, T_eq≈700 K), which is
+    one of the most suitable M-dwarf super-Earth candidates for retaining an atmosphere produced by degassing from the mantle
+    and magma ocean. We investigate how the geodynamic regime of GJ 486b is influenced by different surface temperature contrasts
+    by varying possible atmospheric circulation regimes. We also investigate how the strength of the lithosphere affects the
+    convection pattern. We find that hemispheric tectonics, the surface expression of degree-1 convection with downwellings
+    forming on one hemisphere and upwelling material rising on the opposite hemisphere, is a consequence of the strong lithosphere
+    rather than surface temperature contrast. Anchored hemispheric tectonics, where downwellings und upwellings have a preferred
+    (day/night) hemisphere, is favoured for strong temperature contrasts between the dayside and nightside and higher surface
+    temperatures.
   lay_summary: Super-Earth GJ 486b orbits so close to its star that one side permanently faces the star, creating extreme
     temperature contrasts. This study models how the resulting mantle convection patterns differ from Earth's plate tectonics
     and could produce observable volcanic activity concentrated on specific parts of the surface.
@@ -850,20 +859,20 @@
     scix: https://scixplorer.org/abs/2024ApJ...962L...8S
   bibcode: 2024ApJ...962L...8S
   lab_led: false
-  abstract: 'Abstract Mildly irradiated mini-Neptunes have densities potentially consistent with them hosting substantial
-    liquid-water oceans (“Hycean” planets). The presence of CO 2 and simultaneous absence of ammonia (NH 3 ) in their atmospheres
-    has been proposed as a fingerprint of such worlds. JWST observations of K2-18b, the archetypal Hycean, have found the
-    presence of CO 2 and the depletion of NH 3 to &lt;100 ppm; hence, it has been inferred that this planet may host liquid-water
-    oceans. In contrast, climate modeling suggests that many of these mini-Neptunes, including K2-18b, may likely be too hot
-    to host liquid water. We propose a solution to this discrepancy between observation and climate modeling by investigating
-    the effect of a magma ocean on the atmospheric chemistry of mini-Neptunes. We demonstrate that atmospheric NH 3 depletion
+  abstract: 'Mildly irradiated mini-Neptunes have densities potentially consistent with them hosting substantial liquid-water
+    oceans (“Hycean” planets). The presence of CO 2 and simultaneous absence of ammonia (NH 3 ) in their atmospheres has been
+    proposed as a fingerprint of such worlds. JWST observations of K2-18b, the archetypal Hycean, have found the presence
+    of CO 2 and the depletion of NH 3 to <100 ppm; hence, it has been inferred that this planet may host liquid-water oceans.
+    In contrast, climate modeling suggests that many of these mini-Neptunes, including K2-18b, may likely be too hot to host
+    liquid water. We propose a solution to this discrepancy between observation and climate modeling by investigating the
+    effect of a magma ocean on the atmospheric chemistry of mini-Neptunes. We demonstrate that atmospheric NH 3 depletion
     is a natural consequence of the high solubility of nitrogen species in magma at reducing conditions; precisely the conditions
     prevailing where a thick hydrogen envelope is in communication with a molten planetary surface. The magma ocean model
     reproduces the present JWST spectrum of K2-18b to ≲3 σ , suggesting this is as credible an explanation for current observations
     as the planet hosting a liquid-water ocean. Spectral areas that could be used to rule out the magma ocean model include
-    the &gt;4 μ m region, where CO 2 and CO features dominate: magma ocean models suggest a systematically lower CO 2 /CO
-    ratio than estimated from free-chemistry retrieval, indicating that deeper observations of this spectral region may be
-    able to distinguish between oceans of liquid water and magma on mini-Neptunes.'
+    the >4 μ m region, where CO 2 and CO features dominate: magma ocean models suggest a systematically lower CO 2 /CO ratio
+    than estimated from free-chemistry retrieval, indicating that deeper observations of this spectral region may be able
+    to distinguish between oceans of liquid water and magma on mini-Neptunes.'
   lay_summary: The mini-Neptune K2-18b has been proposed as a possible ocean world based on JWST atmospheric observations.
     This study shows that the same spectral signatures, including CO2 and the absence of ammonia, can be explained by a magma
     ocean interior rather than a liquid water ocean, making it difficult to distinguish between these two very different scenarios.
@@ -892,13 +901,13 @@
     zone inner edge discontinuity" in radius-density space. Here, we use Bioverse, a statistical framework combining contextual
     information from the overall planet population with a survey simulator, to assess the ability of ground- and space-based
     telescopes to test this hypothesis. We find that the demographic imprint of the runaway greenhouse transition is likely
-    detectable with high-precision transit photometry for sample sizes $\gtrsim 100$ planets if at least ~10 % of those orbiting
-    closer than the habitable zone inner edge harbor runaway climates. Our survey simulations suggest that in the near future,
-    ESA''s PLATO mission will be the most promising survey to probe the habitable zone inner edge discontinuity. We determine
-    survey strategies that maximize the diagnostic power of the obtained data and identify as key mission design drivers:
-    1. A follow-up campaign of planetary mass measurements and 2. The fraction of low-mass stars in the target sample. Observational
-    constraints on the runaway greenhouse transition will provide crucial insights into the distribution of atmospheric volatiles
-    among rocky exoplanets, which may help to identify the nearest potentially habitable worlds.'
+    detectable with high-precision transit photometry for sample sizes 100 planets if at least 10 % of those orbiting closer
+    than the habitable zone inner edge harbor runaway climates. Our survey simulations suggest that in the near future, ESA''s
+    PLATO mission will be the most promising survey to probe the habitable zone inner edge discontinuity. We determine survey
+    strategies that maximize the diagnostic power of the obtained data and identify as key mission design drivers: 1. A follow-up
+    campaign of planetary mass measurements and 2. The fraction of low-mass stars in the target sample. Observational constraints
+    on the runaway greenhouse transition will provide crucial insights into the distribution of atmospheric volatiles among
+    rocky exoplanets, which may help to identify the nearest potentially habitable worlds.'
   lay_summary: Rocky planets closer to their star than the runaway greenhouse threshold lose their oceans and become desiccated.
     This study predicts that this transition should create a detectable gap in the distribution of exoplanet properties, offering
     a way for future surveys to test our understanding of how planets lose their water.
@@ -952,8 +961,8 @@
   lab_led: false
   abstract: The ultra-short-period super-Earth 55 Cancri e has a measured radius of 1.8 Earth radii. Previous thermal phase
     curve observations suggest a strong temperature contrast between the dayside and nightside of around 1000 K with the hottest
-    point shifted $41\pm12$ degrees east from the substellar point, indicating some degree of heat circulation. The dayside
-    (and potentially even the nightside) is hot enough to harbour a magma ocean. We use results from general circulation models
+    point shifted 41±12 degrees east from the substellar point, indicating some degree of heat circulation. The dayside (and
+    potentially even the nightside) is hot enough to harbour a magma ocean. We use results from general circulation models
     (GCMs) of atmospheres to constrain the surface temperature contrasts. There is still a large uncertainty on the vigour
     and style of mantle convection in super-Earths, especially those that experience stellar irradiation large enough to harbour
     a magma ocean. In this work, we aim to constrain the mantle dynamics of the tidally locked lava world 55 Cancri e. Using
@@ -983,8 +992,8 @@
     scix: https://scixplorer.org/abs/2023ApJ...954...29P
   bibcode: 2023ApJ...954...29P
   lab_led: false
-  abstract: 'Abstract Super-Earths span a wide range of bulk densities, indicating a diversity in interior conditions beyond
-    that seen in the solar system. In particular, an emerging population of low-density super-Earths may be explained by volatile-rich
+  abstract: 'Super-Earths span a wide range of bulk densities, indicating a diversity in interior conditions beyond that seen
+    in the solar system. In particular, an emerging population of low-density super-Earths may be explained by volatile-rich
     interiors. Among these, low-density lava worlds have dayside temperatures that are high enough to evaporate their surfaces,
     providing a unique opportunity to probe their interior compositions and test for the presence of volatiles. In this work,
     we investigate the atmospheric observability of low-density lava worlds. We use a radiative-convective model to explore
@@ -1019,20 +1028,20 @@
     scix: https://scixplorer.org/abs/2023MNRAS.521.4838P
   bibcode: 2023MNRAS.521.4838P
   lab_led: false
-  abstract: 'ABSTRACT The abundance of the short-lived radioisotopes 26Al and 60Fe in the early Solar system is usually explained
-    by the Sun either forming from pre-enriched material, or the Sun’s protosolar disc being polluted by a nearby supernova
-    explosion from a massive star. Both hypotheses suffer from significant drawbacks: the former does not account for the
-    dynamical evolution of star-forming regions, while in the latter the time for massive stars to explode as supernovae can
-    be similar to, or even longer than, the lifetime of protoplanetary discs. In this paper, we extend the disc enrichment
-    scenario to include the contribution of 26Al from the winds of massive stars before they explode as supernovae. We use
-    N-body simulations and a post-processing analysis to calculate the amount of enrichment in each disc, and we vary the
-    stellar density of the star-forming regions. We find that stellar winds contribute to disc enrichment to such an extent
-    that the Solar system’s 26Al/60Fe ratio is reproduced in up to 50 per cent of discs in dense ($\tilde{\rho } = 1000$ M⊙
-    pc−3) star-forming regions. When winds are a significant contributor to the SLR enrichment, we find that Solar system
-    levels of enrichment can occur much earlier (before 2.5 Myr) than when enrichment occurs from supernovae, which start
-    to explode at later ages (&amp;gt;4 Myr). We find that Solar system levels of enrichment all but disappear in low-density
-    star-forming regions ($\tilde{\rho } \le 10$ M⊙ pc−3), implying that the Solar system must have formed in a dense, populous
-    star-forming region if 26Al and 60Fe were delivered directly to the protosolar disc from massive-star winds and supernovae.'
+  abstract: 'The abundance of the short-lived radioisotopes 26Al and 60Fe in the early Solar system is usually explained by
+    the Sun either forming from pre-enriched material, or the Sun’s protosolar disc being polluted by a nearby supernova explosion
+    from a massive star. Both hypotheses suffer from significant drawbacks: the former does not account for the dynamical
+    evolution of star-forming regions, while in the latter the time for massive stars to explode as supernovae can be similar
+    to, or even longer than, the lifetime of protoplanetary discs. In this paper, we extend the disc enrichment scenario to
+    include the contribution of 26Al from the winds of massive stars before they explode as supernovae. We use N-body simulations
+    and a post-processing analysis to calculate the amount of enrichment in each disc, and we vary the stellar density of
+    the star-forming regions. We find that stellar winds contribute to disc enrichment to such an extent that the Solar system’s
+    26Al/60Fe ratio is reproduced in up to 50 per cent of discs in dense (ρ = 1000 M⊙ pc−3) star-forming regions. When winds
+    are a significant contributor to the SLR enrichment, we find that Solar system levels of enrichment can occur much earlier
+    (before 2.5 Myr) than when enrichment occurs from supernovae, which start to explode at later ages (>4 Myr). We find that
+    Solar system levels of enrichment all but disappear in low-density star-forming regions (ρ ≤ 10 M⊙ pc−3), implying that
+    the Solar system must have formed in a dense, populous star-forming region if 26Al and 60Fe were delivered directly to
+    the protosolar disc from massive-star winds and supernovae.'
   lay_summary: The early Solar System contained radioactive aluminium-26 and iron-60 that heated young planetesimals, but
     the source of these isotopes is debated. This study uses simulations of star-forming regions to show that stellar winds
     from massive stars can enrich protoplanetary disks with these isotopes, complementing or replacing the traditional supernova
@@ -1184,12 +1193,12 @@
     bombardment epochs in Hadean-analog environments. We contrast the solar system scenario with varying initial volatile
     distributions due to extended primordial runaway greenhouse phases on protoplanets and the desiccation of smaller planetesimals
     by internal radiogenic heating. We find a decreasing rate of late-accreting reducing impacts with decreasing stellar mass.
-    Young planets around stars ≤0.4 M <SUB>☉</SUB> experience no impacts of sufficient mass to generate prebiotically relevant
-    concentrations of reduced atmospheric compounds once their stars have reached the main sequence. For M-dwarf planets to
-    not exceed Earth-like concentrations of volatiles, both planetesimals, and larger protoplanets must undergo extensive
-    devolatilization processes and can typically emerge from long-lived magma ocean phases with sufficient atmophile content
-    to outgas secondary atmospheres. Our results suggest that transiently reducing surface conditions on young rocky exoplanets
-    are favored around FGK stellar types relative to M dwarfs.
+    Young planets around stars ≤0.4 M ☉ experience no impacts of sufficient mass to generate prebiotically relevant concentrations
+    of reduced atmospheric compounds once their stars have reached the main sequence. For M-dwarf planets to not exceed Earth-like
+    concentrations of volatiles, both planetesimals, and larger protoplanets must undergo extensive devolatilization processes
+    and can typically emerge from long-lived magma ocean phases with sufficient atmophile content to outgas secondary atmospheres.
+    Our results suggest that transiently reducing surface conditions on young rocky exoplanets are favored around FGK stellar
+    types relative to M dwarfs.
   lay_summary: Impacts of chemically reduced meteorites onto the early Earth may have triggered the production of molecules
     relevant for the origin of life. We simulated late-stage planet formation around stars of different masses and found that
     planets orbiting small M-dwarf stars receive far fewer of these reducing impacts. This suggests that the chemical conditions
@@ -1213,21 +1222,21 @@
     scix: https://scixplorer.org/abs/2022MNRAS.515..395C/abstract
   bibcode: 2022MNRAS.515..395C
   lab_led: false
-  abstract: ABSTRACT In the Solar system, short-lived radioisotopes, such as 26Al, played a crucial role during the formation
-    of planetary bodies by providing a significant additional source of heat. Notably, this led to early and large-scale melting
-    and iron core formation in planetesimals and their loss of volatile elements, such as hydrogen and carbon. In the context
-    of exoplanetary systems therefore the prevalence of short-lived radioisotopes is key to interpreting the observed bulk
-    volatile budget and atmospheric diversity among low-mass exoplanets. White dwarfs that have accreted planetary material
-    provide a unique means to infer the frequency of iron core formation in extrasolar planetesimals, and hence the ubiquity
-    of planetary systems forming with high short-lived radioisotope abundances. Here, we devise a quantitative method to infer
-    the fraction of planetary systems enriched with short-lived radionuclides upon planetesimal formation from white dwarf
-    data. We argue that the current evidence from white dwarfs point towards a significant fraction of exoplanetesimals having
-    formed an iron core. Although the data may be explained by the accretion of exomoon or Pluto-sized bodies that were able
-    to differentiate due to gravitational potential energy release, our results suggest that the most likely explanation for
-    the prevalence of differentiated material among polluted white dwarfs is that the Solar system is not unusual in being
-    enriched in 26Al. The models presented here suggest a ubiquitous pathway for the enrichment of exoplanetary systems by
-    short-lived radioisotopes, disfavouring short-lived radioisotope enrichment scenarios relying on statistically rare chance
-    encounters with single nearby supernovae, Wolf–Rayet, or AGB stars.
+  abstract: In the Solar system, short-lived radioisotopes, such as 26Al, played a crucial role during the formation of planetary
+    bodies by providing a significant additional source of heat. Notably, this led to early and large-scale melting and iron
+    core formation in planetesimals and their loss of volatile elements, such as hydrogen and carbon. In the context of exoplanetary
+    systems therefore the prevalence of short-lived radioisotopes is key to interpreting the observed bulk volatile budget
+    and atmospheric diversity among low-mass exoplanets. White dwarfs that have accreted planetary material provide a unique
+    means to infer the frequency of iron core formation in extrasolar planetesimals, and hence the ubiquity of planetary systems
+    forming with high short-lived radioisotope abundances. Here, we devise a quantitative method to infer the fraction of
+    planetary systems enriched with short-lived radionuclides upon planetesimal formation from white dwarf data. We argue
+    that the current evidence from white dwarfs point towards a significant fraction of exoplanetesimals having formed an
+    iron core. Although the data may be explained by the accretion of exomoon or Pluto-sized bodies that were able to differentiate
+    due to gravitational potential energy release, our results suggest that the most likely explanation for the prevalence
+    of differentiated material among polluted white dwarfs is that the Solar system is not unusual in being enriched in 26Al.
+    The models presented here suggest a ubiquitous pathway for the enrichment of exoplanetary systems by short-lived radioisotopes,
+    disfavouring short-lived radioisotope enrichment scenarios relying on statistically rare chance encounters with single
+    nearby supernovae, Wolf–Rayet, or AGB stars.
   lay_summary: Radioactive aluminium-26 heated early Solar System planetesimals, driving melting and iron core formation.
     By measuring the compositions of rocky debris accreted onto white dwarf stars, this study constrains how common aluminium-26
     enrichment is across exoplanetary systems, finding that the Solar System's level of enrichment may not be unusual.
@@ -1258,10 +1267,10 @@
     (i.e., stellar leakage and thermal emission from local zodiacal and exo-zodiacal dust) and offers the flexibility to include
     instrumental noise terms in the future. LIFEsim provides an accessible way for predicting the expected SNR of future observations
     as a function of various key instrument and target parameters. The SNRs of the extracted spectra are photon-noise dominated,
-    as expected from our current simulations. From single epoch observations in our mock survey of small ($R &lt; 1.5 R_\mathrm{Earth}$)
+    as expected from our current simulations. From single epoch observations in our mock survey of small (R < 1.5 R_Earth)
     planets orbiting within the habitable zones of their stars, we find that typical uncertainties in the estimated effective
-    temperature of the exoplanets are $\lesssim$10%, for the exoplanet radius $\lesssim$20%, and for the separation from the
-    host star $\lesssim$2%. SNR values obtained in the signal extraction process deviate less than 10% from purely photon-counting
+    temperature of the exoplanets are ≤sssim10%, for the exoplanet radius ≤sssim20%, and for the separation from the host
+    star ≤sssim2%. SNR values obtained in the signal extraction process deviate less than 10% from purely photon-counting
     statistics based SNRs. (abridged)
   lay_summary: The LIFE space mission concept aims to use mid-infrared interferometry to detect and characterize hundreds
     of exoplanets. This paper presents the mission architecture and key design trades for the space-based nulling interferometer,
@@ -1300,7 +1309,7 @@
     fundamental planet properties can be retrieved. Results. LIFE sim provides an accessible way to predict the expected S/N
     of future observations as a function of various key instrument and target parameters. The S/Ns of the extracted spectra
     are photon noise dominated, as expected from our current simulations. Signals from multi-planet systems can be reliably
-    extracted. From single-epoch observations in our mock survey of small ( R &lt; 1.5 R Earth ) planets orbiting within the
+    extracted. From single-epoch observations in our mock survey of small ( R < 1.5 R Earth ) planets orbiting within the
     habitable zones of their stars, we find that typical uncertainties in the estimated effective temperature of the exoplanets
     are ≲10%, for the exoplanet radius ≲20%, and for the separation from the host star ≲2%. Signal-to-noise-ratio values obtained
     in the signal extraction process deviate by less than 10% from purely photon-counting statistics-based S/Ns. Conclusions.
@@ -1328,19 +1337,18 @@
     scix: https://scixplorer.org/abs/2021PSJ.....2..244J/abstract
   bibcode: 2021PSJ.....2..244J
   lab_led: false
-  abstract: Abstract We investigated the hydrogen isotopic compositions and water contents of pyroxenes in two recent ordinary
-    chondrite falls, namely, Chelyabinsk (2013 fall) and Benenitra (2018 fall), and compared them to three ordinary chondrite
-    Antarctic finds, namely, Graves Nunataks GRA 06179, Larkman Nunatak LAR 12241, and Dominion Range DOM 10035. The pyroxene
-    minerals in Benenitra and Chelyabinsk are hydrated (∼0.018–0.087 wt.% H 2 O) and show D-poor isotopic signatures ( δ D
-    SMOW from −444‰ to −49‰). On the contrary, the ordinary chondrite finds exhibit evidence of terrestrial contamination
-    with elevated water contents (∼0.039–0.174 wt.%) and δ D SMOW values (from −199‰ to −14‰). We evaluated several small
-    parent-body processes that are likely to alter the measured compositions in Benenitra and Chelyabinsk and inferred that
-    water loss in S-type planetesimals is minimal during thermal metamorphism. Benenitra and Chelyabinsk hydrogen compositions
-    reflect a mixed component of D-poor nebular hydrogen and water from the D-rich mesostases. A total of 45%–95% of water
-    in the minerals characterized by low δ D SMOW values was contributed by nebular hydrogen. S-type asteroids dominantly
-    composed of nominally anhydrous minerals can hold 254–518 ppm of water. Addition of a nebular water component to nominally
-    dry inner solar system bodies during accretion suggests a reduced need of volatile delivery to the terrestrial planets
-    during late accretion.
+  abstract: We investigated the hydrogen isotopic compositions and water contents of pyroxenes in two recent ordinary chondrite
+    falls, namely, Chelyabinsk (2013 fall) and Benenitra (2018 fall), and compared them to three ordinary chondrite Antarctic
+    finds, namely, Graves Nunataks GRA 06179, Larkman Nunatak LAR 12241, and Dominion Range DOM 10035. The pyroxene minerals
+    in Benenitra and Chelyabinsk are hydrated (∼0.018–0.087 wt.% H 2 O) and show D-poor isotopic signatures ( δ D SMOW from
+    −444‰ to −49‰). On the contrary, the ordinary chondrite finds exhibit evidence of terrestrial contamination with elevated
+    water contents (∼0.039–0.174 wt.%) and δ D SMOW values (from −199‰ to −14‰). We evaluated several small parent-body processes
+    that are likely to alter the measured compositions in Benenitra and Chelyabinsk and inferred that water loss in S-type
+    planetesimals is minimal during thermal metamorphism. Benenitra and Chelyabinsk hydrogen compositions reflect a mixed
+    component of D-poor nebular hydrogen and water from the D-rich mesostases. A total of 45%–95% of water in the minerals
+    characterized by low δ D SMOW values was contributed by nebular hydrogen. S-type asteroids dominantly composed of nominally
+    anhydrous minerals can hold 254–518 ppm of water. Addition of a nebular water component to nominally dry inner solar system
+    bodies during accretion suggests a reduced need of volatile delivery to the terrestrial planets during late accretion.
   lay_summary: The water content of inner Solar System bodies constrains how our planets formed. By analyzing hydrogen isotopes
     in the recent Chelyabinsk and Benenitra meteorite falls, this study finds evidence that inner Solar System planetesimals
     accreted water-bearing minerals during formation, supporting a wetter accretion history than previously assumed.
@@ -1362,16 +1370,16 @@
   bibcode: 2021arXiv211106429T
   lab_led: false
   abstract: Planets smaller than Neptune and larger than Earth make up the majority of the discovered exoplanets. Those with
-    H$_2$-rich atmospheres are prime targets for atmospheric characterization. The transition between the two main classes,
-    super-Earths and sub-Neptunes, is not clearly understood as the rocky surface is likely not accessible to observations.
-    Tracking several trace gases (specifically the loss of ammonia (NH$_3$) and hydrogen cyanide (HCN)) has been proposed
-    as a proxy for the presence of a shallow surface. In this work, we revisit the proposed mechanism of nitrogen conversion
-    in detail and find its timescale on the order of a million years. NH$_3$ exhibits dual paths converting to N$_2$ or HCN,
-    depending on the UV radiation of the star and the stage of the system. In addition, methanol (CH$_3$OH) is identified
-    as a robust and complementary proxy for a shallow surface. We follow the fiducial example of K2-18b with a 2D photochemical
-    model (VULCAN) on an equatorial plane. We find a fairly uniform composition distribution below 0.1 mbar controlled by
-    the dayside, as a result of slow chemical evolution. NH$_3$ and CH$_3$OH are concluded to be the most unambiguous proxies
-    to infer surfaces on sub-Neptunes in the era of the James Webb Space Telescope (JWST).
+    H₂-rich atmospheres are prime targets for atmospheric characterization. The transition between the two main classes, super-Earths
+    and sub-Neptunes, is not clearly understood as the rocky surface is likely not accessible to observations. Tracking several
+    trace gases (specifically the loss of ammonia (NH₃) and hydrogen cyanide (HCN)) has been proposed as a proxy for the presence
+    of a shallow surface. In this work, we revisit the proposed mechanism of nitrogen conversion in detail and find its timescale
+    on the order of a million years. NH₃ exhibits dual paths converting to N₂ or HCN, depending on the UV radiation of the
+    star and the stage of the system. In addition, methanol (CH₃OH) is identified as a robust and complementary proxy for
+    a shallow surface. We follow the fiducial example of K2-18b with a 2D photochemical model (VULCAN) on an equatorial plane.
+    We find a fairly uniform composition distribution below 0.1 mbar controlled by the dayside, as a result of slow chemical
+    evolution. NH₃ and CH₃OH are concluded to be the most unambiguous proxies to infer surfaces on sub-Neptunes in the era
+    of the James Webb Space Telescope (JWST).
   lay_summary: Sub-Neptune exoplanets may be rocky worlds with thick atmospheres or mini gas planets, but distinguishing between
     them is difficult from mass and radius alone. This study shows that JWST spectroscopy can detect chemical signatures of
     atmosphere-surface interactions that would reveal a shallow rocky surface beneath the gas envelope.
@@ -1455,18 +1463,18 @@
     scix: https://scixplorer.org/abs/2021ApJ...919..130B/abstract
   bibcode: 2021ApJ...919..130B
   lab_led: false
-  abstract: 'Abstract The runaway greenhouse represents the ultimate climate catastrophe for rocky, Earth-like worlds: when
-    the incoming stellar flux cannot be balanced by radiation to space, the oceans evaporate and exacerbate heating, turning
-    the planet into a hot wasteland with a steam atmosphere overlying a possibly molten magma surface. The equilibrium state
-    beyond the runaway greenhouse instellation limit depends on the radiative properties of the atmosphere and its temperature
-    structure. Here, we use 1D radiative-convective models of steam atmospheres to explore the transition from the tropospheric
-    radiation limit to the post-runaway climate state. To facilitate eventual simulations with 3D global circulation models,
-    a computationally efficient band-gray model is developed, which is capable of reproducing the key features of the more
-    comprehensive calculations. We analyze two factors that determine the equilibrated surface temperature of post-runaway
-    planets. The infrared cooling of the planet is strongly enhanced by the penetration of the dry adiabat into the optically
-    thin upper regions of the atmosphere. In addition, thermal emission of both shortwave and near-IR fluxes from the hot
-    lower atmospheric layers, which can radiate through window regions of the spectrum, is quantified. Astronomical surveys
-    of rocky exoplanets in the runaway greenhouse state may discriminate these features using multiwavelength observations.'
+  abstract: 'The runaway greenhouse represents the ultimate climate catastrophe for rocky, Earth-like worlds: when the incoming
+    stellar flux cannot be balanced by radiation to space, the oceans evaporate and exacerbate heating, turning the planet
+    into a hot wasteland with a steam atmosphere overlying a possibly molten magma surface. The equilibrium state beyond the
+    runaway greenhouse instellation limit depends on the radiative properties of the atmosphere and its temperature structure.
+    Here, we use 1D radiative-convective models of steam atmospheres to explore the transition from the tropospheric radiation
+    limit to the post-runaway climate state. To facilitate eventual simulations with 3D global circulation models, a computationally
+    efficient band-gray model is developed, which is capable of reproducing the key features of the more comprehensive calculations.
+    We analyze two factors that determine the equilibrated surface temperature of post-runaway planets. The infrared cooling
+    of the planet is strongly enhanced by the penetration of the dry adiabat into the optically thin upper regions of the
+    atmosphere. In addition, thermal emission of both shortwave and near-IR fluxes from the hot lower atmospheric layers,
+    which can radiate through window regions of the spectrum, is quantified. Astronomical surveys of rocky exoplanets in the
+    runaway greenhouse state may discriminate these features using multiwavelength observations.'
   lay_summary: The runaway greenhouse effect, where oceans boil away into a thick steam atmosphere, represents the worst-case
     climate scenario for Earth-like planets. This study investigates what happens after the runaway threshold is crossed,
     modeling the transition into the post-runaway state where a planet has a steam atmosphere overlying a global magma ocean.
@@ -1588,14 +1596,13 @@
     are of prime importance to aid astronomical inferences on the environmental context and geological history of extrasolar
     planets. Here, we present a coupled numerical framework that links an evolutionary, vertically resolved model of the planetary
     silicate mantle with a radiative convective model of the atmosphere. Using this method, we investigate the early evolution
-    of idealized Earth sized rocky planets with end member, clear sky atmospheres dominated by either H<SUB>2</SUB>, H<SUB>2</SUB>O,
-    CO<SUB>2</SUB>, CH<SUB>4</SUB>, CO, O<SUB>2</SUB>, or N<SUB>2</SUB>. We find central metrics of early planetary evolution,
-    such as energy gradient, sequence of mantle solidification, surface pressure, or vertical stratification of the atmosphere,
-    to be intimately controlled by the dominant volatile and outgassing history of the planet. Thermal sequences fall into
-    three general classes with increasing cooling timescale: CO, N<SUB>2</SUB>, and O<SUB>2</SUB> with minimal effect, H<SUB>2</SUB>O,
-    CO<SUB>2</SUB>, and CH<SUB>4</SUB> with intermediate influence, and H<SUB>2</SUB> with several orders of magnitude increase
-    in solidification time and atmosphere vertical stratification. Our numerical experiments exemplify the capabilities of
-    the presented modeling framework and link the interior and atmospheric evolution of rocky exoplanets with multiwavelength
+    of idealized Earth sized rocky planets with end member, clear sky atmospheres dominated by either H₂, H₂O, CO₂, CH₄, CO,
+    O₂, or N₂. We find central metrics of early planetary evolution, such as energy gradient, sequence of mantle solidification,
+    surface pressure, or vertical stratification of the atmosphere, to be intimately controlled by the dominant volatile and
+    outgassing history of the planet. Thermal sequences fall into three general classes with increasing cooling timescale:
+    CO, N₂, and O₂ with minimal effect, H₂O, CO₂, and CH₄ with intermediate influence, and H₂ with several orders of magnitude
+    increase in solidification time and atmosphere vertical stratification. Our numerical experiments exemplify the capabilities
+    of the presented modeling framework and link the interior and atmospheric evolution of rocky exoplanets with multiwavelength
     astronomical observations.'
   lay_summary: The first atmosphere of a rocky planet forms when its molten surface releases trapped gases. We built a coupled
     model that tracks how different atmospheric gases interact with a solidifying magma ocean and control the planet's cooling
@@ -1658,20 +1665,19 @@
     scix: https://scixplorer.org/abs/2019NatAs...3..307L/abstract
   bibcode: 2019NatAs...3..307L
   lab_led: true
-  abstract: 'In contrast to the water-poor planets of the inner Solar System, stochasticity during planetary formation<SUP>1,2</SUP>
-    and order-of-magnitude deviations in exoplanet volatile contents<SUP>3</SUP> suggest that rocky worlds engulfed in thick
-    volatile ice layers<SUP>4,5</SUP> are the dominant family of terrestrial analogues<SUP>6,7</SUP> among the extrasolar
-    planet population. However, the distribution of compositionally Earth-like planets remains insufficiently constrained<SUP>3</SUP>,
-    and it is not clear whether the Solar System is a statistical outlier or can be explained by more general planetary formation
-    processes. Here we use numerical models of planet formation, evolution and interior structure to show that a planet''s
-    bulk water fraction and radius are anti-correlated with initial <SUP>26</SUP>Al levels in the planetesimal-based accretion
-    framework. The heat generated by this short-lived radionuclide rapidly dehydrates planetesimals<SUP>8</SUP> before their
-    accretion onto larger protoplanets and yields a system-wide correlation<SUP>9,10</SUP> of planetary bulk water abundances,
-    which, for instance, can explain the lack of a clear orbital trend in the water budgets of the TRAPPIST-1 planets<SUP>11</SUP>.
-    Qualitatively, our models suggest two main scenarios for the formation of planetary systems: high-<SUP>26</SUP>Al systems,
-    like our Solar System, form small, water-depleted planets, whereas those devoid of <SUP>26</SUP>Al predominantly form
-    ocean worlds. For planets of similar mass, the mean planetary transit radii of the ocean planet population can be up to
-    about 10% larger than for planets from the <SUP>26</SUP>Al-rich formation scenario.'
+  abstract: 'In contrast to the water-poor planets of the inner Solar System, stochasticity during planetary formation¹,²
+    and order-of-magnitude deviations in exoplanet volatile contents³ suggest that rocky worlds engulfed in thick volatile
+    ice layers⁴,⁵ are the dominant family of terrestrial analogues⁶,⁷ among the extrasolar planet population. However, the
+    distribution of compositionally Earth-like planets remains insufficiently constrained³, and it is not clear whether the
+    Solar System is a statistical outlier or can be explained by more general planetary formation processes. Here we use numerical
+    models of planet formation, evolution and interior structure to show that a planet''s bulk water fraction and radius are
+    anti-correlated with initial ²⁶Al levels in the planetesimal-based accretion framework. The heat generated by this short-lived
+    radionuclide rapidly dehydrates planetesimals⁸ before their accretion onto larger protoplanets and yields a system-wide
+    correlation⁹,¹⁰ of planetary bulk water abundances, which, for instance, can explain the lack of a clear orbital trend
+    in the water budgets of the TRAPPIST-1 planets¹¹. Qualitatively, our models suggest two main scenarios for the formation
+    of planetary systems: high-²⁶Al systems, like our Solar System, form small, water-depleted planets, whereas those devoid
+    of ²⁶Al predominantly form ocean worlds. For planets of similar mass, the mean planetary transit radii of the ocean planet
+    population can be up to about 10% larger than for planets from the ²⁶Al-rich formation scenario.'
   lay_summary: Radioactive aluminum-26, inherited from a nearby supernova, heated the Solar System's earliest rocky bodies
     and drove off their water before they could grow into planets. We show that planetary systems rich in aluminum-26, like
     ours, preferentially form dry, rocky worlds, while systems without it form water-rich ocean planets. This mechanism can
@@ -1701,21 +1707,21 @@
   bibcode: 2019E&PSL.507..154L
   lab_led: true
   abstract: Rocky planetesimals in the early solar system melted internally and evolved chemically due to radiogenic heating
-    from <SUP>26</SUP>Al. Here we quantify the parametric controls on magma genesis and transport using a coupled petrological
-    and fluid mechanical model of reactive two-phase flow. We find the mean grain size of silicate minerals to be a key control
-    on magma ascent. For grain sizes ≳1 mm, melt segregation produces distinct radial structure and chemical stratification.
-    This stratification is most pronounced for bodies formed at around 1 Myr after formation of Ca, Al-rich inclusions. These
-    findings suggest a link between the time and orbital location of planetesimal formation and their subsequent structural
-    and chemical evolution. According to our models, the evolution of partially molten planetesimal interiors falls into two
-    categories. In the magma ocean scenario, the whole interior of a planetesimal experiences nearly complete melting, which
-    would result in turbulent convection and core-mantle differentiation by the rainfall mechanism. In the magma sill scenario,
-    segregating melts gradually deplete the deep interior of the radiogenic heat source. In this case, magma may form melt-rich
-    layers beneath a cool and stable lid, while core formation would proceed by percolation. Our findings suggest that grain
-    sizes prevalent during the internal heating stage governed magma ascent in planetesimals. Regardless of whether evolution
-    progresses toward a magma ocean or magma sill structure, our models predict that temperature inversions due to rapid <SUP>26</SUP>Al
-    redistribution are limited to bodies formed earlier than ≈1 Myr after CAIs. We find that if grain size was ≲1 mm during
-    peak internal melting, only elevated solid-melt density contrasts (such as found for the reducing conditions in enstatite
-    chondrite compositions) would allow substantial melt segregation to occur.
+    from ²⁶Al. Here we quantify the parametric controls on magma genesis and transport using a coupled petrological and fluid
+    mechanical model of reactive two-phase flow. We find the mean grain size of silicate minerals to be a key control on magma
+    ascent. For grain sizes ≳1 mm, melt segregation produces distinct radial structure and chemical stratification. This stratification
+    is most pronounced for bodies formed at around 1 Myr after formation of Ca, Al-rich inclusions. These findings suggest
+    a link between the time and orbital location of planetesimal formation and their subsequent structural and chemical evolution.
+    According to our models, the evolution of partially molten planetesimal interiors falls into two categories. In the magma
+    ocean scenario, the whole interior of a planetesimal experiences nearly complete melting, which would result in turbulent
+    convection and core-mantle differentiation by the rainfall mechanism. In the magma sill scenario, segregating melts gradually
+    deplete the deep interior of the radiogenic heat source. In this case, magma may form melt-rich layers beneath a cool
+    and stable lid, while core formation would proceed by percolation. Our findings suggest that grain sizes prevalent during
+    the internal heating stage governed magma ascent in planetesimals. Regardless of whether evolution progresses toward a
+    magma ocean or magma sill structure, our models predict that temperature inversions due to rapid ²⁶Al redistribution are
+    limited to bodies formed earlier than ≈1 Myr after CAIs. We find that if grain size was ≲1 mm during peak internal melting,
+    only elevated solid-melt density contrasts (such as found for the reducing conditions in enstatite chondrite compositions)
+    would allow substantial melt segregation to occur.
   lay_summary: 'The earliest rocky bodies in the Solar System melted from the inside out due to radioactive heating, but it
     has been unclear how magma moved through their interiors. We find that the grain size of silicate minerals is the critical
     factor: coarse-grained material lets magma segregate and create chemically layered structures, while fine-grained material
@@ -1781,18 +1787,17 @@
     scix: https://scixplorer.org/abs/2018E%26PSL.482..490H/abstract
   bibcode: 2018E&PSL.482..490H
   lab_led: false
-  abstract: The short-lived $^{182}$Hf-$^{182}$W decay system is a powerful chronometer for constraining the timing of metal-silicate
+  abstract: The short-lived ¹⁸²Hf-¹⁸²W decay system is a powerful chronometer for constraining the timing of metal-silicate
     separation and core formation in planetesimals and planets. Neutron capture effects on W isotopes, however, significantly
     hamper the application of this tool. In order to correct for neutron capture effects, Pt isotopes have emerged as a reliable
     in-situ neutron dosimeter. This study applies this method to IAB iron meteorites, in order to constrain the timing of
-    metal segregation on the IAB parent body. The $ε^{182}$W values obtained for the IAB iron meteorites range from -3.61
-    $\pm$ 0.10 to -2.73 $\pm$ 0.09. Correlating $ε^{\mathrm{i}}$Pt with $^{182}$W data yields a pre-neutron capture $^{182}$W
-    of -2.90 $\pm$ 0.06. This corresponds to a metal-silicate separation age of 6.0 $\pm$ 0.8 Ma after CAI for the IAB parent
-    body, and is interpreted to represent a body-wide melting event. Later, between 10 and 14 Ma after CAI, an impact led
-    to a catastrophic break-up and subsequent reassembly of the parent body. Thermal models of the interior evolution that
-    are consistent with these estimates suggest that the IAB parent body underwent metal-silicate separation as a result of
-    internal heating by short-lived radionuclides and accreted at around 1.4 $\pm$ 0.1 Ma after CAIs with a radius of greater
-    than 60 km.
+    metal segregation on the IAB parent body. The ε¹⁸²W values obtained for the IAB iron meteorites range from -3.61 ± 0.10
+    to -2.73 ± 0.09. Correlating εiPt with ¹⁸²W data yields a pre-neutron capture ¹⁸²W of -2.90 ± 0.06. This corresponds to
+    a metal-silicate separation age of 6.0 ± 0.8 Ma after CAI for the IAB parent body, and is interpreted to represent a body-wide
+    melting event. Later, between 10 and 14 Ma after CAI, an impact led to a catastrophic break-up and subsequent reassembly
+    of the parent body. Thermal models of the interior evolution that are consistent with these estimates suggest that the
+    IAB parent body underwent metal-silicate separation as a result of internal heating by short-lived radionuclides and accreted
+    at around 1.4 ± 0.1 Ma after CAIs with a radius of greater than 60 km.
   lay_summary: The IAB iron meteorites record an unusual history of partial melting and metal-silicate separation in their
     parent asteroid. Using tungsten and platinum isotope measurements combined with thermal modeling, this study constrains
     the timing and conditions of core formation in this body, shedding light on early Solar System planetesimal evolution.
@@ -1889,20 +1894,20 @@
     scix: https://scixplorer.org/abs/2016MNRAS.462.3979L
   bibcode: 2016MNRAS.462.3979L
   lab_led: true
-  abstract: Heating by short-lived radioisotopes (SLRs) such as <SUP>26</SUP>Al and <SUP>60</SUP>Fe fundamentally shaped the
-    thermal history and interior structure of Solar system planetesimals during the early stages of planetary formation. The
-    subsequent thermo-mechanical evolution, such as internal differentiation or rapid volatile degassing, yields important
-    implications for the final structure, composition and evolution of terrestrial planets. SLR-driven heating in the Solar
-    system is sensitive to the absolute abundance and homogeneity of SLRs within the protoplanetary disc present during the
-    condensation of the first solids. In order to explain the diverse compositions found for extrasolar planets, it is important
-    to understand the distribution of SLRs in active planet formation regions (star clusters) during their first few Myr of
-    evolution. By constraining the range of possible effects, we show how the imprint of SLRs can be extrapolated to exoplanetary
-    systems and derive statistical predictions for the distribution of <SUP>26</SUP>Al and <SUP>60</SUP>Fe based on N-body
-    simulations of typical to large clusters (10<SUP>3</SUP>-10<SUP>4</SUP> stars) with a range of initial conditions. We
-    quantify the pollution of protoplanetary discs by supernova ejecta and show that the likelihood of enrichment levels similar
-    to or higher than the Solar system can vary considerably, depending on the cluster morphology. Furthermore, many enriched
-    systems show an excess in radiogenic heating compared to Solar system levels, which implies that the formation and evolution
-    of planetesimals could vary significantly depending on the birth environment of their host stars.
+  abstract: Heating by short-lived radioisotopes (SLRs) such as ²⁶Al and ⁶⁰Fe fundamentally shaped the thermal history and
+    interior structure of Solar system planetesimals during the early stages of planetary formation. The subsequent thermo-mechanical
+    evolution, such as internal differentiation or rapid volatile degassing, yields important implications for the final structure,
+    composition and evolution of terrestrial planets. SLR-driven heating in the Solar system is sensitive to the absolute
+    abundance and homogeneity of SLRs within the protoplanetary disc present during the condensation of the first solids.
+    In order to explain the diverse compositions found for extrasolar planets, it is important to understand the distribution
+    of SLRs in active planet formation regions (star clusters) during their first few Myr of evolution. By constraining the
+    range of possible effects, we show how the imprint of SLRs can be extrapolated to exoplanetary systems and derive statistical
+    predictions for the distribution of ²⁶Al and ⁶⁰Fe based on N-body simulations of typical to large clusters (10³-10⁴ stars)
+    with a range of initial conditions. We quantify the pollution of protoplanetary discs by supernova ejecta and show that
+    the likelihood of enrichment levels similar to or higher than the Solar system can vary considerably, depending on the
+    cluster morphology. Furthermore, many enriched systems show an excess in radiogenic heating compared to Solar system levels,
+    which implies that the formation and evolution of planetesimals could vary significantly depending on the birth environment
+    of their host stars.
   lay_summary: Short-lived radioactive isotopes like aluminum-26 heated the building blocks of our Solar System and drove
     their internal evolution, but it is unclear how common such enrichment is elsewhere. We simulated the dispersal of supernova
     ejecta through young star clusters and found that the likelihood of Solar-System-level enrichment varies widely depending
@@ -1934,18 +1939,18 @@
   abstract: The thermal history and internal structure of chondritic planetesimals, assembled before the giant impact phase
     of chaotic growth, potentially yield important implications for the final composition and evolution of terrestrial planets.
     These parameters critically depend on the internal balance of heating versus cooling, which is mostly determined by the
-    presence of short-lived radionuclides (SLRs), such as <SUP>26</SUP>Al and <SUP>60</SUP>Fe, as well as the heat conductivity
-    of the material. The heating by SLRs depends on their initial abundances, the formation time of the planetesimal and its
-    size. It has been argued that the cooling history is determined by the porosity of the granular material, which undergoes
-    dramatic changes via compaction processes and tends to decrease with time. In this study we assess the influence of these
-    parameters on the thermo-mechanical evolution of young planetesimals with both 2D and 3D simulations. Using the code family
-    I2ELVIS/I3ELVIS we have run numerous 2D and 3D numerical finite-difference fluid dynamic models with varying planetesimal
-    radius, formation time and initial porosity. Our results indicate that powdery materials lowered the threshold for melting
-    and convection in planetesimals, depending on the amount of SLRs present. A subset of planetesimals retained a powdery
-    surface layer which lowered the thermal conductivity and hindered cooling. The effect of initial porosity was small, however,
-    compared to those of planetesimal size and formation time, which dominated the thermo-mechanical evolution and were the
-    primary factors for the onset of melting and differentiation. We comment on the implications of this work concerning the
-    structure and evolution of these planetesimals, as well as their behavior as possible building blocks of terrestrial planets.
+    presence of short-lived radionuclides (SLRs), such as ²⁶Al and ⁶⁰Fe, as well as the heat conductivity of the material.
+    The heating by SLRs depends on their initial abundances, the formation time of the planetesimal and its size. It has been
+    argued that the cooling history is determined by the porosity of the granular material, which undergoes dramatic changes
+    via compaction processes and tends to decrease with time. In this study we assess the influence of these parameters on
+    the thermo-mechanical evolution of young planetesimals with both 2D and 3D simulations. Using the code family I2ELVIS/I3ELVIS
+    we have run numerous 2D and 3D numerical finite-difference fluid dynamic models with varying planetesimal radius, formation
+    time and initial porosity. Our results indicate that powdery materials lowered the threshold for melting and convection
+    in planetesimals, depending on the amount of SLRs present. A subset of planetesimals retained a powdery surface layer
+    which lowered the thermal conductivity and hindered cooling. The effect of initial porosity was small, however, compared
+    to those of planetesimal size and formation time, which dominated the thermo-mechanical evolution and were the primary
+    factors for the onset of melting and differentiation. We comment on the implications of this work concerning the structure
+    and evolution of these planetesimals, as well as their behavior as possible building blocks of terrestrial planets.
   lay_summary: The porous, powdery texture of freshly formed planetesimals acts as thermal insulation, potentially trapping
     radioactive heat and promoting internal melting. We modeled how porosity and radioactive heating interact in 2D and 3D
     simulations and found that while porosity lowers the melting threshold, the size and formation time of a planetesimal
@@ -1983,20 +1988,20 @@
     instabilities using different AMR configurations. Additionally, we seek to derive general resolution criteria for global
     simulations of self-gravitating disks of variable extent. We run a grid of simulations with varying AMR settings, including
     runs with a static grid for comparison. Additionally, we study the effects of varying the disk radius. The physical settings
-    involve disks with R<SUB>disk</SUB> = 10,100 and 300 AU, with a mass of M<SUB>disk</SUB> ≈ 0.05 M<SUB>☉</SUB> and a central
-    object of subsolar mass (M<SUB>⋆</SUB> = 0.646 M<SUB>☉</SUB>). To validate our thermodynamical approach we include a set
-    of simulations with a dynamically stable profile (Q<SUB>init</SUB> = 3) and similar grid parameters. The development of
-    fragmentation and the buildup of distinct clumps in the disk is strongly dependent on the chosen AMR grid settings. By
-    combining our findings from the resolution and parameter studies we find a general lower limit criterion to be able to
-    resolve GI induced fragmentation features and distinct clumps, which induce turbulence in the disk and seed giant planet
-    formation. Irrespective of the physical extension of the disk, topologically disconnected clump features are only resolved
-    if the fragmentation-active zone of the disk is resolved with at least 100 cells. The latter corresponds to a minimum
-    requirement for all global disk setups. Our simulations illustrate the capabilities of AMR-based modeling techniques for
-    planet formation simulations and underline the importance of balanced refinement settings to reproduce fragmenting structures.
-    The clumps in our models are migrating inward and are eventually destroyed because of tidal disruptions, reflecting the
-    absence of radiative feedback from the central star, which may stabilize the clumps on larger scales. We expect that the
-    inclusion of additional physics, like a radiation transport mechanism and the formation of sink particles, will provide
-    a detailed framework to study the formation of planets via gravitational instabilities in a global disk view.
+    involve disks with Rdisk = 10,100 and 300 AU, with a mass of Mdisk ≈ 0.05 M☉ and a central object of subsolar mass (M⋆
+    = 0.646 M☉). To validate our thermodynamical approach we include a set of simulations with a dynamically stable profile
+    (Qinit = 3) and similar grid parameters. The development of fragmentation and the buildup of distinct clumps in the disk
+    is strongly dependent on the chosen AMR grid settings. By combining our findings from the resolution and parameter studies
+    we find a general lower limit criterion to be able to resolve GI induced fragmentation features and distinct clumps, which
+    induce turbulence in the disk and seed giant planet formation. Irrespective of the physical extension of the disk, topologically
+    disconnected clump features are only resolved if the fragmentation-active zone of the disk is resolved with at least 100
+    cells. The latter corresponds to a minimum requirement for all global disk setups. Our simulations illustrate the capabilities
+    of AMR-based modeling techniques for planet formation simulations and underline the importance of balanced refinement
+    settings to reproduce fragmenting structures. The clumps in our models are migrating inward and are eventually destroyed
+    because of tidal disruptions, reflecting the absence of radiative feedback from the central star, which may stabilize
+    the clumps on larger scales. We expect that the inclusion of additional physics, like a radiation transport mechanism
+    and the formation of sink particles, will provide a detailed framework to study the formation of planets via gravitational
+    instabilities in a global disk view.
   lay_summary: Giant planets might form rapidly when protoplanetary disks become gravitationally unstable and fragment into
     clumps, but capturing this process in simulations is numerically challenging. We developed a new 3D setup using adaptive
     mesh refinement to resolve the fragmentation of self-gravitating disks, identifying a minimum resolution requirement for
@@ -2056,7 +2061,7 @@
   abstract: In the last few years astronomical surveys have expanded the reach of planetary science into the realm of small
     and dense extrasolar worlds. These share a number of characteristics with the terrestrial and icy planetary objects of
     the Solar System, but keep stretching previous understanding of the known limits of planetary thermodynamics, material
-    properties, and climate regimes. Improved compositional and thermal constraints on exoplanets below ~2 Earth radii suggest
+    properties, and climate regimes. Improved compositional and thermal constraints on exoplanets below 2 Earth radii suggest
     efficient accretion of atmosphere-forming volatile elements in a fraction of planetary systems, pointing to rapid formation,
     planet-scale melting, and chemical equilibration between the core, mantle, and atmosphere of rocky and volatile-rich exoplanets.
     Meaningful interpretation of novel observational data from these worlds necessitates cross-disciplinary expansion of known
@@ -2167,19 +2172,19 @@
     scix: https://scixplorer.org/abs/2025arXiv250916798H/abstract
   bibcode: 2025arXiv250916798H
   lab_led: false
-  abstract: 'Astronomers are debating whether the plentiful "sub-Neptune" exoplanets -- worlds a bit larger than Earth but
-    smaller than Neptune -- are predominantly rocky planets, water-rich "ocean worlds," or gas-enshrouded mini-Neptunes. This
-    question is crucial because such sub-Neptune-sized planets are among the most common in our galaxy, yet we have no analog
-    in our own solar system, making them a key to understanding planet formation and diversity. It also directly impacts the
-    search for habitable worlds: larger-than-Earth planets with solid surfaces or oceans could support life, whereas gas-rich
-    mini-Neptunes likely cannot. However, distinguishing these types using only a planet''s mass and radius is very challenging,
-    because different compositions can produce similar densities, leaving a world''s nature ambiguous with current data. The
-    proposed Habitable Worlds Observatory (HWO), a future NASA flagship telescope, offers a solution. HWO could directly image
-    and spectroscopically analyze starlight reflected from 50~100 sub-Neptunes around nearby stars, aiming to reveal their
-    atmospheric compositions and potential surfaces. Using visible and near-infrared spectroscopy along with sensitive polarimetry,
-    HWO would detect atmospheric gases (such as water vapor, methane, and carbon dioxide) and search for telltale surface
-    signatures, including rock absorption features and the characteristic reflectivity patterns of oceans. By analyzing these
-    signals, we could determine whether sub-Neptunes are large rocky planets or water worlds rather than gas-dominated mini-Neptunes.
+  abstract: 'Astronomers are debating whether the plentiful "sub-Neptune" exoplanets, worlds a bit larger than Earth but smaller
+    than Neptune, are predominantly rocky planets, water-rich "ocean worlds," or gas-enshrouded mini-Neptunes. This question
+    is crucial because such sub-Neptune-sized planets are among the most common in our galaxy, yet we have no analog in our
+    own solar system, making them a key to understanding planet formation and diversity. It also directly impacts the search
+    for habitable worlds: larger-than-Earth planets with solid surfaces or oceans could support life, whereas gas-rich mini-Neptunes
+    likely cannot. However, distinguishing these types using only a planet''s mass and radius is very challenging, because
+    different compositions can produce similar densities, leaving a world''s nature ambiguous with current data. The proposed
+    Habitable Worlds Observatory (HWO), a future NASA flagship telescope, offers a solution. HWO could directly image and
+    spectroscopically analyze starlight reflected from 50 100 sub-Neptunes around nearby stars, aiming to reveal their atmospheric
+    compositions and potential surfaces. Using visible and near-infrared spectroscopy along with sensitive polarimetry, HWO
+    would detect atmospheric gases (such as water vapor, methane, and carbon dioxide) and search for telltale surface signatures,
+    including rock absorption features and the characteristic reflectivity patterns of oceans. By analyzing these signals,
+    we could determine whether sub-Neptunes are large rocky planets or water worlds rather than gas-dominated mini-Neptunes.
     Crucially, expanding the search beyond Earth-sized planets to include these abundant sub-Neptunes may uncover entirely
     new classes of potentially habitable worlds, directly advancing HWO''s mission to identify and characterize planets that
     could support life.'
@@ -2223,7 +2228,7 @@
     scix: https://scixplorer.org/abs/2024RNAAS...8..267M/abstract
   bibcode: 2024RNAAS...8..267M
   lab_led: false
-  abstract: Abstract We present the database of potential targets for the Large Interferometer For Exoplanets (LIFE), a space-based
+  abstract: We present the database of potential targets for the Large Interferometer For Exoplanets (LIFE), a space-based
     mid-infrared nulling interferometer mission proposed for the Voyage 2050 science program of the European Space Agency.
     The database features stars, their planets and disks, main astrophysical parameters, and ancillary observations. It allows
     users to create target lists based on various criteria to predict, for instance, exoplanet detection yields for the LIFE
@@ -2250,15 +2255,23 @@
     scix: https://scixplorer.org/abs/2024NatAs...8..810T/abstract
   bibcode: 2024NatAs...8..810T
   lab_led: false
-  abstract: Ultra-cool dwarf stars are abundant, long-lived, and uniquely suited to enable the atmospheric study of transiting
-    terrestrial companions with JWST. Amongst them, the most prominent is the M8.5V star TRAPPIST-1 and its seven planets.
-    While JWST Cycle 1 observations have started to yield preliminary insights into the planets, they have also revealed that
-    their atmospheric exploration requires a better understanding of their host star. Here, we propose a roadmap to characterize
-    the TRAPPIST-1 system -- and others like it -- in an efficient and robust manner. We notably recommend that -- although
-    more challenging to schedule -- multi-transit windows be prioritized to mitigate the effects of stellar activity and gather
-    up to twice more transits per JWST hour spent. We conclude that, for such systems, planets cannot be studied in isolation
-    by small programs, but rather need large-scale, jointly space- and ground-based initiatives to fully exploit the capabilities
-    of JWST for the exploration of terrestrial planets.
+  abstract: 'Abstract Antarctic and Southern Ocean science is vital to understanding natural variability, the processes that
+    govern global change and the role of humans in the Earth and climate system. The potential for new knowledge to be gained
+    from future Antarctic science is substantial. Therefore, the international Antarctic community came together to ‘scan
+    the horizon’ to identify the highest priority scientific questions that researchers should aspire to answer in the next
+    two decades and beyond. Wide consultation was a fundamental principle for the development of a collective, international
+    view of the most important future directions in Antarctic science. From the many possibilities, the horizon scan identified
+    80 key scientific questions through structured debate, discussion, revision and voting. Questions were clustered into
+    seven topics: i) Antarctic atmosphere and global connections, ii) Southern Ocean and sea ice in a warming world, iii)
+    ice sheet and sea level, iv) the dynamic Earth, v) life on the precipice, vi) near-Earth space and beyond, and vii) human
+    presence in Antarctica. Answering the questions identified by the horizon scan will require innovative experimental designs,
+    novel applications of technology, invention of next-generation field and laboratory approaches, and expanded observing
+    systems and networks. Unbiased, non-contaminating procedures will be required to retrieve the requisite air, biota, sediment,
+    rock, ice and water samples. Sustained year-round access to Antarctica and the Southern Ocean will be essential to increase
+    winter-time measurements. Improved models are needed that represent Antarctica and the Southern Ocean in the Earth System,
+    and provide predictions at spatial and temporal resolutions useful for decision making. A co-ordinated portfolio of cross-disciplinary
+    science, based on new models of international collaboration, will be essential as no scientist, programme or nation can
+    realize these aspirations alone.'
   lay_summary: The TRAPPIST-1 system, with seven rocky planets orbiting an ultra-cool dwarf star, is a prime target for atmospheric
     characterization with JWST. This community paper lays out a systematic observing strategy for studying these planets'
     atmospheres, from initial detection to detailed composition measurements.
@@ -2339,7 +2352,7 @@
     scix: https://scixplorer.org/abs/2021arXiv210404824T/abstract
   bibcode: 2021arXiv210404824T
   lab_led: false
-  abstract: Ariel, the Atmospheric Remote-sensing Infrared Exoplanet Large-survey, was adopted as the fourth medium-class
+  abstract: <p>Ariel, the Atmospheric Remote-sensing Infrared Exoplanet Large-survey, was adopted as the fourth medium-class
     mission in ESA's Cosmic Vision programme to be launched in 2029. During its 4-year mission, Ariel will study what exoplanets
     are made of, how they formed and how they evolve, by surveying a diverse sample of about 1000 extrasolar planets, simultaneously
     in visible and infrared wavelengths. It is the first mission dedicated to measuring the chemical composition and thermal
@@ -2350,7 +2363,10 @@
     radiators; the detectors for the AIRS are the only items that require active cooling via an active Ne JT cooler. The Ariel
     payload is developed by a consortium of more than 50 institutes from 16 ESA countries, which include the UK, France, Italy,
     Belgium, Poland, Spain, Austria, Denmark, Ireland, Portugal, Czech Republic, Hungary, the Netherlands, Sweden, Norway,
-    Estonia, and a NASA contribution.
+    Estonia, and a NASA contribution.</p> <p>This presentation provides an overall summary of the science and instrument design
+    for Ariel and presents the many activities that the Ariel team have planned to engage the science community at large and
+    the public prior to launch. These include the Ariel Dry-Run program and citizen-science programs such as ExoClock and
+    the Ariel Data Challenges.</p>
   lay_summary: Ariel is an ESA medium-class space mission launching in 2029 to survey the atmospheres of roughly 1000 exoplanets
     from gas giants to rocky worlds. By measuring atmospheric compositions across a diverse sample, Ariel will reveal how
     exoplanets form, evolve, and whether their chemistries relate to their host star environments.
@@ -2406,8 +2422,20 @@
     scix: https://scixplorer.org/abs/2019BAAS...51c.271L/abstract
   bibcode: 2019BAAS...51c.271L
   lab_led: false
-  abstract: The primary objective of this white paper is to illustrate the importance of the thermal infrared in characterizing
-    terrestrial planets leveraging our experience in characterizing extra-solar jovian worlds.
+  abstract: 'Abstract. Secondary organic aerosol (SOA) accounts for a significant fraction of ambient tropospheric aerosol
+    and a detailed knowledge of the formation, properties and transformation of SOA is therefore required to evaluate its
+    impact on atmospheric processes, climate and human health. The chemical and physical processes associated with SOA formation
+    are complex and varied, and, despite considerable progress in recent years, a quantitative and predictive understanding
+    of SOA formation does not exist and therefore represents a major research challenge in atmospheric science. This review
+    begins with an update on the current state of knowledge on the global SOA budget and is followed by an overview of the
+    atmospheric degradation mechanisms for SOA precursors, gas-particle partitioning theory and the analytical techniques
+    used to determine the chemical composition of SOA. A survey of recent laboratory, field and modeling studies is also presented.
+    The following topical and emerging issues are highlighted and discussed in detail: molecular characterization of biogenic
+    SOA constituents, condensed phase reactions and oligomerization, the interaction of atmospheric organic components with
+    sulfuric acid, the chemical and photochemical processing of organics in the atmospheric aqueous phase, aerosol formation
+    from real plant emissions, interaction of atmospheric organic components with water, thermodynamics and mixtures in atmospheric
+    models. Finally, the major challenges ahead in laboratory, field and modeling studies of SOA are discussed and recommendations
+    for future research directions are proposed.'
   lay_summary: Thermal infrared spectroscopy provides unique access to molecular features in exoplanet atmospheres that complement
     shorter-wavelength observations. This white paper argues that mid-infrared emission measurements are essential for understanding
     terrestrial exoplanet atmospheres and should be a priority for future space missions.
@@ -2461,12 +2489,24 @@
     scix: https://scixplorer.org/abs/2019BAAS...51g.230K/abstract
   bibcode: 2019BAAS...51g.230K
   lab_led: false
-  abstract: Support for early career astronomers who are just beginning to explore astronomy research is imperative to increase
-    retention of diverse practitioners in the field. Since 2010, Astrobites has played an instrumental role in engaging members
-    of the community -- particularly undergraduate and graduate students -- in research. In this white paper, the Astrobites
-    collaboration outlines our multi-faceted online education platform that both eases the transition into astronomy research
-    and promotes inclusive professional development opportunities. We additionally offer recommendations for how the astronomy
-    community can reduce barriers to entry to astronomy research in the coming decade.
+  abstract: 'As recent advancements in physics and astronomy rewrite textbooks in a very rapid pace, there is a growing need
+    in keeping abreast of the latest knowledge in these fields. Reading preprints is one of the effective ways to do this.
+    However, by having journal clubs where people can read and discuss journals together, the benefits of reading journals
+    become more prevalent. We present an investigative study of understanding the factors that affect the success of preprint
+    journal clubs in astronomy, more commonly known as Astro-ph/Astro-Coffee (hereafter called AC). A survey was disseminated
+    to understand how universities and institutions from different countries implement AC. We interviewed 9 survey respondents
+    and from their responses, and we identified four important factors that make AC successful: commitment (how the organizer
+    and attendees participate in AC), environment (how conducive and comfortable AC is conducted), content (the discussed
+    topics in AC and how they are presented), and objective [the main goal (s) of conducting AC]. These four factors are shown
+    to correlate with each other. We also present the format of our AC, an elective class which was evaluated during the Spring
+    semester 2020 (March 2020-June 2020). Our evaluation with the attendees showed that enrollees (those who are enrolled
+    and are required to present papers regularly) tend to be more committed in attending compared to audiences (those who
+    are not enrolled and are not required to present papers regularly). In addition, participants tend to find papers outside
+    their research field harder to read, which makes introducing and explaining basic knowledge without the assumption of
+    the audience already knowing the topic very important. Finally, we showed an improvement in the weekly number of papers
+    read after attending AC of those who present papers regularly, and a high satisfaction rating of our AC. We summarize
+    the areas of improvement in our AC implementation, and we encourage other institutions to evaluate their own AC in accordance
+    with the four aforementioned factors to assess the effectiveness of their AC in reaching their goals.'
   lay_summary: Astrobites is a graduate-student-run platform that publishes daily summaries of astrophysics research papers
     in accessible language. This paper describes how Astrobites serves as a model for community-led science communication
     and education, supporting early-career astronomers and broadening access to the scientific literature.
@@ -2493,12 +2533,12 @@
     able to characterise exoplanets. There is particular demand for accurate models in the context of so-called lava worlds:
     planets with molten interiors (or `magma oceans''). AGNI is a Julia program designed to solve for the temperature and
     radiation environment within the atmospheres of rocky (exo)planets. It leverages a well established FORTRAN code to calculate
-    radiative fluxes from a given atmospheric temperature structure and composition, which -- alongside representations of
-    convection and other processes -- enables an energy-conserving numerical solution for the atmospheric conditions. In contrast
-    to most other numerical atmosphere models, AGNI uses a Newton-Raphson optimisation method to obtain its solution, which
-    enables improved performance and scalability. Our model was specifically developed for use alongside planetary interior
-    models within a coupled simulation framework. However, it can also be applied to scientific problems standalone when used
-    as an executable program; it reads TOML configuration files and outputs figures and NetCDF datasets. AGNI can also function
+    radiative fluxes from a given atmospheric temperature structure and composition, which, alongside representations of convection
+    and other processes, enables an energy-conserving numerical solution for the atmospheric conditions. In contrast to most
+    other numerical atmosphere models, AGNI uses a Newton-Raphson optimisation method to obtain its solution, which enables
+    improved performance and scalability. Our model was specifically developed for use alongside planetary interior models
+    within a coupled simulation framework. However, it can also be applied to scientific problems standalone when used as
+    an executable program; it reads TOML configuration files and outputs figures and NetCDF datasets. AGNI can also function
     as a software library; it is used in this sense within the Jupyter notebook tutorials of our GitHub repository (https://nichollsh.github.io/AGNI/dev/)'
   lay_summary: Modeling the atmospheres of rocky exoplanets requires accurate calculations of how radiation and convection
     transport energy, especially for planets with molten surfaces. AGNI is an open-source atmospheric model purpose-built
@@ -2535,7 +2575,7 @@
 - slug: harrison-nicholls-nd-what
   section: theses
   subsection: null
-  year: null
+  year: 2026
   authors_md: '**Harrison Nicholls**'
   title: What happened to rocky planets? An atmosphere-interior perspective from numerical modelling
   venue_md: DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised
@@ -2545,9 +2585,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis investigates the evolution and observable properties of rocky exoplanets using coupled atmosphere-interior
-    numerical models. It examines how geological and atmospheric processes interact to shape the appearance of terrestrial
-    worlds at different evolutionary stages.
+  lay_summary: This DPhil thesis used coupled atmosphere-interior numerical models to investigate the evolution and observable
+    properties of rocky exoplanets. It examined how interactions between magma oceans and overlying atmospheres shape the
+    thermal evolution, volatile cycling, and spectral signatures of terrestrial worlds across different evolutionary stages.
   lay_summary_draft: null
   _raw: '**Harrison Nicholls**, [*What happened to rocky planets? An atmosphere-interior perspective from numerical modelling*.](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca)
     DPhil thesis. Department of Physics, University of Oxford, United Kingdom (01/2026), co-supervised. [pdf](https://ora.ox.ac.uk/objects/uuid:5d774060-7718-48ad-9134-cffb9d515cca/files/d9p290b127)'
@@ -2563,12 +2603,31 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis explores the geochemical evolution of magma oceans on super-Earths and sub-Neptunes. It investigates
-    how chemical reactions between molten rock and overlying atmospheres shape the composition and observable properties of
-    these common exoplanet types.
+  lay_summary: This MSc thesis modelled the chemical equilibrium between atmospheres, mantles, and metal cores of magma ocean
+    exoplanets. It found that SiO and H2O enrichment in equilibrated atmospheres may help distinguish magma ocean planets
+    from those with hydrogen-dominated envelopes, while CO and CO2 abundances trace the interior temperature.
   lay_summary_draft: null
   _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc.
     thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
+- slug: marielle-wortelboer-2025-efficiency
+  section: theses
+  subsection: null
+  year: 2025
+  authors_md: '**Mariëlle Wortelboer**'
+  title: The Efficiency of Single-mode Fibers for Spatial Filtering as Part of the Optical Design for the Large Interferometer
+    For Exoplanets
+  venue_md: MSc thesis. Kapteyn Astronomical Institute, University of Groningen (08/2025), co-supervised.
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: false
+  abstract: null
+  lay_summary: This MSc thesis investigated the performance of single-mode optical fibers for spatial filtering in the planned
+    LIFE space interferometer. Simulations showed that a single fiber cannot cover the full 4.5 to 18 micron wavelength range
+    efficiently, requiring at least two fibers with a bandpass split near 9.1 microns and wavefront errors below 0.2 microns
+    for acceptable coupling.
+  lay_summary_draft: null
+  _raw: null
 - slug: karen-stuitje-2025-cosmic
   section: theses
   subsection: null
@@ -2581,9 +2640,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models the surfaces and atmospheres of rocky exoplanets orbiting M-dwarf stars near the boundary
-    where planets transition from having atmospheres to being bare rocks. It examines what controls whether a rocky planet
-    can retain an atmosphere under intense stellar irradiation.
+  lay_summary: This BSc thesis used the AGNI radiative-convective model to characterize four M-star rocky exoplanets (GJ 486b,
+    GJ 367b, TRAPPIST-1b, TRAPPIST-1c) from JWST mid-infrared observations. Bayesian model selection was applied to distinguish
+    bare-rock surfaces from atmosphere scenarios, finding that heat redistribution and observational degeneracies complicate
+    definitive atmosphere detection.
   lay_summary_draft: null
   _raw: '**Karen Stuitje**, *The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets*.
     B.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
@@ -2599,9 +2659,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis develops and applies the Zalmoxis interior structure code to model the internal composition and
-    physical properties of rocky exoplanets. It investigates how different mineral assemblages and thermal states affect planetary
-    radii and densities.
+  lay_summary: This BSc thesis developed and extended Zalmoxis, an open-source interior structure code for rocky exoplanets,
+    and integrated it into the PROTEUS coupled atmosphere-interior framework. Simulations of fully molten rocky planets across
+    the 1 to 7 Earth-mass range revealed a mass dependence in crystallization timescales and volatile outgassing efficiency.
   lay_summary_draft: null
   _raw: '**Flavia C. Pascal**, *Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis*. B.Sc. thesis. Kapteyn
     Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
@@ -2618,9 +2678,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis investigates how tidal heating from a host star can sustain magma oceans on early Earth-like planets
-    under secondary (outgassed) atmospheres. It explores the implications of prolonged magma ocean phases for prebiotic chemistry
-    and the production of life's building blocks.
+  lay_summary: This BSc thesis investigated whether tidal heating from the early Moon could have prolonged Earth's magma ocean
+    phase and sustained quasi-steady thermal states conducive to prebiotic chemistry. Using coupled interior-atmosphere simulations
+    with PROTEUS, it found that tidal heating can extend magma ocean lifetimes from 30 to 500 million years, with implications
+    for the production of life's building blocks.
   lay_summary_draft: null
   _raw: '**Marijn R. van Dijk**, *Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the
     Production of Life''s Building Blocks*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands
@@ -2637,8 +2698,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models how long it takes for surface oceans to form on Earth-like exoplanets after the solidification
-    of a magma ocean. It investigates how ocean composition varies with planetary properties and atmospheric conditions.
+  lay_summary: This BSc thesis modelled the timescale and conditions for surface ocean formation on Earth-like exoplanets
+    after magma ocean solidification. It investigated how planetary properties and atmospheric conditions influence when liquid
+    water can first accumulate on the surface and what composition those early oceans would have.
   lay_summary_draft: null
   _raw: '**Marguerite (Anvel) de Sainte Marie d''Agneaux**, *Timescale of ocean formation and their composition on Earth-like
     exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2025).'
@@ -2654,9 +2716,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis studies the chemical species present in the thin rock-vapor atmospheres of extremely hot lava exoplanets.
-    It investigates which vaporized mineral components are most abundant and potentially detectable with current and future
-    telescopes.
+  lay_summary: This BSc thesis modelled volatile-depleted rock-vapour species in lava exoplanet atmospheres using the VapoRock
+    code across a range of compositions, iron contents, and oxidation states. It identified SiO and SiO2 as tracers of the
+    mantle redox state, Cr, Fe, and Na as indicators of reducing conditions, and highlighted CrO2 and CrO3 as markers of highly
+    oxidized environments.
   lay_summary_draft: null
   _raw: '**Björn Koops**, *Rock-vapour species in lava exoplanet atmospheres*. B.Sc. thesis. Kapteyn Astronomical Institute,
     University of Groningen, The Netherlands (07/2024).'
@@ -2672,9 +2735,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis examines how the oxidation state of a planet's mantle and atmosphere affects the threshold for
-    the runaway greenhouse effect. It investigates whether more oxidized or reduced planetary surfaces lead to different climate
-    outcomes.
+  lay_summary: This BSc thesis examined how the oxidation state of a rocky planet's mantle and atmosphere influences the threshold
+    for the runaway greenhouse effect. It used radiative-convective models to test whether more oxidized or reduced atmospheric
+    compositions shift the critical radiation limit at which oceans are lost.
   lay_summary_draft: null
   _raw: '**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute,
     University of Groningen, The Netherlands (07/2024).'
@@ -2690,9 +2753,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis investigates the population of exoplanets in the size gap between super-Earths and sub-Neptunes
-    that have lower-than-expected densities. It examines what internal structures and compositions could explain these under-dense
-    planets.
+  lay_summary: This BSc thesis investigated the population of exoplanets between super-Earths and sub-Neptunes that have lower
+    densities than expected for purely rocky compositions. It explored what internal structures, volatile inventories, and
+    atmospheric envelopes could explain these under-dense planets.
   lay_summary_draft: null
   _raw: '**Jessica Helmerhorst**, *The under-dense region between super-Earths and sub-Neptunes*. B.Sc. thesis. Kapteyn Astronomical
     Institute, University of Groningen, The Netherlands (07/2024).'
@@ -2708,8 +2771,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models the magma ocean dynamics of the ultra-short-period exoplanet GJ 367 b, one of the densest
-    known rocky planets. It investigates the thermal and compositional evolution of its permanent dayside lava ocean.
+  lay_summary: This MSc thesis simulated the long-term geodynamical evolution of ultra-short-period exoplanet GJ 367b, one
+    of the densest known rocky planets. It found that the planet develops a 20 to 100 km deep dayside magma ocean and a 300
+    km thick nightside lithosphere, with the evolution depending strongly on whether the planet started hot or cold.
   lay_summary_draft: null
   _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of
     Groningen, The Netherlands (06/2024).'
@@ -2725,8 +2789,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis investigates how volcanic outgassing affects the climates of hot terrestrial exoplanets. It models
-    the feedback between interior volcanism and atmospheric composition on tidally locked rocky worlds.
+  lay_summary: This BSc thesis modelled the atmospheric spectra of volcanically active terrestrial exoplanets to determine
+    whether different geological states can be distinguished remotely. It found that CO2, SO2, H2O, and NH3 absorption features
+    in the 5 to 30 micron range are the primary discriminants, and that planets orbiting Sun-like stars produce more distinct
+    spectral signatures than those around M-dwarfs.
   lay_summary_draft: null
   _raw: '**Marijn Smorenburg**, *Volcanic climate change on hot terrestrial exoplanets*. B.Sc. thesis. Kapteyn Astronomical
     Institute, University of Groningen, The Netherlands (07/2023).'
@@ -2742,9 +2808,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis explores methods for identifying surface features on rocky exoplanets from remote observations.
-    It investigates whether surface composition differences, such as between rock types, could be detected with future telescope
-    measurements.
+  lay_summary: This BSc thesis assessed the feasibility of distinguishing surface compositions on rocky exoplanets using the
+    planned LIFE space interferometer. Using LIFEsim simulations, it found that surface spectra may be distinguishable out
+    to 4 to 5 parsecs, with integration time and distance being the dominant limiting factors.
   lay_summary_draft: null
   _raw: '**Lucas Priolet**, *Distinguishing surface features on rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical Institute,
     University of Groningen, The Netherlands (07/2023).'
@@ -2760,9 +2826,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis assesses the feasibility of detecting young, still-cooling protoplanets with upcoming astronomical
-    surveys. It models the thermal emission of recently formed rocky planets and estimates their detectability with next-generation
-    instruments.
+  lay_summary: This BSc thesis modelled the thermal emission from recently formed, still-cooling protoplanets to estimate
+    their detectability with next-generation astronomical surveys. It assessed which combinations of planet mass, age, and
+    distance could yield detections with upcoming infrared instruments.
   lay_summary_draft: null
   _raw: '**Lorenzo Cesario**, *Detecting Cooling Protoplanets with Next-Generation Surveys*. B.Sc. thesis. Kapteyn Astronomical
     Institute, University of Groningen, The Netherlands (07/2023).'
@@ -2778,8 +2844,10 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models how common steam atmospheres are on hot rocky exoplanets. It investigates the conditions
-    under which water vapor dominates the atmospheres of tidally locked terrestrial worlds close to their host stars.
+  lay_summary: This BSc thesis investigated how water vapor abundance affects the atmospheric structure, composition, and
+    emission spectra of hot rocky exoplanets during their magma ocean phase. It found that steam content significantly impacts
+    vertical temperature profiles, molar compositions, and emission spectra, providing insights into the conditions for habitable
+    atmosphere formation.
   lay_summary_draft: null
   _raw: '**Boyd van der Plaat**, *The prevalence of steam atmospheres on hot rocky exoplanets*. B.Sc. thesis. Kapteyn Astronomical
     Institute, University of Groningen, The Netherlands (07/2023).'
@@ -2795,9 +2863,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis studies water transport and distribution within small rocky bodies (planetesimals) during the early
-    stages of planetary system formation. It models how liquid water moves through porous rock under the influence of radiogenic
-    heating and self-gravity.
+  lay_summary: This MSc thesis modelled the transport and distribution of liquid water within planetesimals heated by radioactive
+    decay during early Solar System formation. It investigated how water percolated through porous rock under the influence
+    of radiogenic heating, self-gravity, and capillary forces, shaping the volatile budgets delivered to growing planets.
   lay_summary_draft: null
   _raw: '**Beat Hubmann**, *Hydrology of Planetesimals*. M.Sc. thesis (co-supervised). Department of Earth Sciences, ETH Zurich,
     Switzerland (09/2022).'
@@ -2813,9 +2881,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models the formation of iron cores in small rocky bodies through percolation, where molten metal
-    seeps through a solid silicate matrix. It investigates how this mechanism contributes to metal-silicate differentiation
-    in planetesimals and protoplanets during early Solar System evolution.
+  lay_summary: This BSc thesis modelled percolative core formation in planetesimals and protoplanets, where molten iron migrates
+    through a solid silicate matrix toward the center. It investigated the conditions under which this mechanism drove metal-silicate
+    differentiation during early Solar System evolution.
   lay_summary_draft: null
   _raw: '**Madeleine R. Müller**, *Percolative core formation in terrestrial planetesimals and protoplanets*. B.Sc. thesis
     (co-supervised). Department of Earth Sciences, ETH Zurich, Switzerland (06/2019).'
@@ -2832,9 +2900,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis studies the thermal evolution of rocky planets during their formation, focusing on how radioactive
-    isotope heating drives differentiation, volatile loss, and internal structure. It uses numerical models to connect early
-    thermal processing to the composition and habitability of terrestrial worlds.
+  lay_summary: This PhD thesis studied the thermal evolution of rocky planets during formation, focusing on how radioactive
+    isotope heating drives internal differentiation, volatile loss, and the transition from magma ocean to solid mantle. It
+    connected early thermal processing to the long-term composition and potential habitability of terrestrial worlds.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention*.](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd)
     Dr.sc. ETH Zurich, ETH Zurich, Switzerland (05/2018). [pdf](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/298059/LichtenbergTim_PhDThesis.pdf?sequence=1&isAllowed=y)'
@@ -2850,9 +2918,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis develops quantitative predictions for detecting giant impacts between protoplanets using astronomical
-    observations. It models the thermal signatures of post-collision magma oceans and assesses their observability with current
-    and future telescopes.
+  lay_summary: This MSc thesis developed predictions for the infrared brightness and duration of post-collision magma oceans
+    on young rocky protoplanets. It modelled the thermal afterglow of giant impacts and assessed whether next-generation telescopes
+    could directly image these events in nearby star-forming regions.
   lay_summary_draft: null
   _raw: '**Irene Bonati**, *Quantitative Predictions for the Observability of Protoplanetary Collisions*. M.Sc. thesis (co-supervised).
     Department of Earth Sciences, ETH Zurich, Switzerland (09/2017).'
@@ -2870,9 +2938,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis models gravitational instabilities in compact, massive protoplanetary disks using adaptive mesh
-    refinement techniques. It investigates how disk fragmentation can lead to the rapid formation of gas giant planets or
-    brown dwarfs.
+  lay_summary: This MSc thesis modelled gravitational instabilities in compact, massive protoplanetary disks using adaptive
+    mesh refinement techniques. It investigated the conditions under which disk fragmentation can lead to the rapid formation
+    of gas giant planets or brown dwarfs.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive
     mesh refinement techniques*.](http://dx.doi.org/10.6084/m9.figshare.1501031) M.Sc. Physics, Georg-August-Universität Göttingen,
@@ -2891,9 +2959,9 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This thesis explores how asteroseismology, the study of stellar oscillations, can be used to better characterize
-    host stars and thereby constrain the properties of their orbiting exoplanets. It connects stellar interior structure to
-    more precise determinations of planetary size and composition.
+  lay_summary: This BSc thesis explored how asteroseismology can improve the characterization of exoplanet host stars, enabling
+    more precise determinations of planetary size and composition. It connected measurements of stellar oscillation frequencies
+    to constraints on the physical properties of orbiting planets.
   lay_summary_draft: null
   _raw: '**Tim Lichtenberg**, [*Constraining Exoplanet Characteristics with Asteroseismology*.](http://dx.doi.org/10.6084/m9.figshare.1501030)
     B.Sc. Physics, Georg-August-Universität Göttingen, Germany (2012). [pdf](https://ndownloader.figshare.com/files/2198992)'

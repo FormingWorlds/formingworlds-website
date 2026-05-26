@@ -48,7 +48,7 @@
     <div class="md:flex md:gap-12">
 
       <!-- Sidebar (desktop only) -->
-      <aside class="hidden md:block sticky top-24 w-64 flex-shrink-0 self-start" style="margin-top: 10px;">
+      <aside class="hidden md:block sticky top-24 w-64 flex-shrink-0 self-start" style="margin-top: 5rem;">
         <h3 class="text-xs uppercase tracking-wider text-ink-400 mb-3">Automated lists</h3>
         <div style="display: flex; flex-direction: column; gap: 0.4rem; align-items: stretch;">
           <a href="https://ui.adsabs.harvard.edu/public-libraries/L2e3RhUYQnqmpIyMpWUG3A" target="_blank" rel="noopener" class="btn-ghost btn-sm">ADS ↗</a>
@@ -72,18 +72,38 @@
         {{ range $section := $sections }}
         {{ $entries := where $pubs "section" $section.key }}
         {{ if $entries }}
-        <h2 id="{{ $section.anchor }}" style="font-size: 1.5rem; font-weight: 700; color: var(--color-ink-0); margin-top: 3rem; margin-bottom: 1rem;">{{ $section.title }}</h2>
+        <h2 id="{{ $section.anchor }}" style="font-size: 2rem; font-weight: 700; color: var(--color-ink-0); margin-top: 5rem; margin-bottom: 1.25rem;">{{ $section.title }}</h2>
 
         {{ if $section.subsections }}
           {{ range $sub := $section.subsections }}
           {{ $subEntries := where $entries "subsection" $sub.key }}
           {{ if $subEntries }}
           <h3 id="{{ $sub.anchor }}" style="font-size: 1.25rem; font-weight: 600; color: var(--color-ink-100); margin-top: 2rem; margin-bottom: 0.75rem;">{{ $sub.title }}</h3>
-          {{ range $subEntries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels) }}{{ end }}
+          {{ if eq $sub.key "preprints" }}
+            {{ range $subEntries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels "sectionKey" $section.key) }}{{ end }}
+          {{ else }}
+            {{ $prevLabel := "" }}
+            {{ range $subEntries }}
+              {{ $yr := default 0 .year }}
+              {{ $label := cond (le $yr 2022) "≤ 2022" (string $yr) }}
+              {{ if ne $label $prevLabel }}<div class="pub-year-divider">{{ $label }}</div>{{ $prevLabel = $label }}{{ end }}
+              {{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels "sectionKey" $section.key) }}
+            {{ end }}
+          {{ end }}
           {{ end }}
           {{ end }}
         {{ else }}
-          {{ range $entries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels) }}{{ end }}
+          {{ if eq $section.key "theses" }}
+            {{ $prevLabel := "" }}
+            {{ range $entries }}
+              {{ $yr := default 0 .year }}
+              {{ $label := cond (le $yr 2022) "≤ 2022" (string $yr) }}
+              {{ if ne $label $prevLabel }}<div class="pub-year-divider">{{ $label }}</div>{{ $prevLabel = $label }}{{ end }}
+              {{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels "sectionKey" $section.key) }}
+            {{ end }}
+          {{ else }}
+            {{ range $entries }}{{ partial "publication-entry.html" (dict "entry" . "linkOrder" $linkOrder "extraOrder" $extraOrder "linkLabels" $linkLabels "sectionKey" $section.key) }}{{ end }}
+          {{ end }}
         {{ end }}
         {{ end }}
         {{ end }}
