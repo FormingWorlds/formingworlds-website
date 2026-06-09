@@ -16,8 +16,14 @@ NAMESPACE_ID="c72549669e824027a45762e9462f2262"
 VAULT_NOTE="${VAULT_NOTE:-$HOME/git/notes/Shortlinks.md}"
 TODAY="$(date +%Y-%m-%d)"
 
+# Wrangler 4 reads local KV unless --remote is passed; wrangler 3 acts on the
+# deployed namespace by default and rejects --remote. Pick the flag to match.
+WRANGLER_MAJOR=$(npx wrangler --version 2>/dev/null | grep -oE '[0-9]+' | head -1)
+REMOTE_FLAG=""
+[ "${WRANGLER_MAJOR:-0}" -ge 4 ] && REMOTE_FLAG="--remote"
+
 echo "Listing KV keys..." >&2
-KEYS=$(npx wrangler kv key list --namespace-id="$NAMESPACE_ID" --remote 2>/dev/null \
+KEYS=$(npx wrangler kv key list --namespace-id="$NAMESPACE_ID" $REMOTE_FLAG 2>/dev/null \
        | python3 -c "import json,sys; [print(k['name']) for k in sorted(json.load(sys.stdin), key=lambda x: (':' in x['name'], x['name']))]")
 
 GO_ROWS=""
@@ -27,7 +33,7 @@ IP_ROWS=""
 while IFS= read -r key; do
   [ -z "$key" ] && continue
   echo "  fetching $key..." >&2
-  value=$(npx wrangler kv key get "$key" --namespace-id="$NAMESPACE_ID" --remote 2>/dev/null)
+  value=$(npx wrangler kv key get "$key" --namespace-id="$NAMESPACE_ID" $REMOTE_FLAG 2>/dev/null)
   if [[ "$key" == tl:* ]]; then
     slug="${key#tl:}"
     TL_ROWS+="| \`$slug\` | [go.tl/$slug](https://timlichtenberg.net/$slug) | $value |"$'\n'
