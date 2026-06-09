@@ -6,7 +6,8 @@ compatibility_date = "2024-11-06"
 routes = [
   { pattern = "go.formingworlds.space", custom_domain = true },
   { pattern = "timlichtenberg.net", custom_domain = true },
-  { pattern = "www.timlichtenberg.net", custom_domain = true }
+  { pattern = "www.timlichtenberg.net", custom_domain = true },
+  { pattern = "go.interra-project.org", custom_domain = true }
 ]
 
 # KV namespace holding slug -> destination URL mappings.

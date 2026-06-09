@@ -22,6 +22,7 @@ KEYS=$(npx wrangler kv key list --namespace-id="$NAMESPACE_ID" --remote 2>/dev/n
 
 GO_ROWS=""
 TL_ROWS=""
+IP_ROWS=""
 
 while IFS= read -r key; do
   [ -z "$key" ] && continue
@@ -30,6 +31,9 @@ while IFS= read -r key; do
   if [[ "$key" == tl:* ]]; then
     slug="${key#tl:}"
     TL_ROWS+="| \`$slug\` | [go.tl/$slug](https://timlichtenberg.net/$slug) | $value |"$'\n'
+  elif [[ "$key" == ip:* ]]; then
+    slug="${key#ip:}"
+    IP_ROWS+="| \`$slug\` | [go.ip/$slug](https://go.interra-project.org/$slug) | $value |"$'\n'
   else
     GO_ROWS+="| \`$key\` | [go.fw/$key](https://go.formingworlds.space/$key) | $value |"$'\n'
   fi
@@ -60,6 +64,14 @@ Slugs prefixed \`tl:\` in KV. Unmatched slugs fall back to https://formingworlds
 | Slug | Short URL | Destination |
 |---|---|---|
 $TL_ROWS
+
+## go.interra-project.org
+
+Slugs prefixed \`ip:\` in KV. Unmatched slugs fall back to https://interra-project.org.
+
+| Slug | Short URL | Destination |
+|---|---|---|
+$IP_ROWS
 EOF
 
 echo "Wrote $VAULT_NOTE" >&2

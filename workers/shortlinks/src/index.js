@@ -2,6 +2,7 @@
 // - `go.formingworlds.space/<slug>`  -> KV[<slug>], else https://formingworlds.space
 // - `timlichtenberg.net/<slug>`      -> KV["tl:" + <slug>], else profile page
 // - `www.timlichtenberg.net/<slug>`  -> same as apex
+// - `go.interra-project.org/<slug>`  -> KV["ip:" + <slug>], else https://interra-project.org
 // Unknown host -> formingworlds.space (defensive default).
 
 const DOMAINS = {
@@ -16,6 +17,10 @@ const DOMAINS = {
   "www.timlichtenberg.net": {
     fallback: "https://formingworlds.space/team/tim-lichtenberg/",
     prefix: "tl:",
+  },
+  "go.interra-project.org": {
+    fallback: "https://interra-project.org",
+    prefix: "ip:",
   },
 };
 

@@ -1,17 +1,18 @@
 # fw-shortlinks
 
-Cloudflare Worker that serves 302 redirects on two custom domains:
+Cloudflare Worker that serves 302 redirects on several custom domains:
 
 - `https://go.formingworlds.space/<slug>` → KV[`<slug>`], else `https://formingworlds.space`
 - `https://timlichtenberg.net/<slug>` (and `www.`) → KV[`tl:<slug>`], else `https://formingworlds.space/team/tim-lichtenberg/`
+- `https://go.interra-project.org/<slug>` → KV[`ip:<slug>`], else `https://interra-project.org`
 
 The Worker branches on `request.url.hostname`, namespaces the KV lookup with a per-domain prefix, and picks a per-domain fallback URL.
 
 ## Architecture
 
 - **Worker**: `src/index.js` — reads hostname + slug, looks up `env.LINKS.get(prefix + slug)`, returns 302.
-- **KV namespace**: `LINKS`, id `c72549669e824027a45762e9462f2262`. Keys: bare `<slug>` for go.formingworlds.space, `tl:<slug>` for timlichtenberg.net.
-- **Custom domains**: `go.formingworlds.space`, `timlichtenberg.net`, `www.timlichtenberg.net` — all declared in `wrangler.toml` `routes`. Cloudflare auto-creates each DNS record and provisions TLS.
+- **KV namespace**: `LINKS`, id `c72549669e824027a45762e9462f2262`. Keys: bare `<slug>` for go.formingworlds.space, `tl:<slug>` for timlichtenberg.net, `ip:<slug>` for go.interra-project.org.
+- **Custom domains**: `go.formingworlds.space`, `timlichtenberg.net`, `www.timlichtenberg.net`, `go.interra-project.org` — all declared in `wrangler.toml` `routes`. Cloudflare auto-creates each DNS record and provisions TLS. The interra apex and `www` stay on GitHub Pages; only the `go.` subdomain is bound to this Worker.
 
 ## Authentication
 
@@ -29,7 +30,7 @@ If you prefer a non-interactive token (useful for CI or for a machine without br
 CLOUDFLARE_API_TOKEN=<token> npx wrangler <command>
 ```
 
-Required token scope: "Edit Cloudflare Workers" template, **zones**: `formingworlds.space` AND `timlichtenberg.net`. Tokens are managed at https://dash.cloudflare.com/profile/api-tokens.
+Required token scope: "Edit Cloudflare Workers" template, **zones**: `formingworlds.space`, `timlichtenberg.net`, AND `interra-project.org` (or simply "All zones from an account" for the account that owns all three). The zone resources must cover every domain the Worker binds, because attaching a custom domain is a per-zone `Workers Routes:Edit` operation; a token missing a zone deploys the script but fails to register that zone's route. Tokens are managed at https://dash.cloudflare.com/profile/api-tokens.
 
 > Wrangler 4 defaults to **local** KV for `kv key list` / `kv key get` / `kv key put`. Always pass `--remote` to act on the deployed namespace.
 
@@ -46,6 +47,12 @@ npx wrangler kv key put --binding=LINKS --remote <slug> "<target_url>"
 
 ```bash
 npx wrangler kv key put --binding=LINKS --remote "tl:<slug>" "<target_url>"
+```
+
+`go.interra-project.org` slug (prefix with `ip:`):
+
+```bash
+npx wrangler kv key put --binding=LINKS --remote "ip:<slug>" "<target_url>"
 ```
 
 KV is eventually consistent globally; new keys are live within ~60s.
