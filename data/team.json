@@ -237,6 +237,20 @@
     }
   },
   {
+    "name": "Anna Grace Ulses",
+    "slug": "anna-grace-ulses",
+    "role": "Visiting PhD Student",
+    "group": "phd",
+    "image": "/img/faces/anna-grace-ulses.webp",
+    "imagePosition": "center 25%",
+    "topics": "Exoplanet biosignatures",
+    "links": {
+      "email": "aulses@astro.rug.nl",
+      "github": "AnnaUlses",
+      "orcid": "0000-0002-9031-0824"
+    }
+  },
+  {
     "name": "Tadahiro Kimura",
     "slug": "tadahiro-kimura",
     "role": "JSPS Postdoctoral Fellow",
