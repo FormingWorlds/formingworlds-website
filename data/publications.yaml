@@ -82,12 +82,12 @@
   year: 2026
   authors_md: Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond
   title: 'Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets'
-  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2025)'
-  primary_url: https://arxiv.org/abs/2512.05816
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 549 (2026)'
+  primary_url: https://doi.org/10.1093/mnras/stag1007
   links:
-    scix: https://scixplorer.org/abs/arXiv:2512.05816
+    scix: https://scixplorer.org/abs/2025arXiv251205816C/abstract
     pdf: https://arxiv.org/pdf/2512.05816
-    doi: https://doi.org/10.48550/arxiv.2512.05816
+    doi: https://doi.org/10.1093/mnras/stag1007
   bibcode: null
   lab_led: false
   abstract: 'Sub-Neptunes are the most common type of detected exoplanet, yet their observed masses and radii are degenerate
@@ -109,7 +109,8 @@
     where rocky interiors transition from liquid to solid across the exoplanet population.
   lay_summary_draft: null
   _raw: 'Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond. [Most Rocky Sub-Neptunes are Molten: Mapping the
-    Solidification Shoreline for Gas Dwarf Exoplanets.](https://arxiv.org/abs/2512.05816) [pdf](https://arxiv.org/pdf/2512.05816)'
+    Solidification Shoreline for Gas Dwarf Exoplanets.](https://doi.org/10.1093/mnras/stag1007) *Monthly Notices of the Royal
+    Astronomical Society* 549 (2026). [pdf](https://arxiv.org/pdf/2512.05816)'
 - slug: lichtenberg-2026-coupled
   section: research
   subsection: published
@@ -201,7 +202,7 @@
   title: 'The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the mid-IR with
     LIFE'
   venue_md: '*The Astrophysical Journal* 1003, 85 (2026)'
-  primary_url: https://scixplorer.org/abs/2026arXiv260407461R/abstract
+  primary_url: https://doi.org/10.3847/1538-4357/ae5b75
   links:
     pdf: https://arxiv.org/pdf/2604.07461
     scix: https://scixplorer.org/abs/2026arXiv260407461R/abstract
@@ -228,7 +229,7 @@
   lay_summary_draft: null
   _raw: 'Rugheimer S, E Alei, BS Konrad, B Taysum, JL Grenfell, **T Lichtenberg**, D Kitzmann, F van der Tak, SP Quanz, LIFE
     collaboration. [The Goldilocks problem for detecting water in terrestrial planets: Constraining water abundances in the
-    mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal*, in press (2026).
+    mid-IR with LIFE.](https://scixplorer.org/abs/2026arXiv260407461R/abstract) *The Astrophysical Journal* 1003, 85 (2026).
     [pdf](https://arxiv.org/pdf/2604.07461)'
 - slug: nicholls-2026-volatile-rich
   section: research
