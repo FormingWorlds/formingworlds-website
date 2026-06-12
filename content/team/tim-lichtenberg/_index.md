@@ -83,6 +83,11 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 
 ### Mentored Students
 
+- Visiting PhD research project "Impact re-triggering of protoplanet magma oceans", Anna Grace Ulses (University of Washington, Seattle), Kapteyn Institute, 2026–
+- BSc thesis "Atmospheric escape on exoplanets", Malina Ovesen, Kapteyn Institute, group project with Mara Attia, 2026
+- BSc thesis "Atmospheric escape on exoplanets", Ioana Balint, Kapteyn Institute, group project with Mara Attia, 2026
+- BSc thesis "Atmospheric escape on exoplanets", Renske Beuker, Kapteyn Institute, group project with Mara Attia, 2026
+- BSc thesis "Atmospheric escape on exoplanets", Viesturs Strelcs, Kapteyn Institute, group project with Mara Attia, 2026
 - PhD thesis "Prebiotic climate and ocean levels of the Hadean Earth", Emeline Decocq, Kapteyn, 2025–
 - PhD thesis "Interior-atmosphere evolution on low-mass exoplanets", Imre Kisvárdai, Kapteyn Institute, 2025–
 - MSc thesis "Limits to the UV flux on the Hadean Earth", Bruna Fena, Kapteyn Institute, 2025–
