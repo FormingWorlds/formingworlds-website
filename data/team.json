@@ -237,6 +237,20 @@
     }
   },
   {
+    "name": "Viesturs Streļčs",
+    "slug": "viesturs-strelcs",
+    "role": "Kapteyn BSc Student",
+    "group": "student",
+    "image": "/img/faces/viesturs-strelcs.webp",
+    "imagePosition": "center 20%",
+    "topics": "Atmospheric escape",
+    "links": {
+      "email": "v.strelcs@student.rug.nl",
+      "github": "vstrelcs",
+      "linkedin": "viesturs-stre%C4%BC%C4%8Ds-a59608303"
+    }
+  },
+  {
     "name": "Anna Grace Ulses",
     "slug": "anna-grace-ulses",
     "role": "Visiting PhD Student",
