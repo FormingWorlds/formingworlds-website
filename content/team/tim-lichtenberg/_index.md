@@ -4,7 +4,7 @@ layout: single
 role: "Assistant Professor"
 institution: "Kapteyn Astronomical Institute, University of Groningen"
 image: "/img/faces/tim-lichtenberg.webp"
-email: "tim.lichtenberg@rug.nl"
+email: "tim.lichtenberg@formingworlds.space"
 github: "timlichtenberg"
 linkedin: "tim-lichtenberg"
 bluesky: "timlichtenberg.bsky.social"

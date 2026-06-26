@@ -35,12 +35,9 @@
       <!-- Connect -->
       <nav class="md:col-span-3" aria-label="Connect">
         <h2 class="text-ink-300 text-xs uppercase tracking-wider mb-4">Connect</h2>
-        <ul class="space-y-2 text-sm">
-          <li><a href="{{ .Site.Params.bluesky }}" target="_blank" rel="noopener">Bluesky ↗</a></li>
-          <li><a href="https://www.linkedin.com/in/tim-lichtenberg" target="_blank" rel="noopener">LinkedIn ↗</a></li>
-          <li><a href="https://www.youtube.com/@FormingWorldsLab" target="_blank" rel="noopener">YouTube ↗</a></li>
+        {{ partial "social-icons.html" . }}
+        <ul class="space-y-2 text-sm mt-4">
           <li><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
-          <li><a href="mailto:{{ .Site.Params.email2 }}">{{ .Site.Params.email2 }}</a></li>
         </ul>
       </nav>
     </div>

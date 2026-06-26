@@ -40,7 +40,7 @@ The application package consists of:
 You complete the application by:
 
 - Fill out the application form and upload the above-mentioned materials in one combined PDF with file name "LastName_FirstName.pdf".
-- In addition, two letters of reference (each <2 pages) should be sent by the referees themselves via email to [tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl).
+- In addition, two letters of reference (each <2 pages) should be sent by the referees themselves via email to [tim.lichtenberg@formingworlds.space](mailto:tim.lichtenberg@formingworlds.space).
 
 ### Conditions of Employment
 
@@ -56,7 +56,7 @@ The PhD position is nominally planned to start between September 2025 to January
 
 ### Contact
 
-Questions about the position or application should be sent to [tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl) and [w.van.westrenen@vu.nl](mailto:w.van.westrenen@vu.nl).
+Questions about the position or application should be sent to [tim.lichtenberg@formingworlds.space](mailto:tim.lichtenberg@formingworlds.space) and [w.van.westrenen@vu.nl](mailto:w.van.westrenen@vu.nl).
 
 ---
 

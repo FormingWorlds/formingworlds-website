@@ -34,19 +34,13 @@
         <div>
           <h3 class="text-ink-400 text-xs uppercase tracking-wider mb-2">Email</h3>
           <p class="leading-relaxed">
-            <a href="mailto:{{ .Site.Params.email }}" class="text-signal-300 hover:text-signal-400">{{ .Site.Params.email }}</a><br>
-            <a href="mailto:{{ .Site.Params.email2 }}" class="text-signal-300 hover:text-signal-400">{{ .Site.Params.email2 }}</a>
+            <a href="mailto:{{ .Site.Params.email }}" class="text-signal-300 hover:text-signal-400">{{ .Site.Params.email }}</a>
           </p>
         </div>
 
         <div>
           <h3 class="text-ink-400 text-xs uppercase tracking-wider mb-2">Connect</h3>
-          <ul class="space-y-2 text-sm">
-            <li><a href="{{ .Site.Params.github }}" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">GitHub ↗</a></li>
-            <li><a href="{{ .Site.Params.bluesky }}" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">Bluesky ↗</a></li>
-            <li><a href="https://www.youtube.com/@FormingWorldsLab" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">YouTube ↗</a></li>
-            <li><a href="https://www.linkedin.com/in/tim-lichtenberg" class="text-signal-300 hover:text-signal-400" target="_blank" rel="noopener">LinkedIn ↗</a></li>
-          </ul>
+          {{ partial "social-icons.html" . }}
         </div>
 
         <!-- UG Logo -->

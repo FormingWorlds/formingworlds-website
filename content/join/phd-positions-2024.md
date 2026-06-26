@@ -23,4 +23,4 @@ The application package consists of (all in one PDF):
 
 In addition, two letters of reference should be sent directly to vacancykapteyn@astro.rug.nl by the application deadline.
 
-Informal inquiries about the thematic direction of the positions are welcome and should be sent to [tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl).
+Informal inquiries about the thematic direction of the positions are welcome and should be sent to [tim.lichtenberg@formingworlds.space](mailto:tim.lichtenberg@formingworlds.space).

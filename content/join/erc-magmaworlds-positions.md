@@ -54,7 +54,7 @@ Apply for the PhD position: [https://www.rug.nl/research/kapteyn/vacatures/phd-p
 
 ### Contact
 
-Questions about the positions or application should be sent to [tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl).
+Questions about the positions or application should be sent to [tim.lichtenberg@formingworlds.space](mailto:tim.lichtenberg@formingworlds.space).
 
 ---
 
