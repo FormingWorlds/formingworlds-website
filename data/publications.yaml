@@ -15,47 +15,6 @@
   lay_summary: 'Earth and Venus began as molten magma oceans but ended up as very different worlds, and the computer models used to simulate that early evolution do not always agree. This study runs the first systematic comparison of several such models for both planets, finding that they predict rapid cooling for Earth but diverge widely for Venus, where a magma ocean can persist for tens of millions of years. The biggest disagreements trace to how each model handles the partitioning of volatiles such as water and carbon, atmospheric escape, mantle stiffness, and melting.'
   lay_summary_draft: null
   _raw: null
-- slug: attia-2026-paleos
-  section: research
-  subsection: published
-  year: 2026
-  authors_md: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**'
-  title: 'PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors'
-  venue_md: '*Astronomy & Astrophysics*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2605.03741
-  links:
-    scix: https://scixplorer.org/abs/arXiv:2605.03741
-    pdf: https://arxiv.org/pdf/2605.03741
-  bibcode: null
-  lab_led: true
-  abstract: 'Modeling the interior of a rocky or water-rich exoplanet is a thermodynamic closure problem: every layer''s density,
-    temperature gradient, and phase must follow from an equation of state (EoS) that remains self-consistent across the pressure-temperature
-    range from surface to core. Existing EoS span disciplines, use different formalisms, and rarely supply the full thermodynamic
-    quantities needed by evolutionary models of interior phase transitions. We present PALEOS (Planetary Assemblage Layers:
-    Equations of State), an open-source toolkit consolidating EoS for iron, magnesium silicate (MgSiO₃), and water (H₂O) into
-    a unified, phase-aware, thermally responsive framework spanning 17 phases. PALEOS derives density, energy, entropy, heat
-    capacities, thermal expansion, and the adiabatic gradient analytically via Maxwell relations, and is released as lookup
-    tables on regular P-T grids. We validate it against the Preliminary Reference Earth Model, recovering Earth''s radius
-    to 0.3% and lower-mantle densities to 3%, and compute 17,900 mass-radius relations from 0.1 to 100 M⊕ for rocky (Fe +
-    MgSiO₃) and water-rich (Earth-like core + H₂O envelope) compositions at 300-4000 K. Continuous solid-to-melt EoS let thermal
-    expansion span the fully-solid to magma-ocean regime: the radius offset exceeds 1% above 1500 K and reaches 16% at 4000
-    K for low-mass silicate planets, comparable to composition degeneracy and transit-radius uncertainties. We demonstrate
-    this on two ultrashort-period super-Earths, WASP-47 e and TOI-1807 b: each admits two purely rocky solutions indistinguishable
-    in mass and radius but in radically different states, one fully solid with no dynamo, the other hosting a deep magma ocean
-    and a liquid iron core capable of sustaining a magnetic field. Phase-aware, thermally resolved EoS are essential for translating
-    astronomical observations into exoplanetary geophysics.'
-  lay_summary: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave under
-    extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron, rock,
-    and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
-    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
-    a deep magma ocean with an active magnetic field.'
-  lay_summary_draft: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave
-    under extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron,
-    rock, and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
-    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
-    a deep magma ocean with an active magnetic field.'
-  _raw: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius
-    Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)'
 - slug: nicholls-2026-beyond
   section: research
   subsection: preprints
@@ -110,6 +69,47 @@
   lay_summary: 'This study shows that the chemistry of a rocky super-Earth''s molten interior can make its atmosphere puff back up late in the planet''s life, temporarily lowering its bulk density by as much as 60 percent. Planets with chemically reduced interiors first build carbon-rich atmospheres and later switch to hydrogen-rich ones, as gas escapes to space while fresh hydrogen is released from the magma ocean below, whereas more oxidised, Earth-like planets simply shrink over time. Measuring these density differences across many close-in super-Earths could reveal the hidden chemistry of planetary interiors and how these worlds formed.'
   lay_summary_draft: null
   _raw: null
+- slug: attia-2026-paleos
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**'
+  title: 'PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors'
+  venue_md: '*Astronomy & Astrophysics*, in press (2026)'
+  primary_url: https://arxiv.org/abs/2605.03741
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2605.03741
+    pdf: https://arxiv.org/pdf/2605.03741
+  bibcode: null
+  lab_led: true
+  abstract: 'Modeling the interior of a rocky or water-rich exoplanet is a thermodynamic closure problem: every layer''s density,
+    temperature gradient, and phase must follow from an equation of state (EoS) that remains self-consistent across the pressure-temperature
+    range from surface to core. Existing EoS span disciplines, use different formalisms, and rarely supply the full thermodynamic
+    quantities needed by evolutionary models of interior phase transitions. We present PALEOS (Planetary Assemblage Layers:
+    Equations of State), an open-source toolkit consolidating EoS for iron, magnesium silicate (MgSiO₃), and water (H₂O) into
+    a unified, phase-aware, thermally responsive framework spanning 17 phases. PALEOS derives density, energy, entropy, heat
+    capacities, thermal expansion, and the adiabatic gradient analytically via Maxwell relations, and is released as lookup
+    tables on regular P-T grids. We validate it against the Preliminary Reference Earth Model, recovering Earth''s radius
+    to 0.3% and lower-mantle densities to 3%, and compute 17,900 mass-radius relations from 0.1 to 100 M⊕ for rocky (Fe +
+    MgSiO₃) and water-rich (Earth-like core + H₂O envelope) compositions at 300-4000 K. Continuous solid-to-melt EoS let thermal
+    expansion span the fully-solid to magma-ocean regime: the radius offset exceeds 1% above 1500 K and reaches 16% at 4000
+    K for low-mass silicate planets, comparable to composition degeneracy and transit-radius uncertainties. We demonstrate
+    this on two ultrashort-period super-Earths, WASP-47 e and TOI-1807 b: each admits two purely rocky solutions indistinguishable
+    in mass and radius but in radically different states, one fully solid with no dynamo, the other hosting a deep magma ocean
+    and a liquid iron core capable of sustaining a magnetic field. Phase-aware, thermally resolved EoS are essential for translating
+    astronomical observations into exoplanetary geophysics.'
+  lay_summary: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave under
+    extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron, rock,
+    and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
+    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
+    a deep magma ocean with an active magnetic field.'
+  lay_summary_draft: 'To understand what rocky exoplanets are made of, we need accurate descriptions of how materials behave
+    under extreme pressures and temperatures. PALEOS is an open-source toolkit that provides these descriptions for iron,
+    rock, and water across 17 different material phases, from solid to fully molten. Applying it to observed exoplanets reveals
+    that two planets with identical size and mass could be in completely different states: one frozen solid, the other hosting
+    a deep magma ocean with an active magnetic field.'
+  _raw: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**. [PALEOS: Multiphase Equations of State and Mass-Radius
+    Relations for Exoplanet Interiors.](https://arxiv.org/abs/2605.03741) [pdf](https://arxiv.org/pdf/2605.03741)'
 - slug: sastre-2026-fo2-melting
   section: research
   subsection: published
