@@ -17,11 +17,11 @@
   _raw: null
 - slug: attia-2026-paleos
   section: research
-  subsection: preprints
+  subsection: published
   year: 2026
   authors_md: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**'
   title: 'PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors'
-  venue_md: null
+  venue_md: '*Astronomy & Astrophysics*, in press (2026)'
   primary_url: https://arxiv.org/abs/2605.03741
   links:
     scix: https://scixplorer.org/abs/arXiv:2605.03741
