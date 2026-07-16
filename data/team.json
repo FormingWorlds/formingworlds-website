@@ -49,21 +49,6 @@
     }
   },
   {
-    "name": "Lorenzo Cesario",
-    "slug": "lorenzo-cesario",
-    "role": "Kapteyn MSc Student",
-    "group": "student",
-    "image": "/img/faces/lorenzo-cesario.webp",
-    "imagePosition": "center 25%",
-    "topics": "Lava exoplanet observations",
-    "links": {
-      "email": "l.c.cesario@student.rug.nl",
-      "github": "lorlo9999",
-      "linkedin": "lorenzo-cesario-7b1003273",
-      "orcid": "0009-0009-7228-7809"
-    }
-  },
-  {
     "name": "Bruna Fena",
     "slug": "bruna-fena",
     "role": "Exchange MSc Student",
@@ -91,20 +76,6 @@
       "github": "maraattia",
       "bluesky": "marattia.bsky.social",
       "orcid": "0000-0002-7971-7439"
-    }
-  },
-  {
-    "name": "Ioannis Panagiotou",
-    "slug": "ioannis-panagiotou",
-    "role": "Kapteyn MSc Student",
-    "group": "student",
-    "image": "/img/faces/ioannis-panagiotou.webp",
-    "imagePosition": "center 25%",
-    "topics": "Super-Earth climate",
-    "links": {
-      "email": "i.panagiotou@student.rug.nl",
-      "github": "ipanagiotou02",
-      "orcid": "0009-0005-9147-0431"
     }
   },
   {
@@ -197,33 +168,6 @@
     }
   },
   {
-    "name": "Malina Ovesen",
-    "slug": "malina-ovesen",
-    "role": "Kapteyn BSc Student",
-    "group": "student",
-    "image": "/img/faces/malina-ovesen.webp",
-    "imagePosition": "center 25%",
-    "topics": "Atmospheric escape",
-    "links": {
-      "email": "m.l.ovesen@student.rug.nl",
-      "linkedin": "malina-ovesen-721458249"
-    }
-  },
-  {
-    "name": "Ioana Balint",
-    "slug": "ioana-balint",
-    "role": "Kapteyn BSc Student",
-    "group": "student",
-    "image": "/img/faces/ioana-balint.webp",
-    "imagePosition": "center 25%",
-    "topics": "Atmospheric escape",
-    "links": {
-      "email": "balintioananaroxana@gmail.com",
-      "github": "ioana07x",
-      "linkedin": "ioana-roxana-balint-7bb793334"
-    }
-  },
-  {
     "name": "Renske Beuker",
     "slug": "renske-beuker",
     "role": "Kapteyn BSc Student",
@@ -234,20 +178,6 @@
     "links": {
       "email": "r.w.f.beuker@student.rug.nl",
       "github": "renskewfb"
-    }
-  },
-  {
-    "name": "Viesturs Streļčs",
-    "slug": "viesturs-strelcs",
-    "role": "Kapteyn BSc Student",
-    "group": "student",
-    "image": "/img/faces/viesturs-strelcs.webp",
-    "imagePosition": "center 20%",
-    "topics": "Atmospheric escape",
-    "links": {
-      "email": "v.strelcs@student.rug.nl",
-      "github": "vstrelcs",
-      "linkedin": "viesturs-stre%C4%BC%C4%8Ds-a59608303"
     }
   },
   {
@@ -311,6 +241,51 @@
     "group": "alumni",
     "image": "/img/faces/laurent-soucasse.webp",
     "topics": "PROTEUS framework",
+    "links": {}
+  },
+  {
+    "name": "Lorenzo Cesario",
+    "slug": "lorenzo-cesario",
+    "role": "Kapteyn MSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/lorenzo-cesario.webp",
+    "topics": "Lava exoplanet observations",
+    "links": {}
+  },
+  {
+    "name": "Ioannis Panagiotou",
+    "slug": "ioannis-panagiotou",
+    "role": "Kapteyn MSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/ioannis-panagiotou.webp",
+    "topics": "Super-Earth climate",
+    "links": {}
+  },
+  {
+    "name": "Malina Ovesen",
+    "slug": "malina-ovesen",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/malina-ovesen.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
+    "name": "Ioana Balint",
+    "slug": "ioana-balint",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/ioana-balint.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
+    "name": "Viesturs Streļčs",
+    "slug": "viesturs-strelcs",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/viesturs-strelcs.webp",
+    "topics": "Atmospheric escape",
     "links": {}
   },
   {

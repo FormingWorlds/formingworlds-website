@@ -84,16 +84,16 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 ### Mentored Students
 
 - Visiting PhD research project "Impact re-triggering of protoplanet magma oceans", Anna Grace Ulses (University of Washington, Seattle), Kapteyn Institute, 2026–
-- BSc thesis "Radiation-recombination-limited escape on super-Earth exoplanets", Malina Ovesen, Kapteyn Institute, co-supervised with Mara Attia, 2026
-- BSc thesis "Jeans escape on super-Earth exoplanets", Ioana Balint, Kapteyn Institute, co-supervised with Mara Attia, 2026
-- BSc thesis "Impact-driven escape on super-Earth exoplanets", Renske Beuker, Kapteyn Institute, co-supervised with Mara Attia, 2026
-- BSc thesis "Diffusion-limited escape on super-Earth exoplanets", Viesturs Strelcs, Kapteyn Institute, co-supervised with Mara Attia, 2026
+- BSc thesis "Radiation-recombination-limited hydrodynamic escape: conditions for limiting atmospheric escape on sub-Neptunes and super-Earths", Malina Ovesen, Kapteyn Institute, co-supervised with Mara Attia, 2026
+- BSc thesis "The influence of atmospheric composition and photodissociation on Jeans escape from exoplanets", Ioana Balint, Kapteyn Institute, co-supervised with Mara Attia, 2026
+- BSc thesis "Impact-driven escape on super-Earth exoplanets", Renske Beuker, Kapteyn Institute, co-supervised with Mara Attia, 2026–
+- BSc thesis "Diffusion-limited atmospheric escape of hydrogen from exoplanets", Viesturs Streļčs, Kapteyn Institute, co-supervised with Mara Attia, 2026
 - PhD thesis "Prebiotic climate and ocean levels of the Hadean Earth", Emeline Decocq, Kapteyn, 2025–
 - PhD thesis "Interior-atmosphere evolution on low-mass exoplanets", Imre Kisvárdai, Kapteyn Institute, 2025–
 - MSc thesis "Limits to the UV flux on the Hadean Earth", Bruna Fena, Kapteyn Institute, 2025–
-- MSc thesis "Observability of super-Earth atmospheres with Ariel", Lorenzo Cesario, Kapteyn Institute, 2025–
+- MSc thesis "Developing an optimal observational strategy for ultra-short period super-Earths with the Ariel survey", Lorenzo Cesario, Kapteyn Institute, 2025–2026
 - MSc thesis "Ocean formation on sub-Neptune exoplanets", Ema Jungová, Kapteyn Institute, 2025–
-- MSc thesis "Photochemistry on hot rocky exoplanets", Ioannis Panagiotou, Kapteyn Institute, 2025–
+- MSc thesis "Sulfur Photochemistry in the Coupling between Interior Properties and Atmospheric Compositions of Hot Rocky Exoplanets", Ioannis Panagiotou, Kapteyn Institute, 2025–2026
 - BSc thesis "Tidal evolution of the Hadean Earth", Marijn van Dijk, Kapteyn Institute, 2025
 - BSc thesis "Timescales of exoplanet ocean formation", Anvel de Sainte Marie d'Agneaux, Kapteyn Institute, main supervisor, 2025
 - BSc thesis "Interior structure of partially molten super-Earths", Flavia Pascal, Kapteyn Institute, main supervisor, 2025
@@ -169,6 +169,11 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 
 ### Examination & Defence Committees
 
+- Robin Malaca, "Damping Oscillations in Non-LTE Models", BSc thesis, supervisor: Floris van der Tak, University of Groningen, 07/2026
+- Mariasole De Amicis, "The Atmospheric Composition of WASP-39b: A Broad-Wavelength Band Analysis with JWST", BSc thesis, supervisor: Quentin Changeat, University of Groningen, 07/2026
+- Anastasia Perrotta, "Revisiting the target selection metric for the Ariel telescope", BSc thesis, supervisor: Quentin Changeat, University of Groningen, 07/2026
+- Wout Sijtsma, "Testing the validity of the Shallow Water Equations in Hot Jupiter modeling using the pseudo-spectral PDE solver Dedalus 3", BSc thesis, supervisor: Quentin Changeat, University of Groningen, 07/2026
+- Sacha Veenstra, "Thermal dissociation and atmospheric structure: how do they affect the retrieved atmospheric composition of the ultra-hot Jupiter WASP-18b?", BSc thesis, supervisor: Quentin Changeat, University of Groningen, 07/2026
 - Aditya Arabhavi, "Unraveling the Planet-Forming Materials Around Young Stars with JWST", PhD thesis, supervisor: Inga Kamp, University of Groningen, 09/2025
 - Zalán Novák, "Rotational Excitation of Interstellar OCS: Non-LTE Line Analysis and Temperature-Density Diagnostics Using RADEX", BSc thesis, supervisor: Floris van der Tak, University of Groningen, 07/2025
 - Emma F. van der Vinne, "Atmospheric retrieval of Jupiter, observed as an exoplanet, using the TauREx code", BSc thesis, supervisor: Quentin Changeat, University of Groningen, 07/2025
