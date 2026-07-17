@@ -2,7 +2,7 @@
   section: research
   subsection: preprints
   year: 2026
-  authors_md: '**Panagiotou I**, **T Lichtenberg**, S-M Tsai, **H Nicholls**'
+  authors_md: '**Panagiotou I**, **T Lichtenberg**, S-M Tsai, H Nicholls'
   title: Sulfur photochemistry observationally traces mantle redox states of rocky planets
   venue_md: null
   primary_url: https://arxiv.org/abs/2607.15204
@@ -73,7 +73,7 @@
   section: research
   subsection: published
   year: 2026
-  authors_md: '**Postolec E**, **T Lichtenberg**, **H Nicholls**, L Soucasse, F van der Tak'
+  authors_md: '**Postolec E**, **T Lichtenberg**, H Nicholls, **L Soucasse**, F van der Tak'
   title: Atmospheric evolution through outgassing and escape on young molten rocky exoplanets
   venue_md: '*Astronomy & Astrophysics*, in press (2026)'
   primary_url: https://arxiv.org/abs/2607.15011
@@ -148,7 +148,7 @@
   section: research
   subsection: published
   year: 2026
-  authors_md: '**Sastre M**, **T Lichtenberg**, L Soucasse, DJ Bower, **H Nicholls**, I Kamp'
+  authors_md: '**Sastre M**, **T Lichtenberg**, **L Soucasse**, DJ Bower, **H Nicholls**, I Kamp'
   title: 'Geophysical and atmospheric implications of fO₂-dependent melting on rocky exoplanets'
   venue_md: '*Astronomy & Astrophysics*, in press (2026)'
   primary_url: https://scixplorer.org/abs/2026arXiv260620249S/abstract
