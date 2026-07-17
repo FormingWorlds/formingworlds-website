@@ -196,6 +196,51 @@
     }
   },
   {
+    "name": "Lorenzo Cesario",
+    "slug": "lorenzo-cesario",
+    "role": "Kapteyn MSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/lorenzo-cesario.webp",
+    "topics": "Lava exoplanet observations",
+    "links": {}
+  },
+  {
+    "name": "Ioannis Panagiotou",
+    "slug": "ioannis-panagiotou",
+    "role": "Kapteyn MSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/ioannis-panagiotou.webp",
+    "topics": "Super-Earth climate",
+    "links": {}
+  },
+  {
+    "name": "Malina Ovesen",
+    "slug": "malina-ovesen",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/malina-ovesen.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
+    "name": "Ioana Balint",
+    "slug": "ioana-balint",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/ioana-balint.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
+    "name": "Viesturs Streļčs",
+    "slug": "viesturs-strelcs",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/viesturs-strelcs.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
     "name": "Tadahiro Kimura",
     "slug": "tadahiro-kimura",
     "role": "JSPS Postdoctoral Fellow",
@@ -241,51 +286,6 @@
     "group": "alumni",
     "image": "/img/faces/laurent-soucasse.webp",
     "topics": "PROTEUS framework",
-    "links": {}
-  },
-  {
-    "name": "Lorenzo Cesario",
-    "slug": "lorenzo-cesario",
-    "role": "Kapteyn MSc Student 2026",
-    "group": "alumni",
-    "image": "/img/faces/lorenzo-cesario.webp",
-    "topics": "Lava exoplanet observations",
-    "links": {}
-  },
-  {
-    "name": "Ioannis Panagiotou",
-    "slug": "ioannis-panagiotou",
-    "role": "Kapteyn MSc Student 2026",
-    "group": "alumni",
-    "image": "/img/faces/ioannis-panagiotou.webp",
-    "topics": "Super-Earth climate",
-    "links": {}
-  },
-  {
-    "name": "Malina Ovesen",
-    "slug": "malina-ovesen",
-    "role": "Kapteyn BSc Student 2026",
-    "group": "alumni",
-    "image": "/img/faces/malina-ovesen.webp",
-    "topics": "Atmospheric escape",
-    "links": {}
-  },
-  {
-    "name": "Ioana Balint",
-    "slug": "ioana-balint",
-    "role": "Kapteyn BSc Student 2026",
-    "group": "alumni",
-    "image": "/img/faces/ioana-balint.webp",
-    "topics": "Atmospheric escape",
-    "links": {}
-  },
-  {
-    "name": "Viesturs Streļčs",
-    "slug": "viesturs-strelcs",
-    "role": "Kapteyn BSc Student 2026",
-    "group": "alumni",
-    "image": "/img/faces/viesturs-strelcs.webp",
-    "topics": "Atmospheric escape",
     "links": {}
   },
   {
