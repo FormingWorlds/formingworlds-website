@@ -2771,7 +2771,7 @@
   subsection: null
   year: 2025
   authors_md: '**Jorick Lania**'
-  title: 'Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes'
+  title: 'Forging Planets: Exploring the Magma Ocean Geochemistry of super-Earths and sub-Neptunes'
   venue_md: M.Sc. thesis. Department of Physics, University of Groningen, The Netherlands (07/2025)
   primary_url: null
   links: {}
@@ -2782,7 +2782,7 @@
     exoplanets. It found that SiO and H₂O enrichment in equilibrated atmospheres could help distinguish magma ocean planets
     from those with hydrogen-dominated envelopes, while CO and CO₂ abundances traced the interior temperature.
   lay_summary_draft: null
-  _raw: '**Jorick Lania**, *Forging Planets: Exploring the magma-ocean geochemistry of Super-Earths and Sub-Neptunes*. M.Sc.
+  _raw: '**Jorick Lania**, *Forging Planets: Exploring the Magma Ocean Geochemistry of super-Earths and sub-Neptunes*. M.Sc.
     thesis. Department of Physics, University of Groningen, The Netherlands (07/2025).'
 - slug: marielle-wortelboer-2025-efficiency
   section: theses
@@ -2903,7 +2903,7 @@
   subsection: null
   year: 2024
   authors_md: '**Iris Boer**'
-  title: Redox dependency of the runaway greenhouse limit
+  title: Redox-dependency of the runaway greenhouse limit
   venue_md: B.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2024)
   primary_url: null
   links: {}
@@ -2914,7 +2914,7 @@
     for the runaway greenhouse effect. It used radiative-convective models to test whether more oxidized or reduced atmospheric
     compositions shift the critical radiation limit at which oceans are lost.
   lay_summary_draft: null
-  _raw: '**Iris Boer**, *Redox dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute,
+  _raw: '**Iris Boer**, *Redox-dependency of the runaway greenhouse limit*. B.Sc. thesis. Kapteyn Astronomical Institute,
     University of Groningen, The Netherlands (07/2024).'
 - slug: jessica-helmerhorst-2024-under-dense
   section: theses
@@ -2939,7 +2939,7 @@
   subsection: null
   year: 2024
   authors_md: '**Lotte Bartels**'
-  title: Magma oceanography of GJ 367 b
+  title: Magma oceanography of GJ 367b
   venue_md: M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (06/2024)
   primary_url: null
   links: {}
@@ -2950,7 +2950,7 @@
     of the densest known rocky planets. It found that the planet develops a 20 to 100 km deep dayside magma ocean and a 300
     km thick nightside lithosphere, with the evolution depending strongly on whether the planet started hot or cold.
   lay_summary_draft: null
-  _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367 b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of
+  _raw: '**Lotte Bartels**, *Magma oceanography of GJ 367b*. M.Sc. thesis. Kapteyn Astronomical Institute, University of
     Groningen, The Netherlands (06/2024).'
 - slug: marijn-smorenburg-2023-volcanic
   section: theses
