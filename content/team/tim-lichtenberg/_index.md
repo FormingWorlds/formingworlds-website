@@ -65,6 +65,40 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 
 ---
 
+## Funding & Awards
+
+### Research & Workshop Grants
+
+- [European Research Council](https://erc.europa.eu/) (ERC) Starting Grant [MagmaWorlds](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en), PI, 09/2025
+- [AEThER](https://planets.carnegiescience.edu/aether) Collaboration, [Sloan Foundation](https://sloan.org/), Co-I, 07/2025
+- Workshop grants for [Rocky Worlds IV](https://groningen2026.rockyworlds.org/) conference, Dutch Research Council (NWO), Space Research Organisation Netherlands, Netherlands Platform for Planetary Science, Leids Kerkhoven-Bosscha Fonds, 2025
+- [PRELIFE](https://www.nwo.nl/en/projects/pxruc21696) Consortium, NWA-ORC 2023, [Dutch Research Council (NWO)](https://www.nwo.nl/en), Co-I, 05/2025
+- Open eScience Early Career Project [PROTEUS](https://research-software-directory.org/projects/proteus), [Netherlands eScience Center](https://www.esciencecenter.nl/), PI, 12/2023
+- Workshop grant for [Rocky Worlds Discussions](https://discussions.rockyworlds.org/), Meteoritical Society, 02/2023
+- Faculty Research Grant, Faculty of Science and Engineering, University of Groningen, PI, 12/2022
+- Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg.html), 08/2022
+- Workshop grants for [Rocky Worlds II](https://oxford2022.rockyworlds.org/) conference, Royal Astronomical Society & Meteoritical Society, 05/2021
+- Research grant Geodynamic Regimes During Planetogenesis, [Simons Foundation](https://www.simonsfoundation.org/), PI, 12/2018
+- Bernoulli postdoctoral fellowship (not started), University of Oxford & University of Bern, 03/2018
+- Research grant [Early Postdoc.Mobility Fellowship](http://p3.snf.ch/Project-178621), [Swiss National Science Foundation](http://www.snf.ch/en/), 12/2017
+- Research grant [Linking Interior-Atmosphere Regimes to Planetary Accretion](http://p3.snf.ch/Project-178621), [Swiss National Science Foundation](http://www.snf.ch/en/), PI, 12/2017
+- Workshop grant for [Water during planet formation and evolution](https://waterzurich.github.io/), University of Zurich, Co-I, 04/2017
+- MERAC funding and travel award for project Volatile degassing from terrestrial planet precursors, Swiss Society for Astrophysics and Astronomy, PI, 09/2016
+
+### Honours & Awards
+
+- [Europlanet Early-Career Medal 2025](https://www.europlanet.org/tim-lichtenberg-benoit-carry-and-jean-schneider-honoured-by-new-europlanet-career-medals/), [Europlanet Society](https://www.europlanet-society.org/), 09/2025
+- [Planetary and Solar System Sciences Division Outstanding Early Career Scientist Award 2023](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2023/tim-lichtenberg/), [European Geosciences Union (EGU)](https://www.egu.eu/), 04/2023
+- [Winton Award for Early Achievement in Geophysics 2022](https://ras.ac.uk/sites/default/files/RAS%20Winton%20Award%20(G)%20-%20Dr%20Tim%20Lichtenberg.pdf), [Royal Astronomical Society](https://ras.ac.uk/), 01/2022
+- [Doctoral Thesis Award 2019](http://astronomische-gesellschaft.de/en/activities/press-releases/doctoral-thesis-award-2019), [German Astronomical Society](https://www.astronomische-gesellschaft.de/), 09/2019
+- [PhD Prize for Planetary Systems and Astrobiology 2018](https://www.iau.org/), [International Astronomical Union](https://www.iau.org/), 06/2019
+- [Non-stipendiary Junior Research Fellowship](https://www.stx.ox.ac.uk/people/tim-lichtenberg), St Cross College, University of Oxford, 06/2019
+- [Horneck-Brack Presentation Award](http://www.eana-net.eu/index.php?page=Conferences/EANA_student), 2nd prize, European Astrobiology Network Association, 09/2018
+- [Dr. Berliner – Dr. Ungewitter Prize](https://www.uni-goettingen.de/en/362496.html) for M.Sc. thesis, Göttingen University, 12/2014
+- M.Sc. diploma awarded 'with distinction', Göttingen University, 07/2014
+
+---
+
 ## Teaching & Mentoring
 
 ### Courses
@@ -127,6 +161,77 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 - BSc semester project "2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution", Fabio Luchsinger, ETH Zurich Earth Sciences, co-supervisor, 2016
 
 ---
+
+## Outreach
+
+### Media Interviews, Press Releases & Public Talks
+
+- Press coverage for [Nicholls et al. (Nature Astronomy 2026)](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature ['Molten Sulfurous World Blurs Exoplanet Categories'](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/), Sky & Telescope (also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), and [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world)), 03/2026
+- Media interview for ['Stormy planets and an unexpected atmosphere'](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere), University of Groningen Faculty of Science and Engineering, 12/2025
+- Media interviews for [NASA](https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/), [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball), [phys.org](https://phys.org/news/2025-12-ultra-hot-lava-world-thick.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/12/251213032607.htm), and others on TOI-561 b atmosphere detection, 11–12/2025
+- Media interview for ['This Blazing Exoplanet Breaks All the Rules about Alien Atmospheres, JWST Finds'](https://www.scientificamerican.com/article/james-webb-space-telescope-finds-atmosphere-on-lava-planet-toi-561-b/), Scientific American, 09/2025
+- Interview with Europlanet Early Careers (EPEC) Future Research Working Group ['Exoplanets and Planetary Science: Two Different Worlds?'](https://www.europlanet.org/exoplanets-and-planetary-science-two-different-worlds/), also published as ['Quickfire Questions with Tim Lichtenberg'](https://www.europlanet.org/europlanet-magazine/issue-8/shaping-our-planetary-identity/) in Europlanet Magazine Issue 8, Europlanet Society, 09/2025
+- Media interview for article ['Exoplanet plate tectonics: A new frontier in the hunt for alien life'](https://www.newscientist.com/article/mg26435201-700-exoplanet-plate-tectonics-a-new-frontier-in-the-hunt-for-alien-life/), New Scientist, 12/2024
+- Media interview for podcast ['Die knifflige Suche nach außerirdischem Leben'](https://www.deutschlandfunk.de/aliens-ausserirdische-lebewesen-exoplanet-hubble-teleskop-100.html) (The tricky search for extraterrestrial life), Deutschlandfunk, 12/2024
+- Public Talk ['Formation and Evolution of Terrestrial Worlds'](https://www.dropbox.com/scl/fi/3vrskq1q0pbr2b0own9m6/240528-DOT.pdf?rlkey=eio0pqski6xnogyzzyma8fh2z&dl=0), DOT Planetarium Groningen, 05/2024
+- Public Talk ['Entstehung und Entwicklung terrestrischer Welten'](https://www.dropbox.com/scl/fi/ffo42tst2g260tfwi0pj4/240523-MPS-G-ttingen-Outreach.pdf?rlkey=oojlkeup3xfvaexd84a081lws&dl=0) (German), Max Planck Institute for Solar System Research, 05/2024
+- Media interview for article ['What is a presumed sign of life doing on a dead comet?'](https://www.science.org/content/article/what-presumed-sign-life-doing-dead-comet), Science News, 04/2024
+- [Biographical interview](https://www.weltderphysik.de/thema/im-portraet/tim-lichtenberg-exoplaneten-sind-keine-zweite-chance/) with news outlet "Welt der Physik", part of thematic "Year of Science 2023" of the German Ministry for Science and Education, 04/2023
+- Media interview for article ['Planeet en ster groeien samen op'](https://www.newscientist.nl/nieuws/planeet-en-ster-groeien-samen-op/) (Planet and star grow together), New Scientist Netherlands, 12/2022
+- Press coverage for Bonsor+2023 Nature Astronomy, featured in [ScienceDaily](https://www.sciencedaily.com/releases/2022/11/221114111022.htm) and others, 11/2022
+- Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Lynnae Quick - The Role of Cryovolcanism in Creating Habitable Niches on Ocean Worlds](https://www.youtube.com/watch?v=giwo7JUmeH8), 10/2021
+- Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Frances Westall - Biosignatures and the Search for Extraterrestrial Life](https://www.youtube.com/channel/UCyCyGFLfUZhaly2WsXJIXAQ), 10/2021
+- Press release and media communication for [Lichtenberg et al. 2021a](https://science.sciencemag.org/content/371/6527/365) ([Altmetric](https://science.altmetric.com/details/98609464)), [featured in 36 news outlets](https://nature.altmetric.com/details/55300340), 01/2021
+- Public talk ['Wasser, Wüste oder Lava: Wie entstehen erdähnliche Planeten?'](https://www.spektrum.de/video/erdaehnliche-exoplaneten/1841158), Planetarium Göttingen, 11/2020
+- [Letters to a Pre-Scientist](https://www.prescientist.org/about-us) Pen Pal, 2019-20
+- Press release and media communication for [Lichtenberg et al. 2019b](https://doi.org/10.1038/s41550-018-0688-5) ([Altmetric](https://nature.altmetric.com/details/55300340)), featured in 21 news outlets, 02/2019
+- ETH Zürich focusTerra special Exhibition "Expedition Solar System", 2018-19
+- ETH Zürich Scientifica 2015 - "Licht und Astronomie", 09/2015
+- Figures and media for german popular science article "Exotische Welten" by Dominik Schleicher in "Sterne und Weltraum", 08/2015
+- Astrobites reddit "Ask-Me-Anything", 06/2015
+- Visit of primary school in Zürich Seefeld with Q&A, 06/2015
+- 3D rendering video for Bovino et al. (2014), [ApJL 790, L35](https://doi.org/10.1088/2041-8205/790/2/L35), featured on phys.org, INAF, HPC Wire, 07/2014
+- Public talk "Ferne Welten im Computer: Planetenentstehung durch Gravitationsinstabilitäten" (German), Institute for Astrophysics, University of Göttingen, 03/2014
+
+### Blog & Video Posts
+
+- [The turbulent hearts of shrouded super-Earths](https://medium.com/@tim_lichtenberg/9892f0416749), 05/2021
+- [Early carbon depletion of terrestrial worlds from the outside-in](https://medium.com/@tim_lichtenberg/f79e53708233), 05/2021
+- [Molten exoplanets as a window into the earliest Earth](https://medium.com/@tim_lichtenberg/3fe8236b67ac), 01/2021
+- [Formation of the Solar System in two steps](https://medium.com/@tim_lichtenberg/formation-of-the-solar-system-in-two-steps-7c95d39eecfb), 01/2021
+- [Two emergent faces of rocky planetary systems](https://medium.com/forming-worlds/two-emergent-faces-of-rocky-planetary-systems-c23e076ac852), 02/2019
+- [Planetesimal magmatism as a key to the chemical assembly of terrestrial planets](https://medium.com/forming-worlds/planetesimal-magmatism-as-a-key-to-the-chemical-assembly-of-terrestrial-planets-53d59bb63883), 01/2019
+- [Spotting Protoplanet Collision Afterglows in the Stellar Neighbourhood](https://medium.com/forming-worlds/spotting-protoplanet-collision-afterglows-in-the-stellar-neighbourhood-f3b65572ec2), 11/2018
+- [Impact splash chondrule formation during planetesimal recycling](https://medium.com/@tim_lichtenberg/chondrule-formation-during-planetesimal-recycling-b5a3537c5acb), 11/2017
+- [Supernova ejecta pollute young planetary systems](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/), 08/2016
+- [On the variety of asteroid interiors](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/), 04/2016
+
+### Astrobites
+
+[Astrobites](http://astrobites.com/) is a daily astrophysical literature journal written by graduate students in astronomy. During my authoring activity for Astrobites from 2014-2016 I published a variety of blog articles. Until 2019 I remained active in the Astrobites community in various administrative and supportive roles.
+
+- [Why open research practices are a clever move](https://astrobites.org/2016/12/08/why-open-research-practices-are-a-clever-move/), 12/2016
+- [Modest chaos in the early solar system](https://astrobites.org/2016/11/01/modest-chaos-in-the-early-solar-system/), 11/2016
+- [Driving planetary dynamos by giant impacts](https://astrobites.org/2016/08/09/driving-planetary-dynamos-by-giant-impacts/), 08/2016
+- [Water worlds - self-arrests, thermostats and long-term climate stability](https://astrobites.org/2016/07/01/water-worlds-self-arrests-thermostats-and-long-term-climate-stability/), 07/2016
+- [Massive circumstellar disks accrete faster than low-mass ones](https://astrobites.org/2016/05/17/massive-circumstellar-disks-accrete-faster-than-low-mass-ones/), 05/2016
+- [Grand Fireworks from the Local Super-Bubble](https://astrobites.org/2016/04/09/grand-fireworks-from-the-local-super-bubble/), 04/2016
+- [Bridging the gap: asteroid collisions without quantum foam](https://astrobites.org/2016/03/03/bridging-the-gap-asteroid-collisions-without-quantum-foam/), 03/2016
+- [The tempestuous adolescence of circumstellar disks](https://astrobites.org/2016/02/15/the-tempestuous-adolescence-of-circumstellar-disks/), 02/2016
+- [Sustainable Climates on Greenhouse Super-Earths?](https://astrobites.org/2015/11/30/sustainable-climates-on-greenhouse-super-earths/), 11/2015
+- [Ripping Apart Asteroids to Account for Earth's Strangeness](https://astrobites.org/2015/11/02/ripping-apart-asteroids-to-account-for-earths-strangeness/), 11/2015
+- [Dry Out Super-Earths via Giant Impacts](https://astrobites.org/2015/10/05/dry-out-super-earths-via-giant-impacts/), 10/2015
+- [Triggered fragmentation in self-gravitating disks](https://astrobites.org/2015/09/15/triggered-fragmentation-in-self-gravitating-disks/), 09/2015
+- [Giant planets from far out there](https://astrobites.org/2015/08/18/giant-planets-from-far-out-there/), 08/2015
+- [Nature's Starships Vol. II - A Hitchhiker's Guide to the Bloody Cold Beginnings](https://astrobites.org/2015/07/24/natures-starships-vol-ii-a-hitchhikers-guide-to-the-bloody-cold-beginnings/), 07/2015
+- [Nature's Starships Vol. I - Ride in on Shooting Stars](https://astrobites.org/2015/06/26/natures-starships-vol-i-ride-in-on-shooting-stars/), 06/2015
+- [Circumplanetary disks... soon!](https://astrobites.org/2015/05/29/circumplanetary-disks-soon/), 05/2015
+- [Hot Shots: How to Trigger Star Formation in the Early Universe by Supernova Blast-Waves](https://astrobites.org/2015/05/01/hot-shots-how-to-trigger-star-formation-in-the-early-universe-by-supernova-blast-waves/), 05/2015
+- [Why is star formation so inefficient?](https://astrobites.org/2015/04/28/why-is-star-formation-so-inefficient/), 04/2015
+- [Are Extrasolar Worlds More Likely to Be Water-rich?](https://astrobites.org/2015/03/06/are-extrasolar-worlds-more-likely-to-be-water-rich/), 03/2015
+- [Sneak a peek on the cause of death of protoplanetary disks](https://astrobites.org/2015/02/06/sneak-a-peek-on-the-cause-of-death-of-protoplanetary-disks/), 02/2015
+- [Are Carbon-Rich Planets Just an Observational Bias?](https://astrobites.org/2015/01/02/are-carbon-rich-planets-just-an-observational-bias/), 01/2015
+- [Orderly disorder: Simulations of planet-disk dynamics with AREPO](https://astrobites.org/2014/12/03/orderly-disorder-simulations-of-planet-disk-dynamics-with-arepo/), 12/2014
 
 ## Community Service
 
@@ -209,108 +314,3 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 - [Swiss Society for Astrophysics and Astronomy](https://www.ssaa.ch/), 2015–24
 
 ---
-
-## Funding & Awards
-
-### Research & Workshop Grants
-
-- [European Research Council](https://erc.europa.eu/) (ERC) Starting Grant [MagmaWorlds](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en), PI, 09/2025
-- [AEThER](https://planets.carnegiescience.edu/aether) Collaboration, [Sloan Foundation](https://sloan.org/), Co-I, 07/2025
-- Workshop grants for [Rocky Worlds IV](https://groningen2026.rockyworlds.org/) conference, Dutch Research Council (NWO), Space Research Organisation Netherlands, Netherlands Platform for Planetary Science, Leids Kerkhoven-Bosscha Fonds, 2025
-- [PRELIFE](https://www.nwo.nl/en/projects/pxruc21696) Consortium, NWA-ORC 2023, [Dutch Research Council (NWO)](https://www.nwo.nl/en), Co-I, 05/2025
-- Open eScience Early Career Project [PROTEUS](https://research-software-directory.org/projects/proteus), [Netherlands eScience Center](https://www.esciencecenter.nl/), PI, 12/2023
-- Workshop grant for [Rocky Worlds Discussions](https://discussions.rockyworlds.org/), Meteoritical Society, 02/2023
-- Faculty Research Grant, Faculty of Science and Engineering, University of Groningen, PI, 12/2022
-- Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg.html), 08/2022
-- Workshop grants for [Rocky Worlds II](https://oxford2022.rockyworlds.org/) conference, Royal Astronomical Society & Meteoritical Society, 05/2021
-- Research grant Geodynamic Regimes During Planetogenesis, [Simons Foundation](https://www.simonsfoundation.org/), PI, 12/2018
-- Bernoulli postdoctoral fellowship (not started), University of Oxford & University of Bern, 03/2018
-- Research grant [Early Postdoc.Mobility Fellowship](http://p3.snf.ch/Project-178621), [Swiss National Science Foundation](http://www.snf.ch/en/), 12/2017
-- Research grant [Linking Interior-Atmosphere Regimes to Planetary Accretion](http://p3.snf.ch/Project-178621), [Swiss National Science Foundation](http://www.snf.ch/en/), PI, 12/2017
-- Workshop grant for [Water during planet formation and evolution](https://waterzurich.github.io/), University of Zurich, Co-I, 04/2017
-- MERAC funding and travel award for project Volatile degassing from terrestrial planet precursors, Swiss Society for Astrophysics and Astronomy, PI, 09/2016
-
-### Honours & Awards
-
-- [Europlanet Early-Career Medal 2025](https://www.europlanet.org/tim-lichtenberg-benoit-carry-and-jean-schneider-honoured-by-new-europlanet-career-medals/), [Europlanet Society](https://www.europlanet-society.org/), 09/2025
-- [Planetary and Solar System Sciences Division Outstanding Early Career Scientist Award 2023](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2023/tim-lichtenberg/), [European Geosciences Union (EGU)](https://www.egu.eu/), 04/2023
-- [Winton Award for Early Achievement in Geophysics 2022](https://ras.ac.uk/sites/default/files/RAS%20Winton%20Award%20(G)%20-%20Dr%20Tim%20Lichtenberg.pdf), [Royal Astronomical Society](https://ras.ac.uk/), 01/2022
-- [Doctoral Thesis Award 2019](http://astronomische-gesellschaft.de/en/activities/press-releases/doctoral-thesis-award-2019), [German Astronomical Society](https://www.astronomische-gesellschaft.de/), 09/2019
-- [PhD Prize for Planetary Systems and Astrobiology 2018](https://www.iau.org/), [International Astronomical Union](https://www.iau.org/), 06/2019
-- [Non-stipendiary Junior Research Fellowship](https://www.stx.ox.ac.uk/people/tim-lichtenberg), St Cross College, University of Oxford, 06/2019
-- [Horneck-Brack Presentation Award](http://www.eana-net.eu/index.php?page=Conferences/EANA_student), 2nd prize, European Astrobiology Network Association, 09/2018
-- [Dr. Berliner – Dr. Ungewitter Prize](https://www.uni-goettingen.de/en/362496.html) for M.Sc. thesis, Göttingen University, 12/2014
-- M.Sc. diploma awarded 'with distinction', Göttingen University, 07/2014
-
----
-
-## Outreach
-
-### Media Interviews, Press Releases & Public Talks
-
-- Press coverage for [Nicholls et al. (Nature Astronomy 2026)](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature ['Molten Sulfurous World Blurs Exoplanet Categories'](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/), Sky & Telescope (also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), and [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world)), 03/2026
-- Media interview for ['Stormy planets and an unexpected atmosphere'](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere), University of Groningen Faculty of Science and Engineering, 12/2025
-- Media interviews for [NASA](https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/), [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball), [phys.org](https://phys.org/news/2025-12-ultra-hot-lava-world-thick.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/12/251213032607.htm), and others on TOI-561 b atmosphere detection, 11–12/2025
-- Media interview for ['This Blazing Exoplanet Breaks All the Rules about Alien Atmospheres, JWST Finds'](https://www.scientificamerican.com/article/james-webb-space-telescope-finds-atmosphere-on-lava-planet-toi-561-b/), Scientific American, 09/2025
-- Interview with Europlanet Early Careers (EPEC) Future Research Working Group ['Exoplanets and Planetary Science: Two Different Worlds?'](https://www.europlanet.org/exoplanets-and-planetary-science-two-different-worlds/), also published as ['Quickfire Questions with Tim Lichtenberg'](https://www.europlanet.org/europlanet-magazine/issue-8/shaping-our-planetary-identity/) in Europlanet Magazine Issue 8, Europlanet Society, 09/2025
-- Media interview for article ['Exoplanet plate tectonics: A new frontier in the hunt for alien life'](https://www.newscientist.com/article/mg26435201-700-exoplanet-plate-tectonics-a-new-frontier-in-the-hunt-for-alien-life/), New Scientist, 12/2024
-- Media interview for podcast ['Die knifflige Suche nach außerirdischem Leben'](https://www.deutschlandfunk.de/aliens-ausserirdische-lebewesen-exoplanet-hubble-teleskop-100.html) (The tricky search for extraterrestrial life), Deutschlandfunk, 12/2024
-- Public Talk ['Formation and Evolution of Terrestrial Worlds'](https://www.dropbox.com/scl/fi/3vrskq1q0pbr2b0own9m6/240528-DOT.pdf?rlkey=eio0pqski6xnogyzzyma8fh2z&dl=0), DOT Planetarium Groningen, 05/2024
-- Public Talk ['Entstehung und Entwicklung terrestrischer Welten'](https://www.dropbox.com/scl/fi/ffo42tst2g260tfwi0pj4/240523-MPS-G-ttingen-Outreach.pdf?rlkey=oojlkeup3xfvaexd84a081lws&dl=0) (German), Max Planck Institute for Solar System Research, 05/2024
-- Media interview for article ['What is a presumed sign of life doing on a dead comet?'](https://www.science.org/content/article/what-presumed-sign-life-doing-dead-comet), Science News, 04/2024
-- [Biographical interview](https://www.weltderphysik.de/thema/im-portraet/tim-lichtenberg-exoplaneten-sind-keine-zweite-chance/) with news outlet "Welt der Physik", part of thematic "Year of Science 2023" of the German Ministry for Science and Education, 04/2023
-- Media interview for article ['Planeet en ster groeien samen op'](https://www.newscientist.nl/nieuws/planeet-en-ster-groeien-samen-op/) (Planet and star grow together), New Scientist Netherlands, 12/2022
-- Press coverage for Bonsor+2023 Nature Astronomy, featured in [ScienceDaily](https://www.sciencedaily.com/releases/2022/11/221114111022.htm) and others, 11/2022
-- Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Lynnae Quick - The Role of Cryovolcanism in Creating Habitable Niches on Ocean Worlds](https://www.youtube.com/watch?v=giwo7JUmeH8), 10/2021
-- Panel member for Astrofísica UC [Golden Webinars in Astrophysics](https://astro.uc.cl/en/item-3-menu-izquierdo-2/573-golden-webinars-in-astrophysics-now-on-youtube): [Frances Westall - Biosignatures and the Search for Extraterrestrial Life](https://www.youtube.com/channel/UCyCyGFLfUZhaly2WsXJIXAQ), 10/2021
-- Press release and media communication for [Lichtenberg et al. 2021a](https://science.sciencemag.org/content/371/6527/365) ([Altmetric](https://science.altmetric.com/details/98609464)), [featured in 36 news outlets](https://nature.altmetric.com/details/55300340), 01/2021
-- Public talk ['Wasser, Wüste oder Lava: Wie entstehen erdähnliche Planeten?'](https://www.spektrum.de/video/erdaehnliche-exoplaneten/1841158), Planetarium Göttingen, 11/2020
-- [Letters to a Pre-Scientist](https://www.prescientist.org/about-us) Pen Pal, 2019-20
-- Press release and media communication for [Lichtenberg et al. 2019b](https://doi.org/10.1038/s41550-018-0688-5) ([Altmetric](https://nature.altmetric.com/details/55300340)), featured in 21 news outlets, 02/2019
-- ETH Zürich focusTerra special Exhibition "Expedition Solar System", 2018-19
-- ETH Zürich Scientifica 2015 - "Licht und Astronomie", 09/2015
-- Figures and media for german popular science article "Exotische Welten" by Dominik Schleicher in "Sterne und Weltraum", 08/2015
-- Astrobites reddit "Ask-Me-Anything", 06/2015
-- Visit of primary school in Zürich Seefeld with Q&A, 06/2015
-- 3D rendering video for Bovino et al. (2014), [ApJL 790, L35](https://doi.org/10.1088/2041-8205/790/2/L35), featured on phys.org, INAF, HPC Wire, 07/2014
-- Public talk "Ferne Welten im Computer: Planetenentstehung durch Gravitationsinstabilitäten" (German), Institute for Astrophysics, University of Göttingen, 03/2014
-
-### Blog & Video Posts
-
-- [The turbulent hearts of shrouded super-Earths](https://medium.com/@tim_lichtenberg/9892f0416749), 05/2021
-- [Early carbon depletion of terrestrial worlds from the outside-in](https://medium.com/@tim_lichtenberg/f79e53708233), 05/2021
-- [Molten exoplanets as a window into the earliest Earth](https://medium.com/@tim_lichtenberg/3fe8236b67ac), 01/2021
-- [Formation of the Solar System in two steps](https://medium.com/@tim_lichtenberg/formation-of-the-solar-system-in-two-steps-7c95d39eecfb), 01/2021
-- [Two emergent faces of rocky planetary systems](https://medium.com/forming-worlds/two-emergent-faces-of-rocky-planetary-systems-c23e076ac852), 02/2019
-- [Planetesimal magmatism as a key to the chemical assembly of terrestrial planets](https://medium.com/forming-worlds/planetesimal-magmatism-as-a-key-to-the-chemical-assembly-of-terrestrial-planets-53d59bb63883), 01/2019
-- [Spotting Protoplanet Collision Afterglows in the Stellar Neighbourhood](https://medium.com/forming-worlds/spotting-protoplanet-collision-afterglows-in-the-stellar-neighbourhood-f3b65572ec2), 11/2018
-- [Impact splash chondrule formation during planetesimal recycling](https://medium.com/@tim_lichtenberg/chondrule-formation-during-planetesimal-recycling-b5a3537c5acb), 11/2017
-- [Supernova ejecta pollute young planetary systems](http://nccr-planets.ch/blog/2016/08/10/supernova-ejecta-pollute-young-planetary-systems/), 08/2016
-- [On the variety of asteroid interiors](http://nccr-planets.ch/blog/2016/04/15/asteroid-interiors/), 04/2016
-
-### Astrobites
-
-[Astrobites](http://astrobites.com/) is a daily astrophysical literature journal written by graduate students in astronomy. During my authoring activity for Astrobites from 2014-2016 I published a variety of blog articles. Until 2019 I remained active in the Astrobites community in various administrative and supportive roles.
-
-- [Why open research practices are a clever move](https://astrobites.org/2016/12/08/why-open-research-practices-are-a-clever-move/), 12/2016
-- [Modest chaos in the early solar system](https://astrobites.org/2016/11/01/modest-chaos-in-the-early-solar-system/), 11/2016
-- [Driving planetary dynamos by giant impacts](https://astrobites.org/2016/08/09/driving-planetary-dynamos-by-giant-impacts/), 08/2016
-- [Water worlds - self-arrests, thermostats and long-term climate stability](https://astrobites.org/2016/07/01/water-worlds-self-arrests-thermostats-and-long-term-climate-stability/), 07/2016
-- [Massive circumstellar disks accrete faster than low-mass ones](https://astrobites.org/2016/05/17/massive-circumstellar-disks-accrete-faster-than-low-mass-ones/), 05/2016
-- [Grand Fireworks from the Local Super-Bubble](https://astrobites.org/2016/04/09/grand-fireworks-from-the-local-super-bubble/), 04/2016
-- [Bridging the gap: asteroid collisions without quantum foam](https://astrobites.org/2016/03/03/bridging-the-gap-asteroid-collisions-without-quantum-foam/), 03/2016
-- [The tempestuous adolescence of circumstellar disks](https://astrobites.org/2016/02/15/the-tempestuous-adolescence-of-circumstellar-disks/), 02/2016
-- [Sustainable Climates on Greenhouse Super-Earths?](https://astrobites.org/2015/11/30/sustainable-climates-on-greenhouse-super-earths/), 11/2015
-- [Ripping Apart Asteroids to Account for Earth's Strangeness](https://astrobites.org/2015/11/02/ripping-apart-asteroids-to-account-for-earths-strangeness/), 11/2015
-- [Dry Out Super-Earths via Giant Impacts](https://astrobites.org/2015/10/05/dry-out-super-earths-via-giant-impacts/), 10/2015
-- [Triggered fragmentation in self-gravitating disks](https://astrobites.org/2015/09/15/triggered-fragmentation-in-self-gravitating-disks/), 09/2015
-- [Giant planets from far out there](https://astrobites.org/2015/08/18/giant-planets-from-far-out-there/), 08/2015
-- [Nature's Starships Vol. II - A Hitchhiker's Guide to the Bloody Cold Beginnings](https://astrobites.org/2015/07/24/natures-starships-vol-ii-a-hitchhikers-guide-to-the-bloody-cold-beginnings/), 07/2015
-- [Nature's Starships Vol. I - Ride in on Shooting Stars](https://astrobites.org/2015/06/26/natures-starships-vol-i-ride-in-on-shooting-stars/), 06/2015
-- [Circumplanetary disks... soon!](https://astrobites.org/2015/05/29/circumplanetary-disks-soon/), 05/2015
-- [Hot Shots: How to Trigger Star Formation in the Early Universe by Supernova Blast-Waves](https://astrobites.org/2015/05/01/hot-shots-how-to-trigger-star-formation-in-the-early-universe-by-supernova-blast-waves/), 05/2015
-- [Why is star formation so inefficient?](https://astrobites.org/2015/04/28/why-is-star-formation-so-inefficient/), 04/2015
-- [Are Extrasolar Worlds More Likely to Be Water-rich?](https://astrobites.org/2015/03/06/are-extrasolar-worlds-more-likely-to-be-water-rich/), 03/2015
-- [Sneak a peek on the cause of death of protoplanetary disks](https://astrobites.org/2015/02/06/sneak-a-peek-on-the-cause-of-death-of-protoplanetary-disks/), 02/2015
-- [Are Carbon-Rich Planets Just an Observational Bias?](https://astrobites.org/2015/01/02/are-carbon-rich-planets-just-an-observational-bias/), 01/2015
-- [Orderly disorder: Simulations of planet-disk dynamics with AREPO](https://astrobites.org/2014/12/03/orderly-disorder-simulations-of-planet-disk-dynamics-with-arepo/), 12/2014
