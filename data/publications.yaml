@@ -69,6 +69,23 @@
   lay_summary_draft: null
   _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective
     and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
+- slug: williams-2026-planetesimal
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: 'Williams J, S Krijt, J Drążkowska, **T Lichtenberg**'
+  title: Planetesimal Formation Across the Stellar Mass Spectrum and its Influence on Exoplanet-Inherited Volatile Budgets
+  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
+  primary_url: https://arxiv.org/abs/2607.20271
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2607.20271
+    pdf: https://arxiv.org/pdf/2607.20271
+  bibcode: null
+  lab_led: false
+  abstract: 'Protoplanetary discs emerging from collapsing molecular clouds are capable of forming planetesimals at the water snowline during both the cloud collapse and Class II disc phases; such a scenario could be responsible for creating the carbonaceous/non-carbonaceous (CC/NC) heterogeneity observed in the Solar System, and bears important implications for emergent planetary compositions. We use 1D simulations of a viscously evolving disc coupled with cloud collapse and planetesimal formation to explore how planetesimal formation during disc build-up varies across the stellar mass spectrum. We find a keen sensitivity of planetesimal formation timing, location, and outcomes on stellar mass. Discs around all investigated stellar masses form planetesimals in the Class II phase, but only the disc around low-mass M-dwarfs (M⋆ = 0.1 M☉) fails to form them during the infall phase. There is also a clear chemical heterogeneity in planetesimal populations (water-wet and dry) in discs born from clouds of Mcloud ≥ 0.3 M☉. Discs around low-mass M-dwarfs form and undergo extremely fast pebble drift (t < 2 Myr), forming planetesimals well within the half-life of Aluminium-26. This leads to dehydrated planetesimals in all M-dwarf disc formation cases considered. We argue that the variation in disc evolution across stellar mass makes it hard to pinpoint a common t = 0 for all discs, and that exoplanets emerging from dehydrated planetesimals around low-mass M-dwarfs will be born volatile-poor - potentially explaining the lack of rocky world atmospheres seen by JWST.'
+  lay_summary: 'Rocky planets inherit their water from the icy building blocks that assemble in the disc of gas and dust around a young star. This study simulates that first step across a range of host star masses and finds that discs around the smallest red dwarfs build their building blocks so early, and drain their solids so quickly, that radioactive heating bakes the ice out of them. Planets grown from those dry solids would start life short of water and other volatiles, which may help explain why JWST has found so few atmospheres on rocky worlds around such stars.'
+  lay_summary_draft: null
+  _raw: null
 - slug: postolec-2026-outgassing-escape
   section: research
   subsection: published
