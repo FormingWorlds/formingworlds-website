@@ -242,7 +242,7 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 
 Astronomy & Astrophysics, Astrophysical Journal, Astrophysical Journal Letters, Astronomical Journal, Earth and Planetary Science Letters, Elements, Icarus, Journal of Geophysical Research: Planets, Monthly Notices of the Royal Astronomical Society, Nature, Nature Astronomy, Nature Communications, Planetary Science Journal, Proceedings of the National Academy of Sciences, Publications of the Astronomical Society of Australia, Science, Science Advances
 
-Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dutch Research Council (NWO), European Research Council (ERC), NASA Emerging Worlds program, NASA Hubble Fellowship Program (NHFP), Natural Sciences and Engineering Research Council of Canada (NSERC), Swiss National Science Foundation (SNSF), UK Research and Innovation (UKRI), US National Science Foundation (NSF)
+Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dutch Research Council (NWO), European Research Council (ERC), Max Planck Society (MPG), NASA Emerging Worlds program, NASA Hubble Fellowship Program (NHFP), Natural Sciences and Engineering Research Council of Canada (NSERC), Swiss National Science Foundation (SNSF), UK Research and Innovation (UKRI), US National Science Foundation (NSF)
 
 Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division](https://www.egu.eu/ps/), 06/2023–05/2025
 
