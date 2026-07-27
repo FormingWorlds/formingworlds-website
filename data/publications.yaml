@@ -178,6 +178,41 @@
   lay_summary: 'This study models how the oxygen content of a rocky planet''s molten interior controls both its cooling history and the atmosphere it outgases, using the close-in super-Earth GJ 1132 b as a test case. It finds that a planet''s total volatile budget and the oxidation state of its surface are the primary controls on whether it sustains a long-lived magma ocean, while the chemistry of mantle melting plays a secondary role. Reduced interiors tend to build thick H₂ and CO rich atmospheres, whereas oxidized interiors favour thinner H₂O and CO₂ envelopes, producing distinct signatures that JWST could test.'
   lay_summary_draft: null
   _raw: null
+- slug: grenfell-2026-life-biosignatures
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: 'Grenfell JL, B Taysum, I van Zelst, F Schreier, H Innes, AMS Smith, S Csizmadia, N Iro, S Rugheimer, T Kozakis,
+    E Alei, L Noack, **T Lichtenberg**, SP Quanz, K Herbst, M Sinnhuber, A Bartenschlager, J Cabrera, H Rauer'
+  title: 'Detectability of Atmospheric Climate and Biosignatures with the Large Interferometer for Exoplanets (LIFE) for Terrestrial-type
+    Exoplanets'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 550, staf1878 (2026)'
+  primary_url: https://doi.org/10.1093/mnras/staf1878
+  links:
+    scix: https://scixplorer.org/abs/2025MNRAS.tmp.1848G/abstract
+    doi: https://doi.org/10.1093/mnras/staf1878
+  bibcode: 2025MNRAS.tmp.1848G
+  lab_led: false
+  abstract: 'We investigate the detectability of atmospheric biosignatures with the Large Interferometer for Exoplanets (LIFE)
+    mission. Starting with the modern Earth we model the climate, photochemistry, and spectra of Earth-like planets over a
+    range of insolation, gravity, humidity, albedo, atmospheric mass, and carbon dioxide abundances, and investigate detectability
+    of key atmospheric species by LIFE for Earth-like planets assumed to lie at 10 pc for the LIFE (20-d viewing) baseline
+    case. We find that atmospheric ozone (O₃) abundances are maintained over a range of conditions. The O₃ fundamental band
+    is visible for most scenarios studied but is weakened for exoplanets with cooler central stars. Additional potential biosignatures
+    such as methane (CH₄), nitrous oxide (N₂O), and chloromethane (CH₃Cl) have larger abundances for low UV conditions e.g.
+    exoplanets orbiting cooler central stars or having strong atmospheric shielding. Regarding spectral signatures, CH₄ and
+    water (H₂O) signals from 6–8 μm are evident in most scenarios, as is the carbon dioxide (CO₂) 15 μm band, which strengthens
+    for low-O₂ scenarios associated with upper atmosphere cooling. Considering a 20-d viewing, H₂O is retrievable with a confidence
+    level (CL) of 3.6σ for an Earth-like planet orbiting a cool star. N₂O is not observable with a CL sigma mostly less than
+    one for the scenarios considered. CH₄ features a CL sigma detectability range of up to 1.5. O₃ is detectable in most cases
+    with a CL of ~2.0 to 3.0 (including the low-ozone Proterozoic) except for the extremely low O₃ Archaean scenario and the
+    low-pressure atmosphere scenario.'
+  lay_summary: 'The proposed LIFE space interferometer would look for signs of life in the mid-infrared light of nearby Earth-like
+    planets. This study models how the climate and chemistry of such planets shift with starlight, gravity, humidity, atmospheric
+    mass and carbon dioxide content, then asks which gases LIFE could actually pick out. Water, carbon dioxide and ozone remain
+    detectable across most of the cases considered, methane only marginally, and nitrous oxide stays out of reach.'
+  lay_summary_draft: null
+  _raw: null
 - slug: calder-2025-most
   section: research
   subsection: published
