@@ -1,3 +1,20 @@
+- slug: nicholls-2026-retrievals
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: '**Nicholls H**, **T Lichtenberg**, B Riegler, R Calder, V Fortuin'
+  title: Constraining the lives and times of exoplanets through evolutionary Bayesian retrievals
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2607.25845
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2607.25845
+    pdf: https://arxiv.org/pdf/2607.25845
+  bibcode: null
+  lab_led: true
+  abstract: 'Static retrieval frameworks are leading tools for interpreting exoplanet observations, yet time-independent modelling leaves them prone to degeneracy and unable to resolve exoplanets'' histories. The compositions and structures of surveyed super-Earth and sub-Neptune sub-populations remain unclear, but are shaped by physics acting across Gyr timescales. Interpreting these planets as static non-evolving snapshots allows multiple degenerate scenarios to explain their observed properties. We develop a generalised parameter retrieval framework, built on asynchronous Bayesian optimisation to efficiently dispatch a multi-physics forward-model, resolving exoplanets'' evolving properties from their initial magma ocean conditions to the present day. By building Bayesian retrievals into the PROTEUS framework, sensitive coupled interior-atmosphere interactions are naturally resolved and interpretations are constrained to physically permissible scenarios. We test evolutionary retrievals with three exoplanet prototypes: a young sub-Neptune, an older super-Earth, and a warm terrestrial planet - representative of the surveyed exoplanet population. Evolutionary retrieval jointly infers their mantle redox conditions, metallic core fractions, and early volatile inventories from spectroscopically accessible observables. Some scenarios remain subject to well-established degeneracies between core fractions and volatile budgets. Terrestrial-mass exoplanets benefit from strong observable-parameter correlations that lift these degeneracies; we recover post-formation volatile inventories with <20 percent error. Exoplanet science is primed for incoming JWST, PLATO, Roman, and ELT data - observations which necessitate careful interpretation. Adoption of time-evolved models lifts interpretive degeneracies, providing the means to understand the deep interiors and lifetime histories of worlds throughout our galaxy.'
+  lay_summary: 'Most tools for interpreting exoplanet observations treat a planet as a fixed snapshot, which leaves several very different histories able to explain the same measurements. This study builds a retrieval method that instead simulates a planet''s full evolution, from its molten early state to the present day, and searches for the starting conditions that reproduce what telescopes see. Tested on a young sub-Neptune, an older super-Earth, and a warm rocky planet, it recovers mantle chemistry, core size, and the original volatile budget, with the rocky planet''s early volatile inventory pinned down to better than 20 percent.'
+  lay_summary_draft: null
+  _raw: null
 - slug: panagiotou-2026-sulfur
   section: research
   subsection: preprints
