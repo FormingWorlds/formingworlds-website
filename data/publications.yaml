@@ -86,6 +86,23 @@
   lay_summary_draft: null
   _raw: 'Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**. [Beyond the mass-radius plane: Integrated radiative-convective
     and interior structure simulations of the exoplanet continuum.](https://arxiv.org/abs/2604.15891) [pdf](https://arxiv.org/pdf/2604.15891)'
+- slug: cesario-2026-life-redox
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: '**Cesario L**, **T Lichtenberg**, M Min, L Noack, C Brachmann, E Alei, SP Quanz, LIFE Collaboration'
+  title: 'Characterizing the oxidation state of rocky exoplanets with the Large Interferometer for Exoplanets (LIFE)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
+  primary_url: https://arxiv.org/abs/2607.28121
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2607.28121
+    pdf: https://arxiv.org/pdf/2607.28121
+  bibcode: null
+  lab_led: true
+  abstract: 'The oxidation state of rocky exoplanets is expected to play a fundamental role in shaping the chemical composition of their secondary atmospheres by influencing the chemical composition of volcanically released gasses. Distinguishing planetary redox states through direct atmospheric characterization would offer insight into the formation and evolution of secondary atmospheres on exoplanets and inform the background chemistry of putative biosignatures. The Large Interferometer For Exoplanets (LIFE) mission concept aims to employ a space-based mid-infrared nulling interferometer to characterize exoplanetary atmospheres. In this work, we assess LIFE''s performance in distinguishing the redox states of rocky exoplanets by direct spectroscopic measurements. We focus on the observability and spectral features of redox-sensitive molecules in secondary atmospheres of Earth-sized exoplanets. We develop and apply a retrieval framework based on the ARtful modeling Code for exoplanet Science (ARCiS) and the LIFE mission simulator (LIFEsim) to simulate observations of Earth-sized planets with atmospheres from a range of plausible mantle redox conditions. Our simulations show that LIFE in its baseline configuration can successfully constrain dominant atmospheric species (e.g. CO₂, CH₄ and NH₃) with sufficient accuracy to distinguish redox states for planets orbiting a Sun-like star at 10 pc. Retrieved redox-sensitive molecules show clear trends across oxidation states, with CO₂ dominating in oxidizing (with oxygen fugacity fO₂ ~ IW+2 to IW+6, where IW is the iron-wüstite buffer) environments and NH₃ in reducing (fO₂ ~ IW-2 to IW-6) environments, and CH₄ serving as a strong tracer among intermediate (fO₂ ~ IW+4 to IW-4) oxidation states.'
+  lay_summary: 'The gases a rocky planet releases from its interior depend on how oxidised that interior is, so its atmosphere carries a record of the chemistry of the rock below. This study simulates what the proposed LIFE space interferometer would measure for Earth-sized planets orbiting a Sun-like star 10 parsecs away, and finds that its baseline design can pin down the dominant gases well enough to separate oxidised interiors from reduced ones. Carbon dioxide dominates the most oxidised cases and ammonia the most reduced ones, with methane tracing the range in between.'
+  lay_summary_draft: null
+  _raw: null
 - slug: williams-2026-planetesimal
   section: research
   subsection: published
