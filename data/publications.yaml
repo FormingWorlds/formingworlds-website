@@ -2880,9 +2880,13 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This BSc thesis investigated radiation-recombination-limited hydrodynamic escape, the regime in which the gas
-    a planet loses to space is throttled by the balance between ionizing stellar radiation and recombination within the escaping
-    flow. It mapped the conditions under which this mechanism limits atmospheric loss from sub-Neptunes and super-Earths.
+  lay_summary: 'This BSc thesis mapped when hydrodynamic escape from super-Earths and sub-Neptunes becomes radiation-recombination-limited,
+    the regime in which much of the incoming stellar energy is radiated back to space as ions and electrons recombine, rather
+    than driving gas off the planet. A sweep across super-Earth and sub-Neptune masses orbiting F, G and K stars at two ages
+    found that atmospheric composition matters most: hydrogen and water atmospheres escaped freely and were almost never limited
+    this way, whereas CO₂ and N₂ atmospheres were, for every sub-Neptune and for super-Earths above about 2.5 to 5 Earth masses
+    depending on the level of high-energy irradiation. That boundary moved only slightly with the spectral type and age of
+    the host star.'
   lay_summary_draft: null
   _raw: null
 - slug: ioana-balint-2026-influence
@@ -2897,9 +2901,13 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This BSc thesis examined how the composition of an exoplanet atmosphere, and the breakup of its molecules by
-    stellar radiation, affect Jeans escape, the slow leakage of the lightest and fastest particles from the top of an atmosphere.
-    It assessed how these two factors change the rate at which a planet loses gas to space.
+  lay_summary: 'This BSc thesis built a module that computed how quickly each gas leaks from the top of a rocky exoplanet
+    atmosphere by Jeans escape, the gradual loss of the fastest-moving particles, and applied it to simulated atmospheres
+    dominated by H₂, H₂O, CO₂ or N₂. It found that whether a planet keeps its atmosphere cannot be read off the level of
+    stellar irradiation alone: composition, upper-atmosphere temperature and planetary mass together set the escape rate,
+    with hydrogen-rich atmospheres losing mass fastest and CO₂ and N₂ atmospheres resisting best. Breaking molecules apart
+    with starlight often made atomic hydrogen the dominant escaping species, and although heavier planets did not lose gas
+    at a lower rate, their larger atmospheric reservoirs took far longer to deplete.'
   lay_summary_draft: null
   _raw: null
 - slug: viesturs-strelcs-2026-diffusion
@@ -2914,9 +2922,13 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This BSc thesis studied diffusion-limited escape of hydrogen, the regime in which the loss rate is set by how
-    quickly hydrogen can diffuse upward through the heavier gas beneath it rather than by the energy available to drive the
-    outflow. It examined how this limit constrains hydrogen loss from exoplanet atmospheres.
+  lay_summary: 'This BSc thesis asked when hydrogen loss from an exoplanet atmosphere is limited not by how fast the upper
+    atmosphere can thermally shed particles, but by how quickly hydrogen can diffuse upward through the heavier gas beneath
+    it. Applying a recent, more accurate solution of the diffusion equation to simulated rocky planet atmospheres and comparing
+    it against the thermal escape rate, it found that diffusion is the more likely limit on lower-mass planets, at lower stellar
+    irradiation, and at higher upper-atmosphere temperatures, and that it matters most when hydrogen is neither a trace nor
+    a dominant constituent. These trends agreed with the Solar System bodies whose hydrogen escape is already known to be
+    diffusion limited.'
   lay_summary_draft: null
   _raw: null
 - slug: harrison-nicholls-nd-what
