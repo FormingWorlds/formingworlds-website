@@ -2833,6 +2833,92 @@
   _raw: 'Glauser AM, SP Quanz, J Hansen, F Dannert, M Ireland, H Linz et al. (incl. **T Lichtenberg**). [The Large Interferometer
     For Exoplanets (LIFE): a space mission for mid-infrared nulling interferometry.](https://scixplorer.org/abs/2024SPIE13095E..1DG/abstract)
     *Proceedings of the SPIE* 13095, 130951D (2024).'
+- slug: lorenzo-cesario-2026-developing
+  section: theses
+  subsection: null
+  year: 2026
+  authors_md: '**Lorenzo Cesario**'
+  title: Developing an optimal observational strategy for ultra-short period super-Earths with the Ariel survey
+  venue_md: M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2026)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: This MSc thesis developed an observing strategy for ultra-short period super-Earths, rocky planets that circle
+    their stars in less than a day, in the context of the Ariel space mission. It examined which targets and observing configurations
+    would make best use of the survey for characterizing this extreme planet population.
+  lay_summary_draft: null
+  _raw: null
+- slug: ioannis-panagiotou-2026-sulfur
+  section: theses
+  subsection: null
+  year: 2026
+  authors_md: '**Ioannis Panagiotou**'
+  title: Sulfur Photochemistry in the Coupling between Interior Properties and Atmospheric Compositions of Hot Rocky Exoplanets
+  venue_md: M.Sc. thesis. Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2026)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: This MSc thesis examined how sulfur photochemistry connects the interior properties of hot rocky exoplanets
+    to the composition of their atmospheres. It modelled the chemical processing of sulfur-bearing gases by stellar radiation
+    to trace how the state of the interior is imprinted on observable atmospheric composition.
+  lay_summary_draft: null
+  _raw: null
+- slug: malina-ovesen-2026-radiation
+  section: theses
+  subsection: null
+  year: 2026
+  authors_md: '**Malina Ovesen**'
+  title: 'Radiation-recombination-limited hydrodynamic escape: conditions for limiting atmospheric escape on sub-Neptunes
+    and super-Earths'
+  venue_md: B.Sc. thesis (co-supervised). Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2026)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: This BSc thesis investigated radiation-recombination-limited hydrodynamic escape, the regime in which the gas
+    a planet loses to space is throttled by the balance between ionizing stellar radiation and recombination within the escaping
+    flow. It mapped the conditions under which this mechanism limits atmospheric loss from sub-Neptunes and super-Earths.
+  lay_summary_draft: null
+  _raw: null
+- slug: ioana-balint-2026-influence
+  section: theses
+  subsection: null
+  year: 2026
+  authors_md: '**Ioana Balint**'
+  title: The influence of atmospheric composition and photodissociation on Jeans escape from exoplanets
+  venue_md: B.Sc. thesis (co-supervised). Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2026)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: This BSc thesis examined how the composition of an exoplanet atmosphere, and the breakup of its molecules by
+    stellar radiation, affect Jeans escape, the slow leakage of the lightest and fastest particles from the top of an atmosphere.
+    It assessed how these two factors change the rate at which a planet loses gas to space.
+  lay_summary_draft: null
+  _raw: null
+- slug: viesturs-strelcs-2026-diffusion
+  section: theses
+  subsection: null
+  year: 2026
+  authors_md: '**Viesturs Streļčs**'
+  title: Diffusion-limited atmospheric escape of hydrogen from exoplanets
+  venue_md: B.Sc. thesis (co-supervised). Kapteyn Astronomical Institute, University of Groningen, The Netherlands (07/2026)
+  primary_url: null
+  links: {}
+  bibcode: null
+  lab_led: true
+  abstract: null
+  lay_summary: This BSc thesis studied diffusion-limited escape of hydrogen, the regime in which the loss rate is set by how
+    quickly hydrogen can diffuse upward through the heavier gas beneath it rather than by the energy available to drive the
+    outflow. It examined how this limit constrains hydrogen loss from exoplanet atmospheres.
+  lay_summary_draft: null
+  _raw: null
 - slug: harrison-nicholls-nd-what
   section: theses
   subsection: null
