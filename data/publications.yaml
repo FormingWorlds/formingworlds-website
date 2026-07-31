@@ -2845,9 +2845,18 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This MSc thesis developed an observing strategy for ultra-short period super-Earths, rocky planets that circle
-    their stars in less than a day, in the context of the Ariel space mission. It examined which targets and observing configurations
-    would make best use of the survey for characterizing this extreme planet population.
+  lay_summary: 'This MSc thesis worked out how best to observe ultra-short-period super-Earths, rocky planets that circle
+    their stars in a day or so, with Ariel, the European Space Agency telescope that will survey exoplanet atmospheres. It
+    joined interior and atmosphere evolution modelling, spectral post-processing and a simulation of the instrument itself
+    into a single chain and applied it to eight candidate targets, all of which could hold thick volatile-rich atmospheres
+    consistent with their measured densities, dominated by CO₂, H₂O, CO or SO₂ depending on the assumed oxidation state of
+    the interior, the starting volatile inventory and how much gas had escaped. Stacking repeated eclipses, the moments when
+    a planet passes behind its star, reached the threshold for a firm atmospheric detection in less telescope time than a
+    full orbital phase curve needed to register the cooler nightside, although it proved the more fragile of the two against
+    noise and the phase curve carries extra information about how the atmosphere varies around the planet and with wavelength.
+    Judged by the time needed for the nightside detection, K2-141 b and TOI-431 b were the most promising targets at roughly
+    60 and 100 hours, five others fell between about 300 and 1200 hours, and LHS 1478 b lay beyond a plausible Ariel allocation
+    under the criteria tested, though it remains within reach of JWST.'
   lay_summary_draft: null
   _raw: null
 - slug: ioannis-panagiotou-2026-sulfur
@@ -2862,9 +2871,17 @@
   bibcode: null
   lab_led: true
   abstract: null
-  lay_summary: This MSc thesis examined how sulfur photochemistry connects the interior properties of hot rocky exoplanets
-    to the composition of their atmospheres. It modelled the chemical processing of sulfur-bearing gases by stellar radiation
-    to trace how the state of the interior is imprinted on observable atmospheric composition.
+  lay_summary: 'This MSc thesis followed sulfur through the atmospheres of hot rocky exoplanets, from the molten interior
+    that releases it to the starlight that breaks it apart, across a grid of 50 simulated planets spanning reduced to oxidised
+    mantles, stellar heating from a tenth to a thousand times what Earth receives, and two host stars, the Sun and a cool
+    red dwarf. Bulk atmospheric composition stayed under the control of the interior and its outgassing history even once
+    chemistry out of equilibrium was included, with reduced mantles giving atmospheres rich in H₂ and CH₄, intermediate ones
+    rich in CO and oxidised ones dominated by CO₂ and H₂O, while starlight-driven chemistry reshaped mainly the thin uppermost
+    layers, splitting molecules apart and leaving radicals behind. Sulfur followed the same divide, with reduced mantles favouring
+    H₂S and by-products such as CS₂ and S₂ while oxidised mantles built up SO₂, so that comparing the amounts of H₂S, SO₂
+    and CS₂ can help trace the oxidation state of the interior. Where photochemistry rather than outgassing was the main source
+    of SO₂, that gas reduced the planet-to-star brightness contrast in bands at 4, 7.3 and 8.7 micrometres by 60 to 100 parts
+    per million, a change that falls within the wavelength range of JWST and could be detectable.'
   lay_summary_draft: null
   _raw: null
 - slug: malina-ovesen-2026-radiation
