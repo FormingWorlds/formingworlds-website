@@ -188,12 +188,7 @@
     "image": "/img/faces/anna-grace-ulses.webp",
     "imagePosition": "center 25%",
     "topics": "Protoplanet accretion",
-    "links": {
-      "email": "aulses@astro.rug.nl",
-      "github": "AnnaUlses",
-      "linkedin": "anna-grace-ulses-a30a78253",
-      "orcid": "0000-0002-9031-0824"
-    }
+    "links": {}
   },
   {
     "name": "Lorenzo Cesario",
