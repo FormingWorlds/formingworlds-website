@@ -12,4 +12,4 @@ Kapteyn Astronomical Institute, Landleven 12, 9747 AD Groningen, The Netherlands
 
 ### Email
 
-[tim.lichtenberg@formingworlds.space](mailto:tim.lichtenberg@formingworlds.space)
+[tim.lichtenberg@rug.nl](mailto:tim.lichtenberg@rug.nl)
