@@ -51,15 +51,16 @@
   _raw: null
 - slug: nicholls-2026-beyond
   section: research
-  subsection: preprints
+  subsection: published
   year: 2026
   authors_md: Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**
   title: 'Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet
     continuum'
-  venue_md: null
-  primary_url: https://arxiv.org/abs/2604.15891
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
+  primary_url: https://doi.org/10.1093/mnras/stag1489
   links:
     scix: https://scixplorer.org/abs/arXiv:2604.15891
+    doi: https://doi.org/10.1093/mnras/stag1489
     pdf: https://arxiv.org/pdf/2604.15891
   bibcode: null
   lab_led: false
@@ -109,10 +110,11 @@
   year: 2026
   authors_md: 'Williams J, S Krijt, J Drążkowska, **T Lichtenberg**'
   title: Planetesimal Formation Across the Stellar Mass Spectrum and its Influence on Exoplanet-Inherited Volatile Budgets
-  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2607.20271
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
+  primary_url: https://doi.org/10.1093/mnras/stag1510
   links:
     scix: https://scixplorer.org/abs/arXiv:2607.20271
+    doi: https://doi.org/10.1093/mnras/stag1510
     pdf: https://arxiv.org/pdf/2607.20271
   bibcode: null
   lab_led: false
@@ -142,11 +144,12 @@
   subsection: published
   year: 2026
   authors_md: '**Cesario L**, **T Lichtenberg**, **M Attia**, H Nicholls, **I Kisvárdai**, Q Changeat'
-  title: 'Reflation: redox-driven atmospheric inflation as tracer of super-Earth geochemistry'
-  venue_md: '*The Astrophysical Journal Letters*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2607.13793
+  title: 'Reflation: Redox-Driven Atmospheric Inflation as Tracer of Super-Earth Geochemistry'
+  venue_md: '*The Astrophysical Journal Letters* 1007, L8 (2026)'
+  primary_url: https://doi.org/10.3847/2041-8213/ae8b95
   links:
     scix: https://scixplorer.org/abs/2026arXiv260713793C/abstract
+    doi: https://doi.org/10.3847/2041-8213/ae8b95
     pdf: https://arxiv.org/pdf/2607.13793
   bibcode: 2026arXiv260713793C
   lab_led: true
@@ -201,10 +204,11 @@
   year: 2026
   authors_md: '**Sastre M**, **T Lichtenberg**, **L Soucasse**, DJ Bower, **H Nicholls**, I Kamp'
   title: 'Geophysical and atmospheric implications of fO₂-dependent melting on rocky exoplanets'
-  venue_md: '*Astronomy & Astrophysics*, in press (2026)'
-  primary_url: https://scixplorer.org/abs/2026arXiv260620249S/abstract
+  venue_md: '*Astronomy & Astrophysics* (2026)'
+  primary_url: https://doi.org/10.1051/0004-6361/202660017
   links:
     scix: https://scixplorer.org/abs/2026arXiv260620249S/abstract
+    doi: https://doi.org/10.1051/0004-6361/202660017
     pdf: https://arxiv.org/pdf/2606.20249
   bibcode: 2026arXiv260620249S
   lab_led: true
