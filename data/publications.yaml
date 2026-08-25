@@ -49,6 +49,23 @@
   lay_summary: 'Earth and Venus began as molten magma oceans but ended up as very different worlds, and the computer models used to simulate that early evolution do not always agree. This study runs the first systematic comparison of several such models for both planets, finding that they predict rapid cooling for Earth but diverge widely for Venus, where a magma ocean can persist for tens of millions of years. The biggest disagreements trace to how each model handles the partitioning of volatiles such as water and carbon, atmospheric escape, mantle stiffness, and melting.'
   lay_summary_draft: null
   _raw: null
+- slug: boucher-2026-reflective
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: 'Boucher S, L Dang, A McGinty, JK Teske, RT Pierrehumbert, AAA Piette, NL Wallack, A Weeks, NT Lewis, **T Lichtenberg**, M Plotnykov, **E Postolec**, D Huber, TR Bedding, H Nicholls, B Peng, M Hammond, D Valencia'
+  title: 'A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curve'
+  venue_md: '*The Astronomical Journal*, in press (2026)'
+  primary_url: https://scixplorer.org/abs/arXiv:2608.21519
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2608.21519
+    pdf: https://arxiv.org/pdf/2608.21519
+  bibcode: null
+  lab_led: false
+  abstract: 'Ultra-short period (USP) rocky planets are expected to be depleted of any substantial gaseous envelope due to the intense irradiation they receive from their host star, making the recent detection of an atmosphere around TOI-561 b particularly surprising. That finding was based on the planet''s bulk density and dayside emission spectrum, but full-orbit phase curve observations offer a more comprehensive way to constrain the presence and characteristics of a planet''s atmosphere. In this paper, we map TOI-561 b''s 3–5 μm emission using JWST/NIRSpec multi-orbit spectroscopic phase curves, explicitly accounting for the curvature of the out-of-eclipse baseline and possible hotspot offsets. From a simple energy balance argument as well as comparing to general circulation models, we find the phase curve observations are best explained with high Bond albedo and moderate global heat transfer. Our 37-hour continuous observation provides a long baseline that allows us to model stellar granulation, the planetary phase curve, and dayside emission simultaneously, effectively disentangling these signals and yielding a dayside emission spectrum that is more robust against stellar variability and consistent with previous eclipse-only fits. Using general circulation model outputs, we constrain where clouds can plausibly form and test candidate compositions, finding that silicate clouds, such as SiO₂ and MgSiO₃, can form on the dayside near the terminator and explain the observed albedo. Our findings confirm that TOI-561 b appears to have a global reflective atmosphere, suggesting exchange of volatiles with the interior to maintain it.'
+  lay_summary: 'This study uses JWST full-orbit phase curve observations to map thermal emission from the ultra-short period lava world TOI-561 b. The observations reveal a high albedo and moderate global heat transport best explained by a reflective atmosphere with dayside silicate clouds. The persistence of this atmosphere indicates active volatile exchange between the surface magma ocean and the gas envelope.'
+  lay_summary_draft: null
+  _raw: null
 - slug: nicholls-2026-beyond
   section: research
   subsection: published
