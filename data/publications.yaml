@@ -1,3 +1,20 @@
+- slug: attia-2026-escape
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: '**Attia M**, **T Lichtenberg**'
+  title: Atmospheric escape fractionates secondary but not primary atmospheres
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2608.30106
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2608.30106
+    pdf: https://arxiv.org/pdf/2608.30106
+  bibcode: null
+  lab_led: true
+  abstract: 'A planet''s atmosphere, heated by starlight, can flow off as a wind, taking some gases and leaving others in unknown proportions. Yet this selection wrote the noble-gas records of the terrestrial planets, and decides which gases hot exoplanets keep. We solve this fractionated escape problem for arbitrary composition: a wind sorts gases only for secondary, hydrogen-poor atmospheres, and removes primary, hydrogen-rich atmospheres wholesale. The algebraic solution recovers every published formula as special cases. It provides a unified interpretation of atmospheric evolution across the Solar System and exoplanets. Fractionating argon on Mars stripped carbon while sparing krypton, Venus'' retained argon constrains the wind intensity that removed its water, Earth''s xenon record excludes a neutral wind. The same solution ranks the rocky exoplanets under JWST observation by the gases they can keep.'
+  lay_summary: 'When starlight drives an atmospheric wind from a planet, it can selectively strip lighter gases while leaving heavier ones behind. This study solves how hydrodynamic escape sorts gas mixtures of any composition, showing that winds fractionate secondary, hydrogen-poor atmospheres while removing hydrogen-rich primary envelopes wholesale. The exact algebraic solution explains the noble-gas records of Earth, Venus, and Mars, and predicts which volatile gases hot rocky exoplanets can retain under stellar irradiation.'
+  lay_summary_draft: null
+  _raw: null
 - slug: nicholls-2026-retrievals
   section: research
   subsection: preprints
