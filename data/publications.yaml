@@ -1,3 +1,20 @@
+- slug: postolec-2026-survival
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: '**Postolec E**, **T Lichtenberg**, JK Teske, **H Nicholls**, **M Attia**, A Piette, L Dang, NL Wallack, M Plotnykov, A McGinty, S Boucher, B Peng, D Valencia'
+  title: Evolutionary pathways toward survival of a thick CO₂- or SO₂-rich atmosphere on the lava world TOI-561 b
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2609.03144
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2609.03144
+    pdf: https://arxiv.org/pdf/2609.03144
+  bibcode: null
+  lab_led: true
+  abstract: 'Rocky planets evolve through the exchange of volatiles between their interiors and atmospheres, an interplay still poorly constrained by observations. Remarkably, highly irradiated ultrashort-period (USP) exoplanets may offer a window into this exchange: some retain low bulk densities compatible with volatile-rich envelopes surrounding rocky interiors, indicating possible secondary atmospheres. TOI-561 b is a prime example, with a bulk density of 4.3 ± 0.4 g cm⁻³ and recent JWST observations favoring a thick volatile atmosphere overlying a dayside magma ocean. Here, we investigate the evolutionary pathways allowing TOI-561 b to retain a substantial atmosphere over gigayears using the PROTEUS coupled interior-atmosphere framework. We explore different core radius fractions, Bond albedos, atmospheric escape efficiencies, mantle redox states, and initial C-H-O-N-S volatile inventories, under in situ evolution and late inward migration. Over half of our simulations leave a bare interior too dense to match observations. Successful cases favor a volatile-rich origin (≲200 Earth oceans of hydrogen, S/H ≤ 10, and N/H ≤ 1), an oxidized mantle (fO₂ ≳ IW+4), a small iron core (≤ 0.40 for the core radius fraction), and low escape efficiency (ε ≲ 10⁻³) in the hydrodynamic escape regime. At present, TOI-561 b is consistent with a global magma ocean beneath a thick (surface pressure ≈ 10³-10⁴ bar), high mean molecular weight atmosphere (38-60 g mol⁻¹). Two archetypes emerge, differentiated by bulk sulfur content: a CO₂-dominated and an SO₂-dominated atmosphere. Migration is viable but not required to reproduce the observations. Our study illustrates how interior-atmosphere coupling governs atmospheric retention on irradiated rocky planets.'
+  lay_summary: 'Tightly orbiting lava worlds face intense radiation that usually strips away their atmospheres, but TOI-561 b has a low density that suggests a thick gaseous envelope. Using the coupled PROTEUS framework to model its interior and atmosphere over gigayears, this study maps the conditions needed for such an atmosphere to survive. It finds that survival requires a volatile-rich starting budget, an oxidised mantle, and a small metal core, maintaining a thick envelope dominated by either carbon dioxide or sulfur dioxide over a magma ocean.'
+  lay_summary_draft: null
+  _raw: null
 - slug: attia-2026-escape
   section: research
   subsection: preprints
