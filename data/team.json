@@ -168,19 +168,6 @@
     }
   },
   {
-    "name": "Renske Beuker",
-    "slug": "renske-beuker",
-    "role": "Kapteyn BSc Student",
-    "group": "student",
-    "image": "/img/faces/renske-beuker.webp",
-    "imagePosition": "center 25%",
-    "topics": "Atmospheric escape",
-    "links": {
-      "email": "r.w.f.beuker@student.rug.nl",
-      "github": "renskewfb"
-    }
-  },
-  {
     "name": "Anna Grace Ulses",
     "slug": "anna-grace-ulses",
     "role": "U Washington Visiting PhD Student",
@@ -232,6 +219,16 @@
     "role": "Kapteyn BSc Student 2026",
     "group": "alumni",
     "image": "/img/faces/viesturs-strelcs.webp",
+    "topics": "Atmospheric escape",
+    "links": {}
+  },
+  {
+    "name": "Renske Beuker",
+    "slug": "renske-beuker",
+    "role": "Kapteyn BSc Student 2026",
+    "group": "alumni",
+    "image": "/img/faces/renske-beuker.webp",
+    "imagePosition": "center 25%",
     "topics": "Atmospheric escape",
     "links": {}
   },
