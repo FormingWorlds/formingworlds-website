@@ -109,21 +109,6 @@
     }
   },
   {
-    "name": "Saphira Brandenberger",
-    "slug": "saphira-brandenberger",
-    "role": "Kapteyn PhD Student",
-    "group": "phd",
-    "image": "/img/faces/saphira-brandenberger.webp",
-    "imagePosition": "center 20%",
-    "topics": "Exoplanet cores",
-    "links": {
-      "email": "s.n.brandenberger@rug.nl",
-      "github": "SaphiraBrandenberger",
-      "linkedin": "saphira-natalie-brandenberger-0678452b5",
-      "orcid": "0009-0005-1142-1104"
-    }
-  },
-  {
     "name": "Karen Stuitje",
     "slug": "karen-stuitje",
     "role": "Kapteyn MSc Student",
@@ -180,6 +165,21 @@
       "linkedin": "egpbos",
       "bluesky": "egpbos.bsky.social",
       "orcid": "0000-0002-6033-960X"
+    }
+  },
+  {
+    "name": "Saphira Brandenberger",
+    "slug": "saphira-brandenberger",
+    "role": "Kapteyn PhD Student",
+    "group": "phd",
+    "image": "/img/faces/saphira-brandenberger.webp",
+    "imagePosition": "center 20%",
+    "topics": "Exoplanet cores",
+    "links": {
+      "email": "s.n.brandenberger@rug.nl",
+      "github": "SaphiraBrandenberger",
+      "linkedin": "saphira-natalie-brandenberger-0678452b5",
+      "orcid": "0009-0005-1142-1104"
     }
   },
   {
