@@ -83,6 +83,23 @@
   lay_summary: 'Earth and Venus began as molten magma oceans but ended up as very different worlds, and the computer models used to simulate that early evolution do not always agree. This study runs the first systematic comparison of several such models for both planets, finding that they predict rapid cooling for Earth but diverge widely for Venus, where a magma ocean can persist for tens of millions of years. The biggest disagreements trace to how each model handles the partitioning of volatiles such as water and carbon, atmospheric escape, mantle stiffness, and melting.'
   lay_summary_draft: null
   _raw: null
+- slug: turner-2026-composition
+  section: research
+  subsection: published
+  year: 2026
+  authors_md: 'Turner DA, A Mortier, JG Rogers, JA Egger, AV Freckelton, **T Lichtenberg**, AAA Piette'
+  title: 'No statistically significant evidence for a correlation between stellar and planetary composition'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
+  primary_url: https://scixplorer.org/abs/arXiv:2609.17159
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2609.17159
+    pdf: https://arxiv.org/pdf/2609.17159
+  bibcode: null
+  lab_led: false
+  abstract: 'The chemical compositions of planets and their hosts stars are intrinsically linked, having formed from the same protostellar material. Characterising this relationship provides key constraints on the processes governing planetary formation and evolution. Focusing on host stars with near-solar chemical abundances limits our understanding of how planetary composition varies across a broader chemical parameter space. Expanding the sample to include stars with compositions markedly different from the Sun is therefore essential for building a complete picture of star--planet compositional connections. Here, we focus specifically on iron-poor hosts since they are more likely to be alpha-enhanced and represent some of the most chemically distinct stars relative to the Sun (i.e., thick disc stars). We present a sample of 45 stars hosting 64 planets across the super-Earth and sub-Neptune regimes, for which we homogeneously obtain new stellar parameters including abundances, re-derive planetary mass and radius, and model the bulk interior compositions of their planetary companions. No statistically significant evidence for a correlation between stellar and planetary composition was found in our sample. We suggest that this null result is primarily driven by the large uncertainties inherent to both compositional proxies, which may obscure an underlying relationship. Quantifying these uncertainties is therefore a critical step that previous studies have not fully addressed. Furthermore, even with improved precision, uncovering such a relation may require a higher-dimensional treatment that accounts for additional parameters such as planetary equilibrium temperature.'
+  lay_summary: 'Planets form from the same material as their host stars, so their chemical compositions should be linked. This study examines 64 super-Earths and sub-Neptunes around 45 iron-poor stars to test if this link holds across diverse stellar types. By modelling the planets'' interiors and measuring the stars'' abundances, it finds no statistically significant correlation between the two, suggesting that current observational uncertainties are too large and mask any underlying relationship.'
+  lay_summary_draft: null
+  _raw: null
 - slug: boucher-2026-reflective
   section: research
   subsection: published
