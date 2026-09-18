@@ -1,3 +1,20 @@
+- slug: sastre-2026-predictions
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: '**Sastre M**, **T Lichtenberg**, L Dang, A Piette, HS Wang, M López-Morales, T Wilson, C-É Boukaré, M Herath, N Cowan, MA Al Zaman, MG Barber, C Brinkman-Traverse, N Connors, I Crossfield, L D''Aoust, O Herbort, L Janssen, M Kervazo, O Lammert, Y Miguel, R Pierrehumbert, A Vazan, JP Wardenier, S Zieba'
+  title: 'Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey'
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2609.20155
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2609.20155
+    pdf: https://arxiv.org/pdf/2609.20155
+  bibcode: null
+  lab_led: true
+  abstract: 'Ultra-short-period (USP) rocky exoplanets can have dayside temperatures high enough to maintain permanent magma oceans, sitting at the intersection of interior geophysics and atmospheric chemistry. Coupled feedbacks between the molten surface and outgassed atmosphere can sustain or enhance a volatile envelope, while stellar interactions can erode it. Understanding which outcome prevails, and its observable imprint, requires a multi-target approach across planets at different stages of thermal evolution. We present predictions for the five targets of JWST Cycle 4 program 8864: TOI-1807 b, TOI-2260 b, TOI-431 b, TOI-6255 b, and TOI-2431 b. Using the PROTEUS coupled interior-atmosphere framework, we construct a simulation grid and classify outcomes into six categories, defined by the final interior melt state and by whether the planet retains a detectable atmosphere thick enough to redistribute heat to the nightside. For targets retaining a non-negligible volatile envelope, our models predict higher partial pressures for most species when the surface is molten, except for S₂, whose enhancement in the solid regime suggests it may serve as a tracer of interior melt state. Despite some targets showing outcomes across multiple scenarios, most tend toward a bare-rock end-member, with global melt fraction ≤ 20% and atmospheric retention sensitive to escape efficiency. Our analysis reveals a minimum escape efficiency threshold below which volatile envelopes survive under energy-limited escape, constraining the conditions required for atmosphere survival on irradiated rocky planets. These predictions will guide interpretation of MIRI-LRS phase curve observations and identify which targets and features best discriminate between competing geophysical states.'
+  lay_summary: 'Lava worlds orbit so close to their stars that their surfaces are molten, leading to complex interactions between the magma ocean and any atmosphere. Using the PROTEUS framework, this study predicts the thermal evolution and atmospheric survival for five targets of a major JWST program. The models show that while most of these planets likely end up as bare rocks, those that retain an atmosphere show specific chemical signatures that JWST can detect to reveal their interior state.'
+  lay_summary_draft: null
+  _raw: null
 - slug: postolec-2026-survival
   section: research
   subsection: preprints
