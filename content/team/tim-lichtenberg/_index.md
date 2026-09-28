@@ -45,7 +45,7 @@ Project: [Linking interior-atmosphere regimes to planetary accretion](https://da
 ## Education
 
 **[Department of Earth Sciences, ETH Zürich](https://ethz.ch/en.html), Switzerland**\
-Dr.sc. ETH Zurich / planetary physics, star and planet formation\
+Dr.sc. ETH Zurich / planetary physics\
 Thesis: [Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiation & Volatile Retention](https://www.research-collection.ethz.ch/entities/publication/4bb27de6-4663-495f-a29a-e342bd8bf6dd)\
 09/2014 – 07/2018
 
