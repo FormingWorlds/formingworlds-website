@@ -1,10 +1,10 @@
 - slug: zieba-2026-first
   section: research
-  subsection: preprints
+  subsection: published
   year: 2026
   authors_md: 'Zieba S, B Edwards, SN Quinn, LJ Janssen, NB Cowan, L Kreidberg, M Lopez-Morales, L Dang, L Malavolta, Y Miguel, TG Nguyen, A Vanderburg, TG Wilson, M Zilinskas, NJ Connors, IJM Crossfield, O Herbort, AL Kraus, **T Lichtenberg**, **M Sastre**, JP Wardenier'
   title: 'The First Hubble Detection of a Secondary Eclipse from a Rocky Exoplanet: the 5.4-hour planet TOI-2431 b'
-  venue_md: null
+  venue_md: '*The Astrophysical Journal Letters*, in press (2026)'
   primary_url: https://arxiv.org/abs/2609.31966
   links:
     scix: https://scixplorer.org/abs/arXiv:2609.31966
