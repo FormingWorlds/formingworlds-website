@@ -1,3 +1,20 @@
+- slug: zieba-2026-first
+  section: research
+  subsection: preprints
+  year: 2026
+  authors_md: 'Zieba S, B Edwards, SN Quinn, LJ Janssen, NB Cowan, L Kreidberg, M Lopez-Morales, L Dang, L Malavolta, Y Miguel, TG Nguyen, A Vanderburg, TG Wilson, M Zilinskas, NJ Connors, IJM Crossfield, O Herbort, AL Kraus, **T Lichtenberg**, **M Sastre**, JP Wardenier'
+  title: 'The First Hubble Detection of a Secondary Eclipse from a Rocky Exoplanet: the 5.4-hour planet TOI-2431 b'
+  venue_md: null
+  primary_url: https://arxiv.org/abs/2609.31966
+  links:
+    scix: https://scixplorer.org/abs/arXiv:2609.31966
+    pdf: https://arxiv.org/pdf/2609.31966
+  bibcode: null
+  lab_led: false
+  abstract: 'We present an HST/WFC3 G141 phase-curve observation of the ultra-short-period rocky planet TOI-2431 b and detect its secondary eclipse in the near infrared. Combined with the TESS optical eclipse, these measurements constrain the planet''s dayside brightness temperature, reflected light contribution, albedo, and heat redistribution. We detect the eclipse in the optical and near infrared wavelengths of TESS and HST/WFC3 G141, with a planet-to-star flux ratio of 37+/-10 ppm and 69(+14/-13) ppm, respectively. Assuming negligible reflected light, the joint TESS+HST fit yields a brightness temperature T_b,joint=2524(+77/-84) K and a brightness temperature ratio of R_joint=T_b,joint/T_p,max=0.980(+0.032/-0.034) consistent with the zero-albedo, no-redistribution limit T_p,max=2574(+36/-35) K. The HST phase curve is consistent with zero nightside emission and no measurable hotspot offset, consistent with inefficient day-night heat distribution. Under this thermal-dominated interpretation, TOI-2431 b lies at the zero-albedo, no-redistribution limit and contrasts with previously observed lava worlds. At optical and near-infrared wavelengths, however, thermal emission is degenerate with reflected light. For a geometric albedo of A_g=0.1, reflected light would contribute approximately 11 ppm in each bandpass, reducing the temperature to T_b,joint(A_g=0.1)=2407(+91/-102) K. Longer-wavelength observations are required to isolate the thermal component. Planned JWST/MIRI LRS observations are expected to substantially reduce this degeneracy and provide more direct constraints on heat redistribution and possible silicate-atmosphere spectral features. This marks the first secondary eclipse detection of a rocky exoplanet using HST and establishes TOI-2431 b as a benchmark target for studying properties of lava worlds.'
+  lay_summary: 'We present the first secondary eclipse detection of a rocky exoplanet using the Hubble Space Telescope. Observations of the ultra-short-period lava world TOI-2431 b in the near-infrared and optical reveal a hot dayside with negligible heat redistribution to the nightside, establishing it as a benchmark target for future atmospheric studies.'
+  lay_summary_draft: null
+  _raw: null
 - slug: lichtenberg-2026-shrink
   section: research
   subsection: preprints
