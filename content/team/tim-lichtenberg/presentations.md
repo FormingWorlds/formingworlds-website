@@ -178,7 +178,7 @@ The Delivery of Water to Proto-planets, Planets and Satellites, Bern, CH, 01/201
 
 ## Colloquia & Seminars
 
-Institute of Astronomy, KU Leuven ★, Leuven, BE, 10/2026
+Institute of Astronomy, KU Leuven ★, Leuven, BE, 10/2026, [slides](https://drive.google.com/open?id=1lacOi0OEaOWrt5t_Er-b46f53D-lWG2b&usp=drive_fs)
 
 Globe Institute, Centre for Star and Planet Formation ★, Copenhagen, DK, 02/2026, [slides](https://drive.google.com/open?id=1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM&usp=drive_fs)
 
