@@ -8,6 +8,8 @@ role: "★ Invited & Keynote"
 
 ## Conferences & Workshops
 
+Europlanet Science Congress, The Hague, NL, 09/2026, [slides](https://drive.google.com/open?id=1HXayKnmdg3kxbdWsOc6ls95-ss7qpGkn&usp=drive_fs)
+
 International Conference on Exoplanets and Planet Formation ★, Shanghai, CN, 12/2025, [slides](https://drive.google.com/open?id=1rrp-4WGytvo5DFHOdpIIiD5AOGYTeLyo&usp=drive_fs)
 
 Planetary Formation and Exoplanets in the ELT Era, Garching, DE, 11/2025, [slides](https://drive.google.com/open?id=174Mns4iKvW-unpr_HRmuI70VbbtxxsYM&usp=drive_fs)
@@ -175,6 +177,10 @@ The Delivery of Water to Proto-planets, Planets and Satellites, Bern, CH, 01/201
 ---
 
 ## Colloquia & Seminars
+
+Institute of Astronomy, KU Leuven ★, Leuven, BE, 10/2026
+
+Globe Institute, Centre for Star and Planet Formation ★, Copenhagen, DK, 02/2026, [slides](https://drive.google.com/open?id=1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM&usp=drive_fs)
 
 Department of Astrophysics, Radboud University ★, Nijmegen, NL, 03/2025, [slides](https://drive.google.com/open?id=1XKXejNj8PqefEvOw-fhMohIZIhPoenMG&usp=drive_fs)
 
