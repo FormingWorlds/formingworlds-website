@@ -8,7 +8,11 @@ role: "★ Invited & Keynote"
 
 ## Conferences & Workshops
 
+BUFFET-6 ★, virtual, 09/2026, [slides](https://drive.google.com/open?id=1fXJGsa8E6A8sRghy499FYd8ZVg5CB4Jq&usp=drive_fs)
+
 Europlanet Science Congress, The Hague, NL, 09/2026, [slides](https://drive.google.com/open?id=1HXayKnmdg3kxbdWsOc6ls95-ss7qpGkn&usp=drive_fs)
+
+Layers of Understanding: Model Intercomparisons of Exoplanet Interiors ★, Heidelberg, DE, 04/2026, [slides](https://drive.google.com/open?id=1PgjSnbey4gAVonphFA6wL9MfHhgjhWJS&usp=drive_fs)
 
 International Conference on Exoplanets and Planet Formation ★, Shanghai, CN, 12/2025, [slides](https://drive.google.com/open?id=1rrp-4WGytvo5DFHOdpIIiD5AOGYTeLyo&usp=drive_fs)
 
