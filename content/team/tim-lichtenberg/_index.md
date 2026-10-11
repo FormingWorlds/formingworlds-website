@@ -103,7 +103,7 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 
 ### Courses
 
-- [Planetary Systems](https://ocasys.rug.nl/current/catalog/course/WBAS002-05), BSc course, Kapteyn Institute, University of Groningen, main lecturer, 2025
+- [Planetary Systems](https://ocasys.rug.nl/current/catalog/course/WBAS002-05), BSc course, Kapteyn Institute, University of Groningen, main lecturer, 2025, 2026
 - [Exoplanets](https://ocasys.rug.nl/current/catalog/course/WMAS026-05), MSc course, Kapteyn Institute, University of Groningen, main lecturer, 2024, 2025, 2026
 - Hands-on Numerical Astrophysics School for Planet Formation Sciences, summer school, German Science Foundation priority research programme 1992 "Exoplanet Diversity", Rauenberg, lecturer, 08/2023
 - Star and Planet Formation, MSc course, Kapteyn Astronomical Institute, University of Groningen, co-lecturer, 2023, 2025
@@ -114,6 +114,13 @@ Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx
 - Scientific computing techniques, Göttingen University Physics, Teaching Assistant, 2013/14
 - Introduction to Astro- and Geophysics, Göttingen University Physics, Teaching Assistant, 2013
 - Basic physics lab course, Göttingen University Physics, Lab Assistant, 2012/14
+
+### Mentored Postdocs
+
+- Patrick Bos, Senior Research Software Engineer, ERC Starting Grant MagmaWorlds, Kapteyn Institute, 2026–
+- Mara Attia, SNSF Postdoctoral Fellow, Kapteyn Institute, 2025–
+- Tadahiro Kimura, JSPS Postdoctoral Fellow, Kapteyn Institute, 2024–2026
+- Rob Spaargaren, SNSF Postdoctoral Fellow, Kapteyn Institute, 2023–2025
 
 ### Mentored Students
 
@@ -250,6 +257,7 @@ Astrobiology Science Officer, [EGU Planetary and Solar System Sciences Division]
 
 - [Rocky Worlds Discussions](https://discussions.rockyworlds.org/), monthly virtual seminar series, co-founder, board member, 10/2022–
 - [LIFE Science Team meetings](https://life-space-mission.com/events/), monthly virtual team meeting, Co-Host, 03/2022–
+- [Rocky Worlds 5](https://berlin2028.rockyworlds.org/), SOC, Berlin, 04/2028
 - [Rocky Worlds IV](https://groningen2026.rockyworlds.org/), SOC, Groningen, main organiser, 01/2026
 - [Exoclimes VII](https://exoclimes.org/), SOC, Université de Montréal, QC, CA, 07/2025
 - Exoplanets V, Session Convenor, Leiden, 06/2024
