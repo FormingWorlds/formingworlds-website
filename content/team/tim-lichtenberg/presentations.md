@@ -6,360 +6,364 @@ role: "★ Invited & Keynote"
 
 <div class="presentations-list">
 
-## Conferences & Workshops
+*174 presentations in total, incl. 86 invited★*
 
-BUFFET-6 ★, virtual, 09/2026, [slides](https://drive.google.com/open?id=1fXJGsa8E6A8sRghy499FYd8ZVg5CB4Jq&usp=drive_fs)
+## Conferences and Workshops
 
-Europlanet Science Congress, The Hague, NL, 09/2026, [slides](https://drive.google.com/open?id=1HXayKnmdg3kxbdWsOc6ls95-ss7qpGkn&usp=drive_fs)
+BUFFET-6 (virtual) ★, 09/2026, [slides](https://drive.google.com/file/d/1fXJGsa8E6A8sRghy499FYd8ZVg5CB4Jq/view)
 
-Layers of Understanding: Model Intercomparisons of Exoplanet Interiors ★, Heidelberg, DE, 04/2026, [slides](https://drive.google.com/open?id=1PgjSnbey4gAVonphFA6wL9MfHhgjhWJS&usp=drive_fs)
+Europlanet Science Congress, The Hague, NL, 09/2026, [slides](https://drive.google.com/file/d/1HXayKnmdg3kxbdWsOc6ls95-ss7qpGkn/view)
 
-International Conference on Exoplanets and Planet Formation ★, Shanghai, CN, 12/2025, [slides](https://drive.google.com/open?id=1rrp-4WGytvo5DFHOdpIIiD5AOGYTeLyo&usp=drive_fs)
+Layers of Understanding: Model Intercomparisons of Exoplanet Interiors, Heidelberg, DE ★, 04/2026, [slides](https://drive.google.com/file/d/1PgjSnbey4gAVonphFA6wL9MfHhgjhWJS/view)
 
-Planetary Formation and Exoplanets in the ELT Era, Garching, DE, 11/2025, [slides](https://drive.google.com/open?id=174Mns4iKvW-unpr_HRmuI70VbbtxxsYM&usp=drive_fs)
+International Conference on Exoplanets and Planet Formation, Shanghai, CN ★, 12/2025, [slides](https://drive.google.com/file/d/1rrp-4WGytvo5DFHOdpIIiD5AOGYTeLyo/view)
 
-CHILI: Coupled atmospHere Interior modeL Intercomparison, Leiden, NL, 09/2025, [slides](https://drive.google.com/open?id=11SbvzWW5DNsNAsej6g8ULIIDbRSjx8m_&usp=drive_fs)
+Planetary Formation and Exoplanets in the ELT Era, Garching, DE, 11/2025, [slides](https://drive.google.com/file/d/174Mns4iKvW-unpr_HRmuI70VbbtxxsYM/view)
 
-Frontiers in Nanoscience CeNS/CRC 392 ★, Venice, IT, 09/2025, [slides](https://drive.google.com/open?id=1yaF54J3-VeLc84Hr2rQAlvjmoyiMDRMK&usp=drive_fs)
+CHILI: Coupled atmospHere Interior modeL Intercomparison, Leiden, NL, 09/2025, [slides](https://drive.google.com/file/d/13xukmNHOcAHPzf3jf35hte0KTeyTilEX/view)
 
-BUFFET-5 ★, Bordeaux, FR, 09/2025, [slides](https://drive.google.com/open?id=13xukmNHOcAHPzf3jf35hte0KTeyTilEX&usp=drive_fs)
+Frontiers in Nanoscience CeNS/CRC 392, Venice, IT ★, 09/2025, [slides](https://drive.google.com/file/d/1yaF54J3-VeLc84Hr2rQAlvjmoyiMDRMK/view)
 
-Europlanet Science Congress ★, Helsinki, FI, 09/2025, [slides](https://drive.google.com/open?id=1KEwC5W1GqCwtaTpIg9M6cy6zA7_L5FAS&usp=drive_fs)
+BUFFET-5, Bordeaux, FR ★, 09/2025, [slides](https://drive.google.com/file/d/13xukmNHOcAHPzf3jf35hte0KTeyTilEX/view)
 
-ESA Ariel Consortium Meeting, Leiden, NL, 04/2025, [slides](https://drive.google.com/open?id=1h_X7K4D8i6mUD5DeNCCUjCb0lPkXs0mj&usp=drive_fs)
+Europlanet Science Congress, Helsinki, FI ★, 09/2025, [slides](https://drive.google.com/file/d/1KEwC5W1GqCwtaTpIg9M6cy6zA7_L5FAS/view)
 
-Future Role of FIR-Submm Space Observations ★, Leiden, NL, 04/2025, [slides](https://drive.google.com/open?id=1T0LgqwB0R8h-1K9naYbCdEPeaTng_2tJ&usp=drive_fs)
+ESA Ariel Consortium Meeting, Leiden, NL, 04/2025, [slides](https://drive.google.com/file/d/1JbtB9igJv_FdwiMoInSd6l773nuK0Ddu/view)
 
-NOVA @ 25 ★, The Hague, NL, 12/2024, [slides](https://drive.google.com/open?id=1N5A-pr9daDX0Bh46efQoAbcgZuZaDbQG&usp=drive_fs)
+Future Role of FIR-Submm Space Observations, Leiden, NL ★, 04/2025, [slides](https://drive.google.com/file/d/1WV6nnHecl8MK67xS6zNlStWcmGcJNAog/view)
 
-Origins Federation Conference ★, Cambridge, UK, 09/2024, [slides](https://www.dropbox.com/scl/fi/8lkp3bsjxwt497gb11xtc/240910-Origins-Federation-Conference-Cambridge.pdf?rlkey=7kn82wqrtckjj55qolxfwwgvi&dl=0)
+NOVA @ 25, The Hague, NL ★, 12/2024, [slides](https://drive.google.com/file/d/1N5A-pr9daDX0Bh46efQoAbcgZuZaDbQG/view)
 
-National Astronomers' Conference ★, NL, 05/2024, [slides](https://www.dropbox.com/scl/fi/3jvcl0qr6p486uy2sczun/240513-NAC-Astronomy.pdf?rlkey=vcph7azdzug6ocs1gk6sddi94&dl=0)
+Origins Federation Conference, Cambridge, UK ★, 09/2024, [slides](https://drive.google.com/file/d/1K5PZmcn7upHGic9t32dVxiIQhVbofOZP/view)
 
-The Geoscience of Exoplanets: Going Beyond Habitability ★, International Space Science Institute, CH, 04/2024, [slides](https://www.dropbox.com/scl/fi/n2iog8muvb9z86kdrtzuc/240409-ISSI-Exoplanet-Geoscience.pdf?rlkey=sb1ta8letpkrw39f0mergtohq&dl=0)
+National Astronomers' Conference, NL ★, 05/2024, [slides](https://drive.google.com/file/d/149K65H9QVncbrQJeQQpJMrfUKRgrXM0L/view)
 
-Challenges in the field of exoplanets and the search for life ★, Leiden, NL, 02/2024, [slides](https://www.dropbox.com/scl/fi/xta12vf1oqxu94hznf4ho/240209-Leiden.pdf?rlkey=8u2tg93hy1vnnbuq8d1o7bwmu&dl=1)
+The Geoscience of Exoplanets: Going Beyond Habitability, International Space Science Institute, Bern, CH ★, 04/2024, [slides](https://drive.google.com/file/d/1JbtB9igJv_FdwiMoInSd6l773nuK0Ddu/view)
 
-Ringberg Conference: Density Matters ★, Kreuth, DE, 02/2024, [slides](https://www.dropbox.com/scl/fi/j8n4g46k6athka5amwdd4/240207-Ringberg-Density-Matters.pdf?rlkey=740e5y67bq40jhvty4lfu789u&dl=1)
+Challenges in the field of exoplanets and the search for life, Leiden, NL ★, 02/2024, [slides](https://drive.google.com/file/d/1r3DYfPVY8n8z_z8ZcMr0J23jUGCPTLz9/view)
 
-Atmospheric and Interior connection in rocky EXOplanets and what we can learn from the Solar System ★, JPL Caltech, Pasadena, US, 08/2023, [slides](https://www.dropbox.com/scl/fi/ha4mn6gs54nhta4sw1oci/230829-JPL-ExoSS.pdf?rlkey=8rxyz7l57gszvty18ct7ypzj8&dl=0)
+Ringberg Conference: Density Matters, Ringberg Castle, Kreuth, DE ★, 02/2024, [slides](https://drive.google.com/file/d/1LPbGnuNnQkmh4vTjSpf-kVwNopc42UlA/view)
 
-Exoclimes VI ★, Exeter, UK, 06/2023, [slides](https://www.dropbox.com/scl/fi/go7kqyv83jk6eof6h6ye8/230628-Exoclimes-VI.pdf?dl=0&rlkey=0d17f96pm3iecgd6wl7wezweg)
+Atmospheric and Interior connection in rocky EXOplanets and what we can learn from the Solar System, JPL Caltech, Pasadena, US (virtual) ★, 08/2023, [slides](https://drive.google.com/file/d/1tPZEuKEZYXHaPdqn4rL-vAGGb_hwFl8M/view)
 
-Molecular Origins of Life ★, Munich, DE, 06/2023, [slides](https://www.dropbox.com/s/5t67rup2bwiqp9u/230621%20MOM23.pdf?dl=0)
+Exoclimes VI, Exeter, UK ★, 06/2023, [slides](https://drive.google.com/file/d/1CWYAqaJENPV_e7jbi5vu0gyWJAoFxQlD/view)
 
-Gordon Research Conference – Origins of Solar Systems ★, South Hadley, US, 06/2023, [slides](https://www.dropbox.com/s/jffp60pzyn8y9tc/230614%20GRC.pdf?dl=0)
+Molecular Origins of Life, Munich, DE (virtual) ★, 06/2023, [slides](https://drive.google.com/file/d/1CWYAqaJENPV_e7jbi5vu0gyWJAoFxQlD/view)
 
-European Geosciences Union (EGU) General Assembly ★, Vienna, AUT, 04/2023, [slides](https://www.dropbox.com/s/thboty30fylrwaw/230425%20EGU23-1707.pdf?dl=0)
+Gordon Research Conference – Origins of Solar Systems, South Hadley, US ★, 06/2023, [slides](https://drive.google.com/file/d/1U5XIkoWZfv4-KNivga1bSaSF8cWN98YM/view)
 
-Protostars and Planets VII ★, Kyoto, JP, 04/2023, [slides](https://www.dropbox.com/s/taejgry46c8gyak/230415%20PPVII%20Kyoto.pdf?dl=0)
+European Geosciences Union (EGU) General Assembly, Vienna, AUT ★, 04/2023, [slides](https://drive.google.com/file/d/15hmxby4aH3gjnOuRwaS-V0HrhvRWJRae/view)
 
-ESA ESLAB – Understanding Planets in the Solar System and Beyond, Noordwijk, NL, 03/2023, [slides](https://www.dropbox.com/s/p5y4g9vnopw4wv7/230322%20ESLAB.pdf?dl=0)
+Protostars and Planets VII, Kyoto, JP ★, 04/2023, [slides](https://drive.google.com/file/d/1e8Gb_CkOHlQ9I8goPxIioBNb_qZFiZdH/view)
 
-Fundamentals of the Universe Symposium ★, Groningen, NL, 02/2023, [slides](https://www.dropbox.com/s/9vc93g7k76kpryv/230202%20FotU.pdf?dl=0)
+ESA ESLAB – Understanding Planets in the Solar System and Beyond, Noordwijk, NL, 03/2023, [slides](https://drive.google.com/file/d/1BTiv2dkoUtie0gduYLKfM6MyE0a5vRc0/view)
 
-Life in the Universe, Physics of Living Systems ★, Sofia, BG, 10/2022, [video](https://youtu.be/M2CopK35Jrs), [slides](https://www.dropbox.com/s/3v3zgu9zz9aaght/221025_SofiaLife.pdf?dl=0)
+Fundamentals of the Universe Symposium, Groningen, NL ★, 02/2023, [slides](https://drive.google.com/file/d/1X23zkRR06JpK9zVdVmL_aih9tg_z-qAE/view)
 
-The Sun and Planetary Systems, Center for Space Science, NYUAD ★, UAE, 10/2022, [slides](https://www.dropbox.com/s/4jw456x45p8270o/221012_NYUAD.pdf?dl=0)
+Life in the Universe, Physics of Living Systems, Sofia, BG ★, 10/2022, [slides](https://drive.google.com/file/d/1Kl6lquLw01qHmAfhkHWtzha1gaRu0tgO/view)
 
-10th Workshop on High Pressure, Planetary and Plasma Physics, Royal Observatory of Belgium, Brussels ★, BE, 09/2022, [slides](https://www.dropbox.com/s/f5guqv5vck805y9/220929_HP4_Brussels.pdf?dl=0)
+The Sun and Planetary Systems, Center for Space Science, NYUAD, UAE ★, 10/2022, [slides](https://drive.google.com/file/d/11GsJjmE9y_CBEcxOtl2Aiw7D8eSTp3e4/view)
 
-3rd Workshop on Giant Collisions and their Effects on the Thermochemical Evolution of Planets, DLR Berlin, DE, 09/2022, [slides](https://www.dropbox.com/s/saj3qgtfwm1giki/220916_ImpactWorkshop_Berlin.pdf?dl=0)
+10th Workshop on High Pressure, Planetary and Plasma Physics, Royal Observatory of Belgium, Brussels, BE ★, 09/2022, [slides](https://drive.google.com/file/d/1qiOq1yMEKAPpyi6ilAwZ7z9c_vkwMILq/view)
 
-(Exo)Planet Diversity, Formation and Evolution, FU Berlin, DE, 09/2022, [slides](https://www.dropbox.com/s/lm9gxczetnw4zel/220914_PFE22_Berlin.pdf?dl=0)
+3rd Workshop on Giant Collisions and their Effects on the Thermochemical Evolution of Planets, DLR Berlin, DE, 09/2022, [slides](https://drive.google.com/file/d/1ORJbeoXg55mQNB4U9dooLZlWJ-Nc5wIF/view)
 
-Latsis Symposium on The Origin and Prevalence of Life, ETH Zurich, CH, 09/2022, [video](https://oc-vp-distribution03.ethz.ch/mh_default_org/oaipmh-mmp/9acc8f70-f1a8-4019-abdb-66c124e76060/e550465e-2c89-48cb-b14d-086eb65466e2/20220902_1515_HGF30_Latsis_Symposium_Lichtenberg.mp4), [slides](https://www.dropbox.com/s/tlay11giam0jfip/220902_Latsis.pdf?dl=0)
+(Exo)Planet Diversity, Formation and Evolution, FU Berlin, DE, 09/2022, [slides](https://drive.google.com/file/d/1ORJbeoXg55mQNB4U9dooLZlWJ-Nc5wIF/view)
 
-International Astronomical Union General Assembly, FM10, Busan, KR, 08/2022, [slides](https://www.dropbox.com/s/6sd1mm658mxqfes/220802_FM10_LIFE.pdf?dl=0)
+Latsis Symposium on The Origin and Prevalence of Life, ETH Zurich, CH, 09/2022, [slides](https://drive.google.com/file/d/1T1XznWtqSLIniXK0D0k96dMxDTuiXk_M/view)
 
-International Astronomical Union General Assembly, Division F ★, Busan, KR, 08/2022, [slides](https://www.dropbox.com/s/oobcw490bdns4zl/220805_IAU_DivF.pdf?dl=0)
+International Astronomical Union General Assembly, FM10: Synergy of Small Telescopes, and Large Surveys for Solar System and Exoplanetary Bodies Research, Busan, KR, 08/2022, [slides](https://drive.google.com/file/d/1qyo8ZvF8UL5UGjHW4wugHm-RGH_rUjo5/view)
 
-Annual Meeting of the European Astronomical Society ★, Valencia, ESP, 06/2022, [slides](https://www.dropbox.com/s/utk773787npi8kc/220630_EAS22_Valencia.pdf?dl=0)
+International Astronomical Union General Assembly, Division F: Planetary Systems and Astrobiology, Busan, KR ★, 08/2022, [slides](https://drive.google.com/file/d/1tWEdp0cD5Z67r9Mqy8przTnbi-kMKbwl/view)
 
-AGU21: Multidisciplinary Perspectives on Terrestrial Worlds ★, New Orleans, USA, 12/2021, [video](https://youtu.be/mKLwdNxRQr0)
+Annual Meeting of the European Astronomical Society, Valencia, ESP ★, 06/2022, [slides](https://drive.google.com/file/d/1ZZZGwH-lZZ2H_uXs2_u5vgqRgG3sJWpx/view)
 
-AGU21: A Journey Into Planetary Interiors, New Orleans, USA, 12/2021, [video](https://youtu.be/cY__26vtplk)
+AGU21: Multidisciplinary Perspectives on Terrestrial Worlds (virtual), 12/2021, [slides](https://drive.google.com/file/d/1G1Gr30oZSVgGEgbKMU9hTEnJ65ULoRUY/view)
 
-ESA PLATO Atmospheres Workshop, Berlin, DE, 12/2021, [slides](https://doi.org/10.5281/zenodo.5772665)
+AGU21: A Journey Into Planetary Interiors (virtual), 12/2021, [slides](https://drive.google.com/file/d/1G1Gr30oZSVgGEgbKMU9hTEnJ65ULoRUY/view)
 
-The Volatile Content of Planets that Form Early ★, Leiden, NL, 12/2021, [slides](https://doi.org/10.5281/zenodo.5723929)
+ESA PLATO Atmospheres workshop 2021 (virtual), 12/2021, [slides](https://drive.google.com/file/d/1hVgaw65kKSaEMPdMks6pDhyhhyJunSLs/view)
 
-ESA Ariel Interiors working group meeting 2021, Zurich, CH, 11/2021, [slides](https://doi.org/10.5281/zenodo.5705996)
+The Volatile Content of Planets that Form Early, Lorentz Center workshop, Leiden, NE (virtual) ★, 12/2021, [slides](https://drive.google.com/file/d/1hVgaw65kKSaEMPdMks6pDhyhhyJunSLs/view)
 
-ESA PLATO mission conference 2021, virtual, EU, 10/2021, [slides](https://doi.org/10.5281/zenodo.5573744)
+Ariel Interiors working group meeting 2021, Zurich, CH (virtual), 11/2021, [slides](https://drive.google.com/file/d/1UflF65SYVTAxZa8-3JAnEcy-D2-HZoNE/view)
 
-Ringberg 2021: Formation of the Solar System ★, Kreuth, DE, 10/2021, [slides](https://doi.org/10.5281/zenodo.5559400)
+PLATO Mission Conference 2021, Berlin, DE (virtual), 10/2021, [slides](https://drive.google.com/file/d/1YxnE85HT3ymWJUIg8YW2ZXFEykn4E8BI/view)
 
-EPSC 2021, EXO3, virtual, EU, 09/2021, [slides](https://doi.org/10.5281/zenodo.5376270), [video](https://youtu.be/Ebs2Ojdqc-A)
+Ringberg 2021: Formation of the Solar System, Kreuth, DE ★, 10/2021, [slides](https://drive.google.com/file/d/1YxnE85HT3ymWJUIg8YW2ZXFEykn4E8BI/view)
 
-EPSC 2021, TP3 ★, virtual, EU, 09/2021, [slides](https://doi.org/10.5281/zenodo.5385740), [video](https://youtu.be/wtGu5u7XwJA)
+EPSC 2021, EXO3: Exoplanet observations, modelling and experiments, virtual, EU, 09/2021, [slides](https://drive.google.com/file/d/1PaBnxxJz_Vz6-HmTPWQ85k13S8FgMv0n/view)
 
-EPSC 2021, EXO1, virtual, EU, 09/2021, [slides](https://doi.org/10.5281/zenodo.5385823), [video](https://youtu.be/f4i6IfEb3-k)
+EPSC 2021, TP3: Late accretion processes, virtual, EU ★, 09/2021, [slides](https://drive.google.com/file/d/1PaBnxxJz_Vz6-HmTPWQ85k13S8FgMv0n/view)
 
-Astrobiology Graduate Conference 2021, Tokyo, JP, 09/2021, [video](https://youtu.be/VRYQV4n1V1k)
+EPSC 2021, EXO1: Zooming In On Planet Formation, EU (virtual), 09/2021, [slides](https://drive.google.com/file/d/17G8yzMD0M1eNU9CVom2SYnu8xdXezYxC/view)
 
-Annual Meeting of the German Physical Society, Exoplanets & Astrobiology, virtual, DE, 09/2021, [slides](https://doi.org/10.5281/zenodo.5376270), [video](https://youtu.be/Ebs2Ojdqc-A)
+Astrobiology Graduate Conference 2021, Tokyo, JP (virtual), 09/2021, [slides](https://drive.google.com/file/d/1PaBnxxJz_Vz6-HmTPWQ85k13S8FgMv0n/view)
 
-Simons Collaboration on the Origins of Life, Investigators Meeting, New York, USA, 07/2021, [slides](https://doi.org/10.5281/zenodo.5118415)
+German Physical Society Meeting, session Exoplanets & Astrobiology, virtual, DE, 09/2021, [slides](https://drive.google.com/file/d/1PaBnxxJz_Vz6-HmTPWQ85k13S8FgMv0n/view)
 
-Goldschmidt 2021, Chemical geodynamics throughout the Solar System ★, Lyon, FR, 07/2021, [slides](https://doi.org/10.5281/zenodo.5081668), [video](https://youtu.be/9R8a0B7qBuk)
+Simons Collaboration on the Origins of Life Investigators Meeting, New York, US (virtual), 07/2021, [slides](https://drive.google.com/file/d/1TH6uq5ITWwEViRowUXndsumFMy5E_l5l/view)
 
-STScI Spring Symposium 2021, Space Telescope Science Institute, USA, 04/2021, [slides](https://doi.org/10.5281/zenodo.4716491)
+Goldschmidt 21, Chemical geodynamics throughout the Solar System, Lyon, FR (virtual) ★, 07/2021, [slides](https://drive.google.com/file/d/1TH6uq5ITWwEViRowUXndsumFMy5E_l5l/view)
 
-STScI Spring Symposium 2021, Science Writers' Workshop ★, Space Telescope Science Institute, USA, 04/2021, [slides](https://doi.org/10.5281/zenodo.4716505)
+STScI SS21, Towards the Comprehensive Characterization of Exoplanets, STScI, US (virtual), 04/2021, [slides](https://drive.google.com/file/d/1PJrbmGXzANUMABJjEo07iT75t0wOLOWZ/view)
 
-Habitable Worlds 2021 ★, NASA NExSS, USA, 02/2021, [slides](https://doi.org/10.5281/zenodo.4553377), [video](https://youtu.be/B_Q_8ZouvTk)
+STScI Spring Symposium 2021, Science Writers' Workshop, STScI, US (virtual) ★, 04/2021, [slides](https://drive.google.com/file/d/1PJrbmGXzANUMABJjEo07iT75t0wOLOWZ/view)
 
-Origins 2021, Origins Center, NL, 01/2021, [slides](https://doi.org/10.5281/zenodo.4471333)
+Habitable Worlds 21, NASA NExSS, NExScI, US (virtual) ★, 02/2021, [slides](https://drive.google.com/file/d/12Wh1EN2klvxCPVAIPqUc_oT3hdD8AASL/view)
 
-Five years after HL Tau, ESO, CL, 12/2020, [video](https://youtu.be/GO1uBNnmUAU)
+Origins 2021, Origins Center, NL (virtual), 01/2021, [slides](https://drive.google.com/file/d/1VDPBeSzHTA5E1t9-DgkbhBt9tFVuNDMs/view)
 
-Simons Collaboration on the Origins of Life, Annual Symposium, New York, USA, 11/2020, [slides](https://doi.org/10.5281/zenodo.4247662)
+Five years after HL Tau: a new era in planet formation, ESO, CL (virtual), 12/2020, [slides](https://drive.google.com/file/d/1qPS5TjDIA7QyLDpPv7wPbpXJy05eE4wX/view)
 
-EPSC 2020, EXO3, virtual, EU, 09/2020, [slides/video](https://doi.org/10.5281/zenodo.4020324)
+Simons Collaboration on the Origins of Life Annual Symposium, New York, US (virtual), 11/2020, [slides](https://drive.google.com/file/d/1GK2UlwkwPwaUu7MfTDY2icfaK_fVc702/view)
 
-EPSC 2020, TP3, virtual, EU, 09/2020, [slides/video](https://doi.org/10.5281/zenodo.4020306)
+EPSC 2020, EXO3: From Disks to Planets and their Atmospheres, virtual, EU, 09/2020, [slides](https://drive.google.com/file/d/1D3vkLmXqktBcxCupWtf1JzVN9VOZEqzz/view)
 
-Munich Institute for Astro- and Particle Physics, Final Orbit Assembly, Garching, DE, 06/2020, [slides](https://doi.org/10.5281/zenodo.3888215)
+EPSC 2020, TP3: Coupled planet formation and evolution, EU (virtual), 09/2020, [slides](https://drive.google.com/file/d/1cTs2vvqNVxGA5Dk5Mj0W9UDmG9uDn-eq/view)
 
-What Makes a Planet Uninhabitable? ★, Chicago, USA, 05/2020, [slides](https://doi.org/10.5281/zenodo.3856578)
+MIAPP virtual workshop: Final Orbit Assembly, Garching, DE (virtual), 06/2020, [slides](https://drive.google.com/file/d/1gY8Hc2byHjfehk-IkaTIxHh0zU-A_Jr7/view)
 
-Gordon Research Seminar & Conference – Origins of Life, Galveston, USA, 01/2020, [slides](https://doi.org/10.5281/zenodo.3612548)
+What Makes a Planet Uninhabitable?, Chicago, US (virtual) ★, 05/2020, [slides](https://drive.google.com/file/d/1o5V-S8fmznY3Ra2E6k5JPr_3B5N4MNd0/view)
 
-Rocky Worlds I, Cambridge, UK, 01/2020, [slides](https://doi.org/10.5281/zenodo.3603118)
+Gordon Research Seminar & Conference – Origins of Life, Galveston, US, 01/2020, [slides](https://drive.google.com/file/d/1SWB-ISwSW38OWjxI60lkun49KzxeoKTs/view)
 
-Exoplanet Vision 2050 ★, Konkoly Observatory, Budapest, HUN, 11/2019, [slides](https://doi.org/10.5281/zenodo.3549903)
+Rocky Worlds: from the Solar System to Exoplanets, Cambridge, UK, 01/2020, [slides](https://drive.google.com/file/d/1SWB-ISwSW38OWjxI60lkun49KzxeoKTs/view)
 
-DFG Research Unit: Transition Disks, LMU Munich, DE, 11/2019, [slides](https://doi.org/10.5281/zenodo.3547861)
+Exoplanet Vision 2050, Konkoly Observatory, Hun Academy of Sciences, Budapest, HUN ★, 11/2019, [slides](https://drive.google.com/file/d/1tk-pjgFZWOLvEQ4wcmqlclHrrL1CTyb9/view)
 
-EPSC-DPS 2019, TP16, Geneva, CH, 09/2019, [slides](https://doi.org/10.5281/zenodo.3450574)
+RU Transition Disks meeting, Center for Advanced Studies, LMU Munich, Munich, DE, 11/2019, [slides](https://drive.google.com/file/d/1-62vtnwqQUm7P1oaee0rm8J_Bm0ABUui/view)
 
-Annual Meeting of the German Astronomical Society 2019 ★, Stuttgart, DE, 09/2019, [slides](https://doi.org/10.5281/zenodo.3450568)
+EPSC-DPS 2019, TP16: Collisions from small bodies to planetary scales, Geneva, CH, 09/2019, [slides](https://drive.google.com/file/d/15Box5_lPHsOvsu-253UL5eKwTiMy3ivu/view)
 
-EPSC-DPS 2019, TP14, Geneva, CH, 09/2019, [slides](https://doi.org/10.5281/zenodo.3450562)
+Annual Meeting of the German Astronomical Society 2019, Stuttgart, DE ★, 09/2019, [slides](https://drive.google.com/file/d/1Yzbv1MxdB5gFeAB4XSylpSWo0Kf20cYA/view)
 
-EPSC-DPS 2019, EXO2, Geneva, CH, 09/2019, [slides](https://doi.org/10.5281/zenodo.3450548)
+EPSC-DPS 2019, TP14: Coupled planet formation and evolution, Geneva, CH, 09/2019, [slides](https://drive.google.com/file/d/1PT-JEHBhAse_PZSLKNPuUn6_JY4iCnfx/view)
 
-From Stars to Planets II, Gothenburg, SE, 06/2019, [slides](https://doi.org/10.5281/zenodo.3292472)
+EPSC-DPS 2019, EXO2: Exoplanet observations, modelling and experiments, Geneva, CH, 09/2019, [slides](https://drive.google.com/file/d/1JkkGxxPMlzLP922yaqKnVpbrjb5TbEEF/view)
 
-UK Exoplanet Community Meeting 2019, London, UK, 04/2019, [slides](https://doi.org/10.5281/zenodo.2640927)
+From Stars to Planets II, Gothenburg, SE, 06/2019, [slides](https://drive.google.com/file/d/14Ymi7e_yDB2_5cD5SSX1iupY29tXW392/view)
 
-Planet Formation and Evolution 2019, Rostock, DE, 02/2019, [slides](https://doi.org/10.5281/zenodo.2591964)
+UK Exoplanet Community Meeting 2019, London, UK, 04/2019, [slides](https://drive.google.com/file/d/1rhDLRdN5dv9hbuzo_S0Y9Afze3e6XfBF/view)
 
-2nd Oxford Meeting on Planets, Oxford, UK, 12/2018, [slides](https://doi.org/10.5281/zenodo.3292850)
+Planet Formation and Evolution 2019, Rostock, DE, 02/2019, [slides](https://drive.google.com/file/d/1CHsBkjnXk9sJZQ-kJ0Zwtp_BP_dI_as4/view)
 
-European Astrobiology Network Association 2018 ★, Berlin, DE, 09/2018, [slides](https://doi.org/10.5281/zenodo.1434677)
+2nd Oxford Meeting on Planets, Oxford, UK, 12/2018, [slides](https://drive.google.com/file/d/19Bg2GpaA4U-oSTqoLbWTaOkClau1ynYR/view)
 
-EPSC 2018, EXO2, Berlin, DE, 09/2018, [slides](https://doi.org/10.5281/zenodo.1434675)
+European Astrobiology Network Association 2018, Berlin, DE ★, 09/2018, [slides](https://drive.google.com/file/d/1JfJldSMdxygEiu5Cu3OP29AkwvgEBd5y/view)
 
-EPSC 2018, SB4, Berlin, DE, 09/2018, [slides](https://doi.org/10.5281/zenodo.1434671)
+EPSC 2018, EXO2: Formation and Dynamical Evolution of Planetary Systems, Berlin, DE, 09/2018, [slides](https://drive.google.com/file/d/136FreXqc9sJd2zZ5O8H66eSfso9Z4ybY/view)
 
-Exoplanets II, Cambridge, UK, 07/2018, [slides](https://www.exoplanetscience2.org/programme/gradual-desiccation-rocky-protoplanets-aluminum-26-heating)
+EPSC 2018, SB4: Asteroids and parent bodies of meteorites, Berlin, DE, 09/2018, [slides](https://drive.google.com/file/d/136FreXqc9sJd2zZ5O8H66eSfso9Z4ybY/view)
 
-UK Exoplanet Community Meeting, Oxford, UK, 03/2018, [slides](https://doi.org/10.6084/m9.figshare.6061280.v1)
+Exoplanets II, Cambridge, UK, 07/2018, [slides](https://drive.google.com/file/d/1eGSd7vpfc7MPjAmJTxCx6fIyjycs3iqr/view)
 
-Gordon Research Seminar – Origins of Solar Systems, South Hadley, US, 06/2017, [slides](https://doi.org/10.6084/m9.figshare.5353555.v1)
+UK Exoplanet Community Meeting, Oxford, UK, 03/2018, [slides](https://drive.google.com/file/d/1a-gTVu_HiTav5wefv8rSTNEBu7mmk2oA/view)
 
-Accretion, Differentiation and Early Evolution of the Terrestrial Planets, Nice, F, 05/2017, [slides](https://doi.org/10.6084/m9.figshare.5353567.v1)
+Gordon Research Seminar 'Origins of Solar Systems', South Hadley, USA, 06/2017, [slides](https://drive.google.com/file/d/1W2TBJCyFNFaCmMK9oZii7LjxJ1LUXyUU/view)
 
-Chondrules and the Protoplanetary Disk, London, UK, 02/2017, [slides](https://doi.org/10.6084/m9.figshare.4775440.v1)
+Accretion, Differentiation and Early Evolution of the Terrestrial Planets, Nice, FR, 05/2017, [slides](https://drive.google.com/file/d/1fQtFdc17nu6QeZfG64do9PvsUU3grIaK/view)
 
-Formation of the Solar System and the origin of life, Leiden, NL, 02/2017, [slides](https://doi.org/10.6084/m9.figshare.4775431.v2)
+Chondrules and the Protoplanetary Disk, London, UK, 02/2017, [slides](https://drive.google.com/file/d/1XQOh4S9l0f5ZBmw0kmOjsY6u777fAsN9/view)
 
-Winter school 'Chronology of the Formation of the Solar System VI', Les Houches, FRA, 02/2017, [slides](https://doi.org/10.6084/m9.figshare.4775431.v2)
+Formation of the Solar System and the Origin of Life, Leiden, NL, 02/2017, [slides](https://drive.google.com/file/d/19HY-picMZeAvs5JP1WXscN2Fl9qjI2aC/view)
 
-New Directions in Planet Formation, Leiden, NL, 07/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3510366.v1)
+Winter school 'Chronology of the Formation of the Solar System VI', Les Houches, FR, 02/2017, [slides](https://drive.google.com/file/d/1kPHJlJXlaiT3RH0xfOkTMAKlnh6MR4m9/view)
 
-Sant Cugat Forum on Astrophysics, Sant Cugat, E, 04/2016, [slides](https://figshare.com/articles/A_planet_population_dichotomy_from_isotopic_enrichment_/3405895)
+New Directions in Planet Formation, Leiden, NL, 07/2016, [slides](https://drive.google.com/file/d/18HhbPmeJq6_uDeJgLswTQp_78EwLqJvy/view)
 
-Planet Formation and Evolution 2016, Duisburg-Essen, DE, 03/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3118009.v1)
+4th Sant Cugat Forum on Astrophysics, Sant Cugat, ESP, 04/2016, [slides](https://drive.google.com/file/d/1iuDhUo1jgtvotUNh6k4oqrYbaIeBOgaR/view)
 
-PlanetS General Assembly 2016, Grindelwald, CH, 01/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3118006.v1)
+Planet Formation and Evolution 2016, Duisburg-Essen, DE, 03/2016, [slides](https://drive.google.com/file/d/1ZcNjvrgDtEtr6GWeAO8u5ddZxEJv6PCd/view)
 
-The Delivery of Water to Proto-planets, Planets and Satellites, Bern, CH, 01/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3117997.v1)
+The Delivery of Water to Proto-planets, Planets and Satellites, ISSI Bern, CH, 01/2016, [slides](https://drive.google.com/file/d/18Z9qeO6QRx0sXJPCpgYR9IaA4KHXNSM3/view)
+
+National Centre for Competence in Research PlanetS General Assembly, Grindelwald, CH, 01/2016, [slides](https://drive.google.com/file/d/14Ksy-nBZT2qGWqkqNb_x_PEHt6K2AoCb/view)
+
+Annual workshop of the German NSF Graduiertenkolleg 1351, Salzgitter, DE, 10/2013, [slides](https://drive.google.com/file/d/1Lv79CChU4Jhfsdpoztth5iLIcm2luTmt/view)
 
 ---
 
-## Colloquia & Seminars
+## Colloquia and Seminar Talks
 
-Institute of Astronomy, KU Leuven ★, Leuven, BE, 10/2026, [slides](https://drive.google.com/open?id=1lacOi0OEaOWrt5t_Er-b46f53D-lWG2b&usp=drive_fs)
+Institute of Astronomy, KU Leuven, Leuven, BE ★, 10/2026, [slides](https://drive.google.com/file/d/1lacOi0OEaOWrt5t_Er-b46f53D-lWG2b/view)
 
-Globe Institute, Centre for Star and Planet Formation ★, Copenhagen, DK, 02/2026, [slides](https://drive.google.com/open?id=1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM&usp=drive_fs)
+Globe Institute, Centre for Star and Planet Formation, Copenhagen, DK ★, 02/2026, [slides](https://drive.google.com/open?id=1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM)
 
-Department of Astrophysics, Radboud University ★, Nijmegen, NL, 03/2025, [slides](https://drive.google.com/open?id=1XKXejNj8PqefEvOw-fhMohIZIhPoenMG&usp=drive_fs)
+Department of Astrophysics, Radboud University, Nijmegen, NL ★, 03/2025, [slides](https://drive.google.com/file/d/1XKXejNj8PqefEvOw-fhMohIZIhPoenMG/view)
 
-Anton Pannekoek Institute for Astronomy, University of Amsterdam ★, Amsterdam, NL, 11/2024, [slides](https://drive.google.com/open?id=1EF4mR8xjJsLHUg_pwZ2rK6sSFNLbKo08&usp=drive_fs)
+Anton Pannekoek Institute for Astronomy, University of Amsterdam, Amsterdam, NL ★, 11/2024, [slides](https://drive.google.com/file/d/1EF4mR8xjJsLHUg_pwZ2rK6sSFNLbKo08/view)
 
-Max Planck Institute for Solar System Research ★, Göttingen, DE, 05/2024, [slides](https://www.dropbox.com/scl/fi/1vp4q45f2tm26qt7ljeoe/240524-MPS-G-ttingen-Seminar.pdf?rlkey=ug5kklwnbmbfoe7eek0y7d5uh&dl=0)
+Max Planck Institute for Solar System Research, Göttingen, DE ★, 05/2024, [slides](https://drive.google.com/file/d/1fhS5P1baHT35eEpkb9D7nNVe3EpdlPJJ/view)
 
-Graz-Vienna Exoplanet Scientist Meeting ★, Graz, AUT, 05/2024, [slides](https://www.dropbox.com/scl/fi/qhfphpizzwrnvzql9ay6u/240503-IWF-Graz-LIFE.pdf?rlkey=jakoo3lzuvh6ai1i25femfbjy&dl=0)
+Graz-Vienna Exoplanet Scientist Meeting, Graz, AUT ★, 05/2024, [slides](https://drive.google.com/file/d/1wRRYbBgbI0WjlObuoMrMTwt2TsgPSFiP/view)
 
-Austrian Academy of Sciences Space Research Institute ★, Graz, AUT, 05/2024, [slides](https://www.dropbox.com/scl/fi/3agl4flrbl5ji8q49yf58/240502-IWF-Graz-Colloquium.pdf?rlkey=pal57050kouohbs9088qb6frm&dl=0)
+Austrian Academy of Sciences Space Research Institute, Graz, AUT ★, 05/2024, [slides](https://drive.google.com/file/d/1wRRYbBgbI0WjlObuoMrMTwt2TsgPSFiP/view)
 
-Alien Earths Collaboration Annual All-Hands Meeting ★, Tucson, USA, 04/2024, [slides](https://www.dropbox.com/scl/fi/e46o6j3o45qk2xwb2z2lh/240423-Alien-Earths-All-Hands-2024.pdf?rlkey=obrrfibo1s1zaytrsb1z36ap1&dl=0)
+Alien Earths Collaboration Annual All-Hands Meeting, Tucson, USA ★, 04/2024, [slides](https://drive.google.com/file/d/1WV6nnHecl8MK67xS6zNlStWcmGcJNAog/view)
 
-University of Groningen, Department of Physics ★, Groningen, NL, 02/2024, [slides](https://www.dropbox.com/scl/fi/zo8vytss1pupjtp9hhwni/240215-Physics-Colloquium-RUG.pdf?rlkey=xyn0ay4xk8yvgho1zfkje3l0l&dl=1)
+University of Groningen, Department of Physics, Groningen, NL ★, 02/2024, [slides](https://drive.google.com/file/d/1KBv64hOwiVqeQX9gT5-pX9F_7q0xjZUa/view)
 
-SRON Netherlands Institute for Space Research ★, Leiden, NL, 10/2023, [slides](https://www.dropbox.com/scl/fi/l90b60tcsimkupnu1d4oa/231017-SRON.pdf?rlkey=0fw2twldbyymufyd00n09laik&dl=0)
+SRON Netherlands Institute for Space Research, Leiden, NL ★, 10/2023, [slides](https://drive.google.com/file/d/16XmUNeQyCtDccsNYi_lq6FR_8I4dbUQ_/view)
 
-Royal Astronomical Society Ordinary Meeting ★, London, UK, 10/2023, [slides](https://www.dropbox.com/scl/fi/wmvrqgf7to9yyqnmt5p0m/231013-RAS.pdf?rlkey=a99gywxrfw0qj74vab7qf7x64&dl=0)
+Royal Astronomical Society Ordinary Meeting, London, UK ★, 10/2023, [slides](https://drive.google.com/file/d/1sPHwBdOPbKzjg8asuKYXhlxnK8M2cFg9/view)
 
-Leiden University Observatory ★, Leiden, NL, 09/2023, [slides](https://www.dropbox.com/s/11nagg7bnnrvlii/230609%20Harvard%20EPS.pdf?dl=0)
+Leiden University Observatory, Leiden, NL ★, 09/2023, [slides](https://drive.google.com/file/d/18tZ7t1UlPz14OR_eeiWMZV3ZDHx9y3Pw/view)
 
-Harvard University, Department of Earth and Planetary Sciences ★, Cambridge, US, 06/2023, [slides](https://www.dropbox.com/s/11nagg7bnnrvlii/230609%20Harvard%20EPS.pdf?dl=0)
+Harvard University, Department of Earth and Planetary Sciences, Cambridge, US ★, 06/2023, [slides](https://drive.google.com/file/d/1pvtirTOfDI2BtVtpWpRRY8PEO0GYDPLE/view)
 
-ASTRON – Netherlands Institute for Radio Astronomy ★, Dwingeloo, NL, 02/2023, [slides](https://www.dropbox.com/s/ticbqjzokefbtcx/230208%20ASTRON.pdf?dl=0)
+ASTRON – Netherlands Institute for Radio Astronomy, Dwingeloo, NL ★, 02/2023, [slides](https://drive.google.com/file/d/1X23zkRR06JpK9zVdVmL_aih9tg_z-qAE/view)
 
-Shanghai Astronomical Observatory, Chinese Academy of Sciences ★, Shanghai, CN, 11/2022, [slides](https://www.dropbox.com/s/mxhucf4v8mgyed1/221130_ShanghaiAO_Seminar.pdf?dl=0)
+Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai, CN ★, 11/2022, [slides](https://drive.google.com/file/d/1vzJchVhl2Lqa2dLzW-WCPOSjhyON3mV3/view)
 
-California Institute of Technology, Yung Lunch Seminar ★, Pasadena, USA, 07/2022, [slides](https://www.dropbox.com/s/a3fzdpu9coglxmw/220727_CaltechYungSeminar.pdf?dl=0)
+California Institute of Technology, Division of Geological and Planetary Sciences, Yung Lunch Seminar, Pasadena, USA ★, 07/2022, [slides](https://drive.google.com/file/d/1TJy4ByHyqVP5SE_m4JRTOM14jKr9tYDV/view)
 
-University of Vienna, Department of Astrophysics ★, Vienna, AUT, 06/2022, [slides](https://www.dropbox.com/s/gnm3hy6agl6mbfr/220620_Vienna.pdf?dl=0)
+University of Vienna, Department of Astrophysics, Vienna, AUT ★, 06/2022, [slides](https://drive.google.com/file/d/1sBciuLQapx36RzUXWw_psNbKYJu73euR/view)
 
-AEThER Collaboration Seminar, Carnegie Earth and Planets Laboratory ★, Washington DC, USA, 06/2022, [slides](https://www.dropbox.com/s/n4qerw0qjgofl7q/220616_AETHER.pdf?dl=0)
+AEThER Collaboration Seminar, Carnegie Earth and Planets Laboratory, Washington DC, USA ★, 06/2022, [slides](https://drive.google.com/file/d/1ZULqgljHY5V2EgnsrPWjMwFs8snoXZj3/view)
 
-Munich Institute for Astro-, Particle- and BioPhysics ★, Garching, DE, 06/2022, [slides](https://www.dropbox.com/s/qdqftirizewscf8/220609_MIAPbP.pdf?dl=0)
+Munich Institute for Astro-, Particle- and BioPhysics, Planet Formation: From Dust Coagulation to Final Orbit Assembly, Garching, DE ★, 06/2022, [slides](https://drive.google.com/file/d/1wlab5L7ExDgICoo3ovSJl0fY5AGXQbtH/view)
 
-University of Groningen, Kapteyn Astronomical Institute ★, Groningen, NL, 05/2022, [slides](https://doi.org/10.5281/zenodo.6327520)
+University of Groningen, Kapteyn Astronomical Institute, Groningen, NL ★, 05/2022, [slides](https://drive.google.com/file/d/1wUDd6wvSZp3980PIOSGh9FFWMIuuS8eu/view)
 
-Free University of Berlin, Department of Earth Sciences ★, Berlin, DE, 04/2022, [slides](https://doi.org/10.5281/zenodo.6327559)
+Free University of Berlin, Department of Earth Sciences, Berlin, DE ★, 04/2022, [slides](https://drive.google.com/file/d/1YhYgO-Sha0N7d0CdUYGRysAkbMqZBf8G/view)
 
-Imperial College, Department of Earth Sciences ★, London, UK, 03/2022, [slides](https://www.dropbox.com/s/8coq0n9rcm2av1s/220328_ImperialCollege.pdf?dl=0)
+Imperial College, Department of Earth Sciences, London, UK ★, 03/2022, [slides](https://drive.google.com/file/d/13aAfDlwpozc3G-Qs9zuqG3hmjk3SqIR9/view)
 
-European Astrobiology Institute Seminar ★, Strasbourg, FR, 03/2022, [slides](https://doi.org/10.5281/zenodo.6327559)
+European Astrobiology Institute Seminar, Strasbourg, FR, (virtual) ★, 03/2022, [slides](https://drive.google.com/file/d/1uarelEJ1PhcPlWQQKrrGOhDjBuMUZU5A/view)
 
-Washington University St. Louis, Physics Colloquium ★, St. Louis, USA, 03/2022, [slides](https://doi.org/10.5281/zenodo.6327559)
+Washington University St. Louis, Physics Colloquium, St. Louis, US (virtual) ★, 03/2022, [slides](https://drive.google.com/file/d/1uarelEJ1PhcPlWQQKrrGOhDjBuMUZU5A/view)
 
-University of Rochester, Earth and Environmental Sciences ★, Rochester, USA, 02/2022, [slides](https://doi.org/10.5281/zenodo.6327559)
+University of Rochester, Earth and Environmental Sciences, Rochester, US (virtual) ★, 02/2022, [slides](https://drive.google.com/file/d/1pwkRZMdugzPZBS-2Sdeepsv7iHAbLUme/view)
 
-University of Arizona, Origins Seminar ★, Tucson, USA, 02/2022, [slides](https://doi.org/10.5281/zenodo.6327520), [video](https://youtu.be/EXPWMPcaL5M)
+University of Arizona, Origins Seminar, Tucson, US (virtual) ★, 02/2022, [slides](https://drive.google.com/file/d/15MoiP1ZKpN1xgSsbnozxuzRJuj9IPNVg/view)
 
-Purdue University, Earth, Atmospheric and Planetary Sciences ★, West Lafayette, USA, 02/2022, [slides](https://doi.org/10.5281/zenodo.6327520)
+Purdue University, Earth, Atmospheric and Planetary Sciences, West Lafayette, US (virtual) ★, 02/2022, [slides](https://drive.google.com/file/d/1qBw9a3d9AJ-42IJ6gziSU30W3ad9beHQ/view)
 
-Heidelberg Initiative for the Origins of Life Colloquium ★, MPIA Heidelberg, DE, 11/2021, [slides](https://doi.org/10.5281/zenodo.5708547)
+Heidelberg Initiative for the Origins of Life Colloquium, Max Planck Institute for Astronomy, Heidelberg, DE ★, 11/2021, [slides](https://drive.google.com/file/d/1INgFBzFu3cJdF-7uy7yxHMqN18pJdDzR/view)
 
-St Andrews Centre for Exoplanet Science ★, St Andrews, UK, 07/2021, [slides](https://doi.org/10.5281/zenodo.4533898)
+St Andrews Centre for Exoplanet Science, St Andrews, UK (virtual) ★, 07/2021, [slides](https://drive.google.com/file/d/1TH6uq5ITWwEViRowUXndsumFMy5E_l5l/view)
 
-Dominion Radio Astrophysical Observatory ★ (DRAO), Penticton, CA, 06/2021, [slides](https://doi.org/10.5281/zenodo.4972510)
+Dominion Radio Astrophysical Observatory (DRAO), Penticton, CA (virtual) ★, 06/2021, [slides](https://drive.google.com/file/d/1DCTDaqWIQPlgWzFK23btmC4UE8BvPBj5/view)
 
-TRR-170/Planetology colloquium ★, Münster, DE, 06/2021, [slides](https://doi.org/10.5281/zenodo.4972510)
+TRR-170/Planetology colloquium, Münster, DE (virtual) ★, 06/2021, [slides](https://drive.google.com/file/d/1DCTDaqWIQPlgWzFK23btmC4UE8BvPBj5/view)
 
-NExSS Quantitative Habitability science working group ★, Tucson, USA, 05/2021, [slides](https://doi.org/10.5281/zenodo.4767132)
+NExSS Quantitative Habitability science working group, Tucson, US (virtual) ★, 05/2021, [slides](https://drive.google.com/file/d/1V5ydxXmbWOfhCpoAMicxbDPaV4QkQyaR/view)
 
-Université de Lorraine, Petrographic and Geochemical Research Center ★, Nancy, FR, 03/2021, [slides](https://doi.org/10.5281/zenodo.4553359)
+Université de Lorraine, Petrographic and Geochemical Research Center, Nancy, FR (virtual) ★, 03/2021, [slides](https://drive.google.com/file/d/1ChWp3OBla7chmxFA_6uz2s2iAs-kVt-W/view)
 
-University of Zurich, Theoretical Astrophysics & Computational Science ★, Zurich, CH, 03/2021, [slides](https://doi.org/10.5281/zenodo.4553359), [video](https://www.youtube.com/watch?v=rlKVkzxYb7s)
+University of Zurich, Theoretical Astrophysics & Computational Science, Zurich, CH (virtual) ★, 03/2021, [slides](https://drive.google.com/file/d/1ChWp3OBla7chmxFA_6uz2s2iAs-kVt-W/view)
 
-Lunar and Planetary Institute ★, USRA, Houston, US, 03/2021, [slides](https://doi.org/10.5281/zenodo.4553359)
+Lunar and Planetary Institute, USRA, Houston, US (virtual) ★, 03/2021, [slides](https://drive.google.com/file/d/1ChWp3OBla7chmxFA_6uz2s2iAs-kVt-W/view)
 
-Max Planck Institute for Astronomy ★, Heidelberg, DE, 03/2021, [slides](https://doi.org/10.5281/zenodo.4533898)
+Max Planck Institute for Astronomy, Atmospheric Physics of Exoplanets, Heidelberg, DE (virtual) ★, 03/2021, [slides](https://drive.google.com/file/d/1ChWp3OBla7chmxFA_6uz2s2iAs-kVt-W/view)
 
-Carnegie Institution of Science, Earth & Planets Laboratory ★, Washington DC, US, 02/2021, [slides](https://doi.org/10.5281/zenodo.4553359)
+Carnegie Institution of Science, Earth & Planets Laboratory, Washington DC, US (virtual) ★, 02/2021, [slides](https://drive.google.com/file/d/12Wh1EN2klvxCPVAIPqUc_oT3hdD8AASL/view)
 
-University of Bern, Theoretical Astrophysics and Planetary Science ★, Bern, CH, 02/2021, [slides](https://doi.org/10.5281/zenodo.4533898)
+University of Bern, Theoretical Astrophysics and Planetary Science, Bern, CH (virtual) ★, 02/2021, [slides](https://drive.google.com/file/d/12Wh1EN2klvxCPVAIPqUc_oT3hdD8AASL/view)
 
-University of Bristol, Isotope Geochemistry ★, Bristol, UK, 02/2021, [slides](https://doi.org/10.5281/zenodo.4533898)
+University of Bristol, Isotope Geochemistry, Bristol, UK (virtual) ★, 02/2021, [slides](https://drive.google.com/file/d/12Wh1EN2klvxCPVAIPqUc_oT3hdD8AASL/view)
 
-University of Cambridge, Planetary Geochemistry ★, Cambridge, UK, 02/2021, [slides](https://doi.org/10.5281/zenodo.4513769)
+University of Cambridge, Planetary Geochemistry, Cambridge, UK (virtual) ★, 02/2021, [slides](https://drive.google.com/file/d/12Wh1EN2klvxCPVAIPqUc_oT3hdD8AASL/view)
 
-São Paulo State University, Orbital Dynamics and Planetology ★, Sao Paulo, BR, 10/2020, [slides](https://doi.org/10.5281/zenodo.4121988)
+São Paulo State University, Orbital Dynamics and Planetology, Sao Paulo, BR (virtual) ★, 10/2020, [slides](https://drive.google.com/file/d/1PvWM9p2hvfytv4Q7sGJkbR1qK3x84Ys1/view)
 
-National Institute of Technology Rourkela ★, Rourkela, IND, 10/2020, [slides](https://doi.org/10.5281/zenodo.4114135)
+NIT Rourkela, Department of Physics and Astronomy, Rourkela, IND (virtual) ★, 10/2020, [slides](https://drive.google.com/file/d/1z8_kq2qyvOAJBLbgEX-HeI5BKhmsZTgD/view)
 
-Berkeley Center for Integrative Planetary Science / UCLA ★, Berkeley, US, 09/2020, [slides](https://doi.org/10.5281/zenodo.4034065)
+Berkeley CIPS / UCLA joint planetary science seminar, Berkeley, US (virtual) ★, 09/2020, [slides](https://drive.google.com/file/d/1EWfdO9x-3zJeUt2R1Q7T9IkOQc6po9pG/view)
 
-Universidad de Concepción ★, Concepción, CL, 06/2020, [slides](https://doi.org/10.5281/zenodo.3876093)
+Universidad de Concepción, Departamento de Astronomía, Concepción, CL (virtual) ★, 06/2020, [slides](https://drive.google.com/file/d/1gY8Hc2byHjfehk-IkaTIxHh0zU-A_Jr7/view)
 
-University of Arizona, Steward Observatory, Tucson, US, 01/2020, [slides](https://doi.org/10.5281/zenodo.3612554)
+University of Arizona, Steward Observatory, Tucson, US, 01/2020, [slides](https://drive.google.com/file/d/13yKwTM4RsZYU6mYO__ktQJ4nCagByQEl/view)
 
-ETH Zurich, Department of Earth Sciences ★, Zurich, CH, 11/2019, [slides](https://doi.org/10.5281/zenodo.3554575)
+ETH Zurich, Department of Earth Sciences, Zurich, CH ★, 11/2019, [slides](https://drive.google.com/file/d/16z1BlwPdBtV6C0e0HwrKav6tsPnsVwJJ/view)
 
-Imperial College, Blackett Laboratory, London, UK, 11/2019, [slides](https://doi.org/10.5281/zenodo.3539017)
+Imperial College, Blackett Laboratory, London, UK, 11/2019, [slides](https://drive.google.com/file/d/1r7lNfIYKKrmt-Wq7jgs0J8Lo8RRHsWu4/view)
 
-McMaster University, Origins Institute, Hamilton, CA, 11/2019, [slides](https://doi.org/10.5281/zenodo.3534118)
+McMaster University, Origins Institute, Hamilton, CA, 11/2019, [slides](https://drive.google.com/file/d/10IskpIWlxp_jBORKdTDkUqvRfiNqZc5h/view)
 
-ETH Zurich, Institute for Particle Physics and Astrophysics, Zurich, CH, 05/2019, [slides](https://doi.org/10.6084/m9.figshare.6138962.v1)
+ETH Zurich, Institute for Particle Physics and Astrophysics, Zurich, CH, 05/2019, [slides](https://drive.google.com/file/d/1-KggAu7vjOXc1l_p3THT3cgZL7fuE5al/view)
 
-German Aerospace (DLR) Center for Planetary Research ★, Berlin, DE, 04/2019, [slides](https://doi.org/10.5281/zenodo.2628227)
+German Aerospace Center (DLR) Berlin, Berlin, DE ★, 04/2019, [slides](https://drive.google.com/file/d/13Al5nDMn5cKa5kIoySlQi3LTt2GRzXUS/view)
 
-University of Oxford, Department of Earth Sciences, Oxford, UK, 02/2019, [slides](https://doi.org/10.5281/zenodo.3292938)
+University of Oxford, Department of Earth Sciences, Oxford, UK, 02/2019, [slides](https://drive.google.com/file/d/1CHsBkjnXk9sJZQ-kJ0Zwtp_BP_dI_as4/view)
 
-University of Cambridge, Institute of Astronomy ★, Cambridge, UK, 05/2018, [slides](https://doi.org/10.6084/m9.figshare.6226400.v1)
+University of Cambridge, Institute of Astronomy, Cambridge, UK ★, 05/2018, [slides](https://drive.google.com/file/d/1546Bkw30GmMlCy6PnNFf2Zwdwwvkjm4l/view)
 
-ETH Zurich, Institute of Geochemistry and Petrology ★, Zurich, CH, 04/2018, [slides](https://doi.org/10.6084/m9.figshare.6138962.v1)
+ETH Zurich, Institute of Geochemistry and Petrology, Zurich, CH ★, 04/2018, [slides](https://drive.google.com/file/d/1iaJuiMTrw979B2vOP9ZH6adgXvJ4Hu9F/view)
 
-Stanford University, Department of Earth Sciences, Stanford, US, 10/2017, [slides](https://doi.org/10.6084/m9.figshare.5577373.v1)
+Stanford University, Department of Earth Sciences, Stanford, US, 10/2017, [slides](https://drive.google.com/file/d/1_ziyxc_VzNqMr_Zsa8to2TVVpXQNc_Fs/view)
 
-University of Sheffield, Department of Physics & Astronomy, Sheffield, UK, 08/2017, [slides](https://doi.org/10.6084/m9.figshare.5353564.v1)
+University of Sheffield, Department of Physics & Astronomy, Sheffield, UK, 08/2017, [slides](https://drive.google.com/file/d/1pOqfPRGkiTWE4kzOmbT2ptfhnktoAzTP/view)
 
-University of Oxford, Department of Earth Sciences, Oxford, UK, 07/2017, [slides](https://doi.org/10.6084/m9.figshare.5353561.v1)
+University of Oxford, Department of Earth Sciences, Oxford, UK, 07/2017, [slides](https://drive.google.com/file/d/1Bdkq7HDhr_ipJ05WGkkXD720BwaTM5oD/view)
 
-University of Bern, Center for Space and Habitability ★, Bern, CH, 06/2017, [slides](https://doi.org/10.6084/m9.figshare.5353489.v1)
+University of Bern, Center for Space and Habitability, CH ★, 06/2017, [slides](https://drive.google.com/file/d/1w8qNGfQIpDkEqDiaUv048quHvRZ8YxTm/view)
 
-Hungarian Academy of Sciences, Konkoly Observatory ★, Budapest, HUN, 03/2017, [slides](https://doi.org/10.6084/m9.figshare.4775431.v2)
+Hungarian Academy of Sciences, Konkoly Observatory, Budapest, HUN ★, 03/2017, [slides](https://drive.google.com/file/d/1syGa25lHsYzyFohXSq6iSjm9Fb-MgKAJ/view)
 
-ETH Zurich, Institute of Geophysics, Zurich, CH, 02/2017, [slides](https://doi.org/10.6084/m9.figshare.4775440.v1)
+University of Copenhagen, Centre for Star and Planet Formation, Copenhagen, DK ★, 02/2017, [slides](https://drive.google.com/file/d/1WO7sjGNEn_tyKNHB2IiiRHbqcM0ZwJc8/view)
 
-University of Copenhagen, Centre for Star and Planet Formation ★, Copenhagen, DK, 02/2017, [slides](https://doi.org/10.6084/m9.figshare.4775431.v2)
+ETH Zurich, Institute of Geophysics, Zurich, CH, 02/2017, [slides](https://drive.google.com/file/d/1hl7BLJgu0axTMkfZYfvxm7QclrwZXhkA/view)
 
-Liverpool John Moores University, Astrophysics Research Institute, Liverpool, UK, 07/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3468986.v1)
+Liverpool John Moores University, Astrophysics Research Institute, Liverpool, UK, 07/2016, [slides](https://drive.google.com/file/d/1bKAIq6kEbRc0MljhvXuVyC81SvVHP_fk/view)
 
-University of Oxford, Department of Earth Sciences, Oxford, UK, 06/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3468986.v1)
+University of Oxford, Department of Earth Sciences, Oxford, UK, 06/2016, [slides](https://drive.google.com/file/d/1AVR6KBfgXvdZvvdowRWbRxhG85igxsoa/view)
 
-ETH Zurich, Institute of Geophysics, Zurich, CH, 12/2015, [slides](https://dx.doi.org/10.6084/m9.figshare.3117964.v1)
+ETH Zurich, Institute of Geophysics, Zurich, CH, 12/2015, [slides](https://drive.google.com/file/d/1b1dVPXlDAkV9-eVUS_HJcp_gsfKzjnlX/view)
 
 ---
 
 ## Poster Presentations
 
-Molecular Origins of Life 2021, Munich, DE, 08/2021, [video](https://youtu.be/_OugPe92JKc)
+Molecular Origins of Life 2021, Munich, DE (virtual), 08/2021, [poster](https://drive.google.com/file/d/1KhOh25aMkl9VoGyVHX62N1emTOEiJp2X/view)
 
-AGU20, San Francisco, US, 12/2020, [video](https://youtu.be/GO1uBNnmUAU)
+AGU: Comparative Planetology Throughout the Solar System, San Francisco, US (virtual), 12/2020
 
-ESO Threats from the Surroundings, Garching, DE, 11/2020, [video](https://youtu.be/n1KnMFxFp8s)
+ESO Threats from the Surroundings, Garching, DE (virtual), 11/2020, [poster](https://drive.google.com/file/d/1t2_IyJ7GJm-cFr52yLthXRvFgxAEIJ1K/view)
 
-Exoplanet Demographics 2020, Pasadena, US, 11/2020, e-poster
+Exoplanet Demographics 2020, Pasadena, US (virtual), 11/2020, [poster](https://drive.google.com/file/d/1t2_IyJ7GJm-cFr52yLthXRvFgxAEIJ1K/view)
 
-Exoplanets III, Heidelberg, DE, 07/2020, [slides](https://doi.org/10.5281/zenodo.4020266)
+Exoplanets III, Heidelberg, DE (virtual), 07/2020, [poster](https://drive.google.com/file/d/1G8BV-HsgZ4_6AriFrTpTyawsBXDo12Be/view)
 
-Molecular Origins of Life 2020, Munich, DE, 07/2020, [slides](https://doi.org/10.5281/zenodo.4020250)
+Molecular Origins of Life 2020, Munich, DE (virtual), 07/2020, [poster](https://drive.google.com/file/d/1Y6rEhChOHBWkue8Pj3mCYPHT4vnLiDZx/view)
 
-Gordon Research Conference – Origins of Life, Galveston, US, 01/2020, [slides](https://doi.org/10.5281/zenodo.3612550)
+Gordon Research Conference 'Origins of Life', Galveston, US, 01/2020, [poster](https://drive.google.com/file/d/1UzzQVkFQn8axPBY4bwY1Y2ZInEOgvYCw/view)
 
-Rocky Worlds I, Cambridge, UK, 01/2020, [slides](https://doi.org/10.5281/zenodo.3603120)
+Rocky Worlds: from the Solar System to Exoplanets, Cambridge, UK, 01/2020, [poster](https://drive.google.com/file/d/1lJsBocHxwI1CU20z8Ew_NfHJAxRVVTRs/view)
 
-Extreme Solar Systems IV, Reykjavík, IS, 08/2019, [slides](https://doi.org/10.5281/zenodo.3361522)
+Extreme Solar Systems IV, Reykjavík, IS, 08/2019, [poster](https://drive.google.com/file/d/1hUKvTqqcdxSHZe85PkfDmvwWxE_FQGd4/view)
 
-Exoclimes V, Oxford, UK, 08/2019, [slides](https://doi.org/10.5281/zenodo.3361522)
+Exoclimes V, Oxford, UK, 08/2019, [poster](https://drive.google.com/file/d/1hUKvTqqcdxSHZe85PkfDmvwWxE_FQGd4/view)
 
-Gordon Research Conference – Origins of Solar Systems, South Hadley, US, 06/2019, [slides](https://doi.org/10.5281/zenodo.3292243)
+Gordon Research Conference – Origins of Solar Systems, South Hadley, USA, 06/2019, [poster](https://drive.google.com/file/d/1kSRHMKt74aMND3Ei6YwJi3EJhSkFkVtp/view)
 
-European Astrobiology Network Association 2018, Berlin, DE, 09/2018, [slides](https://doi.org/10.5281/zenodo.1434682)
+European Planetary Science Congress 2018, session EXO1, Berlin, DE, 09/2018, [poster](https://drive.google.com/file/d/1JfJldSMdxygEiu5Cu3OP29AkwvgEBd5y/view)
 
-European Planetary Science Congress 2018, EXO1, Berlin, DE, 09/2018, [slides](https://doi.org/10.5281/zenodo.1434682)
+European Astrobiology Network Association 2018, Berlin, DE, 09/2018
 
-Water during planet formation and evolution, Zurich, CH, 02/2018, [slides](https://doi.org/10.6084/m9.figshare.6061277.v1)
+Water during planet formation and evolution, Zurich, CH, 02/2018, [poster](https://drive.google.com/file/d/1C8iRcxqUC9C823Vhpi6gmt5BAl0K851F/view)
 
-PlanetS General Assembly 2018, Grindelwald, CH, 01/2018, [slides](https://doi.org/10.6084/m9.figshare.6061274.v1)
+NCCR PlanetS General Assembly 2018, Grindelwald, CH, 01/2018, [poster](https://drive.google.com/file/d/1Puum_15cWiRYwftvJOvSb9t91hzO4dJH/view)
 
-The Origins of Volatiles in Habitable Planets, Ann Arbor, US, 10/2017, [slides](https://doi.org/10.6084/m9.figshare.5577388.v1)
+The Origins of Volatiles in Habitable Planets, Ann Arbor, US, 10/2017, [poster](https://drive.google.com/file/d/1IJ_fFxsAhcrfeuiNO0g37Kl7lL0Diquo/view)
 
-Planet Formation and Evolution 2017, Jena, DE, 09/2017, [slides](https://doi.org/10.6084/m9.figshare.5577358.v1)
+Planet Formation and Evolution 2017, Jena, DE, 09/2017, [poster](https://drive.google.com/file/d/1Pb6nA2XzFzUGo2ztlrggP6wtypX2Hh3-/view)
 
-Gordon Research Conference – Origins of Solar Systems, South Hadley, US, 06/2017, [slides](https://doi.org/10.6084/m9.figshare.5353558.v1)
+Gordon Research Conference 'Origins of Solar Systems', South Hadley, USA, 06/2017, [poster](https://drive.google.com/file/d/1W2TBJCyFNFaCmMK9oZii7LjxJ1LUXyUU/view)
 
-German-Swiss Geodynamics workshop, Lichtenfels, DE, 08/2016, [slides](https://doi.org/10.6084/m9.figshare.5353570.v1)
+German-Swiss Geodynamics Workshop, Lichtenfels, DE, 08/2016, [poster](https://drive.google.com/file/d/1iJboh_9y3CFblLYXkxq5LJ7rcx8t5V1c/view)
 
-Origin and Evolution of Plate Tectonics, Ascona, CH, 07/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3510367.v1)
+Origin and Evolution of Plate Tectonics, Ascona, CH, 07/2016, [poster](https://drive.google.com/file/d/1bKAIq6kEbRc0MljhvXuVyC81SvVHP_fk/view)
 
-Exoplanets I, Davos, CH, 07/2016, [slides](https://dx.doi.org/10.6084/m9.figshare.3510370.v1)
+Exoplanets I, Davos, CH, 07/2016, [poster](https://drive.google.com/file/d/1AbXwbrI9IejJewp5afXrw1Bq3XH0mqo4/view)
 
-PlanetS site visit, Geneva Observatory, Geneva, CH, 05/2016, [slides](https://figshare.com/articles/A_planet_population_dichotomy_from_isotopic_enrichment_/3405862)
+NCCR PlanetS site visit, Geneva Observatory, Geneva, CH, 05/2016, [poster](https://drive.google.com/file/d/1yVN0GRNp1wfDnWQiwS9y5uGJrmY0s3CJ/view)
 
-Gordon Research Conference – Origins of Solar Systems, South Hadley, US, 07/2015, [slides](https://dx.doi.org/10.6084/m9.figshare.1549755)
+Gordon Research Conference 'Origins of Solar Systems', South Hadley, USA, 07/2015
 
-PlanetS General Assembly 2015, Anzere, CH, 01/2015, [slides](https://dx.doi.org/10.6084/m9.figshare.1549754)
+NCCR PlanetS General Assembly 2015, Anzère, CH, 01/2015, [poster](https://drive.google.com/file/d/1K-un7S5MVJPF7swjo8h6qUDAemVIK0e9/view)
 
-Planet Formation and Evolution 2014, Kiel, DE, 09/2014, [slides](https://dx.doi.org/10.6084/m9.figshare.1549752)
+Planet Formation and Evolution, Kiel, DE, 09/2014
 
 </div>

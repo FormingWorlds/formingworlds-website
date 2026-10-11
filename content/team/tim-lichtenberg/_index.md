@@ -79,8 +79,8 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - [Doctoral Thesis Award 2019](https://astronomische-gesellschaft.de/en/activities/awards), German Astronomical Society, 09/2019
 - [PhD Prize for Planetary Systems and Astrobiology 2018](https://www.iau.org/Iau/Iau/Science/Grants-and-Prizes/PhD-Prize.aspx), International Astronomical Union, 06/2019
 - European Astrobiology Network Association, Horneck-Brack Presentation Award, 2nd prize, 09/2018
+- 'Dr. Berliner - Dr. Ungewitter' award for M.Sc. thesis, Georg-August-Universität Göttingen, 12/2014
 - Master's diploma awarded 'with distinction', Georg-August-Universität Göttingen, 08/2014
-- 'Dr. Berliner - Dr. Ungewitter' award for M.Sc. thesis, Georg-August-Universität Göttingen, 08/2014
 
 ### Grants & Fellowships
 
@@ -91,14 +91,14 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - [AEThER Collaboration](https://planets.carnegiescience.edu/aether), [Sloan Foundation](https://sloan.org/), Co-I, 07/2025
 - European Research Council's (ERC) [Starting Grant MagmaWorlds](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en) (€1.5M), PI, 09/2025
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-12464 (20'000 SBU on the Snellius supercomputer, *PROTEUS: An Adaptive Numerical Framework to Simulate Lava Exoplanets*), Dutch Research Council (NWO) & SURF, PI, 01/2025
-- Dutch National Science Organisation (NWO) [Consortium Grant](https://www.nwo.nl/en/projects/pxruc21696) (€329'065 out of €6.7M in total, *PRELIFE - Pathways, Reactions, and Environments leading to LIFE*), work package leader, Co-I, 11/2024
+- Dutch Research Council (NWO) [Consortium Grant](https://www.nwo.nl/en/projects/pxruc21696) (€329'065 out of €6.7M in total, *PRELIFE - Pathways, Reactions, and Environments leading to LIFE*), work package leader, Co-I, 11/2024
 - NOVA Consortium Grant (LIFE: Mid-infrared detection of biosignatures in the atmospheres of terrestrial exoplanets), PI: van der Tak (fte + cash € 249'000), Co-I, 07/2024
 - Open eScience Early Career Project [PROTEUS](https://research-software-directory.org/projects/proteus) (€134'000, *An Adaptive Numerical Framework to Simulate Lava Exoplanets*), Netherlands eScience Center, PI, 12/2023
 - Workshop grant for [Rocky Worlds Discussions](https://rockyworlds.org) ($2'000), Meteoritical Society, 02/2023
 - Faculty Research Grant, Faculty of Science and Engineering (€150'000), University of Groningen, PI, 12/2022
 - Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org) (*CHF 500'000, Molten Exoplanets as a Window into the Earliest Earth*), PI, 08/2022
 - A-rated ERC Starting Grant Proposal (reserve list), European Research Council, 06/2022
-- Conference support grants for [Rocky Worlds II](https://rockyworlds.org) in 01/2022 (£8'000 + $5'000), Royal Astronomical Society, The Meteoritical Society, Kavli Institute for Cosmology, PI, 05/2021
+- Conference support grants for [Rocky Worlds II](https://rockyworlds.org) in 07/2022 (£8'000 + $5'000), Royal Astronomical Society, The Meteoritical Society, Kavli Institute for Cosmology, PI, 05/2021
 - Non-stipendiary Junior Research Fellowship, St Cross College, University of Oxford, PI, 06/2019
 - [Simons Collaboration on the Origins of Life Postdoctoral Fellowship](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/) ($276'000, *Geodynamic Regimes during Planetogenesis*), Simons Foundation, PI, 12/2018
 - Bernoulli postdoctoral fellowship (not started), University of Oxford & University of Bern, 03/2018
@@ -282,7 +282,7 @@ Blog articles and paper summary videos published on [Medium/Forming Worlds](http
 ### Other Activities
 
 - [Letters to a Pre-Scientist](https://prescientist.org/) pen pal, 2019–2020
-- [*Expedition Solar System*](https://focusterra.ethz.ch/en/special-exhibitions/archive/expedition-solar-system.html), Focus Terra science exhibition, ETH Zurich, 03/2018
+- [*Expedition Solar System*](https://focusterra.ethz.ch/en/special-exhibitions/archive/expedition-solar-system.html), Focus Terra science exhibition, ETH Zurich, 2018–2019
 - Figures and media for popular science article [*Exotische Welten*](https://www.spektrum.de/magazin/gibt-es-eine-zweite-generation-von-planeten/1352542) in *Sterne und Weltraum*, 08/2015
 - Zurich Scientifica 2015, *Licht und Astronomie*, public science exhibition, ETH Zurich, 09/2015
 - Astrobites reddit Ask-Me-Anything, 06/2015
@@ -337,7 +337,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - INT HARPS3 Semester 26B Program [*High-Precision RVs for an Expanded Census of Stellar and Planetary Compositions*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (62.2 hr, PI: Lichtenberg), PI, 07/2026–
 - INT HARPS3 Semester 26B Program [*HARPS3-NEAR: A Radial-Velocity Census of the Nearest Sun-like Stars*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (61.5 hr, PI: Snellen), Co-I, 07/2026–
 - JWST Cycle 4 GO Program [*Surveying Hellish Worlds: Lava Planets as Time Capsules of Thermal Evolution*](https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-4-go) (100.5 hr, PI: Dang), Co-I, 04/2025–
-- Dutch National Science Foundation (NWO) Consortium [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), Co-I, 11/2024–
+- Dutch Research Council (NWO) Consortium [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), Co-I, 11/2024–
 - JWST Cycle 2 GO Program [*Phase Curve Observations of TOI-561 b To Study Atmosphere-Interior Exchange*](https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-2-go) (44.3 hr, PI: Teske), Co-I, 02/2023–
 - [ESA PLATO Consortium](https://platomission.com), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530); Core Science Team member since 2025, 12/2021–
 - Co-I (since 2024, previously associate member) of Carnegie-led research program [*AEThER: Atmospheric Empirical, Theoretical, and Experimental Research*](https://planets.carnegiescience.edu), 09/2021–
@@ -353,7 +353,6 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 *30 events in total, incl. 8 as main organiser*
 
 - [Rocky Worlds Conference Series](https://www.rockyworlds.org/) (main organiser), Chair, 10/2022–
-- [LIFE Science Team meetings](https://life-space-mission.com/events/), monthly virtual team meeting, Co-Host, 03/2022–
 - [Rocky Worlds 5](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
 - Lorentz Center Workshop [*Characterizing Habitable Exoplanets With Interdisciplinary Expertise*](https://www.lorentzcenter.nl/characterizing-habitable-exoplanets-with-interdisciplinary-expertise.html), Leiden, NL, SOC, 04/2026
 - [Rocky Worlds IV](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026
@@ -368,6 +367,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - *The (geo)chemistry of terrestrial planet formation*, Groningen, NL, SOC & LOC, 03/2023
 - [Rocky Worlds Discussions](https://rockyworlds.org), monthly virtual seminar series (main organiser), SOC, 10/2022–09/2024
 - [Rocky Worlds II](https://rockyworlds.org) (main organiser), University of Oxford, UK, Chair, 07/2022
+- [LIFE Science Team meetings](https://life-space-mission.com/events/), monthly virtual team meeting, co-host, 03/2022–01/2026
 - AGU 2021 session [*Multidisciplinary perspectives on the formation and early evolution of terrestrial worlds*](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123642), New Orleans, US, Convenor, 12/2021
 - ESA PLATO Exoplanet Atmospheres Workshop, Berlin, DE, SOC, 12/2021
 - Lorentz Center Workshop [*LIFE – Large Interferometer for Exoplanets*](https://www.lorentzcenter.nl/life-large-interferometer-for-exoplanets-2021.html) (main organiser), Leiden, NL, SOC, 06/2021
