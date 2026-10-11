@@ -121,7 +121,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Student Mentoring
 
-*41 supervised students in total, incl. 7 PhD, 9 MSc, 16 BSc theses, 9 projects/internships*
+*43 supervised students in total, incl. 7 PhD, 10 MSc, 16 BSc theses, 10 projects/internships*
 
 - Visiting PhD research project "Impact re-triggering of protoplanet magma oceans", Anna Grace Ulses (University of Washington, Seattle), Kapteyn Institute, 05/2026–
 - PhD thesis "Prebiotic climate and ocean levels of the Hadean Earth", Emeline Decocq, Kapteyn Institute, 09/2025–
@@ -131,39 +131,41 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - MSc thesis "Probing abiotic planetary oxygenation with LIFE", Sanne Borgmann, Kapteyn Institute, 01/2025–
 - PhD thesis "Evolution of magma ocean exoplanet atmospheres", Emma Postolec, Kapteyn Institute, 10/2023–
 - PhD thesis "Evolution of magma ocean exoplanet interiors", Mariana V. Sastre, Kapteyn Institute, 09/2023–
-- BSc thesis "Radiation-recombination-limited hydrodynamic escape: conditions for limiting atmospheric escape on sub-Neptunes and super-Earths" (co-supervised with Mara Attia), Malina Ovesen, Kapteyn Institute, 04/2026–07/2026
-- BSc thesis "The influence of atmospheric composition and photodissociation on Jeans escape from exoplanets" (co-supervised with Mara Attia), Ioana Balint, Kapteyn Institute, 04/2026–07/2026
-- BSc thesis "Impact-driven escape on super-Earth exoplanets" (co-supervised with Mara Attia), Renske Beuker, Kapteyn Institute, 04/2026–08/2026
-- BSc thesis "Diffusion-limited atmospheric escape of hydrogen from exoplanets" (co-supervised with Mara Attia), Viesturs Streļčs, Kapteyn Institute, 04/2026–07/2026
-- MSc thesis "Developing an optimal observational strategy for ultra-short period super-Earths with the Ariel survey", Lorenzo Cesario, Kapteyn Institute, 09/2025–07/2026
-- MSc thesis "Sulfur Photochemistry in the Coupling between Interior Properties and Atmospheric Compositions of Hot Rocky Exoplanets", Ioannis Panagiotou, Kapteyn Institute, 09/2025–07/2026
-- BSc thesis "Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life's Building Blocks" & further research projects, Marijn van Dijk, Kapteyn Institute, 04/2025–07/2025
+- BSc thesis "[Radiation-recombination-limited hydrodynamic escape: conditions for limiting atmospheric escape on sub-Neptunes and super-Earths](https://drive.google.com/file/d/1dnqSzeR7BXPD9vLE33dD-nxT9rcY7UUI/view)" (co-supervised with Mara Attia), Malina Ovesen, Kapteyn Institute, 04/2026–07/2026
+- BSc thesis "[The influence of atmospheric composition and photodissociation on Jeans escape from exoplanets](https://drive.google.com/file/d/1GDVHj-axMZ8W0TGQWrWU-0yqSJXKuNOe/view)" (co-supervised with Mara Attia), Ioana Balint, Kapteyn Institute, 04/2026–07/2026
+- BSc thesis "[Impact-driven Atmospheric Escape for Various Impactor Sizes and Size Distributions](https://drive.google.com/file/d/155qVe1nffgDMPtq_Xh-iLa8Kk0voNZC4/view)" (co-supervised with Mara Attia), Renske Beuker, Kapteyn Institute, 04/2026–08/2026
+- BSc thesis "[Diffusion-limited atmospheric escape of hydrogen from exoplanets](https://drive.google.com/file/d/1CJIkrnWnGWZiTMMDyXR7MAkSmlO44RSc/view)" (co-supervised with Mara Attia), Viesturs Streļčs, Kapteyn Institute, 04/2026–07/2026
+- MSc thesis "[Developing an optimal observational strategy for ultra-short period super-Earths with the Ariel survey](https://drive.google.com/file/d/1qe4Oi7QT9J6Mi7zZOiZ0GciV-dhLBJGi/view)", Lorenzo Cesario, Kapteyn Institute, 09/2025–07/2026
+- MSc thesis "[Sulfur Photochemistry in the Coupling between Interior Properties and Atmospheric Compositions of Hot Rocky Exoplanets](https://drive.google.com/file/d/1vsHHJcb7bxefNJHbHF6RxMJhws36Qlmy/view)", Ioannis Panagiotou, Kapteyn Institute, 09/2025–07/2026
+- BSc thesis "[Tidally supported Hadean Magma Oceans under Secondary Atmospheres: Implications for the Production of Life's Building Blocks](https://drive.google.com/file/d/1xAOHimEha4SzdMqxFAed9k-50F_IQ-XY/view)" & further research projects, Marijn van Dijk, Kapteyn Institute, 04/2025–07/2025
 - BSc thesis "Timescale of ocean formation and their composition on Earth-like exoplanets", Anvel de Sainte Marie d'Agneaux, Kapteyn Institute, 04/2025–07/2025
-- BSc thesis "Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis", Flavia Pascal, Kapteyn Institute, 04/2025–07/2025
-- BSc thesis "The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets" & further research projects, Karen Stuitje, RUG Physics department, 04/2025–07/2025
+- BSc thesis "[Modelling the Interior Structure of Rocky Exoplanets with Zalmoxis](https://fse.studenttheses.ub.rug.nl/36226/)", Flavia Pascal, Kapteyn Institute, 04/2025–07/2025
+- BSc thesis "[The Cosmic Shoreline: Modelling Bare-rock Surfaces and Atmospheres on Rocky M-dwarf Exoplanets](https://fse.studenttheses.ub.rug.nl/36163/)" & further research projects, Karen Stuitje, RUG Physics department, 04/2025–07/2025
+- MSc thesis "[The Efficiency of Single-mode Fibers for Spatial Filtering as Part of the Optical Design for the Large Interferometer For Exoplanets](https://fse.studenttheses.ub.rug.nl/36663/)" (co-supervised with Joost van den Born), Mariëlle Wortelboer, Kapteyn Institute, 02/2025–08/2025
 - BSc Honours College research project "Exoplanet interior structure modelling", Flavia Pascal, Kapteyn Institute, 01/2025–04/2025
-- MSc thesis "Forging Planets: Exploring the Magma Ocean Geochemistry of super-Earths and sub-Neptunes", Jorick Lania, Kapteyn Institute, 10/2024–07/2025
-- BSc thesis "The under-dense region between super-Earths and sub-Neptunes", Jessica Helmerhorst, Kapteyn Institute, 04/2024–07/2024
-- BSc thesis "Rock-vapour species in lava exoplanet atmospheres", Björn Koops, Kapteyn Institute, 04/2024–07/2024
-- BSc thesis "Redox-dependency of the runaway greenhouse limit", Iris Boer, Kapteyn Institute, 04/2024–07/2024
+- MSc thesis "[Forging Planets: Exploring the Magma Ocean Geochemistry of super-Earths and sub-Neptunes](https://fse.studenttheses.ub.rug.nl/36759/)", Jorick Lania, Kapteyn Institute, 10/2024–07/2025
+- BSc thesis "[The under-dense region between super-Earths and sub-Neptunes](https://fse.studenttheses.ub.rug.nl/33496/)", Jessica Helmerhorst, Kapteyn Institute, 04/2024–07/2024
+- BSc thesis "[Rock-vapour species in lava exoplanet atmospheres](https://drive.google.com/file/d/1Zhr3xLRIMHGndakOfPH1I_YhZXGNh93S/view)", Björn Koops, Kapteyn Institute, 04/2024–07/2024
+- BSc thesis "[Redox-dependency of the runaway greenhouse limit](https://drive.google.com/file/d/1udqi6KLzMj920SKfBcrUIyQqaPlXibyi/view)", Iris Boer, Kapteyn Institute, 04/2024–07/2024
 - BSc semester project "Characterising exoplanet surface composition with LIFE", Flavia Pascal, Kapteyn Institute, 11/2023–06/2024
-- MSc thesis "Magma oceanography of GJ 367b", Lotte Bartels, Kapteyn Institute, 10/2023–06/2024
+- MSc thesis "[Magma oceanography of GJ 367b](https://fse.studenttheses.ub.rug.nl/32863/)", Lotte Bartels, Kapteyn Institute, 10/2023–06/2024
 - Undergraduate research project "Finding terrestrial protoplanets in the galactic neighbourhood", Lorenzo Cesario, Kapteyn Institute, 09/2023–06/2024
-- PhD thesis "What happened to rocky planets?", Harrison Nicholls, Oxford Atmospheric Physics, co-supervisor, 04/2023–01/2026
+- PhD thesis "[What happened to rocky planets?](https://drive.google.com/file/d/1SaQyNlp1XPusTl83TEPHoHZicfBkyuZn/view)", Harrison Nicholls, Oxford Atmospheric Physics, co-supervisor, 04/2023–01/2026
 - PhD research project "Fluid flow in aqueous planetesimals", Beat Hubmann, Kapteyn Institute, 04/2023–01/2024
-- BSc thesis "Distinguishing surface features on rocky exoplanets", Lucas Priolet, Kapteyn Institute, 04/2023–07/2023
-- BSc thesis "The prevalence of steam atmospheres on hot rocky exoplanets", Boyd van der Plaat, Kapteyn Institute, 04/2023–07/2023
-- BSc thesis "Detecting Cooling Protoplanets with Next-Generation Surveys", Lorenzo Cesario, Kapteyn Institute, 04/2023–07/2023
-- BSc thesis "Volcanic climate change on hot terrestrial exoplanets", Marijn Smorenburg, Kapteyn Institute, 04/2023–07/2023
-- MSc thesis "Hydrology of Planetesimals", Beat Hubmann, Institute of Geophysics, ETH Zurich, co-supervision, 02/2022–10/2022
-- Semester project "Investigating the surface composition of airless, terrestrial exoplanets with the Large Interferometer for Exoplanets", Gustav Pap, ETH Zurich, co-supervision, 02/2021–06/2021
-- PhD research projects "A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres", Robert J. Graham, Oxford Atmospheric Physics, co-supervision, 08/2020–09/2022
-- PhD research project "Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets", Ryan Boukrouche, Oxford Atmospheric Physics, co-supervision, 01/2020–09/2022
+- BSc thesis "[Distinguishing surface features on rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30895/)", Lucas Priolet, Kapteyn Institute, 04/2023–07/2023
+- BSc thesis "[The prevalence of steam atmospheres on hot rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30769/)", Boyd van der Plaat, Kapteyn Institute, 04/2023–07/2023
+- BSc thesis "[Detecting Cooling Protoplanets with Next-Generation Surveys](https://drive.google.com/file/d/1ajNS5dxTiUm9rIhb_LRUZkKxXyHCXwoV/view)", Lorenzo Cesario, Kapteyn Institute, 04/2023–07/2023
+- BSc thesis "[Volcanic climate change on hot terrestrial exoplanets](https://drive.google.com/file/d/1RWOIFz_LshoRritUmGQXUlp0YFsCw-pr/view)", Marijn Smorenburg, Kapteyn Institute, 04/2023–07/2023
+- MSc thesis "[Hydrology of Planetesimals](https://drive.google.com/file/d/1XDbCbi_w-pMhc1TDPZtR78UZgInzQBwx/view)", Beat Hubmann, Institute of Geophysics, ETH Zurich, co-supervision, 02/2022–10/2022
+- Semester project "[Investigating the surface composition of airless, terrestrial exoplanets with the Large Interferometer for Exoplanets](https://drive.google.com/file/d/1nXIGIqupQN6lzXpPT2nonTZ8uu6fF80b/view)", Gustav Pap, ETH Zurich, co-supervision, 02/2021–06/2021
+- PhD research projects "[A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres](https://drive.google.com/file/d/1-1jPzT46Umytz5cE24uSqUZvcYCcSO7A/view)", Robert J. Graham, Oxford Atmospheric Physics, co-supervision, 08/2020–09/2022
+- PhD research projects "[Interior dynamics of tidally locked super-Earths](https://doi.org/10.48549/3838)", Tobias G. Meier, University of Bern, co-supervision, 06/2020–09/2022
+- PhD research project "[Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets](https://drive.google.com/file/d/1-D4x8VltinMiwyKkPN_LTUHGMD6gs-l0/view)", Ryan Boukrouche, Oxford Atmospheric Physics, co-supervision, 01/2020–09/2022
 - Pastoral support and mentoring for 16 Oxford M.Sc. and D.Phil. (Ph.D.) students from the natural sciences (Engineering, Computer Science, Medicine, Physics, Chemistry), St Cross College, University of Oxford, 10/2019–09/2022
-- Semester project "Influence of silicate rheology on iron core formation", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 03/2020–06/2020
-- BSc thesis "Percolative core formation in terrestrial planetesimals and protoplanets", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 12/2018–06/2019
-- MSc thesis "Quantitative Predictions for the Observability of Protoplanetary Collisions", Irene Bonati, Institute of Geophysics, ETH Zurich, co-supervision, 12/2016–09/2017
-- Semester project "2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution", Fabio Luchsinger, Institute of Geophysics, ETH Zurich, co-supervision, 08/2016–02/2017
+- Semester project "[Influence of silicate rheology on iron core formation](https://drive.google.com/file/d/131qxmJsXirnbvFNftmily72ISIy2mlTZ/view)", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 03/2020–06/2020
+- BSc thesis "[Percolative core formation in terrestrial planetesimals and protoplanets](https://drive.google.com/file/d/10Oj5s0inqhH3sax9S46OxWuqkvtyQWUD/view)", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 12/2018–06/2019
+- MSc thesis "[Quantitative Predictions for the Observability of Protoplanetary Collisions](https://drive.google.com/file/d/11xxVOB2yHzR-2vNScXZrRXjS-mU9Bq5k/view)", Irene Bonati, Institute of Geophysics, ETH Zurich, co-supervision, 12/2016–09/2017
+- Semester project "[2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution](https://drive.google.com/file/d/1oO1dzdy3F6YonfFKbJuMb9f7fz54srNf/view)", Fabio Luchsinger, Institute of Geophysics, ETH Zurich, co-supervision, 08/2016–02/2017
 
 ### Lectures and Courses
 
