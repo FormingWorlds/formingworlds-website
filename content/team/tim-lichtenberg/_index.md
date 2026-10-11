@@ -89,7 +89,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-19723 (535'000 SBU on the Snellius supercomputer, 50'000 CPU hours on the SURF Research Cloud, *Pilot for the Interra Project exoplanet simulation ensemble on Snellius*), Dutch Research Council (NWO) & SURF, PI, 09/2026
 - Conference support grants for [Rocky Worlds IV](https://rockyworlds.org) in 01/2026, Dutch Research Council (NWO), SRON, Netherlands Platform for Planetary Science, Leids Kerkhoven-Bosscha Fonds, PI, 2025
 - [AEThER Collaboration](https://planets.carnegiescience.edu/aether), [Sloan Foundation](https://sloan.org/), Co-I, 07/2025
-- European Research Council's (ERC) [Starting Grant MagmaWorlds](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en) (€1.5M), PI, 09/2025
+- European Research Council's (ERC) [Starting Grant MagmaWorlds](https://cordis.europa.eu/project/id/101219807) (€1.5M), PI, 09/2025
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-12464 (20'000 SBU on the Snellius supercomputer, *PROTEUS: An Adaptive Numerical Framework to Simulate Lava Exoplanets*), Dutch Research Council (NWO) & SURF, PI, 01/2025
 - Dutch Research Council (NWO) [Consortium Grant](https://www.nwo.nl/en/projects/pxruc21696) (€329'065 out of €6.7M in total, *PRELIFE - Pathways, Reactions, and Environments leading to LIFE*), work package leader, Co-I, 11/2024
 - NOVA Consortium Grant (LIFE: Mid-infrared detection of biosignatures in the atmospheres of terrestrial exoplanets), PI: van der Tak (fte + cash € 249'000), Co-I, 07/2024
@@ -112,7 +112,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Postdoc Mentoring
 
-- Patrick Bos, Senior Research Software Engineer (ERC Starting Grant *MagmaWorlds*), Kapteyn Institute, 03/2026–
+*4 mentored postdocs in total, incl. 3 with personal fellowships (2 SNSF, 1 JSPS), 1 [ERC-funded](https://cordis.europa.eu/project/id/101219807)*
+
+- Patrick Bos, Senior Research Software Engineer ([ERC Starting Grant *MagmaWorlds*](https://cordis.europa.eu/project/id/101219807)), Kapteyn Institute, 03/2026–
 - Mara Attia, SNSF Postdoctoral Fellow, Kapteyn Institute, 05/2025–
 - Tadahiro Kimura, JSPS Postdoctoral Fellow, Kapteyn Institute, 06/2024–03/2026
 - Rob Spaargaren, SNSF Postdoctoral Fellow, Kapteyn Institute, 12/2023–11/2025

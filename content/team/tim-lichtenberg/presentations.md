@@ -6,7 +6,7 @@ role: "★ Invited & Keynote"
 
 <div class="presentations-list">
 
-*174 presentations in total, incl. 86 invited★*
+*174 presentations in total, incl. 149 oral presentations and 25 posters; 86 invited★*
 
 ## Conferences and Workshops
 
@@ -188,7 +188,7 @@ Annual workshop of the German NSF Graduiertenkolleg 1351, Salzgitter, DE, 10/201
 
 Institute of Astronomy, KU Leuven, Leuven, BE ★, 10/2026, [PDF](https://drive.google.com/file/d/1lacOi0OEaOWrt5t_Er-b46f53D-lWG2b/view)
 
-Globe Institute, Centre for Star and Planet Formation, Copenhagen, DK ★, 02/2026, [PDF](https://drive.google.com/open?id=1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM)
+Globe Institute, Centre for Star and Planet Formation, Copenhagen, DK ★, 02/2026, [PDF](https://drive.google.com/file/d/1UJrS11AdDPXqOOt--kdOf0mZu1Vp6tyM/view)
 
 Department of Astrophysics, Radboud University, Nijmegen, NL ★, 03/2025, [PDF](https://drive.google.com/file/d/1XKXejNj8PqefEvOw-fhMohIZIhPoenMG/view)
 
