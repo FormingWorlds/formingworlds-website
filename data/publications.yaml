@@ -36,7 +36,7 @@
   section: research
   subsection: preprints
   year: 2026
-  authors_md: '**Sastre M**, **T Lichtenberg**, L Dang, A Piette, HS Wang, M López-Morales, T Wilson, C-É Boukaré, M Herath, N Cowan, MA Al Zaman, MG Barber, C Brinkman-Traverse, N Connors, I Crossfield, L D''Aoust, O Herbort, L Janssen, M Kervazo, O Lammert, Y Miguel, R Pierrehumbert, A Vazan, JP Wardenier, S Zieba'
+  authors_md: '**Sastre M**, **T Lichtenberg**, L Dang, A Piette, HS Wang, M López-Morales, T Wilson, C-É Boukaré, M Herath, N Cowan, MA Al Zaman, MG Barber, C Brinkman-Traverse, N Connors, I Crossfield, L D''Aoust, O Herbort, L Janssen, M Kervazo, O Lammert, Y Miguel, RT Pierrehumbert, A Vazan, JP Wardenier, S Zieba'
   title: 'Thermal Evolution of Lava Planets Across System Ages: Predictions for Hell of a Survey'
   venue_md: null
   primary_url: https://arxiv.org/abs/2609.20155
@@ -155,7 +155,7 @@
   section: research
   subsection: published
   year: 2026
-  authors_md: 'Boucher S, L Dang, A McGinty, JK Teske, R Pierrehumbert, AAA Piette, NL Wallack, A Weeks, NT Lewis, **T Lichtenberg**, M Plotnykov, **E Postolec**, D Huber, TR Bedding, H Nicholls, B Peng, M Hammond, D Valencia'
+  authors_md: 'Boucher S, L Dang, A McGinty, JK Teske, RT Pierrehumbert, AAA Piette, NL Wallack, A Weeks, NT Lewis, **T Lichtenberg**, M Plotnykov, **E Postolec**, D Huber, TR Bedding, H Nicholls, B Peng, M Hammond, D Valencia'
   title: 'A Highly Reflective Atmosphere on the Lava World TOI-561b Revealed by JWST/NIRSpec Phase Curves'
   venue_md: '*The Astronomical Journal* 172, 239 (2026)'
   primary_url: https://scixplorer.org/abs/arXiv:2608.21519
