@@ -338,11 +338,18 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 ### National & International Collaborations
 
-- INT HARPS3 Semester 26B Program [*High-Precision RVs for an Expanded Census of Stellar and Planetary Compositions*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (62.2 hr, PI: Lichtenberg), PI, 07/2026–
-- INT HARPS3 Semester 26B Program [*HARPS3-NEAR: A Radial-Velocity Census of the Nearest Sun-like Stars*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (61.5 hr, PI: Snellen), Co-I, 07/2026–
-- JWST Cycle 4 GO Program [*Surveying Hellish Worlds: Lava Planets as Time Capsules of Thermal Evolution*](https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-4-go) (100.5 hr, PI: Dang), Co-I, 04/2025–
+*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 9 consortia and research programmes*
+
+#### Telescope Time
+
+- INT/HARPS3 Semester 26B, SI2026b03: [*High-Precision RVs for an Expanded Census of Stellar and Planetary Compositions*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (62.2 hr), PI, 07/2026–
+- INT/HARPS3 Semester 26B, SI2026b01: [*HARPS3-NEAR: A Radial-Velocity Census of the Nearest Sun-like Stars*](https://a.ing.iac.es/schedules/alloc.php?sem=26B) (61.5 hr), PI: Snellen, Co-I, 07/2026–
+- JWST Cycle 4, GO 8864: [*Surveying Hellish Worlds: Lava Planets as Time Capsules of Thermal Evolution*](https://www.stsci.edu/jwst/science-execution/program-information?id=8864) (100.4 hr), PI: Dang, Co-I, 04/2025–
+- JWST Cycle 2, GO 3860: [*Phase Curve Observations of TOI-561 b To Study Atmosphere-Interior Exchange*](https://www.stsci.edu/jwst/science-execution/program-information?id=3860) (44.2 hr), PI: Teske, Co-I, 02/2023–
+
+#### Consortia & Research Programmes
+
 - Dutch Research Council (NWO) Consortium [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), Co-I, 11/2024–
-- JWST Cycle 2 GO Program [*Phase Curve Observations of TOI-561 b To Study Atmosphere-Interior Exchange*](https://www.stsci.edu/jwst/science-execution/approved-programs/general-observers/cycle-2-go) (44.3 hr, PI: Teske), Co-I, 02/2023–
 - [ESA PLATO Consortium](https://platomission.com), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530); Core Science Team member since 2025, 12/2021–
 - Co-I (since 2024, previously associate member) of Carnegie-led research program [*AEThER: Atmospheric Empirical, Theoretical, and Experimental Research*](https://planets.carnegiescience.edu), 09/2021–
 - Associate member of NASA research program [Alien Earths: Searching for Habitable Worlds in Nearby Planetary Systems](https://alienearths.space), 03/2021–
