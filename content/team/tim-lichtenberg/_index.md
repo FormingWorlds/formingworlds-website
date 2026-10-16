@@ -149,7 +149,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - BSc semester project "Characterising exoplanet surface composition with LIFE", Flavia Pascal, Kapteyn Institute, 11/2023–06/2024
 - MSc thesis "[Magma oceanography of GJ 367b](https://fse.studenttheses.ub.rug.nl/32863/)", Lotte Bartels, Kapteyn Institute, 10/2023–06/2024
 - Undergraduate research project "Finding terrestrial protoplanets in the galactic neighbourhood", Lorenzo Cesario, Kapteyn Institute, 09/2023–06/2024
-- PhD thesis "[What happened to rocky planets?](https://drive.google.com/file/d/1SaQyNlp1XPusTl83TEPHoHZicfBkyuZn/view)", Harrison Nicholls, Oxford Atmospheric Physics, co-supervisor, 04/2023–01/2026
+- PhD thesis "[What happened to rocky planets?](https://drive.google.com/file/d/1SaQyNlp1XPusTl83TEPHoHZicfBkyuZn/view)" (co-supervised with Raymond Pierrehumbert), Harrison Nicholls, Oxford Atmospheric Physics, 04/2023–01/2026
 - PhD research project "Fluid flow in aqueous planetesimals", Beat Hubmann, Kapteyn Institute, 04/2023–01/2024
 - BSc thesis "[Distinguishing surface features on rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30895/)", Lucas Priolet, Kapteyn Institute, 04/2023–07/2023
 - BSc thesis "[The prevalence of steam atmospheres on hot rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30769/)", Boyd van der Plaat, Kapteyn Institute, 04/2023–07/2023
