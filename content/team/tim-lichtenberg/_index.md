@@ -164,7 +164,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Semester project "[Influence of silicate rheology on iron core formation](https://drive.google.com/file/d/131qxmJsXirnbvFNftmily72ISIy2mlTZ/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 03/2020–06/2020
 - BSc thesis "[Percolative core formation in terrestrial planetesimals and protoplanets](https://drive.google.com/file/d/10Oj5s0inqhH3sax9S46OxWuqkvtyQWUD/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 12/2018–06/2019
 - MSc thesis "[Quantitative Predictions for the Observability of Protoplanetary Collisions](https://drive.google.com/file/d/11xxVOB2yHzR-2vNScXZrRXjS-mU9Bq5k/view)" (co-supervised with Sascha Quanz), Irene Bonati, Institute of Geophysics, ETH Zurich, 12/2016–09/2017
-- Semester project "[2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution](https://drive.google.com/file/d/1oO1dzdy3F6YonfFKbJuMb9f7fz54srNf/view)", Fabio Luchsinger, Institute of Geophysics, ETH Zurich, co-supervision, 08/2016–02/2017
+- Semester project "[2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution](https://drive.google.com/file/d/1oO1dzdy3F6YonfFKbJuMb9f7fz54srNf/view)" (co-supervised with Taras Gerya), Fabio Luchsinger, Institute of Geophysics, ETH Zurich, 08/2016–02/2017
 
 ### Lectures and Courses
 
