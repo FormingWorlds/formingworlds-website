@@ -140,10 +140,11 @@
   year: 2026
   authors_md: 'Turner DA, A Mortier, JG Rogers, JA Egger, AV Freckelton, **T Lichtenberg**, AAA Piette'
   title: 'No statistically significant evidence for a correlation between stellar and planetary composition'
-  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
-  primary_url: https://scixplorer.org/abs/arXiv:2609.17159
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 552, stag1756 (2026)'
+  primary_url: https://doi.org/10.1093/mnras/stag1756
   links:
     scix: https://scixplorer.org/abs/arXiv:2609.17159
+    doi: https://doi.org/10.1093/mnras/stag1756
     pdf: https://arxiv.org/pdf/2609.17159
   bibcode: null
   lab_led: false
@@ -176,7 +177,7 @@
   authors_md: Nicholls H, O Shorttle, **T Lichtenberg**, **F Pascal**
   title: 'Beyond the mass-radius plane: Integrated radiative-convective and interior structure simulations of the exoplanet
     continuum'
-  venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 551, stag1489 (2026)'
   primary_url: https://doi.org/10.1093/mnras/stag1489
   links:
     scix: https://scixplorer.org/abs/arXiv:2604.15891
@@ -213,10 +214,11 @@
   year: 2026
   authors_md: '**Cesario L**, **T Lichtenberg**, M Min, L Noack, C Brachmann, E Alei, SP Quanz, LIFE Collaboration'
   title: 'Characterizing the oxidation state of rocky exoplanets with the Large Interferometer for Exoplanets (LIFE)'
-  venue_md: '*Monthly Notices of the Royal Astronomical Society*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2607.28121
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 552, stag1451 (2026)'
+  primary_url: https://doi.org/10.1093/mnras/stag1451
   links:
     scix: https://scixplorer.org/abs/arXiv:2607.28121
+    doi: https://doi.org/10.1093/mnras/stag1451
     pdf: https://arxiv.org/pdf/2607.28121
   bibcode: null
   lab_led: true
@@ -230,7 +232,7 @@
   year: 2026
   authors_md: 'Williams J, S Krijt, J Drążkowska, **T Lichtenberg**'
   title: Planetesimal Formation Across the Stellar Mass Spectrum and its Influence on Exoplanet-Inherited Volatile Budgets
-  venue_md: '*Monthly Notices of the Royal Astronomical Society* (2026)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 551, stag1510 (2026)'
   primary_url: https://doi.org/10.1093/mnras/stag1510
   links:
     scix: https://scixplorer.org/abs/arXiv:2607.20271
@@ -249,9 +251,10 @@
   authors_md: '**Postolec E**, **T Lichtenberg**, **H Nicholls**, **L Soucasse**, F van der Tak'
   title: Atmospheric evolution through outgassing and escape on young molten rocky exoplanets
   venue_md: '*Astronomy & Astrophysics*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2607.15011
+  primary_url: https://doi.org/10.1051/0004-6361/202659336
   links:
     scix: https://scixplorer.org/abs/arXiv:2607.15011
+    doi: https://doi.org/10.1051/0004-6361/202659336
     pdf: https://arxiv.org/pdf/2607.15011
   bibcode: null
   lab_led: true
@@ -283,10 +286,11 @@
   year: 2026
   authors_md: '**Attia M**, **T Lichtenberg**, **E Jungová**, **M Sastre**'
   title: 'PALEOS: Multiphase Equations of State and Mass-Radius Relations for Exoplanet Interiors'
-  venue_md: '*Astronomy & Astrophysics*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2605.03741
+  venue_md: '*Astronomy & Astrophysics* 713, A225 (2026)'
+  primary_url: https://doi.org/10.1051/0004-6361/202660790
   links:
     scix: https://scixplorer.org/abs/arXiv:2605.03741
+    doi: https://doi.org/10.1051/0004-6361/202660790
     pdf: https://arxiv.org/pdf/2605.03741
   bibcode: null
   lab_led: true
@@ -324,7 +328,7 @@
   year: 2026
   authors_md: '**Sastre M**, **T Lichtenberg**, **L Soucasse**, DJ Bower, **H Nicholls**, I Kamp'
   title: 'Geophysical and atmospheric implications of fO₂-dependent melting on rocky exoplanets'
-  venue_md: '*Astronomy & Astrophysics* (2026)'
+  venue_md: '*Astronomy & Astrophysics* 713, A159 (2026)'
   primary_url: https://doi.org/10.1051/0004-6361/202660017
   links:
     scix: https://scixplorer.org/abs/2026arXiv260620249S/abstract
@@ -377,7 +381,7 @@
   year: 2026
   authors_md: Calder R, O Shorttle, H Nicholls, **T Lichtenberg**, CM Guimond
   title: 'Most Rocky Sub-Neptunes are Molten: Mapping the Solidification Shoreline for Gas Dwarf Exoplanets'
-  venue_md: '*Monthly Notices of the Royal Astronomical Society* 549 (2026)'
+  venue_md: '*Monthly Notices of the Royal Astronomical Society* 549, stag1007 (2026)'
   primary_url: https://doi.org/10.1093/mnras/stag1007
   links:
     scix: https://scixplorer.org/abs/2025arXiv251205816C/abstract
@@ -532,7 +536,7 @@
   year: 2026
   authors_md: '**Nicholls H**, **T Lichtenberg**, RD Chatterjee, CM Guimond, **E Postolec**, RT Pierrehumbert'
   title: Volatile-rich evolution of molten super-Earth L 98-59 d
-  venue_md: '*Nature Astronomy* (2026)'
+  venue_md: '*Nature Astronomy* 10, 809-817 (2026)'
   primary_url: https://scixplorer.org/abs/2025arXiv250702656N/abstract
   links:
     pdf: https://www.nature.com/articles/s41550-026-02815-8.pdf

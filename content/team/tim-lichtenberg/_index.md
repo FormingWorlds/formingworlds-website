@@ -84,8 +84,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Grants & Fellowships
 
-*19 grants and fellowships in total, incl. 12 as PI (>€2.5M), 4 as Co-I*
+*18 grants and fellowships in total, incl. 13 as PI (>€3M), 4 as Co-I*
 
+- Open eScience Project *inversePROTEUS* (€531'000, incl. about 3 person-years of research software engineering, *Scalable Physics-based Inference of Exoplanet Evolution*), Netherlands eScience Center, PI, 10/2026
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-19723 (535'000 SBU on the Snellius supercomputer, 50'000 CPU hours on the SURF Research Cloud, *Pilot for the Interra Project exoplanet simulation ensemble on Snellius*), Dutch Research Council (NWO) & SURF, PI, 09/2026
 - Conference support grants for [Rocky Worlds IV](https://rockyworlds.org) in 01/2026, Dutch Research Council (NWO), SRON, Netherlands Platform for Planetary Science, Leids Kerkhoven-Bosscha Fonds, PI, 2025
 - [AEThER Collaboration](https://planets.carnegiescience.edu/aether), [Sloan Foundation](https://sloan.org/), Co-I, 07/2025
@@ -97,11 +98,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Workshop grant for [Rocky Worlds Discussions](https://rockyworlds.org) ($2'000), Meteoritical Society, 02/2023
 - Faculty Research Grant, Faculty of Science and Engineering (€150'000), University of Groningen, PI, 12/2022
 - Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org) (*CHF 500'000, Molten Exoplanets as a Window into the Earliest Earth*), PI, 08/2022
-- A-rated ERC Starting Grant Proposal (reserve list), European Research Council, 06/2022
 - Conference support grants for [Rocky Worlds II](https://rockyworlds.org) in 07/2022 (£8'000 + $5'000), Royal Astronomical Society, The Meteoritical Society, Kavli Institute for Cosmology, PI, 05/2021
 - Non-stipendiary Junior Research Fellowship, St Cross College, University of Oxford, PI, 06/2019
 - [Simons Collaboration on the Origins of Life Postdoctoral Fellowship](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/) ($276'000, *Geodynamic Regimes during Planetogenesis*), Simons Foundation, PI, 12/2018
-- Bernoulli postdoctoral fellowship (not started), University of Oxford & University of Bern, 03/2018
 - [Early Postdoc.Mobility fellowship](https://data.snf.ch/grants/grant/178621) (*CHF 77'650, Linking Interior-Atmosphere Regimes to Planetary Accretion*), Swiss National Science Foundation, PI, 12/2017
 - Conference support grant for [Water during planet formation and evolution](https://waterzurich.github.io/) in 02/2018 (*CHF 10'000*), University of Zurich Graduate Campus, Co-I, 04/2017
 - MERAC Funding and Travel Award (*CHF 5'000*), Swiss Society for Astrophysics & Astronomy, PI, 10/2016
@@ -156,15 +155,15 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - BSc thesis "[The prevalence of steam atmospheres on hot rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30769/)", Boyd van der Plaat, Kapteyn Institute, 04/2023–07/2023
 - BSc thesis "[Detecting Cooling Protoplanets with Next-Generation Surveys](https://drive.google.com/file/d/1ajNS5dxTiUm9rIhb_LRUZkKxXyHCXwoV/view)", Lorenzo Cesario, Kapteyn Institute, 04/2023–07/2023
 - BSc thesis "[Volcanic climate change on hot terrestrial exoplanets](https://drive.google.com/file/d/1RWOIFz_LshoRritUmGQXUlp0YFsCw-pr/view)", Marijn Smorenburg, Kapteyn Institute, 04/2023–07/2023
-- MSc thesis "[Hydrology of Planetesimals](https://drive.google.com/file/d/1XDbCbi_w-pMhc1TDPZtR78UZgInzQBwx/view)", Beat Hubmann, Institute of Geophysics, ETH Zurich, co-supervision, 02/2022–10/2022
-- Semester project "[Investigating the surface composition of airless, terrestrial exoplanets with the Large Interferometer for Exoplanets](https://drive.google.com/file/d/1nXIGIqupQN6lzXpPT2nonTZ8uu6fF80b/view)", Gustav Pap, ETH Zurich, co-supervision, 02/2021–06/2021
-- PhD research projects "[A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres](https://drive.google.com/file/d/1-1jPzT46Umytz5cE24uSqUZvcYCcSO7A/view)", Robert J. Graham, Oxford Atmospheric Physics, co-supervision, 08/2020–09/2022
-- PhD research projects "[Interior dynamics of tidally locked super-Earths](https://doi.org/10.48549/3838)", Tobias G. Meier, University of Bern, co-supervision, 06/2020–09/2022
-- PhD research project "[Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets](https://drive.google.com/file/d/1-D4x8VltinMiwyKkPN_LTUHGMD6gs-l0/view)", Ryan Boukrouche, Oxford Atmospheric Physics, co-supervision, 01/2020–09/2022
+- MSc thesis "[Hydrology of Planetesimals](https://drive.google.com/file/d/1XDbCbi_w-pMhc1TDPZtR78UZgInzQBwx/view)" (co-supervised with Taras Gerya), Beat Hubmann, Institute of Geophysics, ETH Zurich, 02/2022–10/2022
+- Semester project "[Investigating the surface composition of airless, terrestrial exoplanets with the Large Interferometer for Exoplanets](https://drive.google.com/file/d/1nXIGIqupQN6lzXpPT2nonTZ8uu6fF80b/view)" (co-supervised with Sascha Quanz), Gustav Pap, ETH Zurich, 02/2021–06/2021
+- PhD research projects "[A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres](https://drive.google.com/file/d/1-1jPzT46Umytz5cE24uSqUZvcYCcSO7A/view)" (co-supervised with Raymond Pierrehumbert), Robert J. Graham, Oxford Atmospheric Physics, 08/2020–09/2022
+- PhD research projects "[Interior dynamics of tidally locked super-Earths](https://doi.org/10.48549/3838)" (co-supervised with Dan J. Bower), Tobias G. Meier, University of Bern, 06/2020–09/2022
+- PhD research project "[Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets](https://drive.google.com/file/d/1-D4x8VltinMiwyKkPN_LTUHGMD6gs-l0/view)" (co-supervised with Raymond Pierrehumbert), Ryan Boukrouche, Oxford Atmospheric Physics, 01/2020–09/2022
 - Pastoral support and mentoring for 16 Oxford M.Sc. and D.Phil. (Ph.D.) students from the natural sciences (Engineering, Computer Science, Medicine, Physics, Chemistry), St Cross College, University of Oxford, 10/2019–09/2022
-- Semester project "[Influence of silicate rheology on iron core formation](https://drive.google.com/file/d/131qxmJsXirnbvFNftmily72ISIy2mlTZ/view)", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 03/2020–06/2020
-- BSc thesis "[Percolative core formation in terrestrial planetesimals and protoplanets](https://drive.google.com/file/d/10Oj5s0inqhH3sax9S46OxWuqkvtyQWUD/view)", Madeleine Müller, Institute of Geophysics, ETH Zurich, co-supervision, 12/2018–06/2019
-- MSc thesis "[Quantitative Predictions for the Observability of Protoplanetary Collisions](https://drive.google.com/file/d/11xxVOB2yHzR-2vNScXZrRXjS-mU9Bq5k/view)", Irene Bonati, Institute of Geophysics, ETH Zurich, co-supervision, 12/2016–09/2017
+- Semester project "[Influence of silicate rheology on iron core formation](https://drive.google.com/file/d/131qxmJsXirnbvFNftmily72ISIy2mlTZ/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 03/2020–06/2020
+- BSc thesis "[Percolative core formation in terrestrial planetesimals and protoplanets](https://drive.google.com/file/d/10Oj5s0inqhH3sax9S46OxWuqkvtyQWUD/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 12/2018–06/2019
+- MSc thesis "[Quantitative Predictions for the Observability of Protoplanetary Collisions](https://drive.google.com/file/d/11xxVOB2yHzR-2vNScXZrRXjS-mU9Bq5k/view)" (co-supervised with Sascha Quanz), Irene Bonati, Institute of Geophysics, ETH Zurich, 12/2016–09/2017
 - Semester project "[2D Numerical Modeling of Pebble Accretion Influence on Planetesimal Evolution](https://drive.google.com/file/d/1oO1dzdy3F6YonfFKbJuMb9f7fz54srNf/view)", Fabio Luchsinger, Institute of Geophysics, ETH Zurich, co-supervision, 08/2016–02/2017
 
 ### Lectures and Courses
