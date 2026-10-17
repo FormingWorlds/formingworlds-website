@@ -364,24 +364,24 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 *30 events in total, incl. 8 as main organiser*
 
-- [Rocky Worlds Conference Series](https://www.rockyworlds.org/) (main organiser), Chair, 10/2022–
-- [Rocky Worlds 5](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
+- [*Rocky Worlds Conference Series*](https://www.rockyworlds.org/) (main organiser), Chair, 10/2022–
+- [*Rocky Worlds 5*](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
 - Lorentz Center Workshop [*Characterizing Habitable Exoplanets With Interdisciplinary Expertise*](https://www.lorentzcenter.nl/characterizing-habitable-exoplanets-with-interdisciplinary-expertise.html), Leiden, NL, SOC, 04/2026
-- [Rocky Worlds IV](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026
+- [*Rocky Worlds IV*](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026
 - [*Science and Technology for the Era of LIFE*](https://life-space-mission.com/conference/), Barcelona, ES, SOC, 11/2025
 - Lorentz Center Workshop [*Atmospheric and interior evolution of planetary magma oceans*](https://www.lorentzcenter.nl/atmospheric-and-interior-evolution-of-planetary-magma-oceans.html) (main organiser), Leiden, NL, Chair, 10/2025
 - [*Exoclimes VII*](https://exoclimes.org), Montréal, CA, SOC, 07/2025
 - *Exoplanets V*, Leiden, NL, Convenor, 06/2024
-- [Rocky Worlds III](https://rockyworlds.org), ETH Zurich, CH, SOC, 01/2024
-- Annual LIFE Science Team Workshop, Berlin, DE, Co-Chair, 09/2023
+- [*Rocky Worlds III*](https://rockyworlds.org), ETH Zurich, CH, SOC, 01/2024
+- *Annual LIFE Science Team Workshop*, Berlin, DE, Co-Chair, 09/2023
 - Goldschmidt 2023, [*Unraveling planetary interiors with extraterrestrial samples and space data*](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Session/4816), Lyon, FR, Convenor, 07/2023
 - [*Origins of Solar Systems*](https://www.grc.org/origins-of-solar-systems-grs-conference/2023/) Gordon Research Seminar (main organiser), South Hadley, US, Co-Chair, 06/2023
 - *The (geo)chemistry of terrestrial planet formation*, Groningen, NL, SOC & LOC, 03/2023
-- [Rocky Worlds Discussions](https://rockyworlds.org), monthly virtual seminar series (main organiser), SOC, 10/2022–09/2024
-- [Rocky Worlds II](https://rockyworlds.org) (main organiser), University of Oxford, UK, Chair, 07/2022
-- [LIFE Science Team meetings](https://life-space-mission.com/events/), monthly virtual team meeting, co-host, 03/2022–01/2026
+- [*Rocky Worlds Discussions*](https://rockyworlds.org), monthly virtual seminar series (main organiser), SOC, 10/2022–09/2024
+- [*Rocky Worlds II*](https://rockyworlds.org) (main organiser), University of Oxford, UK, Chair, 07/2022
+- [*LIFE Science Team meetings*](https://life-space-mission.com/events/), monthly virtual team meeting, co-host, 03/2022–01/2026
 - AGU 2021 session [*Multidisciplinary perspectives on the formation and early evolution of terrestrial worlds*](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123642), New Orleans, US, Convenor, 12/2021
-- ESA PLATO Exoplanet Atmospheres Workshop, Berlin, DE, SOC, 12/2021
+- *ESA PLATO Exoplanet Atmospheres Workshop*, Berlin, DE, SOC, 12/2021
 - Lorentz Center Workshop [*LIFE – Large Interferometer for Exoplanets*](https://www.lorentzcenter.nl/life-large-interferometer-for-exoplanets-2021.html) (main organiser), Leiden, NL, SOC, 06/2021
 - AGU 2020 session [*Accretion and differentiation of rocky planets: perspectives from geophysics, geochemistry, & astronomy*](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/106571), San Francisco, US, Convenor, 12/2020
 - *LIFE Workshop III*, Liège, BE, SOC, 12/2020
