@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- ───────────────────────── HERO · full-viewport slideshow ──────────── -->
-<section id="slideshow" class="relative w-full overflow-hidden" style="height: 100vh;">
+<section id="slideshow" class="on-dark relative w-full overflow-hidden" style="height: 100vh;">
 
   {{ range $i, $slide := .Site.Data.slides }}
   <div class="slide absolute inset-0 transition-opacity duration-1000 ease-in-out {{ if eq $i 0 }}opacity-100 z-10{{ else }}opacity-0 z-0{{ end }}"

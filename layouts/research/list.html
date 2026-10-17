@@ -82,7 +82,7 @@
       {{ range . }}
       {{ $collab := . }}
       <a href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}"
-         class="flex items-center justify-center h-24 px-4 border border-ink-800 hover:border-ink-700 transition-colors">
+         class="on-dark bg-ink-950 flex items-center justify-center h-24 px-4 border border-ink-800 hover:border-ink-700 transition-colors">
         {{ with .logo }}
         <img src="{{ . }}" alt="{{ $collab.name }}" class="max-h-14 max-w-full object-contain" style="mix-blend-mode: lighten;">
         {{ else }}

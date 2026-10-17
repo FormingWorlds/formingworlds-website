@@ -3,17 +3,18 @@
   has a solid dark background on inner pages.
 */}}
 {{ $isHome := .IsHome }}
-<header class="{{ if $isHome }}absolute{{ else }}relative{{ end }} top-0 left-0 right-0 z-50 {{ if not $isHome }}bg-ink-980 border-b border-ink-800{{ end }}">
+<header class="{{ if $isHome }}absolute on-dark{{ else }}relative{{ end }} top-0 left-0 right-0 z-50 {{ if not $isHome }}bg-ink-980 border-b border-ink-800{{ end }}">
   <nav class="container-site flex items-center justify-between" style="height: 120px;">
     <!-- Logo (inline SVG so transparency survives the image compositing pipeline) -->
     <a href="{{ "/" | relURL }}" class="flex items-center" aria-label="Forming Worlds home">
       {{ with resources.Get "img/brand/logo-white.svg" }}
-      {{ $svg := .Content | replaceRE `<svg ([^>]*)width="[^"]*"` `<svg $1width="100%"` | replaceRE `height="[^"]*"` `height="100%"` }}
-      <div style="height: 78px; width: auto;" aria-hidden="true">{{ $svg | safeHTML }}</div>
+      {{ $svg := .Content | replaceRE `<svg ([^>]*)width="[^"]*"` `<svg $1width="100%"` | replaceRE `height="[^"]*"` `height="100%"` | replaceRE `fill="#fff"` `fill="currentColor"` }}
+      <div class="text-ink-0" style="height: 78px; width: auto;" aria-hidden="true">{{ $svg | safeHTML }}</div>
       {{ end }}
     </a>
 
     <!-- Desktop nav -->
+    <div class="flex items-center" style="gap: 1.5rem;">
     <ul class="hidden md:flex items-center gap-9">
       {{ range .Site.Menus.main }}
       {{ $active := or (eq $.RelPermalink (.URL | relURL)) (and (ne .URL "/") (hasPrefix $.RelPermalink (.URL | relURL))) }}
@@ -22,9 +23,9 @@
         <a href="{{ .URL | relURL }}" class="nav-link{{ if $active }} nav-link-active{{ end }}">{{ .Name }}</a>
         <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-3">
           <li class="bg-ink-900/95 backdrop-blur-sm border border-ink-800 py-2 w-56 rounded-sm">
-            <a href="{{ "/publications/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Publications</a>
-            <a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Code</a>
-            <a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">PROTEUS Framework</a>
+            <a href="{{ "/publications/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Publications</a>
+            <a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Code</a>
+            <a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">PROTEUS Framework</a>
           </li>
         </ul>
       </li>
@@ -33,11 +34,11 @@
         <a href="{{ .URL | relURL }}" class="nav-link{{ if $active }} nav-link-active{{ end }}">{{ .Name }}</a>
         <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-3">
           <li class="bg-ink-900/95 backdrop-blur-sm border border-ink-800 py-2 w-56 rounded-sm">
-            <a href="{{ "/code-of-conduct/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Code of Conduct</a>
-            <a href="{{ "/join/phd-positions/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">PhD Positions</a>
-            <a href="{{ "/join/postdoc-positions/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Postdoc Positions</a>
-            <a href="{{ "/join/student-projects/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">BSc &amp; MSc Projects</a>
-            <a href="{{ "/kapteyn-groningen/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Kapteyn &amp; Groningen</a>
+            <a href="{{ "/code-of-conduct/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Code of Conduct</a>
+            <a href="{{ "/join/phd-positions/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">PhD Positions</a>
+            <a href="{{ "/join/postdoc-positions/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Postdoc Positions</a>
+            <a href="{{ "/join/student-projects/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">BSc &amp; MSc Projects</a>
+            <a href="{{ "/kapteyn-groningen/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Kapteyn &amp; Groningen</a>
           </li>
         </ul>
       </li>
@@ -46,7 +47,7 @@
         <a href="{{ .URL | relURL }}" class="nav-link{{ if $active }} nav-link-active{{ end }}">{{ .Name }}</a>
         <ul class="hidden group-hover:block absolute top-full left-1/2 -translate-x-1/2 mt-0 pt-3">
           <li class="bg-ink-900/95 backdrop-blur-sm border border-ink-800 py-2 w-56 rounded-sm">
-            <a href="{{ "/contact/getting-to-kapteyn/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-white hover:bg-ink-850">Getting to Kapteyn</a>
+            <a href="{{ "/contact/getting-to-kapteyn/" | relURL }}" class="block px-4 py-2 text-sm text-ink-200 hover:text-ink-0 hover:bg-ink-850">Getting to Kapteyn</a>
           </li>
         </ul>
       </li>
@@ -58,13 +59,25 @@
       {{ end }}
     </ul>
 
+    <!-- Theme toggle: the system setting decides until a visitor picks a theme -->
+    <button id="theme-toggle" type="button" class="text-ink-300 hover:text-ink-0 p-2 transition-colors" aria-label="Switch theme">
+      <svg id="theme-icon-sun" class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" viewBox="0 0 24 24" aria-hidden="true">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/>
+      </svg>
+      <svg id="theme-icon-moon" class="w-5 h-5 hidden" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" viewBox="0 0 24 24" aria-hidden="true">
+        <path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/>
+      </svg>
+    </button>
+
     <!-- Mobile hamburger -->
-    <button id="mobile-menu-btn" class="md:hidden text-white p-2" aria-label="Menu">
+    <button id="mobile-menu-btn" class="md:hidden text-ink-0 p-2" aria-label="Menu">
       <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path id="hamburger-icon" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
         <path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
       </svg>
     </button>
+    </div>
   </nav>
 
   <!-- Mobile menu -->
@@ -72,24 +85,24 @@
     <ul class="container-site py-4 space-y-3">
       {{ range .Site.Menus.main }}
       <li>
-        <a href="{{ .URL | relURL }}" class="block text-ink-200 hover:text-white py-2 text-sm font-medium">{{ .Name }}</a>
+        <a href="{{ .URL | relURL }}" class="block text-ink-200 hover:text-ink-0 py-2 text-sm font-medium">{{ .Name }}</a>
         {{ if eq .Name "Research" }}
         <ul class="pl-4 space-y-1 mt-1">
-          <li><a href="{{ "/publications/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">Publications</a></li>
-          <li><a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block text-ink-300 hover:text-white py-1.5 text-sm">Code</a></li>
-          <li><a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block text-ink-300 hover:text-white py-1.5 text-sm">PROTEUS Framework</a></li>
+          <li><a href="{{ "/publications/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Publications</a></li>
+          <li><a href="{{ $.Site.Params.github }}" target="_blank" rel="noopener" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Code</a></li>
+          <li><a href="{{ $.Site.Params.proteus }}" target="_blank" rel="noopener" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">PROTEUS Framework</a></li>
         </ul>
         {{ else if eq .Name "Join" }}
         <ul class="pl-4 space-y-1 mt-1">
-          <li><a href="{{ "/code-of-conduct/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">Code of Conduct</a></li>
-          <li><a href="{{ "/join/phd-positions/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">PhD Positions</a></li>
-          <li><a href="{{ "/join/postdoc-positions/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">Postdoc Positions</a></li>
-          <li><a href="{{ "/join/student-projects/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">BSc &amp; MSc Projects</a></li>
-          <li><a href="{{ "/kapteyn-groningen/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">Kapteyn &amp; Groningen</a></li>
+          <li><a href="{{ "/code-of-conduct/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Code of Conduct</a></li>
+          <li><a href="{{ "/join/phd-positions/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">PhD Positions</a></li>
+          <li><a href="{{ "/join/postdoc-positions/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Postdoc Positions</a></li>
+          <li><a href="{{ "/join/student-projects/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">BSc &amp; MSc Projects</a></li>
+          <li><a href="{{ "/kapteyn-groningen/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Kapteyn &amp; Groningen</a></li>
         </ul>
         {{ else if eq .Name "Contact" }}
         <ul class="pl-4 space-y-1 mt-1">
-          <li><a href="{{ "/contact/getting-to-kapteyn/" | relURL }}" class="block text-ink-300 hover:text-white py-1.5 text-sm">Getting to Kapteyn</a></li>
+          <li><a href="{{ "/contact/getting-to-kapteyn/" | relURL }}" class="block text-ink-300 hover:text-ink-0 py-1.5 text-sm">Getting to Kapteyn</a></li>
         </ul>
         {{ end }}
       </li>
@@ -104,6 +117,28 @@
     const menu = document.getElementById('mobile-menu');
     const hamburger = document.getElementById('hamburger-icon');
     const closeIcon = document.getElementById('close-icon');
+    const root = document.documentElement;
+    const toggle = document.getElementById('theme-toggle');
+    const sun = document.getElementById('theme-icon-sun');
+    const moon = document.getElementById('theme-icon-moon');
+    const current = () => root.getAttribute('data-theme')
+      || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+    const paint = () => {
+      const light = current() === 'light';
+      sun.classList.toggle('hidden', light);
+      moon.classList.toggle('hidden', !light);
+      toggle.setAttribute('aria-label', light ? 'Switch to the dark theme' : 'Switch to the light theme');
+    };
+    if (toggle) {
+      toggle.addEventListener('click', () => {
+        const next = current() === 'light' ? 'dark' : 'light';
+        root.setAttribute('data-theme', next);
+        try { localStorage.setItem('fwl-theme', next); } catch (e) {}
+        paint();
+      });
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', paint);
+      paint();
+    }
     if (btn) btn.addEventListener('click', () => {
       menu.classList.toggle('hidden');
       hamburger.classList.toggle('hidden');
