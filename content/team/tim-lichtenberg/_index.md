@@ -120,8 +120,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Student Mentoring
 
-*43 supervised students in total, incl. 7 PhD, 10 MSc, 16 BSc theses, 10 projects/internships*
+*44 supervised students in total, incl. 8 PhD, 10 MSc, 16 BSc theses, 10 projects/internships*
 
+- PhD thesis "Exoplanet core evolution", Saphira Brandenberger, Kapteyn Institute, 09/2026–
 - Visiting PhD research project "Impact re-triggering of protoplanet magma oceans", Anna Grace Ulses (University of Washington, Seattle), Kapteyn Institute, 05/2026–
 - PhD thesis "Prebiotic climate and ocean levels of the Hadean Earth", Emeline Decocq, Kapteyn Institute, 09/2025–
 - PhD thesis "Interior-atmosphere evolution on low-mass exoplanets", Imre Kisvárdai, Kapteyn Institute, 09/2025–
