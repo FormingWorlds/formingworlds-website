@@ -52,7 +52,7 @@ Thesis: [Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiati
 
 **[Department of Physics](https://www.uni-goettingen.de/en/20493.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/), Germany**\
 M.Sc. Physics / specialisation in astronomy and geophysics\
-Thesis: [Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques](http://dx.doi.org/10.6084/m9.figshare.1501031) (highest grade: 1.0)\
+Thesis: [Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques](http://dx.doi.org/10.6084/m9.figshare.1501031)\
 09/2012 – 08/2014
 
 **[Peking University (北京大学)](https://english.pku.edu.cn/), Beijing, P. R. China**\
@@ -61,7 +61,7 @@ Semester abroad, chinese language and culture\
 
 **[Department of Physics](https://www.uni-goettingen.de/en/20493.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/), Germany**\
 B.Sc. Physics / specialisation in astronomy\
-Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx.doi.org/10.6084/m9.figshare.1501030) (highest grade: 1.0)\
+Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx.doi.org/10.6084/m9.figshare.1501030)\
 09/2009 – 08/2012
 
 **Wilhelmsgymnasium Kassel, Germany**\
