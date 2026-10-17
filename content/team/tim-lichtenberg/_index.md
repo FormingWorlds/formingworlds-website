@@ -98,7 +98,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Open eScience Early Career Project [PROTEUS](https://research-software-directory.org/projects/proteus) (€134'000, *An Adaptive Numerical Framework to Simulate Lava Exoplanets*), Netherlands eScience Center, PI, 12/2023
 - Workshop grant for [Rocky Worlds Discussions](https://rockyworlds.org) ($2'000), Meteoritical Society, 02/2023
 - Faculty Research Grant, Faculty of Science and Engineering (€150'000), University of Groningen, PI, 12/2022
-- Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org) (*CHF 500'000, Molten Exoplanets as a Window into the Earliest Earth*), PI, 08/2022
+- Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg/) (*CHF 500'000, Molten Exoplanets as a Window into the Earliest Earth*), PI, 08/2022
 - Conference support grants for [Rocky Worlds II](https://rockyworlds.org) in 07/2022 (£8'000 + $5'000), Royal Astronomical Society, The Meteoritical Society, Kavli Institute for Cosmology, PI, 05/2021
 - Non-stipendiary Junior Research Fellowship, St Cross College, University of Oxford, PI, 06/2019
 - [Simons Collaboration on the Origins of Life Postdoctoral Fellowship](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/) ($276'000, *Geodynamic Regimes during Planetogenesis*), Simons Foundation, PI, 12/2018
