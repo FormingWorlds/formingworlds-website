@@ -52,7 +52,7 @@ Thesis: [Thermal Evolution of Forming Planets: Isotope Enrichment, Differentiati
 
 **[Department of Physics](https://www.uni-goettingen.de/en/20493.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/), Germany**\
 M.Sc. Physics / specialisation in astronomy and geophysics\
-Thesis: [Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques](http://dx.doi.org/10.6084/m9.figshare.1501031) (grade: 1.0)\
+Thesis: [Modeling gravitational instabilities in compact and massive protoplanetary disks with adaptive mesh refinement techniques](http://dx.doi.org/10.6084/m9.figshare.1501031) (highest grade: 1.0)\
 09/2012 – 08/2014
 
 **[Peking University (北京大学)](https://english.pku.edu.cn/), Beijing, P. R. China**\
@@ -61,7 +61,7 @@ Semester abroad, chinese language and culture\
 
 **[Department of Physics](https://www.uni-goettingen.de/en/20493.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/), Germany**\
 B.Sc. Physics / specialisation in astronomy\
-Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx.doi.org/10.6084/m9.figshare.1501030) (grade: 1.0)\
+Thesis: [Constraining Exoplanet Characteristics with Asteroseismology](http://dx.doi.org/10.6084/m9.figshare.1501030) (highest grade: 1.0)\
 09/2009 – 08/2012
 
 **Wilhelmsgymnasium Kassel, Germany**\
@@ -74,7 +74,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Honours & Awards
 
-- [Europlanet Early-Career Medal](https://www.europlanet-society.org/europlanet-early-career-medal/), Europlanet Society, 09/2025
+- [Europlanet Early-Career Medal](https://www.europlanet.org/tim-lichtenberg-benoit-carry-and-jean-schneider-honoured-by-new-europlanet-career-medals/), Europlanet Society, 09/2025
 - [Planetary and Solar System Sciences Division Outstanding Early Career Scientist Award](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2023/tim-lichtenberg/), European Geosciences Union (EGU), 04/2023
 - [Winton Award for Early Achievement in Geophysics](https://ras.ac.uk/awards-and-grants/awards/2284-winton-capital-award-g), Royal Astronomical Society, 01/2022
 - [Doctoral Thesis Award 2019](https://astronomische-gesellschaft.de/en/activities/awards), German Astronomical Society, 09/2019
