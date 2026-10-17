@@ -28,7 +28,7 @@ The research of the Forming Worlds Lab is embedded within the [Alien Earths](htt
 ## Research Positions
 
 **[Kapteyn Astronomical Institute, University of Groningen](https://www.rug.nl/research/kapteyn/?lang=en)**\
-Tenure track Assistant Professor · [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg.html) Research Fellow\
+Tenure track Assistant Professor · [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg/) Research Fellow\
 10/2022 –
 
 **[Atmospheric, Oceanic and Planetary Physics, University of Oxford](https://www.physics.ox.ac.uk/research/subdepartment/atmospheric-oceanic-and-planetary-physics)**\
