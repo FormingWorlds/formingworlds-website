@@ -78,7 +78,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - [Planetary and Solar System Sciences Division Outstanding Early Career Scientist Award](https://www.egu.eu/awards-medals/division-outstanding-ecs-award/2023/tim-lichtenberg/), European Geosciences Union (EGU), 04/2023
 - [Winton Award for Early Achievement in Geophysics](https://ras.ac.uk/sites/default/files/RAS%20Winton%20Award%20(G)%20-%20Dr%20Tim%20Lichtenberg.pdf), Royal Astronomical Society, 01/2022
 - [Doctoral Thesis Award 2019](https://astronomische-gesellschaft.de/en/activities/awards), German Astronomical Society, 09/2019
-- [PhD Prize for Planetary Systems and Astrobiology 2018](https://www.iau.org/Iau/Iau/Science/Grants-and-Prizes/PhD-Prize.aspx), International Astronomical Union, 06/2019
+- [PhD Prize for Planetary Systems and Astrobiology 2018](https://drive.google.com/file/d/1wVho9FBZfThqDtqn7gktDWTO_F2JhCZb/view), International Astronomical Union, 06/2019
 - European Astrobiology Network Association, Horneck-Brack Presentation Award, 2nd prize, 09/2018
 - 'Dr. Berliner - Dr. Ungewitter' award for M.Sc. thesis, Georg-August-Universität Göttingen, 12/2014
 - Master's diploma awarded 'with distinction', Georg-August-Universität Göttingen, 08/2014
