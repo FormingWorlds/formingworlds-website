@@ -2,7 +2,7 @@
 
 Source for [formingworlds.space](https://formingworlds.space), the group website of the [Forming Worlds Lab](https://formingworlds.space) at the Kapteyn Astronomical Institute, University of Groningen.
 
-The site is a dark-themed Hugo static site (the "Field Station" design language) hosted on GitHub Pages, with a small Cloudflare Worker for URL shortening on `go.formingworlds.space` and `timlichtenberg.net`.
+The site is a Hugo static site (the "Field Station" design language, dark by default, with a light theme that follows the system setting) hosted on GitHub Pages, with a small Cloudflare Worker for URL shortening on `go.formingworlds.space` and `timlichtenberg.net`.
 
 ## Stack
 

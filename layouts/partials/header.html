@@ -136,7 +136,8 @@
         try { localStorage.setItem('fwl-theme', next); } catch (e) {}
         paint();
       });
-      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', paint);
+      const mq = window.matchMedia('(prefers-color-scheme: light)');
+      if (mq.addEventListener) mq.addEventListener('change', paint); else mq.addListener(paint);
       paint();
     }
     if (btn) btn.addEventListener('click', () => {

@@ -1,6 +1,6 @@
 # Forming Worlds Website
 
-Group website for the [Forming Worlds Lab](https://formingworlds.space) at the Kapteyn Astronomical Institute, University of Groningen. Replaces a previous Wix site. The design is a dark-themed, single-page-per-section static site that faithfully reproduces the original Wix visual style.
+Group website for the [Forming Worlds Lab](https://formingworlds.space) at the Kapteyn Astronomical Institute, University of Groningen. Replaces a previous Wix site. The design is a single-page-per-section static site, dark by default, with a light theme that follows the system setting (see THEMES in `assets/css/main.css`).
 
 ## Stack
 

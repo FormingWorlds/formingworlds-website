@@ -4,7 +4,7 @@
       <!-- Brand -->
       <div class="md:col-span-5">
         {{ with resources.Get "img/brand/logo-white.svg" }}
-        {{ $svg := .Content | replaceRE `<svg ([^>]*)width="[^"]*"` `<svg $1width="100%"` | replaceRE `height="[^"]*"` `height="100%"` | replaceRE `fill="#fff"` `fill="currentColor"` }}
+        {{ $svg := .Content | replaceRE `<svg ([^>]*)width="[^"]*"` `<svg $1width="100%"` | replaceRE `height="[^"]*"` `height="100%"` | replaceRE `fill="#fff"` `fill="currentColor"` | replaceRE ` id="` ` id="ft-` | replaceRE `href="#` `href="#ft-` | replaceRE `url\(#` `url(#ft-` }}
         <div class="text-ink-0" style="height: 47px; width: auto;" role="img" aria-label="Forming Worlds Lab">{{ $svg | safeHTML }}</div>
         {{ end }}
         <div class="text-ink-400 text-sm mt-5 leading-relaxed">
