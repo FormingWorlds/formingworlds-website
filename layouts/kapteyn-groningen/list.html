@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ if .Params.banner_image }}
 <!-- Hero banner -->
-<div class="relative" style="height: 480px; min-height: 360px;">
+<div class="on-dark relative" style="height: 480px; min-height: 360px;">
   <img src="{{ .Params.banner_image | relURL }}" alt="{{ .Title }}" class="absolute inset-0 w-full h-full object-cover object-center">
   <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.4) 0%, rgba(8,10,18,.05) 50%, rgba(8,10,18,.95));"></div>
   <div class="absolute bottom-0 left-0 right-0 container-site pb-12">
@@ -42,7 +42,7 @@
   </div>
 
   <!-- Lightbox overlay -->
-  <div id="lightbox" class="fixed inset-0 z-50 hidden" style="background:#000" onclick="closeLightbox(event)">
+  <div id="lightbox" class="on-dark fixed inset-0 z-50 hidden" style="background:#000" onclick="closeLightbox(event)">
     <button onclick="closeLightbox(event, true)" class="absolute top-4 right-4 z-10 text-white/70 hover:text-white text-4xl leading-none cursor-pointer w-12 h-12 flex items-center justify-center">&times;</button>
     <button onclick="lightboxNav(-1)" class="absolute left-2 md:left-6 top-1/2 -translate-y-1/2 z-10 text-white/70 hover:text-white text-5xl leading-none cursor-pointer w-12 h-12 flex items-center justify-center">&#8249;</button>
     <button onclick="lightboxNav(1)" class="absolute right-2 md:right-6 top-1/2 -translate-y-1/2 z-10 text-white/70 hover:text-white text-5xl leading-none cursor-pointer w-12 h-12 flex items-center justify-center">&#8250;</button>

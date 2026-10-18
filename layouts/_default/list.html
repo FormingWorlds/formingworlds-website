@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ if .Params.banner_image }}
 <!-- Hero banner -->
-<div class="relative" style="height: 480px; min-height: 360px;">
+<div class="on-dark relative" style="height: 480px; min-height: 360px;">
   <img src="{{ .Params.banner_image | relURL }}" alt="{{ .Title }}" class="absolute inset-0 w-full h-full object-cover object-center">
   <div class="absolute inset-0" style="background: linear-gradient(180deg, rgba(8,10,18,.4) 0%, rgba(8,10,18,.05) 50%, rgba(8,10,18,.95));"></div>
   <div class="absolute bottom-0 left-0 right-0 container-site pb-12">

@@ -33,7 +33,7 @@
   <div class="container-site">
     <h2 class="section-heading mb-8" style="font-size: clamp(1.75rem, 2vw + 1rem, 2.5rem);">The lab in person.</h2>
 
-    <div class="relative max-w-4xl mx-auto overflow-hidden" style="aspect-ratio: 16/9; background: #000;" id="group-slideshow">
+    <div class="on-dark relative max-w-4xl mx-auto overflow-hidden" style="aspect-ratio: 16/9; background: #000;" id="group-slideshow">
       {{ range $i, $slide := .Site.Data.group_photos }}
       <img src="{{ .image }}" alt="{{ .caption }}" decoding="async"
            {{ if eq $i 0 }}fetchpriority="high"{{ else }}loading="lazy" fetchpriority="low"{{ end }}

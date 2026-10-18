@@ -1,4 +1,11 @@
 <meta charset="utf-8">
+<!-- Apply a stored theme choice before the first paint; without one the system setting decides -->
+<script>
+  try {
+    var t = localStorage.getItem('fwl-theme');
+    if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
 <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">

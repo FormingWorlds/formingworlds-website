@@ -55,6 +55,17 @@
    │   for team and join (≈ 853px at the widest viewport).     │
    └───────────────────────────────────────────────────────────┘
 
+   ┌─ THEMES ──────────────────────────────────────────────────┐
+   │ Dark is the default; a light system setting gives the     │
+   │ light theme, and the header toggle stores a choice in     │
+   │ localStorage "fwl-theme" (html[data-theme]). The light    │
+   │ theme reassigns the ramp steps, so write every surface    │
+   │ with ink/signal/magma utilities. Areas that stay dark     │
+   │ (photos, banners) take .on-dark; text on a photo or a     │
+   │ fixed fill uses text-white. A white single-colour logo    │
+   │ takes .invert-on-light.                                   │
+   └───────────────────────────────────────────────────────────┘
+
    ┌─ ANTI-PATTERNS · don't do these ──────────────────────────┐
    │ • Don't invent new color/font tokens — extend the ink /   │
    │   signal / magma palette if absolutely necessary, but     │
@@ -101,8 +112,8 @@
   --color-signal-300: oklch(0.80 0.090 233);
   --color-signal-400: oklch(0.70 0.110 233);
   --color-signal-500: #0072A1;
-  --color-signal-600: oklch(0.44 0.115 233);
-  --color-signal-700: oklch(0.34 0.095 233);
+  --color-signal-600: #005B87;
+  --color-signal-700: #003E60;
 
   /* ── MAGMA · warm accent (planet-formation cue) ─────────────── */
   --color-magma-300: oklch(0.84 0.090 55);
@@ -125,7 +136,7 @@
   --color-sky-300: oklch(0.80 0.090 233);
   --color-sky-400: oklch(0.70 0.110 233);
   --color-sky-500: #0072A1;
-  --color-sky-600: oklch(0.44 0.115 233);
+  --color-sky-600: #005B87;
 
   --color-accent-300: oklch(0.84 0.090 55);
   --color-accent-400: oklch(0.75 0.135 50);
@@ -141,6 +152,113 @@
   /* ── Layout ────────────────────────────────────────────────── */
   --container-max: 1280px;
 }
+
+/* ─── Light theme ─────────────────────────────────────────────
+   The light theme reassigns the ramp steps, so every utility and
+   component keeps its class and turns light: the page ground ink-950
+   becomes mist (ink-50), panels and cards white, text steps dark, and
+   links and warm accents move to the steps that read on a light ground.
+   A visitor's system setting decides unless the theme toggle has set
+   data-theme. Values come from fwl-visual-language, except the hover
+   steps ink-850 and magma-400. Keep the two light blocks identical. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --color-ink-0: oklch(0.055 0.010 240);
+    --color-ink-50: oklch(0.090 0.012 240);
+    --color-ink-100: oklch(0.135 0.018 240);
+    --color-ink-200: oklch(0.220 0.022 240);
+    --color-ink-300: oklch(0.320 0.020 240);
+    --color-ink-400: oklch(0.430 0.018 240);
+    --color-ink-500: oklch(0.430 0.018 240);
+    --color-ink-600: oklch(0.555 0.016 240);
+    --color-ink-700: oklch(0.760 0.012 240);
+    --color-ink-800: oklch(0.860 0.010 240);
+    --color-ink-850: oklch(0.940 0.007 240);
+    --color-ink-900: #FFFFFF;
+    --color-ink-950: oklch(0.972 0.005 240);
+    --color-ink-980: #FFFFFF;
+    --color-signal-300: #005B87;
+    --color-signal-400: #003E60;
+    --color-signal-500: #0072A1;
+    --color-signal-600: #003E60;
+    --color-signal-700: #003E60;
+    --color-magma-300: oklch(0.420 0.120 35);
+    --color-magma-400: oklch(0.485 0.135 37);
+    --color-magma-500: oklch(0.550 0.150 40);
+    --color-magma-600: oklch(0.420 0.120 35);
+    --color-magma-700: oklch(0.420 0.120 35);
+    color-scheme: light;
+  }
+}
+:root[data-theme="light"] {
+  --color-ink-0: oklch(0.055 0.010 240);
+  --color-ink-50: oklch(0.090 0.012 240);
+  --color-ink-100: oklch(0.135 0.018 240);
+  --color-ink-200: oklch(0.220 0.022 240);
+  --color-ink-300: oklch(0.320 0.020 240);
+  --color-ink-400: oklch(0.430 0.018 240);
+  --color-ink-500: oklch(0.430 0.018 240);
+  --color-ink-600: oklch(0.555 0.016 240);
+  --color-ink-700: oklch(0.760 0.012 240);
+  --color-ink-800: oklch(0.860 0.010 240);
+  --color-ink-850: oklch(0.940 0.007 240);
+  --color-ink-900: #FFFFFF;
+  --color-ink-950: oklch(0.972 0.005 240);
+  --color-ink-980: #FFFFFF;
+  --color-signal-300: #005B87;
+  --color-signal-400: #003E60;
+  --color-signal-500: #0072A1;
+  --color-signal-600: #003E60;
+  --color-signal-700: #003E60;
+  --color-magma-300: oklch(0.420 0.120 35);
+  --color-magma-400: oklch(0.485 0.135 37);
+  --color-magma-500: oklch(0.550 0.150 40);
+  --color-magma-600: oklch(0.420 0.120 35);
+  --color-magma-700: oklch(0.420 0.120 35);
+  color-scheme: light;
+}
+:root {
+  color-scheme: dark;
+}
+
+/* Photo areas (home hero, banners, image cards, lightbox) stay dark in
+   both themes: .on-dark restores the dark ramp for its subtree. */
+/* White single-colour logos turn black on the light ground, not inside .on-dark */
+.invert-on-light { background-color: transparent; }  /* no placeholder box behind the logo */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .invert-on-light { filter: invert(1); }
+}
+:root[data-theme="light"] .invert-on-light { filter: invert(1); }
+:root .on-dark .invert-on-light { filter: none; }
+
+.on-dark {
+  --color-ink-0: #FFFFFF;
+  --color-ink-50: oklch(0.972 0.005 240);
+  --color-ink-100: oklch(0.928 0.008 240);
+  --color-ink-200: oklch(0.860 0.010 240);
+  --color-ink-300: oklch(0.760 0.012 240);
+  --color-ink-400: oklch(0.660 0.014 240);
+  --color-ink-500: oklch(0.555 0.016 240);
+  --color-ink-600: oklch(0.430 0.018 240);
+  --color-ink-700: oklch(0.320 0.020 240);
+  --color-ink-800: oklch(0.220 0.022 240);
+  --color-ink-850: oklch(0.170 0.022 240);
+  --color-ink-900: oklch(0.135 0.018 240);
+  --color-ink-950: oklch(0.090 0.012 240);
+  --color-ink-980: oklch(0.055 0.010 240);
+  --color-signal-300: oklch(0.800 0.090 233);
+  --color-signal-400: oklch(0.700 0.110 233);
+  --color-signal-500: #0072A1;
+  --color-signal-600: #005B87;
+  --color-signal-700: #003E60;
+  --color-magma-300: oklch(0.840 0.090 55);
+  --color-magma-400: oklch(0.750 0.135 50);
+  --color-magma-500: oklch(0.660 0.160 45);
+  --color-magma-600: oklch(0.550 0.150 40);
+  --color-magma-700: oklch(0.420 0.120 35);
+  color-scheme: dark;
+}
+
 
 /* ─── Base ─────────────────────────────────────────────────── */
 
@@ -211,16 +329,17 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 
 /* ─── Nav links (transparent over hero) ───────────────────── */
 .nav-link {
-  color: rgba(255, 255, 255, 0.85);
+  color: color-mix(in oklch, var(--color-ink-0) 85%, transparent);
   font-size: 1.0625rem;
   font-weight: 500;
   letter-spacing: 0.005em;
   border-bottom: 1px solid transparent;
   padding-bottom: 4px;
   transition: color .15s, border-color .15s;
-  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4);
 }
-.nav-link:hover { color: #ffffff; }
+/* over the home hero photo the links need a shadow to stay readable */
+.on-dark .nav-link { text-shadow: 0 1px 6px rgba(0, 0, 0, 0.4); }
+.nav-link:hover { color: var(--color-ink-0); }
 .nav-link-active {
   color: var(--color-signal-300);
   border-bottom-color: var(--color-magma-500);
@@ -464,10 +583,10 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   transition: background-color 0.15s, color 0.15s, border-color 0.15s;
 }
 .pub-pill:hover {
-  background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500);
+  background: var(--color-signal-500); color: white; border-color: var(--color-signal-500);
 }
 .pub-pill-secondary       { border-color: var(--color-ink-600); color: var(--color-ink-400); }
-.pub-pill-secondary:hover { background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500); }
+.pub-pill-secondary:hover { background: var(--color-signal-500); color: white; border-color: var(--color-signal-500); }
 .pub-separator { display: inline-block; width: 1px; height: 1rem; background: var(--color-ink-700); margin: 0 0.25rem; }
 .pub-toggle {
   display: inline-flex; align-items: center; gap: 0.25rem;
@@ -477,7 +596,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
   letter-spacing: 0.01em; cursor: pointer; line-height: 1.4;
   transition: background-color 0.15s, color 0.15s, border-color 0.15s;
 }
-.pub-toggle:hover { background: var(--color-signal-500); color: var(--color-ink-0); border-color: var(--color-signal-500); }
+.pub-toggle:hover { background: var(--color-signal-500); color: white; border-color: var(--color-signal-500); }
 .pub-toggle[aria-pressed="true"] { background: var(--color-ink-700); color: var(--color-ink-0); border-color: var(--color-ink-500); }
 .pub-chevron { display: inline-block; font-size: 0.65rem; transition: transform 0.2s ease; }
 .pub-toggle[aria-pressed="true"] .pub-chevron { transform: rotate(180deg); }
