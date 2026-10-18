@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./fwl-tailwind-light.css";
 
 /* ════════════════════════════════════════════════════════════════
    Forming Worlds Lab — Field Station design system
@@ -14,7 +15,7 @@
    │         use ink-700/800; near-black surfaces use ink-980. │
    │ SIGNAL  brand blue, seeded by the logo (#0072A1 at -500). │
    │         Links use signal-300, hover signal-400. Primary   │
-   │         buttons use signal-500/400.                       │
+   │         buttons use signal-500/600.                       │
    │ MAGMA   warm planet-formation cue. Use for warnings,      │
    │         important callouts (left-border + magma-300 text  │
    │         or full callout box with magma-500 border). Also  │
@@ -37,7 +38,7 @@
    │ .container-site   max-width var(--container-max) + px-6   │
    │ .btn-primary      filled signal-500, primary CTA          │
    │ .btn-ghost        outline ink-700, secondary CTA          │
-   │ .btn-warm         filled magma-500, urgent CTA            │
+   │ .btn-warm         filled magma-600, urgent CTA            │
    │ .btn-sm / .btn-lg size modifiers                          │
    │ .team-card        flush-against-background member card    │
    │ .alumni-grid      compact alumni section                  │
@@ -71,8 +72,8 @@
    │   signal / magma palette if absolutely necessary, but     │
    │   stay inside the cool-with-warm-accent vocabulary.       │
    │ • Don't use raw hex codes in component CSS — reference    │
-   │   var(--color-*) custom properties so the @theme stays    │
-   │   the single source of truth.                             │
+   │   var(--color-*) custom properties, so the @theme and     │
+   │   fwl-tailwind-light.css hold every colour.               │
    │ • Don't rely on arbitrary-value Tailwind utilities in     │
    │   layouts (e.g. gap-3, py-32, grid-cols-[24px_1fr]).      │
    │   Hugo's TW4 pipe doesn't always emit them. Use inline    │
@@ -154,75 +155,12 @@
 }
 
 /* ─── Light theme ─────────────────────────────────────────────
-   The light theme reassigns the ramp steps, so every utility and
-   component keeps its class and turns light: the page ground ink-950
-   becomes mist (ink-50), panels and cards white, text steps dark, and
-   links and warm accents move to the steps that read on a light ground.
-   A visitor's system setting decides unless the theme toggle has set
-   data-theme. Values come from fwl-visual-language, except the hover
-   steps ink-850 and magma-400. Keep the two light blocks identical. */
-@media (prefers-color-scheme: light) {
-  :root:not([data-theme="dark"]) {
-    --color-ink-0: oklch(0.055 0.010 240);
-    --color-ink-50: oklch(0.090 0.012 240);
-    --color-ink-100: oklch(0.135 0.018 240);
-    --color-ink-200: oklch(0.220 0.022 240);
-    --color-ink-300: oklch(0.320 0.020 240);
-    --color-ink-400: oklch(0.430 0.018 240);
-    --color-ink-500: oklch(0.430 0.018 240);
-    --color-ink-600: oklch(0.555 0.016 240);
-    --color-ink-700: oklch(0.760 0.012 240);
-    --color-ink-800: oklch(0.860 0.010 240);
-    --color-ink-850: oklch(0.940 0.007 240);
-    --color-ink-900: #FFFFFF;
-    --color-ink-950: oklch(0.972 0.005 240);
-    --color-ink-980: #FFFFFF;
-    --color-signal-300: #005B87;
-    --color-signal-400: #003E60;
-    --color-signal-500: #0072A1;
-    --color-signal-600: #003E60;
-    --color-signal-700: #003E60;
-    --color-magma-300: oklch(0.420 0.120 35);
-    --color-magma-400: oklch(0.485 0.135 37);
-    --color-magma-500: oklch(0.550 0.150 40);
-    --color-magma-600: oklch(0.420 0.120 35);
-    --color-magma-700: oklch(0.420 0.120 35);
-    color-scheme: light;
-  }
-}
-:root[data-theme="light"] {
-  --color-ink-0: oklch(0.055 0.010 240);
-  --color-ink-50: oklch(0.090 0.012 240);
-  --color-ink-100: oklch(0.135 0.018 240);
-  --color-ink-200: oklch(0.220 0.022 240);
-  --color-ink-300: oklch(0.320 0.020 240);
-  --color-ink-400: oklch(0.430 0.018 240);
-  --color-ink-500: oklch(0.430 0.018 240);
-  --color-ink-600: oklch(0.555 0.016 240);
-  --color-ink-700: oklch(0.760 0.012 240);
-  --color-ink-800: oklch(0.860 0.010 240);
-  --color-ink-850: oklch(0.940 0.007 240);
-  --color-ink-900: #FFFFFF;
-  --color-ink-950: oklch(0.972 0.005 240);
-  --color-ink-980: #FFFFFF;
-  --color-signal-300: #005B87;
-  --color-signal-400: #003E60;
-  --color-signal-500: #0072A1;
-  --color-signal-600: #003E60;
-  --color-signal-700: #003E60;
-  --color-magma-300: oklch(0.420 0.120 35);
-  --color-magma-400: oklch(0.485 0.135 37);
-  --color-magma-500: oklch(0.550 0.150 40);
-  --color-magma-600: oklch(0.420 0.120 35);
-  --color-magma-700: oklch(0.420 0.120 35);
-  color-scheme: light;
-}
-:root {
-  color-scheme: dark;
-}
-
-/* Photo areas (home hero, banners, image cards, lightbox) stay dark in
-   both themes: .on-dark restores the dark ramp for its subtree. */
+   fwl-tailwind-light.css (from fwl-visual-language, imported at the
+   top) reassigns the ramp steps for a light system setting or
+   data-theme="light", and .on-dark keeps photo areas on the dark ramp.
+   To change it, edit website_light in fwl-visual-language, run
+   `python -m fwl_visual_language build` there and copy
+   themes/css/fwl-tailwind-light.css here. */
 /* White single-colour logos turn black on the light ground, not inside .on-dark */
 .invert-on-light { background-color: transparent; }  /* no placeholder box behind the logo */
 @media (prefers-color-scheme: light) {
@@ -231,33 +169,6 @@
 :root[data-theme="light"] .invert-on-light { filter: invert(1); }
 :root .on-dark .invert-on-light { filter: none; }
 
-.on-dark {
-  --color-ink-0: #FFFFFF;
-  --color-ink-50: oklch(0.972 0.005 240);
-  --color-ink-100: oklch(0.928 0.008 240);
-  --color-ink-200: oklch(0.860 0.010 240);
-  --color-ink-300: oklch(0.760 0.012 240);
-  --color-ink-400: oklch(0.660 0.014 240);
-  --color-ink-500: oklch(0.555 0.016 240);
-  --color-ink-600: oklch(0.430 0.018 240);
-  --color-ink-700: oklch(0.320 0.020 240);
-  --color-ink-800: oklch(0.220 0.022 240);
-  --color-ink-850: oklch(0.170 0.022 240);
-  --color-ink-900: oklch(0.135 0.018 240);
-  --color-ink-950: oklch(0.090 0.012 240);
-  --color-ink-980: oklch(0.055 0.010 240);
-  --color-signal-300: oklch(0.800 0.090 233);
-  --color-signal-400: oklch(0.700 0.110 233);
-  --color-signal-500: #0072A1;
-  --color-signal-600: #005B87;
-  --color-signal-700: #003E60;
-  --color-magma-300: oklch(0.840 0.090 55);
-  --color-magma-400: oklch(0.750 0.135 50);
-  --color-magma-500: oklch(0.660 0.160 45);
-  --color-magma-600: oklch(0.550 0.150 40);
-  --color-magma-700: oklch(0.420 0.120 35);
-  color-scheme: dark;
-}
 
 
 /* ─── Base ─────────────────────────────────────────────────── */
@@ -296,12 +207,12 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .btn-primary {
   @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide
          transition-colors duration-150 whitespace-nowrap rounded-sm
-         bg-signal-500 text-white hover:bg-signal-400;
+         bg-signal-500 text-white hover:bg-signal-600;
 }
 .btn-warm {
   @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide
          transition-colors duration-150 whitespace-nowrap rounded-sm
-         bg-magma-500 text-white hover:bg-magma-400;
+         bg-magma-600 text-white hover:bg-magma-700;
 }
 .btn-ghost {
   @apply inline-flex items-center gap-2 px-5 py-2.5 text-sm font-medium tracking-wide

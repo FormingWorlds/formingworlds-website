@@ -23,6 +23,7 @@ layouts/
   contact/           Two-column: info + form (list.html)
   partials/          header, footer, head, team-card-data
 assets/css/main.css  Tailwind v4 CSS-first config (@theme block + component classes)
+assets/css/fwl-tailwind-light.css  light theme from fwl-visual-language (copied, not edited here)
 data/
   team.json          Team members: {name, slug, role, group, image, topics, page, links}
   slides.json        Homepage carousel: {image, question, credit}
@@ -42,7 +43,7 @@ Authoritative reference: the comment block at the top of `assets/css/main.css`. 
 
 **Palette** (three-token system, defined in `@theme`):
 - **Ink** — cool neutral ramp, ink-50 (near-white) through ink-980 (near-black). Page background is ink-950; body text ink-100/200; muted body ink-300/400; section borders ink-700/800.
-- **Signal** — brand blue, seeded by the logo (#0072A1 at signal-500). Used for links (signal-300, hover signal-400) and primary CTAs (.btn-primary fills signal-500/400).
+- **Signal** — brand blue, seeded by the logo (#0072A1 at signal-500). Used for links (signal-300, hover signal-400) and primary CTAs (.btn-primary fills signal-500, hover signal-600).
 - **Magma** — warm planet-formation accent. Used for important callouts and the .btn-warm CTA variant. Patterns: full callout box (background + left border + magma-300 text, see join/single.html deadline alert) or left-border sidenote (border + magma-300 text only).
 
 **Typography**:
