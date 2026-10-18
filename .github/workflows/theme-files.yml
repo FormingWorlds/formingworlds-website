@@ -1,0 +1,50 @@
+name: Check the lab theme files
+
+# assets/css/fwl-tailwind-*.css are copies of themes/css/ in fwl-visual-language
+# at the commit below; this job fails when a copy is missing or differs. The
+# refresh steps are in the Light theme comment of assets/css/main.css. The
+# deploy workflow calls this job before it builds.
+
+on:
+  pull_request:
+  workflow_call:
+
+permissions:
+  contents: read
+
+env:
+  FWL_VISUAL_LANGUAGE_REF: f915e3cbf069a7ffe720a1e44f687b56f3a3eec1
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Checkout fwl-visual-language at the pinned commit
+        uses: actions/checkout@v4
+        with:
+          repository: FormingWorlds/fwl-visual-language
+          ref: ${{ env.FWL_VISUAL_LANGUAGE_REF }}
+          path: fwl-visual-language
+
+      - name: Compare the copies with themes/css
+        run: |
+          status=0
+          shopt -s nullglob
+          sources=(fwl-visual-language/themes/css/fwl-tailwind-*.css)
+          if [ ${#sources[@]} -eq 0 ]; then
+            echo "::error::no themes/css/fwl-tailwind-*.css in fwl-visual-language@${FWL_VISUAL_LANGUAGE_REF}"
+            exit 1
+          fi
+          for src in "${sources[@]}"; do
+            f=$(basename "$src")
+            if cmp "$src" "assets/css/$f"; then
+              echo "$f matches fwl-visual-language@${FWL_VISUAL_LANGUAGE_REF}"
+            else
+              echo "::error file=assets/css/$f::missing or differs from themes/css/$f in fwl-visual-language@${FWL_VISUAL_LANGUAGE_REF}; copy the files again, or set FWL_VISUAL_LANGUAGE_REF to the commit they came from"
+              status=1
+            fi
+          done
+          exit $status

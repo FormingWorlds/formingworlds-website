@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./fwl-tailwind-theme.css";
 @import "./fwl-tailwind-light.css";
 
 /* ════════════════════════════════════════════════════════════════
@@ -72,8 +73,8 @@
    │   signal / magma palette if absolutely necessary, but     │
    │   stay inside the cool-with-warm-accent vocabulary.       │
    │ • Don't use raw hex codes in component CSS — reference    │
-   │   var(--color-*) custom properties, so the @theme and     │
-   │   fwl-tailwind-light.css hold every colour.               │
+   │   var(--color-*) custom properties, so the two            │
+   │   fwl-tailwind-*.css files hold every colour.             │
    │ • Don't rely on arbitrary-value Tailwind utilities in     │
    │   layouts (e.g. gap-3, py-32, grid-cols-[24px_1fr]).      │
    │   Hugo's TW4 pipe doesn't always emit them. Use inline    │
@@ -85,70 +86,38 @@
    └───────────────────────────────────────────────────────────┘
 
    ┌─ NAVY/SKY/ACCENT aliases (deprecated, retained) ──────────┐
-   │ The original Wix-port build used navy-* / sky-* /         │
-   │ accent-* tokens. Those are aliased to the current ink /   │
-   │ signal / magma values so any straggler utilities keep     │
-   │ rendering. Don't author new work against the old names.   │
+   │ navy-* / sky-* / accent-* point at the ink / signal /     │
+   │ magma steps, so old utilities keep rendering. Don't       │
+   │ author new work against the old names.                    │
    └───────────────────────────────────────────────────────────┘
    ════════════════════════════════════════════════════════════════ */
 
+/* The ramps and --font-sans/--font-mono come from fwl-tailwind-theme.css.
+   The aliases are inline, so a navy-*, sky-* or accent-* utility uses the
+   ramp variable itself and follows the light theme and .on-dark. Prefer
+   the ramp names in new work. */
+@theme inline {
+  --color-navy-950: var(--color-ink-950);
+  --color-navy-900: var(--color-ink-900);
+  --color-navy-800: var(--color-ink-800);
+  --color-navy-700: var(--color-ink-700);
+  --color-navy-600: var(--color-ink-600);
+
+  --color-sky-300: var(--color-signal-300);
+  --color-sky-400: var(--color-signal-400);
+  --color-sky-500: var(--color-signal-500);
+  --color-sky-600: var(--color-signal-600);
+
+  --color-accent-300: var(--color-magma-300);
+  --color-accent-400: var(--color-magma-400);
+  --color-accent-500: var(--color-magma-500);
+  --color-accent-600: var(--color-magma-600);
+}
+
 @theme {
-  /* ── INK · cool neutral ramp (blue bias) ────────────────────── */
-  --color-ink-0:   #ffffff;
-  --color-ink-50:  oklch(0.972 0.005 240);
-  --color-ink-100: oklch(0.928 0.008 240);
-  --color-ink-200: oklch(0.860 0.010 240);
-  --color-ink-300: oklch(0.760 0.012 240);
-  --color-ink-400: oklch(0.660 0.014 240);
-  --color-ink-500: oklch(0.555 0.016 240);
-  --color-ink-600: oklch(0.430 0.018 240);
-  --color-ink-700: oklch(0.320 0.020 240);
-  --color-ink-800: oklch(0.220 0.022 240);
-  --color-ink-850: oklch(0.170 0.022 240);
-  --color-ink-900: oklch(0.135 0.018 240);
-  --color-ink-950: oklch(0.090 0.012 240);
-  --color-ink-980: oklch(0.055 0.010 240);
-
-  /* ── SIGNAL · brand blue · seeded by the logo #0072A1 ───────── */
-  --color-signal-300: oklch(0.80 0.090 233);
-  --color-signal-400: oklch(0.70 0.110 233);
-  --color-signal-500: #0072A1;
-  --color-signal-600: #005B87;
-  --color-signal-700: #003E60;
-
-  /* ── MAGMA · warm accent (planet-formation cue) ─────────────── */
-  --color-magma-300: oklch(0.84 0.090 55);
-  --color-magma-400: oklch(0.75 0.135 50);
-  --color-magma-500: oklch(0.66 0.160 45);
-  --color-magma-600: oklch(0.55 0.150 40);
-  --color-magma-700: oklch(0.42 0.120 35);
-
-  /* ── Backward-compatibility aliases ─────────────────────────────
-     The existing layouts use navy-*, sky-*, accent-* classes.
-     We alias those token names so any straggler utility classes
-     keep producing sensible results. Prefer the new ink-*, signal-*,
-     magma-* names in new work. */
-  --color-navy-950: oklch(0.090 0.012 240);
-  --color-navy-900: oklch(0.135 0.018 240);
-  --color-navy-800: oklch(0.220 0.022 240);
-  --color-navy-700: oklch(0.320 0.020 240);
-  --color-navy-600: oklch(0.430 0.018 240);
-
-  --color-sky-300: oklch(0.80 0.090 233);
-  --color-sky-400: oklch(0.70 0.110 233);
-  --color-sky-500: #0072A1;
-  --color-sky-600: #005B87;
-
-  --color-accent-300: oklch(0.84 0.090 55);
-  --color-accent-400: oklch(0.75 0.135 50);
-  --color-accent-500: oklch(0.66 0.160 45);
-  --color-accent-600: oklch(0.55 0.150 40);
-
   /* ── Typography ────────────────────────────────────────────── */
-  --font-sans:    'Geist', 'Inter', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-mono:    'Geist Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
-  --font-heading: 'Geist', 'Inter', system-ui, sans-serif;
-  --font-display: 'Geist', 'Inter', system-ui, sans-serif;
+  --font-heading: var(--font-sans);
+  --font-display: var(--font-sans);
 
   /* ── Layout ────────────────────────────────────────────────── */
   --container-max: 1280px;
@@ -158,9 +127,12 @@
    fwl-tailwind-light.css (from fwl-visual-language, imported at the
    top) reassigns the ramp steps for a light system setting or
    data-theme="light", and .on-dark keeps photo areas on the dark ramp.
-   To change it, edit website_light in fwl-visual-language, run
-   `python -m fwl_visual_language build` there and copy
-   themes/css/fwl-tailwind-light.css here. */
+   fwl-tailwind-theme.css gives the dark ramps and the fonts. To change
+   them: edit tokens/fwl.json in fwl-visual-language, run
+   `python -m fwl_visual_language build`, merge there, copy
+   themes/css/fwl-tailwind-*.css into assets/css/ and set
+   FWL_VISUAL_LANGUAGE_REF in .github/workflows/theme-files.yml to the
+   merge commit; that workflow fails until copies and commit agree. */
 /* White single-colour logos turn black on the light ground, not inside .on-dark */
 .invert-on-light { background-color: transparent; }  /* no placeholder box behind the logo */
 @media (prefers-color-scheme: light) {
