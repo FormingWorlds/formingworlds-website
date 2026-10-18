@@ -19,8 +19,12 @@ defaults:
     shell: bash
 
 jobs:
+  theme-files:
+    uses: ./.github/workflows/theme-files.yml
+
   build:
     runs-on: ubuntu-latest
+    needs: theme-files
     env:
       HUGO_VERSION: "0.147.0"
     steps:
