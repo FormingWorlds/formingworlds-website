@@ -18,13 +18,15 @@
     {{ end }}
     {{ $hasAbstract := and $e.abstract (ne $e.abstract "") }}
     {{ $hasLay := and $e.lay_summary (ne $e.lay_summary "") }}
+    {{ $openLay := and $hasLay (default false (page.Store.Get "openFirstLay")) }}
+    {{ if $openLay }}{{ page.Store.Set "openFirstLay" false }}{{ end }}
     {{ if or $hasAbstract $hasLay }}
       {{ if $hasUrl }}<span class="pub-separator" aria-hidden="true"></span>{{ end }}
       {{ if $hasAbstract }}
         <button class="pub-toggle" type="button" data-target="abstract" aria-pressed="false">Abstract <span class="pub-chevron">▾</span></button>
       {{ end }}
       {{ if $hasLay }}
-        <button class="pub-toggle" type="button" data-target="lay" aria-pressed="false">At a glance <span class="pub-chevron">▾</span></button>
+        <button class="pub-toggle" type="button" data-target="lay" aria-pressed="{{ if $openLay }}true{{ else }}false{{ end }}">At a glance <span class="pub-chevron">▾</span></button>
       {{ end }}
     {{ end }}
 
@@ -45,7 +47,7 @@
     </div>
   {{ end }}
   {{ if $hasLay }}
-    <div class="pub-panel" data-panel="lay"{{ if eq $sectionKey "theses" }} style="border-left: none; border-radius: 0.25rem;"{{ end }}>
+    <div class="pub-panel{{ if $openLay }} is-open{{ end }}" data-panel="lay"{{ if eq $sectionKey "theses" }} style="border-left: none; border-radius: 0.25rem;"{{ end }}>
       <span class="pub-panel-label">At a glance</span>
       {{ $e.lay_summary | markdownify }}
     </div>

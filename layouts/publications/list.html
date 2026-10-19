@@ -69,6 +69,7 @@
 
       <!-- Content -->
       <div class="flex-1 min-w-0" id="pub-content">
+        {{ page.Store.Set "openFirstLay" true }}
         {{ range $section := $sections }}
         {{ $entries := where $pubs "section" $section.key }}
         {{ if $entries }}
