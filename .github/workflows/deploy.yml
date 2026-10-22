@@ -25,6 +25,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     needs: theme-files
+    # npm ci and the build run third-party code; the deploy scopes stay with the deploy job.
+    permissions:
+      contents: read
+      pages: read
     env:
       HUGO_VERSION: "0.147.0"
     steps:

@@ -81,9 +81,10 @@ npx wrangler kv key list --binding=LINKS --remote
 
 ## Deploying code changes
 
-If `src/index.js` or `wrangler.toml` changes:
+If `src/index.js` or `wrangler.toml` changes (Node 22 or newer; `npm ci` first so `npx` runs the pinned wrangler):
 
 ```bash
+npm ci
 npx wrangler deploy
 ```
 
