@@ -112,7 +112,7 @@ The list is split by year via `.year-divider` headings (most recent first, with 
 
 Push to `main` triggers `.github/workflows/deploy.yml`, which:
 
-1. Installs Hugo extended 0.147 and Node 22, runs `npm ci`.
+1. Installs Hugo extended (the version is set in `.github/actions/setup-hugo/action.yml`) and Node 22, runs `npm ci`.
 2. Calls `actions/configure-pages` (this auto-detects the custom domain and passes the correct `--baseURL`).
 3. Runs `hugo --minify`.
 4. Publishes `./public` to GitHub Pages.
