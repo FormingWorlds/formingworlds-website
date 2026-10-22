@@ -9,6 +9,9 @@
     "tail": "wrangler tail"
   },
   "devDependencies": {
-    "wrangler": "^3"
+    "wrangler": "^4.151.3"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
