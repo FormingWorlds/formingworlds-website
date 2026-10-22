@@ -216,10 +216,11 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ## Outreach & Public Engagement
 
-*50+ outreach activities, incl. 14 media interviews & press features, 4 public talks & 2 panels, 16 blog posts & videos, 22 peer-reviewed Astrobites articles*
+*50+ outreach activities, incl. 15 media interviews & press features, 4 public talks & 2 panels, 16 blog posts & videos, 22 peer-reviewed Astrobites articles*
 
 ### Media Interviews & Press
 
+- Media interview, [*Earth and Mars May Have Formed in Weirdly Different Ways*](https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html?unlocked_article_code=1.KlE.MKLX.EBDvj-GQEeTu), The New York Times, 10/2026
 - Media interview, [*Astronomen ontdekken de eerste rotsachtige exoplaneet met een atmosfeer*](https://www.kijkmagazine.nl/space/exoplaneet-lhs-1140-b-atmosfeer/), KIJK Magazine, 07/2026
 - Press coverage for [Nicholls et al. Nature Astronomy 2026](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature [*Molten Sulfurous World Blurs Exoplanet Categories*](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/) (Sky & Telescope), also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world), and others, 03/2026
 - Media interview, [*Stormy planets and an unexpected atmosphere*](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere), FSE Science Newsroom, University of Groningen, 12/2025
