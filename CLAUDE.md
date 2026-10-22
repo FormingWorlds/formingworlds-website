@@ -4,7 +4,7 @@ Group website for the [Forming Worlds Lab](https://formingworlds.space) at the K
 
 ## Stack
 
-- **Hugo 0.157+** — static site generator
+- **Hugo** (extended): static site generator; CI uses the version set in `.github/actions/setup-hugo/action.yml`
 - **Tailwind CSS v4** — via native Hugo `css.TailwindCSS` pipe (no PostCSS config needed)
 - **GitHub Actions** — CI/CD to GitHub Pages on push to `main`
 - **Formspree** — contact form backend

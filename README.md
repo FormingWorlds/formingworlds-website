@@ -6,7 +6,7 @@ The site is a Hugo static site (the "Field Station" design language, dark by def
 
 ## Stack
 
-- **Hugo 0.147+** (extended), static site generator
+- **Hugo** (extended), static site generator; CI uses the version set in `.github/actions/setup-hugo/action.yml`
 - **Tailwind CSS v4** via the native `css.TailwindCSS` Hugo pipe (no PostCSS, no `tailwind.config.js`)
 - **GitHub Actions** for CI/CD to GitHub Pages on push to `main`
 - **Formspree** as the contact form backend
