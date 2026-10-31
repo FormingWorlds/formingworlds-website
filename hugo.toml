@@ -48,6 +48,10 @@ title = 'Forming Worlds'
     name = 'Contact'
     url = '/contact/'
     weight = 50
+  [[menus.main]]
+    name = 'Internal'
+    url = 'https://lab.formingworlds.space/'
+    weight = 60
 
 [outputs]
   home = ['HTML', 'RSS']
