@@ -3,11 +3,12 @@
   subsection: published
   year: 2026
   authors_md: 'Zieba S, B Edwards, SN Quinn, LJ Janssen, NB Cowan, L Kreidberg, M Lopez-Morales, L Dang, L Malavolta, Y Miguel, TG Nguyen, A Vanderburg, TG Wilson, M Zilinskas, NJ Connors, IJM Crossfield, O Herbort, AL Kraus, **T Lichtenberg**, **M Sastre**, JP Wardenier'
-  title: 'The First Hubble Detection of a Secondary Eclipse from a Rocky Exoplanet: the 5.4-hour planet TOI-2431 b'
-  venue_md: '*The Astrophysical Journal Letters*, in press (2026)'
-  primary_url: https://arxiv.org/abs/2609.31966
+  title: 'The First Hubble Detection of a Secondary Eclipse from a Rocky Exoplanet: The 5.4 hr Planet TOI-2431 b'
+  venue_md: '*The Astrophysical Journal Letters* 1011, L32 (2026)'
+  primary_url: https://doi.org/10.3847/2041-8213/aeb4ab
   links:
     scix: https://scixplorer.org/abs/arXiv:2609.31966
+    doi: https://doi.org/10.3847/2041-8213/aeb4ab
     pdf: https://arxiv.org/pdf/2609.31966
   bibcode: null
   lab_led: false
