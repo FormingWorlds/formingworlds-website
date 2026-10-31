@@ -13,6 +13,7 @@
 
 <!-- Security headers (best effort on GitHub Pages, which has no server-side header control) -->
 <meta name="referrer" content="strict-origin-when-cross-origin">
+{{ if .Params.noindex }}<meta name="robots" content="noindex">{{ end }}
 <meta http-equiv="X-Content-Type-Options" content="nosniff">
 
 <!-- Canonical URL -->

@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="flex items-center justify-center relative overflow-hidden" style="min-height: 80vh; padding-top: 6rem;">
+  <div class="px-6 relative z-10 max-w-2xl">
+    <h1 class="text-ink-100 text-center" style="font-family: var(--font-display); font-size: clamp(3.5rem, 9vw, 7rem); line-height: 1.0; letter-spacing: -0.04em; font-weight: 500;">
+      Members <span style="color: var(--color-signal-300);">only.</span>
+    </h1>
+    <p class="text-ink-300 text-lg mt-6 text-center leading-relaxed">
+      The FWL Internal site is open to current members and alumni of the Forming Worlds Lab. The GitHub account you logged in with is not on our member list.
+    </p>
+    <div class="prose-content mt-8">
+      <p class="text-xs uppercase tracking-wider text-ink-400">If you are in the group</p>
+      <ul>
+        <li>Log in with the GitHub account you gave Tim. GitHub remembers your last login, so if you use more than one account, <a href="https://github.com/logout" target="_blank" rel="noopener">sign out of GitHub</a> first.</li>
+        <li>If your account is new to us, email Tim at <a href="mailto:tim.lichtenberg@rug.nl">tim.lichtenberg@rug.nl</a> with your GitHub username.</li>
+      </ul>
+    </div>
+    <div class="flex flex-wrap items-center justify-center gap-3 mt-9">
+      <a href="https://lab.formingworlds.space/cdn-cgi/access/logout" class="btn-primary">Log out and try again</a>
+      <a href="{{ "/" | relURL }}" class="btn-ghost">formingworlds.space</a>
+    </div>
+  </div>
+  <div class="absolute inset-0 pointer-events-none" style="background: radial-gradient(60% 50% at 50% 45%, color-mix(in oklch, var(--color-signal-500), transparent 82%), transparent 70%);"></div>
+</section>
+{{ end }}
