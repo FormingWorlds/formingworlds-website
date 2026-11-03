@@ -412,7 +412,7 @@ img:not([data-slide]):not(.loaded) { opacity: 0; }
 .presentations-list hr { margin-top: 2rem; margin-bottom: 0; }
 
 /* Profile page sidebar: the photo scrolls away, the name and links follow the page. */
-@media (min-width: 768px) and (min-height: 720px) {
+@media (min-width: 768px) and (min-height: 620px) {
   .profile-sidebar-sticky {
     position: sticky;
     top: 1.5rem;
