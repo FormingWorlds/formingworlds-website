@@ -218,14 +218,14 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ## Outreach & Public Engagement
 
-*50+ outreach activities, incl. 15 media interviews & press features, 4 public talks & 2 panels, 16 blog posts & videos, 22 peer-reviewed Astrobites articles*
+*50+ outreach activities, incl. 15 media interviews & press features, 5 public talks & 2 panels, 16 blog posts & videos, 22 peer-reviewed Astrobites articles*
 
 ### Media Interviews & Press
 
 - Media interview, [*Earth and Mars May Have Formed in Weirdly Different Ways*](https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html?unlocked_article_code=1.KlE.MKLX.EBDvj-GQEeTu), The New York Times, 10/2026
 - Media interview, *Astronomen ontdekken de eerste rotsachtige exoplaneet met een atmosfeer*, KIJK Magazine, 07/2026
-- Press coverage for [Nicholls et al. Nature Astronomy 2026](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature [*Molten Sulfurous World Blurs Exoplanet Categories*](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/) (Sky & Telescope), also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world), and others, 03/2026
-- Media interview, [*Stormy planets and an unexpected atmosphere*](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere), FSE Science Newsroom, University of Groningen, 12/2025
+- Press coverage for [Nicholls et al. Nature Astronomy 2026](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature [*Molten Sulfurous World Blurs Exoplanet Categories*](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/) (Sky & Telescope), also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world?lang=en), and others, 03/2026
+- Media interview, [*Stormy planets and an unexpected atmosphere*](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere?lang=en), FSE Science Newsroom, University of Groningen, 12/2025
 - Media interviews for [NASA](https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/), [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball), [phys.org](https://phys.org/news/2025-12-ultra-hot-lava-world-thick.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/12/251213032607.htm), and others on TOI-561 b atmosphere detection, 12/2025
 - Interview, [*Quickfire Questions with Tim Lichtenberg*](https://www.europlanet.org/europlanet-magazine/issue-8/shaping-our-planetary-identity/), Europlanet Magazine, 09/2025
 - Media interview, [*This Blazing Exoplanet Breaks All the Rules about Alien Atmospheres*](https://www.scientificamerican.com/article/james-webb-space-telescope-finds-atmosphere-on-lava-planet-toi-561-b/), Scientific American, 09/2025
@@ -234,12 +234,13 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Media interview, [*What is a presumed sign of life doing on a dead comet?*](https://www.science.org/content/article/what-presumed-sign-life-doing-dead-comet), Science News, 04/2024
 - Biographical interview, [*Welt der Physik*](https://www.weltderphysik.de/thema/im-portraet/tim-lichtenberg-exoplaneten-sind-keine-zweite-chance/), Year of Science 2023, German Ministry for Science and Education, 04/2023
 - Media interview, [*Planeet en ster groeien samen op*](https://www.newscientist.nl/nieuws/planeet-en-ster-groeien-samen-op/), New Scientist Netherlands, 12/2022
-- Press coverage for Bonsor+2023 *Nature Astronomy*, [University of Groningen](https://www.rug.nl/research/kapteyn/news/2022/polluted-white-dwarfs-show-that-stars-and-planets-grow-together), ScienceDaily, and others, 11/2022
+- Press coverage for Bonsor+2023 *Nature Astronomy*, [University of Groningen](https://www.rug.nl/research/kapteyn/news/2022/polluted-white-dwarfs-show-that-stars-and-planets-grow-together?lang=en), ScienceDaily, and others, 11/2022
 - Press coverage for Lichtenberg+2021 *Science*, [phys.org](https://phys.org/news/2021-01-solar-formation.html), ScienceDaily, UPI, SciTechDaily, and 36+ outlets, 01/2021
 - Press coverage for Lichtenberg+2019 *Nature Astronomy*, [ETH Zurich](https://ethz.ch/en/news-and-events/eth-news/news/2019/02/better-dry-a-rocky-planet-before-use.html), NCCR PlanetS, and 21+ outlets, 02/2019
 
 ### Public Talks & Panels
 
+- Joint public lecture [*Time across scales*](https://brancoweissfellowship.org/news-activities/lecture/branco-weiss-lecture-2025/), Branco Weiss Lecture 2025, ETH Zurich, CH, 11/2025
 - Public talk *Formation and Evolution of Terrestrial Worlds*, DOT Planetarium Groningen, 05/2024
 - Public talk *Entstehung und Entwicklung terrestrischer Welten* (~100 attendees), Max Planck Institute for Solar System Research, Göttingen, DE, 05/2024
 - Panel member, [Golden Webinars in Astrophysics](https://www.youtube.com/c/AstrofisicaUC): Lynnae Quick, *Cryovolcanism on Ocean Worlds*, 10/2021
@@ -252,11 +253,11 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 Blog articles and paper summary videos published on [Medium/Forming Worlds](https://medium.com/forming-worlds), [YouTube](https://www.youtube.com/@FormingWorldsLab), and NCCR PlanetS.
 
 - [Hidden water in magma ocean exoplanets](https://www.youtube.com/watch?v=mKLwdNxRQr0) (video), 10/2021
+- [Entstehung des Sonnensystems in zwei Phasen](https://www.spektrum.de/magazin/nachrichten-nachrichten/1899352), popular article in *Sterne und Weltraum*, 08/2021
 - [The turbulent hearts of shrouded super-Earths](https://medium.com/forming-worlds/the-turbulent-hearts-of-shrouded-super-earths-9892f0416749) (blog + [video](https://www.youtube.com/watch?v=j1aSBREvvJc)), 05/2021
 - [Early carbon depletion of terrestrial worlds from the outside-in](https://medium.com/forming-worlds/early-carbon-depletion-of-terrestrial-worlds-from-the-outside-in-f79e53708233) (blog + [video](https://www.youtube.com/watch?v=d_SjZT4FWOY)), 05/2021
 - [Molten exoplanets as a window into the earliest Earth](https://medium.com/forming-worlds/molten-exoplanets-as-a-window-into-the-earliest-earth-3fe8236b67ac) (blog + [video](https://www.youtube.com/watch?v=RWe-K52H7Jw)), 01/2021
 - [Formation of the Solar System in two steps](https://medium.com/forming-worlds/formation-of-the-solar-system-in-two-steps-7c95d39eecfb) (blog + [video](https://www.youtube.com/watch?v=sPGMbieGTpA)), 01/2021
-- [Entstehung des Sonnensystems in zwei Phasen](https://www.spektrum.de/magazin/nachrichten-nachrichten/1899352), popular article in *Sterne und Weltraum*, 08/2021
 - [Two emergent faces of rocky planetary systems](https://medium.com/forming-worlds/two-emergent-faces-of-rocky-planetary-systems-c23e076ac852) (blog), 02/2019
 - [Planetesimal magmatism as a key to the chemical assembly of terrestrial planets](https://medium.com/forming-worlds/planetesimal-magmatism-as-a-key-to-the-chemical-assembly-of-terrestrial-planets-53d59bb63883) (blog), 01/2019
 - [Spotting protoplanet collision afterglows in the stellar neighbourhood](https://medium.com/forming-worlds/spotting-protoplanet-collision-afterglows-in-the-stellar-neighbourhood-f3b65572ec2) (blog), 11/2018
@@ -291,8 +292,8 @@ Blog articles and paper summary videos published on [Medium/Forming Worlds](http
 
 - [Letters to a Pre-Scientist](https://prescientist.org/) pen pal, 2019–2020
 - [*Expedition Solar System*](https://focusterra.ethz.ch/en/special-exhibitions/archive/expedition-solar-system.html), Focus Terra science exhibition, ETH Zurich, 2018–2019
-- Figures and media for popular science article [*Exotische Welten*](https://www.spektrum.de/magazin/gibt-es-eine-zweite-generation-von-planeten/1352542) in *Sterne und Weltraum*, 08/2015
 - Zurich Scientifica 2015, *Licht und Astronomie*, public science exhibition, ETH Zurich, 09/2015
+- Figures and media for popular science article [*Exotische Welten*](https://www.spektrum.de/magazin/gibt-es-eine-zweite-generation-von-planeten/1352542) in *Sterne und Weltraum*, 08/2015
 - Astrobites reddit Ask-Me-Anything, 06/2015
 - Q&A visit, primary school, Zurich Seefeld, 06/2015
 - 3D rendering video for Bovino et al. (2014), [ApJL 790, L35](https://doi.org/10.1088/2041-8205/790/2/L35) ([phys.org](https://phys.org/news/2014-07-astrophysicists-formation-oldest-known-star-galaxy.html), INAF, HPC Wire), 07/2014
@@ -342,7 +343,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 ### National & International Collaborations
 
-*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 10 consortia and research programmes*
+*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 11 consortia and research programmes*
 
 #### Telescope Time
 
@@ -354,6 +355,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 #### Consortia & Research Programmes
 
 - [NCCR Genesis](https://nccr-genesis.ch/) (Directors: Queloz, Marin Carbonne), contributing expert in the project *Quantifying the detectability of life on exoplanets* (PI: Quanz), 06/2026–
+- ELT Planetary Camera and Spectrograph (PCS), co-lead of the protoplanet science case, 2025–
 - [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), NWO consortium (PI: ten Kate), Co-I and work package leader, 11/2024–
 - [ESA PLATO mission consortium](https://platomission.com) (PI: Rauer), Science Core Team member (since 2025), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530), 12/2021–
 - [AEThER: Atmospheric Empirical, Theoretical, and Experimental Research](https://planets.carnegiescience.edu), Carnegie-led research program (PI: Shahar), Co-I (since 2024, previously associate member), 09/2021–
@@ -368,7 +370,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 *30 events in total, incl. 8 as main organiser*
 
-- [*Rocky Worlds Conference Series*](https://www.rockyworlds.org/) (main organiser & board member), Chair, 10/2022–
+- [*Rocky Worlds Conference Series*](https://www.rockyworlds.org/) (main organiser & board member), Chair, 07/2022–
 - [*Rocky Worlds 5*](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
 - Lorentz Center Workshop [*Characterizing Habitable Exoplanets With Interdisciplinary Expertise*](https://www.lorentzcenter.nl/characterizing-habitable-exoplanets-with-interdisciplinary-expertise.html), Leiden, NL, SOC, 04/2026
 - [*Rocky Worlds IV*](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026

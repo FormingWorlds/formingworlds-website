@@ -2395,7 +2395,7 @@
   year: 2025
   authors_md: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton'
   title: Constraining exoplanet interiors using observations of their atmospheres
-  venue_md: '*Science* 390, eads3360 (2025)'
+  venue_md: '*Science* 390, eads3660 (2025)'
   primary_url: https://scixplorer.org/abs/2025arXiv251008844L
   links:
     pdf: https://www.science.org/doi/pdf/10.1126/science.ads3360
@@ -2419,7 +2419,7 @@
     from JWST, are revealing about the geological processes shaping these worlds. It identifies the observational, experimental,
     and theoretical advances needed to eventually characterize truly Earth-like exoplanets.
   _raw: '**Lichtenberg T**, O Shorttle, J Teske, EMR Kempton. [Constraining exoplanet interiors using observations of their
-    atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3360 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)'
+    atmospheres.](https://scixplorer.org/abs/2025arXiv251008844L) *Science* 390, eads3660 (2025). [pdf](https://www.science.org/doi/pdf/10.1126/science.ads3360)'
 - slug: lichtenberg-2025-super-earths
   section: reviews
   subsection: null
@@ -2540,15 +2540,15 @@
 - slug: hu-2025-identifying
   section: perspectives
   subsection: null
-  year: 2025
+  year: 2026
   authors_md: Hu R et al. (incl. **T Lichtenberg**)
   title: Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets with the Habitable Worlds Observatory
-  venue_md: arXiv preprint (2025)
-  primary_url: https://scixplorer.org/abs/2025arXiv250916798H/abstract
+  venue_md: '*Astronomical Society of the Pacific Conference Series* 542, 429 (2026)'
+  primary_url: https://scixplorer.org/abs/2026ASPC..542..429H/abstract
   links:
     pdf: https://arxiv.org/pdf/2509.16798
-    scix: https://scixplorer.org/abs/2025arXiv250916798H/abstract
-  bibcode: 2025arXiv250916798H
+    scix: https://scixplorer.org/abs/2026ASPC..542..429H/abstract
+  bibcode: 2026ASPC..542..429H
   lab_led: false
   abstract: 'Astronomers are debating whether the plentiful "sub-Neptune" exoplanets, worlds a bit larger than Earth but smaller
     than Neptune, are predominantly rocky planets, water-rich "ocean worlds," or gas-enshrouded mini-Neptunes. This question
@@ -2571,7 +2571,7 @@
     spectroscopy to tell rocky planets from water worlds among this common class of exoplanets.
   lay_summary_draft: null
   _raw: Hu R et al. (incl. **T Lichtenberg**). [Identifying rocky planets and water worlds among sub-Neptune-sized exoplanets
-    with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2025arXiv250916798H/abstract) arXiv preprint (2025).
+    with the Habitable Worlds Observatory.](https://scixplorer.org/abs/2026ASPC..542..429H/abstract) *Astronomical Society of the Pacific Conference Series* 542, 429 (2026).
     [pdf](https://arxiv.org/pdf/2509.16798)
 - slug: rauer-et-al-incl-2025-plato
   section: perspectives
