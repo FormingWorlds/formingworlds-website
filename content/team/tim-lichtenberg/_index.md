@@ -122,14 +122,15 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Student Mentoring
 
-*44 supervised students in total, incl. 8 PhD, 10 MSc, 16 BSc theses, 10 projects/internships*
+*44 supervised theses and projects in total, incl. 8 PhD, 11 MSc, 16 BSc theses, 9 projects/internships*
 
 - PhD thesis "Exoplanet core evolution", Saphira Brandenberger, Kapteyn Institute, 09/2026–
+- MSc thesis "Testing the habitable zone inner edge discontinuity with PLATO" (co-supervised with Martin Schlecker, Martin Turbet and Dániel Apai), Erik Gräter (TU Munich), 07/2026–
 - Visiting PhD research project "Impact re-triggering of protoplanet magma oceans", Anna Grace Ulses (University of Washington, Seattle), Kapteyn Institute, 05/2026–
 - PhD thesis "Prebiotic climate and ocean levels of the Hadean Earth", Emeline Decocq, Kapteyn Institute, 09/2025–
 - PhD thesis "Interior-atmosphere evolution on low-mass exoplanets", Imre Kisvárdai, Kapteyn Institute, 09/2025–
 - MSc thesis "Ocean formation on sub-Neptune exoplanets", Ema Jungová, Kapteyn Institute, 09/2025–
-- Internship & MSc thesis "UV flux of prebiotic atmospheres at varying redox conditions", Bruna Fena (FU Berlin MSc student), Kapteyn Institute, 04/2025–
+- Internship & MSc thesis "Shedding ultraviolet light on the early Earth's surface" (co-supervised with Harrison Nicholls and Lena Noack), Bruna Fena (FU Berlin), 04/2025–
 - MSc thesis "Probing abiotic planetary oxygenation with LIFE", Sanne Borgmann, Kapteyn Institute, 01/2025–
 - PhD thesis "Evolution of magma ocean exoplanet atmospheres", Emma Postolec, Kapteyn Institute, 10/2023–
 - PhD thesis "Evolution of magma ocean exoplanet interiors", Mariana V. Sastre, Kapteyn Institute, 09/2023–
@@ -179,7 +180,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - [*Exoplanets*](https://ocasys.rug.nl/current/catalog/course/WMAS026-05), MSc course, Kapteyn Institute, lecturer (~20 students), 10/2024–02/2025
 - [*Star and Planet Formation*](https://ocasys.rug.nl/current/catalog/course/WMAS017-05), MSc course, Kapteyn Institute, co-lecturer (~30 students), 02/2025–04/2025
 - [*Exoplanets*](https://ocasys.rug.nl/current/catalog/course/WMAS026-05), MSc course, Kapteyn Institute, lecturer (~20 students), 10/2023–02/2024
-- [*Hands-on Numerical Astrophysics School for Planet Formation Sciences*](https://www-astro.physik.tu-berlin.de/exoplanet-diversity/spp-1992-summer-school-2023/), summer school, DFG priority programme 1992 "Exoplanet Diversity", Rauenberg, lecturer (~30 students), 08/2023
+- *Hands-on Numerical Astrophysics School for Planet Formation Sciences*, summer school, DFG priority programme 1992 "Exoplanet Diversity", Rauenberg, lecturer (~30 students), 08/2023
 - [*Star and Planet Formation*](https://ocasys.rug.nl/current/catalog/course/WMAS017-05), MSc course, Kapteyn Institute, co-lecturer (~30 students), 02/2023–04/2023
 - *Life and Information*, BSc seminar, University of Groningen, guest lecturer (~30 students), 11/2022
 - *Origin and role of volatiles in the early solar system and planets*, block course, University of Bayreuth, lecturer (~20 students), 01/2020
@@ -208,10 +209,10 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 #### Research Schools
 
-- Winter school [*Chronology of the Formation of the Solar System VI*](https://www-n.oca.eu/crida/SchoolChronoVI/CFSSVI.html), Les Houches, FR, 02/2017
+- Winter school *Chronology of the Formation of the Solar System VI*, Les Houches, FR, 02/2017
 - Winter school [*Planetary Geodynamics*](https://www.geo-x.net/news/archive/details/trr-170-winter-school-planetary-geodynamics), TRR 170 Late Accretion onto Terrestrial Planets, Hodenhagen, DE, 11/2016
 - Winter school [*From Protoplanetary Disks to Planet Formation*](https://link.springer.com/book/10.1007/978-3-662-58687-7), 45th Saas-Fee Advanced Course, Les Diablerets, CH, 03/2015
-- Summer school [*ISSAC 2013: Star & Planet Formation*](https://hipacc.ucsc.edu/ISSAC2013.html), UC Santa Cruz, US, 08/2013
+- Summer school *ISSAC 2013: Star & Planet Formation*, UC Santa Cruz, US, 08/2013
 
 ---
 
@@ -222,7 +223,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 ### Media Interviews & Press
 
 - Media interview, [*Earth and Mars May Have Formed in Weirdly Different Ways*](https://www.nytimes.com/2026/10/22/science/space/earth-mars-formed-different.html?unlocked_article_code=1.KlE.MKLX.EBDvj-GQEeTu), The New York Times, 10/2026
-- Media interview, [*Astronomen ontdekken de eerste rotsachtige exoplaneet met een atmosfeer*](https://www.kijkmagazine.nl/space/exoplaneet-lhs-1140-b-atmosfeer/), KIJK Magazine, 07/2026
+- Media interview, *Astronomen ontdekken de eerste rotsachtige exoplaneet met een atmosfeer*, KIJK Magazine, 07/2026
 - Press coverage for [Nicholls et al. Nature Astronomy 2026](https://scixplorer.org/abs/2025arXiv250702656N/abstract) on the molten sulfur world L 98-59 d, primary feature [*Molten Sulfurous World Blurs Exoplanet Categories*](https://skyandtelescope.org/astronomy-news/molten-sulfurous-world-blurs-exoplanet-categories/) (Sky & Telescope), also covered in [ABC News](https://abcnews.com/International/astronomers-discover-new-type-planet-sulfurous-atmosphere/story?id=131117894), [Space.com](https://www.space.com/astronomy/exoplanets/astronomers-discover-a-new-type-of-planet-that-probably-smells-like-rotten-eggs), [University of Groningen news](https://www.rug.nl/research/kapteyn/news/2026/scientists-discover-a-new-type-of-molten-sulphur-world), and others, 03/2026
 - Media interview, [*Stormy planets and an unexpected atmosphere*](https://www.rug.nl/fse/news/matter-and-space/stormy-planets-and-an-unexpected-atmosphere), FSE Science Newsroom, University of Groningen, 12/2025
 - Media interviews for [NASA](https://science.nasa.gov/missions/webb/nasas-webb-detects-thick-atmosphere-around-broiling-lava-world/), [Space.com](https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-strongest-evidence-yet-for-atmosphere-around-rocky-exoplanet-its-really-like-a-wet-lava-ball), [phys.org](https://phys.org/news/2025-12-ultra-hot-lava-world-thick.html), [ScienceDaily](https://www.sciencedaily.com/releases/2025/12/251213032607.htm), and others on TOI-561 b atmosphere detection, 12/2025
@@ -248,7 +249,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Blog Posts & Videos
 
-Blog articles and paper summary videos published on [Medium/Forming Worlds](https://medium.com/forming-worlds), [YouTube](https://www.youtube.com/@FormingWorldsLab), and [NCCR PlanetS](https://nccr-planets.ch/blog/).
+Blog articles and paper summary videos published on [Medium/Forming Worlds](https://medium.com/forming-worlds), [YouTube](https://www.youtube.com/@FormingWorldsLab), and NCCR PlanetS.
 
 - [Hidden water in magma ocean exoplanets](https://www.youtube.com/watch?v=mKLwdNxRQr0) (video), 10/2021
 - [The turbulent hearts of shrouded super-Earths](https://medium.com/forming-worlds/the-turbulent-hearts-of-shrouded-super-earths-9892f0416749) (blog + [video](https://www.youtube.com/watch?v=j1aSBREvvJc)), 05/2021
@@ -370,7 +371,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - [*Rocky Worlds 5*](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
 - Lorentz Center Workshop [*Characterizing Habitable Exoplanets With Interdisciplinary Expertise*](https://www.lorentzcenter.nl/characterizing-habitable-exoplanets-with-interdisciplinary-expertise.html), Leiden, NL, SOC, 04/2026
 - [*Rocky Worlds IV*](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026
-- [*Science and Technology for the Era of LIFE*](https://life-space-mission.com/conference/), Barcelona, ES, SOC, 11/2025
+- [*Science and Technology for the Era of LIFE*](https://life-space-mission.com), Barcelona, ES, SOC, 11/2025
 - Lorentz Center Workshop [*Atmospheric and interior evolution of planetary magma oceans*](https://www.lorentzcenter.nl/atmospheric-and-interior-evolution-of-planetary-magma-oceans.html) (main organiser), Leiden, NL, Chair, 10/2025
 - [*Exoclimes VII*](https://exoclimes.org), Montréal, CA, SOC, 07/2025
 - *Exoplanets V*, Leiden, NL, Convenor, 06/2024
@@ -388,7 +389,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - AGU 2020 session [*Accretion and differentiation of rocky planets: perspectives from geophysics, geochemistry, & astronomy*](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/106571), San Francisco, US, Convenor, 12/2020
 - *LIFE Workshop III*, Liège, BE, SOC, 12/2020
 - [*Threats from the surroundings*](https://www.eso.org/sci/meetings/2020/tfts2020.html), ESO, Garching, DE, SOC, 11/2020
-- [*Exoplanets III*](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/), Heidelberg, DE, Moderator, 07/2020
+- *Exoplanets III*, Heidelberg, DE, Moderator, 07/2020
 - [*LIFE – Large Interferometer for Exoplanets*](https://life-space-mission.com/events/workshop-minilife2020-all-talks-qa-and-discussion/) (main organiser), virtual, ETH Zurich, SOC, 05/2020
 - [*3rd Oxford Meeting on Planets*](https://sites.google.com/view/oxfordplanets2019/home) (main organiser), University of Oxford, UK, SOC, 12/2019
 - [*Exoclimes V*](https://users.physics.ox.ac.uk/~pierrehumbert/exoclimes2019/), University of Oxford, UK, LOC, 08/2019
