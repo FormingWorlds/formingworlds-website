@@ -21,7 +21,7 @@ cv_full: "/docs/tim-lichtenberg-cv.pdf"
 
 Tim works as Assistant Professor at the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/) of the [University of Groningen](https://www.rug.nl/), where he leads the Forming Worlds Lab. He investigates the **formation and evolution of rocky planets** in order to embed the birth and life cycle of terrestrial worlds in an integrated picture. Ultimately, he wants to understand the **planetary environmental conditions** that led to the **origin of life** on the early Earth, and **how widespread** such places are in our galaxy.
 
-The research of the Forming Worlds Lab is embedded within the [Alien Earths](https://alienearths.space/), [AEThER](https://planets.carnegiescience.edu/aether), [Large Interferometer for Exoplanets](https://life-space-mission.com/), and [PRELIFE](https://www.rug.nl/research/kapteyn/news/2024/6-7-million-grant-from-dutch-research-agenda-for-prelife?lang=en) research collaborations, and supported by the [Branco Weiss Foundation](https://brancoweissfellowship.org/), the [European Research Council](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en) (ERC StG 'MagmaWorlds'), the [Dutch Research Council (NWO)](https://www.nwo.nl/en), the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/?lang=en), and the [Faculty of Science and Engineering](https://www.rug.nl/fse/?lang=en) of the University of Groningen.
+The research of the Forming Worlds Lab is embedded within the [Alien Earths](https://nexss.info/project/alien-earths/), [AEThER](https://planets.carnegiescience.edu/aether), [Large Interferometer for Exoplanets](https://life-space-mission.com/), and [PRELIFE](https://www.rug.nl/research/kapteyn/news/2024/6-7-million-grant-from-dutch-research-agenda-for-prelife?lang=en) research collaborations, and supported by the [Branco Weiss Foundation](https://brancoweissfellowship.org/), the [European Research Council](https://www.rug.nl/research/kapteyn/news/2025/erc-starting-grant-lichtenberg?lang=en) (ERC StG 'MagmaWorlds'), the [Dutch Research Council (NWO)](https://www.nwo.nl/en), the [Kapteyn Astronomical Institute](https://www.rug.nl/research/kapteyn/?lang=en), and the [Faculty of Science and Engineering](https://www.rug.nl/fse/?lang=en) of the University of Groningen.
 
 ---
 
@@ -359,7 +359,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), NWO consortium (PI: ten Kate), Co-I and work package leader, 11/2024–
 - [ESA PLATO mission consortium](https://platomission.com) (PI: Rauer), Science Core Team member (since 2025), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530), 12/2021–
 - [AEThER: Atmospheric Empirical, Theoretical, and Experimental Research](https://planets.carnegiescience.edu), Carnegie-led research program (PI: Shahar), Co-I (since 2024, previously associate member), 09/2021–
-- [Alien Earths: Searching for Habitable Worlds in Nearby Planetary Systems](https://alienearths.space), NASA (PI: Apai), associate member, 03/2021–
+- [Alien Earths: Searching for Habitable Worlds in Nearby Planetary Systems](https://nexss.info/project/alien-earths/), NASA (PI: Apai), associate member, 03/2021–
 - [LIFE Collaboration](https://life-space-mission.com) (lead: Quanz), co-lead of the *Science Team*, 02/2021–01/2026
 - NASA's [Nexus for Exoplanet System Science](https://nexss.info), *Quantifying Habitability* working group, 09/2020–
 - [ESA Ariel Consortium](https://arielmission.space) (PI: Tinetti), member of the *Exoplanetary Interiors* working group, 04/2020–
@@ -386,7 +386,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 - [*Rocky Worlds Discussions*](https://rockyworlds.org), monthly virtual seminar series (main organiser), SOC, 10/2022–09/2024
 - [*Rocky Worlds II*](https://rockyworlds.org) (main organiser), University of Oxford, UK, Chair, 07/2022
 - [*LIFE Science Team meetings*](https://life-space-mission.com/events/), monthly virtual team meeting, co-host, 03/2022–01/2026
-- AGU 2021 session [*Multidisciplinary perspectives on the formation and early evolution of terrestrial worlds*](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/123642), New Orleans, US, Convenor, 12/2021
+- AGU 2021 session *Multidisciplinary perspectives on the formation and early evolution of terrestrial worlds*, New Orleans, US, Convenor, 12/2021
 - *ESA PLATO Exoplanet Atmospheres Workshop*, Berlin, DE, SOC, 12/2021
 - Lorentz Center Workshop [*LIFE – Large Interferometer for Exoplanets*](https://www.lorentzcenter.nl/life-large-interferometer-for-exoplanets-2021.html) (main organiser), Leiden, NL, SOC, 06/2021
 - AGU 2020 session [*Accretion and differentiation of rocky planets: perspectives from geophysics, geochemistry, & astronomy*](https://agu.confex.com/agu/fm20/meetingapp.cgi/Session/106571), San Francisco, US, Convenor, 12/2020

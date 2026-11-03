@@ -12,7 +12,7 @@ intro: |
 collaborations_text: "The research of the Forming Worlds team is embedded within interdisciplinary and international research collaborations centered on the nature of extrasolar planets, and the origin and prevalence of life in the universe."
 collaborations:
   - name: "Alien Earths"
-    url: "https://alienearths.space"
+    url: "https://nexss.info/project/alien-earths/"
     logo: "/img/logos/AE_Logo_White.png"
   - name: "AEThER"
     url: "https://planets.carnegiescience.edu"
