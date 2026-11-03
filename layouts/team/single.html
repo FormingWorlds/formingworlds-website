@@ -19,6 +19,7 @@
                class="w-full" style="aspect-ratio: 4/5; object-fit: cover;">
           {{ end }}
 
+          <div class="profile-sidebar-sticky">
           <div class="mt-6">
             <h1 style="font-family: var(--font-display); font-size: 2.25rem; line-height: 1.05; letter-spacing: -0.025em; color: var(--color-ink-100); font-weight: 500;">{{ .Title }}</h1>
             {{ with .Params.role }}<p class="text-signal-300 mt-2 text-sm font-medium">{{ . }}</p>{{ end }}
@@ -113,6 +114,7 @@
             </ul>
           </div>
           {{ end }}
+          </div>
         </aside>
 
         <!-- Main content -->
