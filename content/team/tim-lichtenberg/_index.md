@@ -87,7 +87,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 *19 grants and fellowships in total, incl. 14 as PI (~€4M), 4 as Co-I*
 
-- Dutch Research Council (NWO) [Vidi grant](https://www.rug.nl/fse/news/awards-and-grants/vidi2026fse?lang=en) (€850'000, *Hazy worlds around tiny stars: testing the influence of extreme carbon abundance variability on M-dwarf exoplanet atmospheric evolution*), PI, 10/2026
+- Dutch Research Council (NWO) [Vidi grant](https://www.rug.nl/fse/news/awards-and-grants/vidi2026fse?lang=en) (€849'779, *Hazy worlds around tiny stars: testing the influence of extreme carbon abundance variability on M-dwarf exoplanet atmospheric evolution*), PI, 10/2026
 - Open eScience Project *inversePROTEUS* (€531'000, incl. about 3 person-years of research software engineering, *Scalable Physics-based Inference of Exoplanet Evolution*), Netherlands eScience Center, PI, 10/2026
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-19723 (535'000 SBU on the Snellius supercomputer, 50'000 CPU hours on the SURF Research Cloud, *Pilot for the Interra Project exoplanet simulation ensemble on Snellius*), Dutch Research Council (NWO) & SURF, PI, 09/2026
 - Conference support grants for [Rocky Worlds IV](https://rockyworlds.org) in 01/2026, Dutch Research Council (NWO), SRON, Netherlands Platform for Planetary Science, Leids Kerkhoven-Bosscha Fonds, PI, 2025
@@ -153,7 +153,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - BSc semester project "Characterising exoplanet surface composition with LIFE", Flavia Pascal, Kapteyn Institute, 11/2023–06/2024
 - MSc thesis "[Magma oceanography of GJ 367b](https://fse.studenttheses.ub.rug.nl/32863/)", Lotte Bartels, Kapteyn Institute, 10/2023–06/2024
 - Undergraduate research project "Finding terrestrial protoplanets in the galactic neighbourhood", Lorenzo Cesario, Kapteyn Institute, 09/2023–06/2024
-- PhD thesis "[What happened to rocky planets?](https://drive.google.com/file/d/1SaQyNlp1XPusTl83TEPHoHZicfBkyuZn/view)" (co-supervised with Raymond Pierrehumbert), Harrison Nicholls, Oxford Atmospheric Physics, 04/2023–01/2026
+- PhD thesis "[What happened to rocky planets?](https://drive.google.com/file/d/1SaQyNlp1XPusTl83TEPHoHZicfBkyuZn/view)" (co-supervised with Raymond Pierrehumbert), Harrison Nicholls, Oxford Atmospheric, Oceanic and Planetary Physics, 04/2023–01/2026
 - PhD research project "Fluid flow in aqueous planetesimals", Beat Hubmann, Kapteyn Institute, 04/2023–01/2024
 - BSc thesis "[Distinguishing surface features on rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30895/)", Lucas Priolet, Kapteyn Institute, 04/2023–07/2023
 - BSc thesis "[The prevalence of steam atmospheres on hot rocky exoplanets](https://fse.studenttheses.ub.rug.nl/30769/)", Boyd van der Plaat, Kapteyn Institute, 04/2023–07/2023
@@ -161,9 +161,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - BSc thesis "[Volcanic climate change on hot terrestrial exoplanets](https://drive.google.com/file/d/1RWOIFz_LshoRritUmGQXUlp0YFsCw-pr/view)", Marijn Smorenburg, Kapteyn Institute, 04/2023–07/2023
 - MSc thesis "[Hydrology of Planetesimals](https://drive.google.com/file/d/1XDbCbi_w-pMhc1TDPZtR78UZgInzQBwx/view)" (co-supervised with Taras Gerya), Beat Hubmann, Institute of Geophysics, ETH Zurich, 02/2022–10/2022
 - Semester project "[Investigating the surface composition of airless, terrestrial exoplanets with the Large Interferometer for Exoplanets](https://drive.google.com/file/d/1nXIGIqupQN6lzXpPT2nonTZ8uu6fF80b/view)" (co-supervised with Sascha Quanz), Gustav Pap, ETH Zurich, 02/2021–06/2021
-- PhD research projects "[A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres](https://drive.google.com/file/d/1-1jPzT46Umytz5cE24uSqUZvcYCcSO7A/view)" (co-supervised with Raymond Pierrehumbert), Robert J. Graham, Oxford Atmospheric Physics, 08/2020–09/2022
+- PhD research projects "[A multispecies pseudoadiabat for simulating condensable-rich exoplanet atmospheres](https://drive.google.com/file/d/1-1jPzT46Umytz5cE24uSqUZvcYCcSO7A/view)" (co-supervised with Raymond Pierrehumbert), Robert J. Graham, Oxford Atmospheric, Oceanic and Planetary Physics, 08/2020–09/2022
 - PhD research projects "[Interior dynamics of tidally locked super-Earths](https://doi.org/10.48549/3838)" (co-supervised with Dan J. Bower), Tobias G. Meier, University of Bern, 06/2020–09/2022
-- PhD research project "[Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets](https://drive.google.com/file/d/1-D4x8VltinMiwyKkPN_LTUHGMD6gs-l0/view)" (co-supervised with Raymond Pierrehumbert), Ryan Boukrouche, Oxford Atmospheric Physics, 01/2020–09/2022
+- PhD research project "[Beyond runaway: initiation of the post-runaway greenhouse state on rocky exoplanets](https://drive.google.com/file/d/1-D4x8VltinMiwyKkPN_LTUHGMD6gs-l0/view)" (co-supervised with Raymond Pierrehumbert), Ryan Boukrouche, Oxford Atmospheric, Oceanic and Planetary Physics, 01/2020–09/2022
 - Pastoral support and mentoring for 16 Oxford M.Sc. and D.Phil. (Ph.D.) students from the natural sciences (Engineering, Computer Science, Medicine, Physics, Chemistry), St Cross College, University of Oxford, 10/2019–09/2022
 - Semester project "[Influence of silicate rheology on iron core formation](https://drive.google.com/file/d/131qxmJsXirnbvFNftmily72ISIy2mlTZ/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 03/2020–06/2020
 - BSc thesis "[Percolative core formation in terrestrial planetesimals and protoplanets](https://drive.google.com/file/d/10Oj5s0inqhH3sax9S46OxWuqkvtyQWUD/view)" (co-supervised with Taras Gerya), Madeleine Müller, Institute of Geophysics, ETH Zurich, 12/2018–06/2019
@@ -197,7 +197,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 #### Teaching, Education & Supervision
 
 - [*Academic Leadership*](https://www.rug.nl/corporate-academy/courses/academisch-leiderschap?lang=en), University of Groningen, NL, 09/2025
-- [*University Teaching Qualification*](https://www.rug.nl/corporate-academy/courses/utq?lang=en) (UTQ), University of Groningen, NL, 02/2024
+- [*University Teaching Qualification*](https://www.rug.nl/corporate-academy/courses/utq?lang=en) (UTQ), University of Groningen, NL, 03/2024
 - [*Introduction for new PhD supervisors*](https://www.rug.nl/corporate-academy/courses/introduction-for-phd-supervisors?lang=en), University of Groningen, NL, 10/2023
 - *Active Bystander Training*, Kapteyn Institute, NL, 04/2023
 - *The importance of the first PhD year*, University of Groningen, NL, 03/2023
@@ -342,7 +342,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 ### National & International Collaborations
 
-*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 9 consortia and research programmes*
+*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 10 consortia and research programmes*
 
 #### Telescope Time
 
@@ -353,21 +353,22 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 #### Consortia & Research Programmes
 
-- Dutch Research Council (NWO) Consortium [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), Co-I, 11/2024–
-- [ESA PLATO Consortium](https://platomission.com), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530); Core Science Team member since 2025, 12/2021–
-- Co-I (since 2024, previously associate member) of Carnegie-led research program [*AEThER: Atmospheric Empirical, Theoretical, and Experimental Research*](https://planets.carnegiescience.edu), 09/2021–
-- Associate member of NASA research program [Alien Earths: Searching for Habitable Worlds in Nearby Planetary Systems](https://alienearths.space), 03/2021–
-- Co-lead of the *Science Team* of the [LIFE Collaboration](https://life-space-mission.com), 02/2021–01/2026
-- Member of the *Quantifying Habitability* working group of NASA's [Nexus for Exoplanet System Science](https://nexss.info), 09/2020–
-- [ESA Ariel Consortium](https://arielmission.space), member of the *Exoplanetary Interiors* working group, 04/2020–
-- Postdoctoral Fellow of the [Simons Collaboration on the Origins of Life](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/) ([SCOL project](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/)), 10/2019–09/2022
-- Member of the [Large Interferometer for Exoplanets (LIFE) Collaboration](https://life-space-mission.com), 01/2019–
+- [NCCR Genesis](https://nccr-genesis.ch/) (Directors: Queloz, Marin Carbonne), contributing expert in the project *Quantifying the detectability of life on exoplanets* (PI: Quanz), 06/2026–
+- [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), NWO consortium (PI: ten Kate), Co-I and work package leader, 11/2024–
+- [ESA PLATO mission consortium](https://platomission.com) (PI: Rauer), Science Core Team member (since 2025), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530), 12/2021–
+- [AEThER: Atmospheric Empirical, Theoretical, and Experimental Research](https://planets.carnegiescience.edu), Carnegie-led research program (PI: Shahar), Co-I (since 2024, previously associate member), 09/2021–
+- [Alien Earths: Searching for Habitable Worlds in Nearby Planetary Systems](https://alienearths.space), NASA (PI: Apai), associate member, 03/2021–
+- [LIFE Collaboration](https://life-space-mission.com) (lead: Quanz), co-lead of the *Science Team*, 02/2021–01/2026
+- NASA's [Nexus for Exoplanet System Science](https://nexss.info), *Quantifying Habitability* working group, 09/2020–
+- [ESA Ariel Consortium](https://arielmission.space) (PI: Tinetti), member of the *Exoplanetary Interiors* working group, 04/2020–
+- [Simons Collaboration on the Origins of Life](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/) ([SCOL project](https://www.simonsfoundation.org/life-sciences/simons-collaboration-on-the-origins-of-life/)), Postdoctoral Fellow, 10/2019–09/2022
+- [Large Interferometer for Exoplanets (LIFE) Collaboration](https://life-space-mission.com), member, 01/2019–
 
 ### Conference & Workshop Organisation
 
 *30 events in total, incl. 8 as main organiser*
 
-- [*Rocky Worlds Conference Series*](https://www.rockyworlds.org/) (main organiser), Chair, 10/2022–
+- [*Rocky Worlds Conference Series*](https://www.rockyworlds.org/) (main organiser & board member), Chair, 10/2022–
 - [*Rocky Worlds 5*](https://berlin2028.rockyworlds.org/), Berlin, DE, SOC, 04/2028
 - Lorentz Center Workshop [*Characterizing Habitable Exoplanets With Interdisciplinary Expertise*](https://www.lorentzcenter.nl/characterizing-habitable-exoplanets-with-interdisciplinary-expertise.html), Leiden, NL, SOC, 04/2026
 - [*Rocky Worlds IV*](https://rockyworlds.org) (main organiser), Groningen, NL, Chair, 01/2026
