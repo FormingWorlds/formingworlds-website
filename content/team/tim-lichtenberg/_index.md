@@ -85,7 +85,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Grants & Fellowships
 
-*19 grants and fellowships in total, incl. 14 as PI (~€4M), 4 as Co-I*
+*19 grants and fellowships in total, incl. 15 as PI (~€4M), 4 as Co-I*
 
 - Dutch Research Council (NWO) [Vidi grant](https://www.rug.nl/fse/news/awards-and-grants/vidi2026fse?lang=en) (€849'779, *Hazy worlds around tiny stars: testing the influence of extreme carbon abundance variability on M-dwarf exoplanet atmospheric evolution*), PI, 10/2026
 - Open eScience Project *inversePROTEUS* (€531'000, incl. about 3 person-years of research software engineering, *Scalable Physics-based Inference of Exoplanet Evolution*), Netherlands eScience Center, PI, 10/2026
@@ -97,7 +97,7 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 - Dutch Research Council (NWO) [Consortium Grant](https://www.nwo.nl/en/projects/pxruc21696) (€329'065 out of €7.0M in total, *PRELIFE - Pathways, Reactions, and Environments leading to LIFE*), work package leader, Co-I, 11/2024
 - NOVA Consortium Grant (LIFE: Mid-infrared detection of biosignatures in the atmospheres of terrestrial exoplanets), PI: van der Tak (fte + cash € 249'000), Co-I, 07/2024
 - Open eScience Early Career Project [PROTEUS](https://research-software-directory.org/projects/proteus) (€134'000, *An Adaptive Numerical Framework to Simulate Lava Exoplanets*), Netherlands eScience Center, PI, 12/2023
-- Workshop grant for [Rocky Worlds Discussions](https://rockyworlds.org) ($2'000), Meteoritical Society, 02/2023
+- Workshop grant for [Rocky Worlds Discussions](https://rockyworlds.org) ($2'000), Meteoritical Society, PI, 02/2023
 - Faculty Research Grant, Faculty of Science and Engineering (€150'000), University of Groningen, PI, 12/2022
 - Research Fellowship of the [Branco Weiss Foundation](https://brancoweissfellowship.org/fellow/lichtenberg/) (*CHF 500'000, Molten Exoplanets as a Window into the Earliest Earth*), PI, 08/2022
 - Conference support grants for [Rocky Worlds II](https://rockyworlds.org) in 07/2022 (£8'000 + $5'000), Royal Astronomical Society, The Meteoritical Society, Kavli Institute for Cosmology, PI, 05/2021
