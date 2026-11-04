@@ -355,7 +355,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 #### Consortia & Research Programmes
 
 - [NCCR Genesis](https://nccr-genesis.ch/) (Directors: Queloz, Marin Carbonne), contributing expert in the project *Quantifying the detectability of life on exoplanets* (PI: Quanz), 06/2026–
-- ELT Planetary Camera and Spectrograph (PCS), co-lead of the protoplanet science case, 2025–
+- [ELT Planetary Camera and Spectrograph (PCS)](https://elt.eso.org/instrument/), co-lead of the protoplanet science case, 2025–
 - [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), NWO consortium (PI: ten Kate), Co-I and work package leader, 11/2024–
 - [ESA PLATO mission consortium](https://platomission.com) (PI: Rauer), Science Core Team member (since 2025), member of Exoplanet Science WPs *Atmospheres of PLATO Terrestrial Planets* (WP116400) and *Climate/Atmospheres of PLATO Habitable Zone Planets* (WP116530), 12/2021–
 - [AEThER: Atmospheric Empirical, Theoretical, and Experimental Research](https://planets.carnegiescience.edu), Carnegie-led research program (PI: Shahar), Co-I (since 2024, previously associate member), 09/2021–
