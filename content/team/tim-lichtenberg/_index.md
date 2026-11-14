@@ -85,9 +85,10 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Grants & Fellowships
 
-*20 grants and fellowships in total, incl. 16 as PI (~€4M), 4 as Co-I*
+*21 grants and fellowships in total, incl. 16 as PI (~€4M), 5 as Co-I*
 
 - Open Science NL [FAIR Research Outputs grant](https://www.openscience.nl/en/news/31-projects-awarded-funding-to-make-research-outputs-open-and-fair) (€50'000, *FAIR release of the Interra exoplanet evolution ensemble*), Dutch Research Council (NWO), PI, 11/2026
+- Dutch Research Council (NWO) [NWA-ORC Consortium Grant](https://www.nwo.nl/en/news/nwa-research-along-routes-by-consortia-round-2025-eleven-consortia-receive-funding-for-research-with-impact) (€7.4M in total, *Living Planet – how life and the planet are interdependent and co-evolving: an interdisciplinary approach*), Co-I, 10/2026
 - Dutch Research Council (NWO) [Vidi grant](https://www.rug.nl/fse/news/awards-and-grants/vidi2026fse?lang=en) (€849'779, *Hazy worlds around tiny stars: testing the influence of extreme carbon abundance variability on M-dwarf exoplanet atmospheric evolution*), PI, 10/2026
 - Open eScience Project *inversePROTEUS* (€531'000, incl. about 3 person-years of research software engineering, *Scalable Physics-based Inference of Exoplanet Evolution*), Netherlands eScience Center, PI, 10/2026
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-19723 (535'000 SBU on the Snellius supercomputer, 50'000 CPU hours on the SURF Research Cloud, *Pilot for the Interra Project exoplanet simulation ensemble on Snellius*), Dutch Research Council (NWO) & SURF, PI, 09/2026
@@ -344,7 +345,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 ### National & International Collaborations
 
-*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 11 consortia and research programmes*
+*4 observing programmes with 268.3 hr of telescope time, incl. 1 as PI; member of 12 consortia and research programmes*
 
 #### Telescope Time
 
@@ -355,6 +356,7 @@ Belgian Research Foundation (FWO), Cambridge University College Fellowships, Dut
 
 #### Consortia & Research Programmes
 
+- [Living Planet: how life and the planet are interdependent and co-evolving](https://www.nwo.nl/en/news/nwa-research-along-routes-by-consortia-round-2025-eleven-consortia-receive-funding-for-research-with-impact), NWO (PI: Egas), Co-I, 10/2026–
 - [NCCR Genesis](https://nccr-genesis.ch/) (Directors: Queloz, Marin Carbonne), contributing expert in the project *Quantifying the detectability of life on exoplanets* (PI: Quanz), 06/2026–
 - [ELT Planetary Camera and Spectrograph (PCS)](https://elt.eso.org/instrument/), co-lead of the protoplanet science case, 2025–
 - [PRELIFE – Pathways, Reactions, and Environments leading to LIFE](https://www.nwo.nl/en/projects/pxruc21696), NWO consortium (PI: ten Kate), Co-I and work package leader, 11/2024–
