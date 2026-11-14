@@ -85,8 +85,9 @@ Abitur 2008; military service 2008–2009 (Schwarzenborn, Germany)\
 
 ### Grants & Fellowships
 
-*19 grants and fellowships in total, incl. 15 as PI (~€4M), 4 as Co-I*
+*20 grants and fellowships in total, incl. 16 as PI (~€4M), 4 as Co-I*
 
+- Open Science NL [FAIR Research Outputs grant](https://www.openscience.nl/en/news/31-projects-awarded-funding-to-make-research-outputs-open-and-fair) (€50'000, *FAIR release of the Interra exoplanet evolution ensemble*), Dutch Research Council (NWO), PI, 11/2026
 - Dutch Research Council (NWO) [Vidi grant](https://www.rug.nl/fse/news/awards-and-grants/vidi2026fse?lang=en) (€849'779, *Hazy worlds around tiny stars: testing the influence of extreme carbon abundance variability on M-dwarf exoplanet atmospheric evolution*), PI, 10/2026
 - Open eScience Project *inversePROTEUS* (€531'000, incl. about 3 person-years of research software engineering, *Scalable Physics-based Inference of Exoplanet Evolution*), Netherlands eScience Center, PI, 10/2026
 - Computing Time on National Computer Facilities, [Small Compute grant](https://www.surf.nl/en/small-compute-applications-nwo) EINF-19723 (535'000 SBU on the Snellius supercomputer, 50'000 CPU hours on the SURF Research Cloud, *Pilot for the Interra Project exoplanet simulation ensemble on Snellius*), Dutch Research Council (NWO) & SURF, PI, 09/2026
